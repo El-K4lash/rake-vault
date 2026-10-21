@@ -1,0 +1,26 @@
+---
+title: "House3b · Billionaire Tycoon"
+id: "Lp0062"
+catégorie: "Bibliothèque 3D"
+sous-catégorie: "Bâtiments"
+type: "Modèle en Parts"
+taille: "39 × 29 × 31"
+jeu: "Billionaire Tycoon"
+source: "models/ByType/Buildings/BillionaireTycoon_House3b.rbxm"
+image: "_img/Lp0062.webp"
+tags: [categorie/bibliotheque-3d, sous-categorie/batiments, type/lib-part, jeu/billionaire-tycoon]
+---
+
+# House3b · Billionaire Tycoon
+
+![Aperçu|480](../../_img/Lp0062.webp)
+
+Modèle en Parts « House3b » (Billionaire Tycoon).
+
+- **Catégorie** : [Bibliothèque 3D](../Biblioth%C3%A8que%203D.md)
+- **Sous-catégorie** : [Bâtiments](B%C3%A2timents%20%28Biblioth%C3%A8que%203D%29.md)
+- **Type** : Modèle en Parts
+- **Taille** : 39 × 29 × 31 studs
+- **Contenu** : 208 Parts
+- **Jeu d'origine** : Billionaire Tycoon
+- **Fichier source** : `models/ByType/Buildings/BillionaireTycoon_House3b.rbxm` (dans ta bibliothèque `rblx\lib`)

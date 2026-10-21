@@ -1,0 +1,26 @@
+---
+title: "Mini Hill · Robot Simulator"
+id: "Lp0368"
+catégorie: "Bibliothèque 3D"
+sous-catégorie: "Décor"
+type: "Modèle en Parts"
+taille: "27 × 15 × 92"
+jeu: "Robot Simulator"
+source: "models/ByType/Decor_Props/RobotSim_MiniHill.rbxm"
+image: "_img/Lp0368.webp"
+tags: [categorie/bibliotheque-3d, sous-categorie/decor, type/lib-part, jeu/robot-simulator]
+---
+
+# Mini Hill · Robot Simulator
+
+![Aperçu|480](../../_img/Lp0368.webp)
+
+Modèle en Parts « Mini Hill » (Robot Simulator).
+
+- **Catégorie** : [Bibliothèque 3D](../Biblioth%C3%A8que%203D.md)
+- **Sous-catégorie** : [Décor](D%C3%A9cor%20%28Biblioth%C3%A8que%203D%29.md)
+- **Type** : Modèle en Parts
+- **Taille** : 27 × 15 × 92 studs
+- **Contenu** : 20 Parts · 6 MeshParts
+- **Jeu d'origine** : Robot Simulator
+- **Fichier source** : `models/ByType/Decor_Props/RobotSim_MiniHill.rbxm` (dans ta bibliothèque `rblx\lib`)

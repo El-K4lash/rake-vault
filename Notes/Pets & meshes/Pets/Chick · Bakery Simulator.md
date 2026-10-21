@@ -1,0 +1,24 @@
+---
+title: "Chick · Bakery Simulator"
+id: "Lm1061"
+catégorie: "Pets & meshes"
+sous-catégorie: "Pets"
+type: "Modèle en MeshParts"
+jeu: "Bakery Simulator"
+source: "models/ByType/Pets/BakerySim_Chick.rbxm"
+image: "_img/Lm1061.webp"
+tags: [categorie/pets-meshes, sous-categorie/pets, type/lib-mesh, jeu/bakery-simulator]
+---
+
+# Chick · Bakery Simulator
+
+![Aperçu|480](../../_img/Lm1061.webp)
+
+Modèle en MeshParts « Chick » (Bakery Simulator). Aperçu rendu dans Roblox Studio avec ses vraies textures.
+
+- **Catégorie** : [Pets & meshes](../Pets%20%26%20meshes.md)
+- **Sous-catégorie** : [Pets](Pets.md)
+- **Type** : Modèle en MeshParts
+- **Contenu** : 1 MeshPart
+- **Jeu d'origine** : Bakery Simulator
+- **Fichier source** : `models/ByType/Pets/BakerySim_Chick.rbxm` (dans ta bibliothèque `rblx\lib`)

@@ -1,0 +1,107 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#index",
+      "color": {
+        "a": 1,
+        "rgb": 15329769
+      }
+    },
+    {
+      "query": "path:\"Général/\"",
+      "color": {
+        "a": 1,
+        "rgb": 8377343
+      }
+    },
+    {
+      "query": "path:\"Lobby/\"",
+      "color": {
+        "a": 1,
+        "rgb": 16767291
+      }
+    },
+    {
+      "query": "path:\"Enclos/\"",
+      "color": {
+        "a": 1,
+        "rgb": 15905387
+      }
+    },
+    {
+      "query": "path:\"Brainrots/\"",
+      "color": {
+        "a": 1,
+        "rgb": 16747204
+      }
+    },
+    {
+      "query": "path:\"Outils/\"",
+      "color": {
+        "a": 1,
+        "rgb": 16751258
+      }
+    },
+    {
+      "query": "path:\"Biomes/\"",
+      "color": {
+        "a": 1,
+        "rgb": 13212671
+      }
+    },
+    {
+      "query": "path:\"Interfaces/\"",
+      "color": {
+        "a": 1,
+        "rgb": 16735688
+      }
+    },
+    {
+      "query": "path:\"Bibliothèque 3D/\"",
+      "color": {
+        "a": 1,
+        "rgb": 54015
+      }
+    },
+    {
+      "query": "path:\"Pets & meshes/\"",
+      "color": {
+        "a": 1,
+        "rgb": 16757575
+      }
+    },
+    {
+      "query": "path:\"Systèmes & kits/\"",
+      "color": {
+        "a": 1,
+        "rgb": 8191900
+      }
+    },
+    {
+      "query": "path:\"Templates de jeux/\"",
+      "color": {
+        "a": 1,
+        "rgb": 16765503
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.5,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.2519446552051445,
+  "close": true
+}

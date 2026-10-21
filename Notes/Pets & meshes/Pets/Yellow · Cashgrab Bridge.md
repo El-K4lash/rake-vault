@@ -1,0 +1,24 @@
+---
+title: "Yellow · Cashgrab Bridge"
+id: "Lm1094"
+catégorie: "Pets & meshes"
+sous-catégorie: "Pets"
+type: "Modèle en MeshParts"
+jeu: "Cashgrab Bridge"
+source: "models/ByType/Pets/CashgrabBridge_Yellow.rbxm"
+image: "_img/Lm1094.webp"
+tags: [categorie/pets-meshes, sous-categorie/pets, type/lib-mesh, jeu/cashgrab-bridge]
+---
+
+# Yellow · Cashgrab Bridge
+
+![Aperçu|480](../../_img/Lm1094.webp)
+
+Modèle en MeshParts « Yellow » (Cashgrab Bridge). Aperçu rendu dans Roblox Studio avec ses vraies textures.
+
+- **Catégorie** : [Pets & meshes](../Pets%20%26%20meshes.md)
+- **Sous-catégorie** : [Pets](Pets.md)
+- **Type** : Modèle en MeshParts
+- **Contenu** : 4 MeshParts
+- **Jeu d'origine** : Cashgrab Bridge
+- **Fichier source** : `models/ByType/Pets/CashgrabBridge_Yellow.rbxm` (dans ta bibliothèque `rblx\lib`)

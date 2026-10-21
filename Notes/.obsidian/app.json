@@ -1,0 +1,10 @@
+{
+  "useMarkdownLinks": true,
+  "newLinkFormat": "relative",
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": false,
+  "userIgnoreFilters": [],
+  "attachmentFolderPath": "_img",
+  "defaultViewMode": "preview",
+  "readableLineLength": true
+}

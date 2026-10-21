@@ -1,0 +1,24 @@
+---
+title: "Crystal Cluster · Pet Pharmica"
+id: "Lm0296"
+catégorie: "Pets & meshes"
+sous-catégorie: "Décor"
+type: "Modèle en MeshParts"
+jeu: "Pet Pharmica"
+source: "models/ByType/Decor_Props/PetPharmica_CrystalCluster.rbxm"
+image: "_img/Lm0296.webp"
+tags: [categorie/pets-meshes, sous-categorie/decor, type/lib-mesh, jeu/pet-pharmica]
+---
+
+# Crystal Cluster · Pet Pharmica
+
+![Aperçu|480](../../_img/Lm0296.webp)
+
+Modèle en MeshParts « Crystal Cluster » (Pet Pharmica). Aperçu rendu dans Roblox Studio avec ses vraies textures.
+
+- **Catégorie** : [Pets & meshes](../Pets%20%26%20meshes.md)
+- **Sous-catégorie** : [Décor](D%C3%A9cor%20%28Pets%20%26%20meshes%29.md)
+- **Type** : Modèle en MeshParts
+- **Contenu** : 3 MeshParts
+- **Jeu d'origine** : Pet Pharmica
+- **Fichier source** : `models/ByType/Decor_Props/PetPharmica_CrystalCluster.rbxm` (dans ta bibliothèque `rblx\lib`)

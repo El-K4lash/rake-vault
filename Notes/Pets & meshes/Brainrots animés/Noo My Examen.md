@@ -1,0 +1,22 @@
+---
+title: "Noo My Examen"
+id: "Lm2312"
+catégorie: "Pets & meshes"
+sous-catégorie: "Brainrots animés"
+type: "Modèle en MeshParts"
+source: "packs/Brainrots_Animated/Normal/Noo My Examen.rbxm"
+image: "_img/Lm2312.webp"
+tags: [categorie/pets-meshes, sous-categorie/brainrots-animes, type/lib-mesh]
+---
+
+# Noo My Examen
+
+![Aperçu|480](../../_img/Lm2312.webp)
+
+Modèle en MeshParts « Noo My Examen ». Aperçu rendu dans Roblox Studio avec ses vraies textures.
+
+- **Catégorie** : [Pets & meshes](../Pets%20%26%20meshes.md)
+- **Sous-catégorie** : [Brainrots animés](Brainrots%20anim%C3%A9s.md)
+- **Type** : Modèle en MeshParts
+- **Contenu** : 1 MeshPart
+- **Fichier source** : `packs/Brainrots_Animated/Normal/Noo My Examen.rbxm` (dans ta bibliothèque `rblx\lib`)
