@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Nature · Plantes & fleurs"
 type: "Modèle en MeshParts"
 pack: "Roblox Nature 480"
-source: "packs/Nature_480/09_FLOWERS/FLOWER_PATCH_PINK_01.rbxm"
+source: "Assets/Nature 480/09 Fleurs/FLOWER_PATCH_PINK_01.rbxm"
 image: "_img/Lm2925.webp"
 tags: [categorie/pets-meshes, sous-categorie/nature-plantes-fleurs, type/lib-mesh, pack/nature-480, mesh-prive]
 ---
@@ -21,5 +21,5 @@ Modèle en MeshParts « Flower Patch Pink 1 ». Pas d’aperçu 3D : mesh privé
 - **Type** : Modèle en MeshParts
 - **Contenu** : 1 MeshPart
 - **Pack d'origine** : Roblox Nature 480 (`600.rbxm`)
-- **Fichier source** : `packs/Nature_480/09_FLOWERS/FLOWER_PATCH_PINK_01.rbxm` (export individuel, téléchargeable depuis le vault 3D)
+- **Fichier source** : `Assets/Nature 480/09 Fleurs/FLOWER_PATCH_PINK_01.rbxm` (dans le dossier Rake Vault, aussi téléchargeable depuis le vault 3D)
 - **Meshes** : privés (compte Roblox LFT_Labs), pas d'aperçu 3D disponible

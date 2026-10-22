@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Nature · Rochers & sol"
 type: "Modèle en MeshParts"
 pack: "Roblox Nature 480"
-source: "packs/Nature_480/06_ROCKS/ROCK_SNOW_01.rbxm"
+source: "Assets/Nature 480/06 Rochers/ROCK_SNOW_01.rbxm"
 image: "_img/Lm2962.webp"
 tags: [categorie/pets-meshes, sous-categorie/nature-rochers-sol, type/lib-mesh, pack/nature-480, mesh-prive]
 ---
@@ -21,5 +21,5 @@ Modèle en MeshParts « Rock Snow 1 ». Pas d’aperçu 3D : mesh privé du comp
 - **Type** : Modèle en MeshParts
 - **Contenu** : 1 MeshPart
 - **Pack d'origine** : Roblox Nature 480 (`600.rbxm`)
-- **Fichier source** : `packs/Nature_480/06_ROCKS/ROCK_SNOW_01.rbxm` (export individuel, téléchargeable depuis le vault 3D)
+- **Fichier source** : `Assets/Nature 480/06 Rochers/ROCK_SNOW_01.rbxm` (dans le dossier Rake Vault, aussi téléchargeable depuis le vault 3D)
 - **Meshes** : privés (compte Roblox LFT_Labs), pas d'aperçu 3D disponible

@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Nature · Rochers & sol"
 type: "Modèle en MeshParts"
 pack: "Roblox Nature 480"
-source: "packs/Nature_480/16_GROUND_DETAIL/LEAF_PILE_AUTUMN_01.rbxm"
+source: "Assets/Nature 480/16 Détails du sol/LEAF_PILE_AUTUMN_01.rbxm"
 image: "_img/Lm2735.webp"
 tags: [categorie/pets-meshes, sous-categorie/nature-rochers-sol, type/lib-mesh, pack/nature-480, mesh-prive]
 ---
@@ -21,5 +21,5 @@ Modèle en MeshParts « Leaf Pile Autumn 1 ». Pas d’aperçu 3D : mesh privé 
 - **Type** : Modèle en MeshParts
 - **Contenu** : 1 MeshPart
 - **Pack d'origine** : Roblox Nature 480 (`600.rbxm`)
-- **Fichier source** : `packs/Nature_480/16_GROUND_DETAIL/LEAF_PILE_AUTUMN_01.rbxm` (export individuel, téléchargeable depuis le vault 3D)
+- **Fichier source** : `Assets/Nature 480/16 Détails du sol/LEAF_PILE_AUTUMN_01.rbxm` (dans le dossier Rake Vault, aussi téléchargeable depuis le vault 3D)
 - **Meshes** : privés (compte Roblox LFT_Labs), pas d'aperçu 3D disponible

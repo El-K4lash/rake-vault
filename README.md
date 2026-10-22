@@ -6,6 +6,7 @@ Le « deuxième cerveau » de mes jeux Roblox : tous les modèles, GUI, maquette
 
 - `index.html` : le vault 3D (graphe façon Obsidian, visionneuse 3D, lecteur de GUI interactif, exports)
 - `lib/` : données du vault (atlas de miniatures, bundles de modèles, GUI, animations, Figma)
+- `Assets/` : les fichiers Roblox (.rbxm) des packs ajoutés : `99 Eggs/` (100 œufs), `Nature 480/` (480 assets nature par catégorie) et `_Originaux/` (fichiers d'origine)
 - `Notes/` : la version Obsidian, 1 note par élément avec miniature (à ouvrir comme coffre dans Obsidian)
 - `three.min.js`, `atlas*.jpg` : rendu 3D et miniatures
 

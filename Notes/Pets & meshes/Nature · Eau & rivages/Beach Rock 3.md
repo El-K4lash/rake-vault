@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Nature · Eau & rivages"
 type: "Modèle en MeshParts"
 pack: "Roblox Nature 480"
-source: "packs/Nature_480/21_COASTAL_NATURE/BEACH_ROCK_03.rbxm"
+source: "Assets/Nature 480/21 Bord de mer/BEACH_ROCK_03.rbxm"
 image: "_img/Lm2933.webp"
 tags: [categorie/pets-meshes, sous-categorie/nature-eau-rivages, type/lib-mesh, pack/nature-480, mesh-prive]
 ---
@@ -21,5 +21,5 @@ Modèle en MeshParts « Beach Rock 3 ». Pas d’aperçu 3D : mesh privé du com
 - **Type** : Modèle en MeshParts
 - **Contenu** : 1 MeshPart
 - **Pack d'origine** : Roblox Nature 480 (`600.rbxm`)
-- **Fichier source** : `packs/Nature_480/21_COASTAL_NATURE/BEACH_ROCK_03.rbxm` (export individuel, téléchargeable depuis le vault 3D)
+- **Fichier source** : `Assets/Nature 480/21 Bord de mer/BEACH_ROCK_03.rbxm` (dans le dossier Rake Vault, aussi téléchargeable depuis le vault 3D)
 - **Meshes** : privés (compte Roblox LFT_Labs), pas d'aperçu 3D disponible

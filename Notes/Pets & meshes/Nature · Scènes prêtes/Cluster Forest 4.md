@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Nature · Scènes prêtes"
 type: "Modèle en MeshParts"
 pack: "Roblox Nature 480"
-source: "packs/Nature_480/23_SCENE_CLUSTERS/CLUSTER_FOREST_04.rbxm"
+source: "Assets/Nature 480/23 Scènes prêtes/CLUSTER_FOREST_04.rbxm"
 image: "_img/Lm3143.webp"
 tags: [categorie/pets-meshes, sous-categorie/nature-scenes-pretes, type/lib-mesh, pack/nature-480, mesh-prive]
 ---
@@ -21,5 +21,5 @@ Modèle en MeshParts « Cluster Forest 4 ». Pas d’aperçu 3D : mesh privé du
 - **Type** : Modèle en MeshParts
 - **Contenu** : 9 MeshParts
 - **Pack d'origine** : Roblox Nature 480 (`600.rbxm`)
-- **Fichier source** : `packs/Nature_480/23_SCENE_CLUSTERS/CLUSTER_FOREST_04.rbxm` (export individuel, téléchargeable depuis le vault 3D)
+- **Fichier source** : `Assets/Nature 480/23 Scènes prêtes/CLUSTER_FOREST_04.rbxm` (dans le dossier Rake Vault, aussi téléchargeable depuis le vault 3D)
 - **Meshes** : privés (compte Roblox LFT_Labs), pas d'aperçu 3D disponible
