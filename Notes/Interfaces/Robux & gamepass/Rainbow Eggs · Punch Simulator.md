@@ -17,7 +17,7 @@ tags: [categorie/interfaces, sous-categorie/robux-gamepass, type/lib-gui, jeu/pu
 Interface « Rainbow Eggs » du jeu Punch Simulator. 20 éléments UI.
 
 - **Catégorie** : [Interfaces](../Interfaces.md)
-- **Sous-catégorie** : [Robux & gamepass](Robux%20%26%20gamepass.md)
+- **Sous-catégorie** : [Robux & gamepass](Robux%20&%20gamepass.md)
 - **Type** : Interface (ScreenGui)
 - **Contenu** : 20 éléments UI
 - **Jeu d'origine** : Punch Simulator

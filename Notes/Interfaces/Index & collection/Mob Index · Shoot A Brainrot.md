@@ -17,7 +17,7 @@ tags: [categorie/interfaces, sous-categorie/index-collection, type/lib-gui, jeu/
 Interface « Mob Index » du jeu Shoot A Brainrot. 32 éléments UI.
 
 - **Catégorie** : [Interfaces](../Interfaces.md)
-- **Sous-catégorie** : [Index & collection](Index%20%26%20collection.md)
+- **Sous-catégorie** : [Index & collection](Index%20&%20collection.md)
 - **Type** : Interface (ScreenGui)
 - **Contenu** : 32 éléments UI
 - **Jeu d'origine** : Shoot A Brainrot

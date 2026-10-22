@@ -8,7 +8,7 @@ tags: [index, categorie/pets-meshes]
 
 # Tycoon & convoyeurs
 
-Sous-catégorie de [Pets & meshes](../Pets%20%26%20meshes.md) · **1 élément**
+Sous-catégorie de [Pets & meshes](../Pets%20&%20meshes.md) · **1 élément**
 
 | Aperçu | Élément | Infos |
 | --- | --- | --- |

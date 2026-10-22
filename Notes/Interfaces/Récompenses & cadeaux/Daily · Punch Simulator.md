@@ -17,7 +17,7 @@ tags: [categorie/interfaces, sous-categorie/recompenses-cadeaux, type/lib-gui, j
 Interface « Daily » du jeu Punch Simulator. 56 éléments UI.
 
 - **Catégorie** : [Interfaces](../Interfaces.md)
-- **Sous-catégorie** : [Récompenses & cadeaux](R%C3%A9compenses%20%26%20cadeaux.md)
+- **Sous-catégorie** : [Récompenses & cadeaux](R%C3%A9compenses%20&%20cadeaux.md)
 - **Type** : Interface (ScreenGui)
 - **Contenu** : 56 éléments UI
 - **Jeu d'origine** : Punch Simulator

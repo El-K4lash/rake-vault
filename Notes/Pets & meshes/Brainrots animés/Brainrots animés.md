@@ -8,7 +8,7 @@ tags: [index, categorie/pets-meshes]
 
 # Brainrots animés
 
-Sous-catégorie de [Pets & meshes](../Pets%20%26%20meshes.md) · **87 éléments**
+Sous-catégorie de [Pets & meshes](../Pets%20&%20meshes.md) · **87 éléments**
 
 | Aperçu | Élément | Infos |
 | --- | --- | --- |

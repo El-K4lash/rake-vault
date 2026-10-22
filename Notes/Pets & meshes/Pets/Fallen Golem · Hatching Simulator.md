@@ -16,7 +16,7 @@ tags: [categorie/pets-meshes, sous-categorie/pets, type/lib-mesh, jeu/hatching-s
 
 Modèle en MeshParts « Fallen Golem » (Hatching Simulator). Aperçu : forme du mesh principal (sans texture).
 
-- **Catégorie** : [Pets & meshes](../Pets%20%26%20meshes.md)
+- **Catégorie** : [Pets & meshes](../Pets%20&%20meshes.md)
 - **Sous-catégorie** : [Pets](Pets.md)
 - **Type** : Modèle en MeshParts
 - **Contenu** : 3 MeshParts

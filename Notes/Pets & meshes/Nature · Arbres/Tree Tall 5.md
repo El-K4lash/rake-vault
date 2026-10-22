@@ -16,7 +16,7 @@ tags: [categorie/pets-meshes, sous-categorie/nature-arbres, type/lib-mesh, pack/
 
 Modèle en MeshParts « Tree Tall 5 ». Pas d’aperçu 3D : mesh privé du compte LFT_Labs (le .rbxm marche quand même dans Studio connecté avec ce compte).
 
-- **Catégorie** : [Pets & meshes](../Pets%20%26%20meshes.md)
+- **Catégorie** : [Pets & meshes](../Pets%20&%20meshes.md)
 - **Sous-catégorie** : [Nature · Arbres](Nature%20%C2%B7%20Arbres.md)
 - **Type** : Modèle en MeshParts
 - **Contenu** : 1 MeshPart

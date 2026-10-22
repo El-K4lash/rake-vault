@@ -17,7 +17,7 @@ tags: [categorie/interfaces, sous-categorie/hud-monnaie, type/lib-gui, jeu/rebir
 Interface « Main UI Full » du jeu Rebirth Champions X. 91 éléments UI.
 
 - **Catégorie** : [Interfaces](../Interfaces.md)
-- **Sous-catégorie** : [HUD & monnaie](HUD%20%26%20monnaie.md)
+- **Sous-catégorie** : [HUD & monnaie](HUD%20&%20monnaie.md)
 - **Type** : Interface (ScreenGui)
 - **Contenu** : 91 éléments UI
 - **Jeu d'origine** : Rebirth Champions X

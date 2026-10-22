@@ -17,7 +17,7 @@ tags: [categorie/interfaces, sous-categorie/quetes-saison, type/lib-gui, jeu/pun
 Interface « Season » du jeu Punch Simulator. 32 éléments UI.
 
 - **Catégorie** : [Interfaces](../Interfaces.md)
-- **Sous-catégorie** : [Quêtes & saison](Qu%C3%AAtes%20%26%20saison.md)
+- **Sous-catégorie** : [Quêtes & saison](Qu%C3%AAtes%20&%20saison.md)
 - **Type** : Interface (ScreenGui)
 - **Contenu** : 32 éléments UI
 - **Jeu d'origine** : Punch Simulator

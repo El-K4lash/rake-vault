@@ -17,7 +17,7 @@ tags: [categorie/interfaces, sous-categorie/robux-gamepass, type/lib-gui, jeu/mi
 Interface « Gamepass Shop » du jeu Mining Masters. 12 éléments UI.
 
 - **Catégorie** : [Interfaces](../Interfaces.md)
-- **Sous-catégorie** : [Robux & gamepass](Robux%20%26%20gamepass.md)
+- **Sous-catégorie** : [Robux & gamepass](Robux%20&%20gamepass.md)
 - **Type** : Interface (ScreenGui)
 - **Contenu** : 12 éléments UI
 - **Jeu d'origine** : Mining Masters

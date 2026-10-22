@@ -17,7 +17,7 @@ tags: [categorie/interfaces, sous-categorie/quetes-saison, type/lib-gui, jeu/reb
 Interface « Season Pass » du jeu Rebirth Champions X. 36 éléments UI.
 
 - **Catégorie** : [Interfaces](../Interfaces.md)
-- **Sous-catégorie** : [Quêtes & saison](Qu%C3%AAtes%20%26%20saison.md)
+- **Sous-catégorie** : [Quêtes & saison](Qu%C3%AAtes%20&%20saison.md)
 - **Type** : Interface (ScreenGui)
 - **Contenu** : 36 éléments UI
 - **Jeu d'origine** : Rebirth Champions X

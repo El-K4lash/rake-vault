@@ -16,7 +16,7 @@ tags: [categorie/templates-de-jeux, sous-categorie/obby-ponts, type/lib-game]
 Place Roblox complète (.rbxl) : 336 scripts, 8462 instances.
 
 - **Catégorie** : [Templates de jeux](../Templates%20de%20jeux.md)
-- **Sous-catégorie** : [Obby & ponts](Obby%20%26%20ponts.md)
+- **Sous-catégorie** : [Obby & ponts](Obby%20&%20ponts.md)
 - **Type** : Place complète (.rbxl)
 - **Contenu** : 336 scripts · 8 462 instances
 - **Fichier source** : `games/Obby_Bridge/CashgrabBridgeEU.rbxl` (dans ta bibliothèque `rblx\lib`)

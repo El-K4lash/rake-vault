@@ -17,7 +17,7 @@ tags: [categorie/interfaces, sous-categorie/teleport-zones, type/lib-gui, jeu/tw
 Interface « Teleporter Billboards » du jeu Tweeting Simulator. 90 éléments UI.
 
 - **Catégorie** : [Interfaces](../Interfaces.md)
-- **Sous-catégorie** : [Téléport & zones](T%C3%A9l%C3%A9port%20%26%20zones.md)
+- **Sous-catégorie** : [Téléport & zones](T%C3%A9l%C3%A9port%20&%20zones.md)
 - **Type** : Interface (ScreenGui)
 - **Contenu** : 90 éléments UI
 - **Jeu d'origine** : Tweeting Simulator

@@ -17,7 +17,7 @@ tags: [categorie/interfaces, sous-categorie/chargement-intro, type/lib-gui, jeu/
 Interface « Load » du jeu Bakery Simulator. 6 éléments UI.
 
 - **Catégorie** : [Interfaces](../Interfaces.md)
-- **Sous-catégorie** : [Chargement & intro](Chargement%20%26%20intro.md)
+- **Sous-catégorie** : [Chargement & intro](Chargement%20&%20intro.md)
 - **Type** : Interface (ScreenGui)
 - **Contenu** : 6 éléments UI
 - **Jeu d'origine** : Bakery Simulator

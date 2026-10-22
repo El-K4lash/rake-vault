@@ -16,8 +16,8 @@ tags: [categorie/pets-meshes, sous-categorie/nature-jungle-desert-champignons, t
 
 Modèle en MeshParts « Jungle Cluster 1 ». Pas d’aperçu 3D : mesh privé du compte LFT_Labs (le .rbxm marche quand même dans Studio connecté avec ce compte).
 
-- **Catégorie** : [Pets & meshes](../Pets%20%26%20meshes.md)
-- **Sous-catégorie** : [Nature · Jungle, désert & champignons](Nature%20%C2%B7%20Jungle%2C%20d%C3%A9sert%20%26%20champignons.md)
+- **Catégorie** : [Pets & meshes](../Pets%20&%20meshes.md)
+- **Sous-catégorie** : [Nature · Jungle, désert & champignons](Nature%20%C2%B7%20Jungle,%20d%C3%A9sert%20&%20champignons.md)
 - **Type** : Modèle en MeshParts
 - **Contenu** : 1 MeshPart
 - **Pack d'origine** : Roblox Nature 480 (`600.rbxm`)

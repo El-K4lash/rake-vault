@@ -17,7 +17,7 @@ tags: [categorie/interfaces, sous-categorie/notifications-popups, type/lib-gui, 
 Interface « Confirm » du jeu Punch Simulator. 12 éléments UI.
 
 - **Catégorie** : [Interfaces](../Interfaces.md)
-- **Sous-catégorie** : [Notifications & popups](Notifications%20%26%20popups.md)
+- **Sous-catégorie** : [Notifications & popups](Notifications%20&%20popups.md)
 - **Type** : Interface (ScreenGui)
 - **Contenu** : 12 éléments UI
 - **Jeu d'origine** : Punch Simulator

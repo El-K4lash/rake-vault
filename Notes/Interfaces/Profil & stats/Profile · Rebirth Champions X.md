@@ -17,7 +17,7 @@ tags: [categorie/interfaces, sous-categorie/profil-stats, type/lib-gui, jeu/rebi
 Interface « Profile » du jeu Rebirth Champions X. 38 éléments UI.
 
 - **Catégorie** : [Interfaces](../Interfaces.md)
-- **Sous-catégorie** : [Profil & stats](Profil%20%26%20stats.md)
+- **Sous-catégorie** : [Profil & stats](Profil%20&%20stats.md)
 - **Type** : Interface (ScreenGui)
 - **Contenu** : 38 éléments UI
 - **Jeu d'origine** : Rebirth Champions X

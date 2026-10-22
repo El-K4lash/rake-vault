@@ -15,7 +15,7 @@ tags: [categorie/systemes-kits, sous-categorie/systemes, type/lib-sys]
 
 Système : 2 scripts.
 
-- **Catégorie** : [Systèmes & kits](../Syst%C3%A8mes%20%26%20kits.md)
+- **Catégorie** : [Systèmes & kits](../Syst%C3%A8mes%20&%20kits.md)
 - **Sous-catégorie** : [Systèmes](Syst%C3%A8mes.md)
 - **Type** : Système de jeu
 - **Contenu** : 2 scripts · 7 instances

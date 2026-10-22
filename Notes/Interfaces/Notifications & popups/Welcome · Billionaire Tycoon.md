@@ -17,7 +17,7 @@ tags: [categorie/interfaces, sous-categorie/notifications-popups, type/lib-gui, 
 Interface « Welcome » du jeu Billionaire Tycoon. 28 éléments UI.
 
 - **Catégorie** : [Interfaces](../Interfaces.md)
-- **Sous-catégorie** : [Notifications & popups](Notifications%20%26%20popups.md)
+- **Sous-catégorie** : [Notifications & popups](Notifications%20&%20popups.md)
 - **Type** : Interface (ScreenGui)
 - **Contenu** : 28 éléments UI
 - **Jeu d'origine** : Billionaire Tycoon

@@ -17,7 +17,7 @@ tags: [categorie/interfaces, sous-categorie/profil-stats, type/lib-gui, jeu/trai
 Interface « Stats » du jeu Training Simulator. 22 éléments UI.
 
 - **Catégorie** : [Interfaces](../Interfaces.md)
-- **Sous-catégorie** : [Profil & stats](Profil%20%26%20stats.md)
+- **Sous-catégorie** : [Profil & stats](Profil%20&%20stats.md)
 - **Type** : Interface (ScreenGui)
 - **Contenu** : 22 éléments UI
 - **Jeu d'origine** : Training Simulator

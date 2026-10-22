@@ -18,7 +18,7 @@ tags: [categorie/bibliotheque-3d, sous-categorie/ufs-incubateurs, type/lib-part,
 Modèle en Parts « Dev Egg 2 » (Robot Simulator).
 
 - **Catégorie** : [Bibliothèque 3D](../Biblioth%C3%A8que%203D.md)
-- **Sous-catégorie** : [Œufs & incubateurs](%C5%92ufs%20%26%20incubateurs%20%28Biblioth%C3%A8que%203D%29.md)
+- **Sous-catégorie** : [Œufs & incubateurs](%C5%92ufs%20&%20incubateurs%20%28Biblioth%C3%A8que%203D%29.md)
 - **Type** : Modèle en Parts
 - **Taille** : 15 × 10 × 9 studs
 - **Contenu** : 17 Parts · 1 MeshPart

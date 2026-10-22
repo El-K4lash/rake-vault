@@ -18,7 +18,7 @@ tags: [categorie/bibliotheque-3d, sous-categorie/leaderboards-panneaux, type/lib
 Modèle en Parts « Total Tweets » (Tweeting Simulator).
 
 - **Catégorie** : [Bibliothèque 3D](../Biblioth%C3%A8que%203D.md)
-- **Sous-catégorie** : [Leaderboards & panneaux](Leaderboards%20%26%20panneaux%20%28Biblioth%C3%A8que%203D%29.md)
+- **Sous-catégorie** : [Leaderboards & panneaux](Leaderboards%20&%20panneaux%20%28Biblioth%C3%A8que%203D%29.md)
 - **Type** : Modèle en Parts
 - **Taille** : 2 × 11 × 9 studs
 - **Contenu** : 6 Parts

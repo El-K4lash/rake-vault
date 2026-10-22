@@ -17,7 +17,7 @@ tags: [categorie/interfaces, sous-categorie/profil-stats, type/lib-gui, jeu/punc
 Interface « Ranks » du jeu Punch Simulator. 34 éléments UI.
 
 - **Catégorie** : [Interfaces](../Interfaces.md)
-- **Sous-catégorie** : [Profil & stats](Profil%20%26%20stats.md)
+- **Sous-catégorie** : [Profil & stats](Profil%20&%20stats.md)
 - **Type** : Interface (ScreenGui)
 - **Contenu** : 34 éléments UI
 - **Jeu d'origine** : Punch Simulator

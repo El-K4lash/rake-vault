@@ -16,8 +16,8 @@ tags: [categorie/pets-meshes, sous-categorie/ufs-incubateurs, type/lib-mesh, jeu
 
 Modèle en MeshParts « Coconut » (Pet Pharmica). Aperçu rendu dans Roblox Studio avec ses vraies textures.
 
-- **Catégorie** : [Pets & meshes](../Pets%20%26%20meshes.md)
-- **Sous-catégorie** : [Œufs & incubateurs](%C5%92ufs%20%26%20incubateurs%20%28Pets%20%26%20meshes%29.md)
+- **Catégorie** : [Pets & meshes](../Pets%20&%20meshes.md)
+- **Sous-catégorie** : [Œufs & incubateurs](%C5%92ufs%20&%20incubateurs%20%28Pets%20&%20meshes%29.md)
 - **Type** : Modèle en MeshParts
 - **Contenu** : 5 MeshParts
 - **Jeu d'origine** : Pet Pharmica

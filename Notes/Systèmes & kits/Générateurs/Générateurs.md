@@ -8,7 +8,7 @@ tags: [index, categorie/systemes-kits]
 
 # Générateurs
 
-Sous-catégorie de [Systèmes & kits](../Syst%C3%A8mes%20%26%20kits.md) · **6 éléments**
+Sous-catégorie de [Systèmes & kits](../Syst%C3%A8mes%20&%20kits.md) · **6 éléments**
 
 | Aperçu | Élément | Infos |
 | --- | --- | --- |

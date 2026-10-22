@@ -17,7 +17,7 @@ tags: [categorie/interfaces, sous-categorie/quetes-saison, type/lib-gui, jeu/min
 Interface « Quests » du jeu Mining Masters. 7 éléments UI.
 
 - **Catégorie** : [Interfaces](../Interfaces.md)
-- **Sous-catégorie** : [Quêtes & saison](Qu%C3%AAtes%20%26%20saison.md)
+- **Sous-catégorie** : [Quêtes & saison](Qu%C3%AAtes%20&%20saison.md)
 - **Type** : Interface (ScreenGui)
 - **Contenu** : 7 éléments UI
 - **Jeu d'origine** : Mining Masters

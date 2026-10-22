@@ -18,7 +18,7 @@ tags: [categorie/bibliotheque-3d, sous-categorie/coffres-collectibles, type/lib-
 Modèle en Parts « Gem Chest » (Robot Simulator).
 
 - **Catégorie** : [Bibliothèque 3D](../Biblioth%C3%A8que%203D.md)
-- **Sous-catégorie** : [Coffres & collectibles](Coffres%20%26%20collectibles%20%28Biblioth%C3%A8que%203D%29.md)
+- **Sous-catégorie** : [Coffres & collectibles](Coffres%20&%20collectibles%20%28Biblioth%C3%A8que%203D%29.md)
 - **Type** : Modèle en Parts
 - **Taille** : 31 × 2 × 31 studs
 - **Contenu** : 29 Parts · 3 MeshParts

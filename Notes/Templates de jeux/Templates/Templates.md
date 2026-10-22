@@ -12,7 +12,7 @@ Sous-catégorie de [Templates de jeux](../Templates%20de%20jeux.md) · **24 él�
 
 | Aperçu | Élément | Infos |
 | --- | --- | --- |
-| ![Aperçu\|120](../../_img/Lj0031.webp) | [+1 Speed V1 Kit](%2B1%20Speed%20V1%20Kit.md) | Place complète (.rbxl) · 88 scripts · 67 992 instances |
+| ![Aperçu\|120](../../_img/Lj0031.webp) | [+1 Speed V1 Kit](+1%20Speed%20V1%20Kit.md) | Place complète (.rbxl) · 88 scripts · 67 992 instances |
 | ![Aperçu\|120](../../_img/Lj0032.webp) | [Build A Plane Template](Build%20A%20Plane%20Template.md) | Place complète (.rbxl) · 74 scripts · 46 579 instances |
 | ![Aperçu\|120](../../_img/Lj0033.webp) | [Build Your Base Template](Build%20Your%20Base%20Template.md) | Place complète (.rbxl) · 292 scripts · 6 383 instances |
 | ![Aperçu\|120](../../_img/Lj0034.webp) | [Climb For Brainrots \[ No Tested! \]](Climb%20For%20Brainrots%20No%20Tested%21.md) | Place complète (.rbxl) · 104 scripts · 42 017 instances |

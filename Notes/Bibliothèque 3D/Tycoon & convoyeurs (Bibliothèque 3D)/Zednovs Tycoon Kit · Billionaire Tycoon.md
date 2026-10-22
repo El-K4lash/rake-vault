@@ -18,7 +18,7 @@ tags: [categorie/bibliotheque-3d, sous-categorie/tycoon-convoyeurs, type/lib-par
 Modèle en Parts « Zednovs Tycoon Kit » (Billionaire Tycoon).
 
 - **Catégorie** : [Bibliothèque 3D](../Biblioth%C3%A8que%203D.md)
-- **Sous-catégorie** : [Tycoon & convoyeurs](Tycoon%20%26%20convoyeurs%20%28Biblioth%C3%A8que%203D%29.md)
+- **Sous-catégorie** : [Tycoon & convoyeurs](Tycoon%20&%20convoyeurs%20%28Biblioth%C3%A8que%203D%29.md)
 - **Type** : Modèle en Parts
 - **Taille** : 443 × 36 × 371 studs
 - **Contenu** : 10 220 Parts · 5 848 MeshParts

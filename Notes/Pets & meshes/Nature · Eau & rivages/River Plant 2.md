@@ -16,8 +16,8 @@ tags: [categorie/pets-meshes, sous-categorie/nature-eau-rivages, type/lib-mesh, 
 
 Modèle en MeshParts « River Plant 2 ». Pas d’aperçu 3D : mesh privé du compte LFT_Labs (le .rbxm marche quand même dans Studio connecté avec ce compte).
 
-- **Catégorie** : [Pets & meshes](../Pets%20%26%20meshes.md)
-- **Sous-catégorie** : [Nature · Eau & rivages](Nature%20%C2%B7%20Eau%20%26%20rivages.md)
+- **Catégorie** : [Pets & meshes](../Pets%20&%20meshes.md)
+- **Sous-catégorie** : [Nature · Eau & rivages](Nature%20%C2%B7%20Eau%20&%20rivages.md)
 - **Type** : Modèle en MeshParts
 - **Contenu** : 1 MeshPart
 - **Pack d'origine** : Roblox Nature 480 (`600.rbxm`)

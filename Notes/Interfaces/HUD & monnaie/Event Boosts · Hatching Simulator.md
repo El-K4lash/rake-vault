@@ -17,7 +17,7 @@ tags: [categorie/interfaces, sous-categorie/hud-monnaie, type/lib-gui, jeu/hatch
 Interface « Event Boosts » du jeu Hatching Simulator. 4 éléments UI.
 
 - **Catégorie** : [Interfaces](../Interfaces.md)
-- **Sous-catégorie** : [HUD & monnaie](HUD%20%26%20monnaie.md)
+- **Sous-catégorie** : [HUD & monnaie](HUD%20&%20monnaie.md)
 - **Type** : Interface (ScreenGui)
 - **Contenu** : 4 éléments UI
 - **Jeu d'origine** : Hatching Simulator

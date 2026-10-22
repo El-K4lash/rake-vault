@@ -17,7 +17,7 @@ tags: [categorie/interfaces, sous-categorie/admin-debug, type/lib-gui, jeu/lib-p
 Interface « F2Admin Button » du jeu Lib perso. 3 éléments UI.
 
 - **Catégorie** : [Interfaces](../Interfaces.md)
-- **Sous-catégorie** : [Admin & debug](Admin%20%26%20debug.md)
+- **Sous-catégorie** : [Admin & debug](Admin%20&%20debug.md)
 - **Type** : Interface (ScreenGui)
 - **Contenu** : 3 éléments UI
 - **Jeu d'origine** : Lib perso

@@ -17,7 +17,7 @@ tags: [categorie/interfaces, sous-categorie/robux-gamepass, type/lib-gui, jeu/re
 Interface « Gifting Special » du jeu Rebirth Champions X. 33 éléments UI.
 
 - **Catégorie** : [Interfaces](../Interfaces.md)
-- **Sous-catégorie** : [Robux & gamepass](Robux%20%26%20gamepass.md)
+- **Sous-catégorie** : [Robux & gamepass](Robux%20&%20gamepass.md)
 - **Type** : Interface (ScreenGui)
 - **Contenu** : 33 éléments UI
 - **Jeu d'origine** : Rebirth Champions X

@@ -17,7 +17,7 @@ tags: [categorie/interfaces, sous-categorie/pets-inventaire, type/lib-gui, jeu/r
 Interface « Pets » du jeu Rebirth Champions X. 43 éléments UI.
 
 - **Catégorie** : [Interfaces](../Interfaces.md)
-- **Sous-catégorie** : [Pets & inventaire](Pets%20%26%20inventaire.md)
+- **Sous-catégorie** : [Pets & inventaire](Pets%20&%20inventaire.md)
 - **Type** : Interface (ScreenGui)
 - **Contenu** : 43 éléments UI
 - **Jeu d'origine** : Rebirth Champions X

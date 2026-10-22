@@ -8,7 +8,7 @@ tags: [index, categorie/pets-meshes]
 
 # Coffres & collectibles
 
-Sous-catégorie de [Pets & meshes](../Pets%20%26%20meshes.md) · **16 éléments**
+Sous-catégorie de [Pets & meshes](../Pets%20&%20meshes.md) · **16 éléments**
 
 | Aperçu | Élément | Infos |
 | --- | --- | --- |

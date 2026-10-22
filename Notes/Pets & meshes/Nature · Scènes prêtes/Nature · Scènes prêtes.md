@@ -8,7 +8,7 @@ tags: [index, categorie/pets-meshes]
 
 # Nature · Scènes prêtes
 
-Sous-catégorie de [Pets & meshes](../Pets%20%26%20meshes.md) · **28 éléments**
+Sous-catégorie de [Pets & meshes](../Pets%20&%20meshes.md) · **28 éléments**
 
 | Aperçu | Élément | Infos |
 | --- | --- | --- |

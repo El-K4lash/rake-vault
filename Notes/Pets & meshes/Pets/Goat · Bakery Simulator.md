@@ -16,7 +16,7 @@ tags: [categorie/pets-meshes, sous-categorie/pets, type/lib-mesh, jeu/bakery-sim
 
 Modèle en MeshParts « Goat » (Bakery Simulator). Aperçu rendu dans Roblox Studio avec ses vraies textures.
 
-- **Catégorie** : [Pets & meshes](../Pets%20%26%20meshes.md)
+- **Catégorie** : [Pets & meshes](../Pets%20&%20meshes.md)
 - **Sous-catégorie** : [Pets](Pets.md)
 - **Type** : Modèle en MeshParts
 - **Contenu** : 1 MeshPart

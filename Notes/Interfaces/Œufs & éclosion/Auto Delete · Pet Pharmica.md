@@ -17,7 +17,7 @@ tags: [categorie/interfaces, sous-categorie/ufs-eclosion, type/lib-gui, jeu/pet-
 Interface « Auto Delete » du jeu Pet Pharmica. 14 éléments UI.
 
 - **Catégorie** : [Interfaces](../Interfaces.md)
-- **Sous-catégorie** : [Œufs & éclosion](%C5%92ufs%20%26%20%C3%A9closion.md)
+- **Sous-catégorie** : [Œufs & éclosion](%C5%92ufs%20&%20%C3%A9closion.md)
 - **Type** : Interface (ScreenGui)
 - **Contenu** : 14 éléments UI
 - **Jeu d'origine** : Pet Pharmica

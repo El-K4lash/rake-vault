@@ -8,7 +8,7 @@ tags: [index, categorie/pets-meshes]
 
 # Décor
 
-Sous-catégorie de [Pets & meshes](../Pets%20%26%20meshes.md) · **122 éléments**
+Sous-catégorie de [Pets & meshes](../Pets%20&%20meshes.md) · **122 éléments**
 
 | Aperçu | Élément | Infos |
 | --- | --- | --- |
@@ -24,7 +24,7 @@ Sous-catégorie de [Pets & meshes](../Pets%20%26%20meshes.md) · **122 élément
 | ![Aperçu\|120](../../_img/Lm0257.webp) | [Blue Mush · Lib perso](Blue%20Mush%20%C2%B7%20Lib%20perso.md) | Modèle en MeshParts · 2 MeshParts |
 | ![Aperçu\|120](../../_img/Lm0295.webp) | [Bush · Pet Pharmica](Bush%20%C2%B7%20Pet%20Pharmica.md) | Modèle en MeshParts · 2 MeshParts |
 | ![Aperçu\|120](../../_img/Lm0325.webp) | [Bush2 · Rebirth Champions X](Bush2%20%C2%B7%20Rebirth%20Champions%20X.md) | Modèle en MeshParts · 4 MeshParts |
-| ![Aperçu\|120](../../_img/Lm0153.webp) | [Cactus · +1 Health Every Second](Cactus%20%C2%B7%20%2B1%20Health%20Every%20Second.md) | Modèle en MeshParts · 1 MeshPart |
+| ![Aperçu\|120](../../_img/Lm0153.webp) | [Cactus · +1 Health Every Second](Cactus%20%C2%B7%20+1%20Health%20Every%20Second.md) | Modèle en MeshParts · 1 MeshPart |
 | ![Aperçu\|120](../../_img/Lm0171.webp) | [Cakes · Bakery Simulator](Cakes%20%C2%B7%20Bakery%20Simulator.md) | Modèle en MeshParts · 10 MeshParts |
 | ![Aperçu\|120](../../_img/Lm0192.webp) | [Cartel Mini · First Donations](Cartel%20Mini%20%C2%B7%20First%20Donations.md) | Modèle en MeshParts · 28 MeshParts |
 | ![Aperçu\|120](../../_img/Lm0265.webp) | [Cloud · Magnet Simulator 2](Cloud%20%C2%B7%20Magnet%20Simulator%202.md) | Modèle en MeshParts · 1 MeshPart |
@@ -34,7 +34,7 @@ Sous-catégorie de [Pets & meshes](../Pets%20%26%20meshes.md) · **122 élément
 | ![Aperçu\|120](../../_img/Lm0307.webp) | [Crown · Punch Simulator](Crown%20%C2%B7%20Punch%20Simulator.md) | Modèle en MeshParts · 5 MeshParts |
 | ![Aperçu\|120](../../_img/Lm0296.webp) | [Crystal Cluster · Pet Pharmica](Crystal%20Cluster%20%C2%B7%20Pet%20Pharmica.md) | Modèle en MeshParts · 3 MeshParts |
 | ![Aperçu\|120](../../_img/Lm0173.webp) | [Cupcakes · Bakery Simulator](Cupcakes%20%C2%B7%20Bakery%20Simulator.md) | Modèle en MeshParts · 15 MeshParts |
-| ![Aperçu\|120](../../_img/Lm0154.webp) | [Dead Tree · +1 Health Every Second](Dead%20Tree%20%C2%B7%20%2B1%20Health%20Every%20Second.md) | Modèle en MeshParts · 1 MeshPart |
+| ![Aperçu\|120](../../_img/Lm0154.webp) | [Dead Tree · +1 Health Every Second](Dead%20Tree%20%C2%B7%20+1%20Health%20Every%20Second.md) | Modèle en MeshParts · 1 MeshPart |
 | ![Aperçu\|120](../../_img/Lm0276.webp) | [Dead Tree · Mining Masters](Dead%20Tree%20%C2%B7%20Mining%20Masters.md) | Modèle en MeshParts · 1 MeshPart |
 | ![Aperçu\|120](../../_img/Lm0327.webp) | [Decor · Rebirth Champions X](Decor%20%C2%B7%20Rebirth%20Champions%20X.md) | Modèle en MeshParts · 22 Parts · 443 MeshParts |
 | ![Aperçu\|120](../../_img/Lm0405.webp) | [Desert Island · Tweeting Simulator](Desert%20Island%20%C2%B7%20Tweeting%20Simulator.md) | Modèle en MeshParts · 24 Parts · 17 MeshParts |
@@ -99,7 +99,7 @@ Sous-catégorie de [Pets & meshes](../Pets%20%26%20meshes.md) · **122 élément
 | ![Aperçu\|120](../../_img/Lm0281.webp) | [Random Models Model 5 · Mining Masters](Random%20Models%20Model%205%20%C2%B7%20Mining%20Masters.md) | Modèle en MeshParts · 5 MeshParts |
 | ![Aperçu\|120](../../_img/Lm0282.webp) | [Random Models Model 6 · Mining Masters](Random%20Models%20Model%206%20%C2%B7%20Mining%20Masters.md) | Modèle en MeshParts · 32 MeshParts |
 | ![Aperçu\|120](../../_img/Lm0263.webp) | [Rock · Lib perso](Rock%20%C2%B7%20Lib%20perso.md) | Modèle en MeshParts · 1 MeshPart |
-| ![Aperçu\|120](../../_img/Lm0155.webp) | [Rocks · +1 Health Every Second](Rocks%20%C2%B7%20%2B1%20Health%20Every%20Second.md) | Modèle en MeshParts · 3 MeshParts |
+| ![Aperçu\|120](../../_img/Lm0155.webp) | [Rocks · +1 Health Every Second](Rocks%20%C2%B7%20+1%20Health%20Every%20Second.md) | Modèle en MeshParts · 3 MeshParts |
 | ![Aperçu\|120](../../_img/Lm0250.webp) | [Rocks · Hatching Simulator](Rocks%20%C2%B7%20Hatching%20Simulator.md) | Modèle en MeshParts · 11 MeshParts |
 | ![Aperçu\|120](../../_img/Lm0346.webp) | [Rocks · Rebirth Champions X](Rocks%20%C2%B7%20Rebirth%20Champions%20X.md) | Modèle en MeshParts · 361 MeshParts |
 | ![Aperçu\|120](../../_img/Lm0374.webp) | [Rocks · Robot Simulator](Rocks%20%C2%B7%20Robot%20Simulator.md) | Modèle en MeshParts · 69 MeshParts |
@@ -121,7 +121,7 @@ Sous-catégorie de [Pets & meshes](../Pets%20%26%20meshes.md) · **122 élément
 | ![Aperçu\|120](../../_img/Lm0315.webp) | [Training Areas 4 · Punch Simulator](Training%20Areas%204%20%C2%B7%20Punch%20Simulator.md) | Modèle en MeshParts · 28 MeshParts |
 | ![Aperçu\|120](../../_img/Lm0317.webp) | [Training Areas 6 · Punch Simulator](Training%20Areas%206%20%C2%B7%20Punch%20Simulator.md) | Modèle en MeshParts · 30 MeshParts |
 | ![Aperçu\|120](../../_img/Lm0184.webp) | [Tray · Bakery Simulator](Tray%20%C2%B7%20Bakery%20Simulator.md) | Modèle en MeshParts · 1 MeshPart |
-| ![Aperçu\|120](../../_img/Lm0156.webp) | [Tree · +1 Health Every Second](Tree%20%C2%B7%20%2B1%20Health%20Every%20Second.md) | Modèle en MeshParts · 4 MeshParts |
+| ![Aperçu\|120](../../_img/Lm0156.webp) | [Tree · +1 Health Every Second](Tree%20%C2%B7%20+1%20Health%20Every%20Second.md) | Modèle en MeshParts · 4 MeshParts |
 | ![Aperçu\|120](../../_img/Lm0304.webp) | [Tree · Pet Pharmica](Tree%20%C2%B7%20Pet%20Pharmica.md) | Modèle en MeshParts · 7 MeshParts |
 | ![Aperçu\|120](../../_img/Lm0391.webp) | [Tree · Tapping Lords](Tree%20%C2%B7%20Tapping%20Lords.md) | Modèle en MeshParts · 5 MeshParts |
 | ![Aperçu\|120](../../_img/Lm0392.webp) | [Tree 2 · Tapping Lords](Tree%202%20%C2%B7%20Tapping%20Lords.md) | Modèle en MeshParts · 2 MeshParts |
@@ -132,5 +132,5 @@ Sous-catégorie de [Pets & meshes](../Pets%20%26%20meshes.md) · **122 élément
 | ![Aperçu\|120](../../_img/Lm0393.webp) | [Water Assets · Tapping Lords](Water%20Assets%20%C2%B7%20Tapping%20Lords.md) | Modèle en MeshParts · 17 MeshParts |
 | ![Aperçu\|120](../../_img/Lm0353.webp) | [Well · Rebirth Champions X](Well%20%C2%B7%20Rebirth%20Champions%20X.md) | Modèle en MeshParts · 6 Parts · 31 MeshParts |
 | ![Aperçu\|120](../../_img/Lm0190.webp) | [Wheel · Cashgrab Bridge](Wheel%20%C2%B7%20Cashgrab%20Bridge.md) | Modèle en MeshParts · 4 MeshParts |
-| ![Aperçu\|120](../../_img/Lm0170.webp) | [Win · +1 Jump Every Second](Win%20%C2%B7%20%2B1%20Jump%20Every%20Second.md) | Modèle en MeshParts · 2 MeshParts |
+| ![Aperçu\|120](../../_img/Lm0170.webp) | [Win · +1 Jump Every Second](Win%20%C2%B7%20+1%20Jump%20Every%20Second.md) | Modèle en MeshParts · 2 MeshParts |
 | ![Aperçu\|120](../../_img/Lm0354.webp) | [Woda · Rebirth Champions X](Woda%20%C2%B7%20Rebirth%20Champions%20X.md) | Modèle en MeshParts · 3 MeshParts |

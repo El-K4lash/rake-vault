@@ -17,7 +17,7 @@ tags: [categorie/interfaces, sous-categorie/robux-gamepass, type/lib-gui, jeu/1-
 Interface « Dev Product Buttons » du jeu +1 Health Every Second. 34 éléments UI.
 
 - **Catégorie** : [Interfaces](../Interfaces.md)
-- **Sous-catégorie** : [Robux & gamepass](Robux%20%26%20gamepass.md)
+- **Sous-catégorie** : [Robux & gamepass](Robux%20&%20gamepass.md)
 - **Type** : Interface (ScreenGui)
 - **Contenu** : 34 éléments UI
 - **Jeu d'origine** : +1 Health Every Second

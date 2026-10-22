@@ -16,8 +16,8 @@ tags: [categorie/pets-meshes, sous-categorie/decor, type/lib-mesh, jeu/lib-perso
 
 Modèle en MeshParts « Fountain » (Lib perso). Aperçu rendu dans Roblox Studio avec ses vraies textures.
 
-- **Catégorie** : [Pets & meshes](../Pets%20%26%20meshes.md)
-- **Sous-catégorie** : [Décor](D%C3%A9cor%20%28Pets%20%26%20meshes%29.md)
+- **Catégorie** : [Pets & meshes](../Pets%20&%20meshes.md)
+- **Sous-catégorie** : [Décor](D%C3%A9cor%20%28Pets%20&%20meshes%29.md)
 - **Type** : Modèle en MeshParts
 - **Contenu** : 1 MeshPart
 - **Jeu d'origine** : Lib perso

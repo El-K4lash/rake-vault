@@ -17,7 +17,7 @@ tags: [categorie/interfaces, sous-categorie/teleport-zones, type/lib-gui, jeu/mi
 Interface « Teleport Zones » du jeu Mining Masters. 11 éléments UI.
 
 - **Catégorie** : [Interfaces](../Interfaces.md)
-- **Sous-catégorie** : [Téléport & zones](T%C3%A9l%C3%A9port%20%26%20zones.md)
+- **Sous-catégorie** : [Téléport & zones](T%C3%A9l%C3%A9port%20&%20zones.md)
 - **Type** : Interface (ScreenGui)
 - **Contenu** : 11 éléments UI
 - **Jeu d'origine** : Mining Masters

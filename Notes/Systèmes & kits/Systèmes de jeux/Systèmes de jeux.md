@@ -8,7 +8,7 @@ tags: [index, categorie/systemes-kits]
 
 # Systèmes de jeux
 
-Sous-catégorie de [Systèmes & kits](../Syst%C3%A8mes%20%26%20kits.md) · **18 éléments**
+Sous-catégorie de [Systèmes & kits](../Syst%C3%A8mes%20&%20kits.md) · **18 éléments**
 
 | Aperçu | Élément | Infos |
 | --- | --- | --- |

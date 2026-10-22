@@ -15,7 +15,7 @@ tags: [categorie/systemes-kits, sous-categorie/kits-prets-a-lemploi, type/lib-sy
 
 Kits prêts à l’emploi : 8 scripts.
 
-- **Catégorie** : [Systèmes & kits](../Syst%C3%A8mes%20%26%20kits.md)
+- **Catégorie** : [Systèmes & kits](../Syst%C3%A8mes%20&%20kits.md)
 - **Sous-catégorie** : [Kits prêts à l’emploi](Kits%20pr%C3%AAts%20%C3%A0%20l%E2%80%99emploi.md)
 - **Type** : Système de jeu
 - **Contenu** : 8 scripts · 185 instances

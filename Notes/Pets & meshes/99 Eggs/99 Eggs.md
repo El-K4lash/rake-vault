@@ -8,7 +8,7 @@ tags: [index, categorie/pets-meshes]
 
 # 99 Eggs
 
-Sous-catégorie de [Pets & meshes](../Pets%20%26%20meshes.md) · **100 éléments**
+Sous-catégorie de [Pets & meshes](../Pets%20&%20meshes.md) · **100 éléments**
 
 | Aperçu | Élément | Infos |
 | --- | --- | --- |

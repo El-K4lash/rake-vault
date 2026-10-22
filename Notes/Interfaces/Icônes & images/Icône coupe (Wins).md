@@ -19,7 +19,7 @@ tags: [categorie/interfaces, sous-categorie/icones-images, type/icone, jeu/needl
 Coupe dorée cartoon avec gros contour bleu nuit, dans le style des icônes du kit K4 (billets, couronne, horloge…). Sert d'icône pour les **victoires / wins / trophées** à côté d'une barre de compteur.
 
 - **Catégorie** : [Interfaces](../Interfaces.md)
-- **Sous-catégorie** : [Icônes & images](Ic%C3%B4nes%20%26%20images.md)
+- **Sous-catégorie** : [Icônes & images](Ic%C3%B4nes%20&%20images.md)
 - **Type** : Icône (fond transparent)
 - **Utilisée dans** : NEEDLE RUSH, `StarterGui.NeedleUI.HUD.Stats.WinsIcon`
 

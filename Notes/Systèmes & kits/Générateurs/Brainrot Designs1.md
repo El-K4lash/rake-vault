@@ -15,7 +15,7 @@ tags: [categorie/systemes-kits, sous-categorie/generateurs, type/lib-sys]
 
 Générateur : 1 scripts.
 
-- **Catégorie** : [Systèmes & kits](../Syst%C3%A8mes%20%26%20kits.md)
+- **Catégorie** : [Systèmes & kits](../Syst%C3%A8mes%20&%20kits.md)
 - **Sous-catégorie** : [Générateurs](G%C3%A9n%C3%A9rateurs.md)
 - **Type** : Système de jeu
 - **Contenu** : 1 script · 1 instance

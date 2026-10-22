@@ -17,7 +17,7 @@ tags: [categorie/bibliotheque-3d, sous-categorie/maps-iles, type/lib-part]
 Modèle en Parts « Template Island ».
 
 - **Catégorie** : [Bibliothèque 3D](../Biblioth%C3%A8que%203D.md)
-- **Sous-catégorie** : [Maps & îles](Maps%20%26%20%C3%AEles%20%28Biblioth%C3%A8que%203D%29.md)
+- **Sous-catégorie** : [Maps & îles](Maps%20&%20%C3%AEles%20%28Biblioth%C3%A8que%203D%29.md)
 - **Type** : Modèle en Parts
 - **Taille** : 393 × 29 × 359 studs
 - **Contenu** : 992 Parts · 6 MeshParts

@@ -8,11 +8,11 @@ tags: [index, categorie/pets-meshes]
 
 # PNJ & personnages
 
-Sous-catégorie de [Pets & meshes](../Pets%20%26%20meshes.md) · **30 éléments**
+Sous-catégorie de [Pets & meshes](../Pets%20&%20meshes.md) · **30 éléments**
 
 | Aperçu | Élément | Infos |
 | --- | --- | --- |
-| ![Aperçu\|120](../../_img/Lm0987.webp) | [Boss · Robot Simulator](Boss%20%C2%B7%20Robot%20Simulator%20%C2%B7%20PNJ%20%26%20personnages.md) | Modèle en MeshParts · 63 MeshParts |
+| ![Aperçu\|120](../../_img/Lm0987.webp) | [Boss · Robot Simulator](Boss%20%C2%B7%20Robot%20Simulator%20%C2%B7%20PNJ%20&%20personnages.md) | Modèle en MeshParts · 63 MeshParts |
 | ![Aperçu\|120](../../_img/Lm0989.webp) | [Builder · Robot Simulator](Builder%20%C2%B7%20Robot%20Simulator.md) | Modèle en MeshParts · 1 Part · 15 MeshParts |
 | ![Aperçu\|120](../../_img/Lm1014.webp) | [Camera Man · Training Simulator](Camera%20Man%20%C2%B7%20Training%20Simulator.md) | Modèle en MeshParts · 15 MeshParts |
 | ![Aperçu\|120](../../_img/Lm1017.webp) | [Cannon Guy · Tweeting Simulator](Cannon%20Guy%20%C2%B7%20Tweeting%20Simulator.md) | Modèle en MeshParts · 4 Parts · 18 MeshParts |

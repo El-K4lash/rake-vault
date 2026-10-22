@@ -17,7 +17,7 @@ tags: [categorie/interfaces, sous-categorie/notifications-popups, type/lib-gui, 
 Interface « Warnings » du jeu Hatching Simulator. 8 éléments UI.
 
 - **Catégorie** : [Interfaces](../Interfaces.md)
-- **Sous-catégorie** : [Notifications & popups](Notifications%20%26%20popups.md)
+- **Sous-catégorie** : [Notifications & popups](Notifications%20&%20popups.md)
 - **Type** : Interface (ScreenGui)
 - **Contenu** : 8 éléments UI
 - **Jeu d'origine** : Hatching Simulator

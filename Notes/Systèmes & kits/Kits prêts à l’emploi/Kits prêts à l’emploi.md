@@ -8,7 +8,7 @@ tags: [index, categorie/systemes-kits]
 
 # Kits prêts à l’emploi
 
-Sous-catégorie de [Systèmes & kits](../Syst%C3%A8mes%20%26%20kits.md) · **4 éléments**
+Sous-catégorie de [Systèmes & kits](../Syst%C3%A8mes%20&%20kits.md) · **4 éléments**
 
 | Aperçu | Élément | Infos |
 | --- | --- | --- |

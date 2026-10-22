@@ -16,8 +16,8 @@ tags: [categorie/pets-meshes, sous-categorie/divers, type/lib-mesh, jeu/cashgrab
 
 Modèle en MeshParts « Green » (Cashgrab Bridge). Aperçu rendu dans Roblox Studio avec ses vraies textures.
 
-- **Catégorie** : [Pets & meshes](../Pets%20%26%20meshes.md)
-- **Sous-catégorie** : [Divers](Divers%20%28Pets%20%26%20meshes%29.md)
+- **Catégorie** : [Pets & meshes](../Pets%20&%20meshes.md)
+- **Sous-catégorie** : [Divers](Divers%20%28Pets%20&%20meshes%29.md)
 - **Type** : Modèle en MeshParts
 - **Contenu** : 11 Parts · 57 MeshParts
 - **Jeu d'origine** : Cashgrab Bridge

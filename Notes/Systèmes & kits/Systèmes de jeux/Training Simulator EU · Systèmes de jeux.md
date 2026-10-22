@@ -15,7 +15,7 @@ tags: [categorie/systemes-kits, sous-categorie/systemes-de-jeux, type/lib-sys]
 
 Systèmes du jeu : 53 scripts.
 
-- **Catégorie** : [Systèmes & kits](../Syst%C3%A8mes%20%26%20kits.md)
+- **Catégorie** : [Systèmes & kits](../Syst%C3%A8mes%20&%20kits.md)
 - **Sous-catégorie** : [Systèmes de jeux](Syst%C3%A8mes%20de%20jeux.md)
 - **Type** : Système de jeu
 - **Contenu** : 53 scripts · 212 instances

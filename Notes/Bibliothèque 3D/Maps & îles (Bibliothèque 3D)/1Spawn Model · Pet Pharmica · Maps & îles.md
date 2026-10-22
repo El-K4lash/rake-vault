@@ -18,7 +18,7 @@ tags: [categorie/bibliotheque-3d, sous-categorie/maps-iles, type/lib-part, jeu/p
 Modèle en Parts « 1Spawn Model » (Pet Pharmica).
 
 - **Catégorie** : [Bibliothèque 3D](../Biblioth%C3%A8que%203D.md)
-- **Sous-catégorie** : [Maps & îles](Maps%20%26%20%C3%AEles%20%28Biblioth%C3%A8que%203D%29.md)
+- **Sous-catégorie** : [Maps & îles](Maps%20&%20%C3%AEles%20%28Biblioth%C3%A8que%203D%29.md)
 - **Type** : Modèle en Parts
 - **Taille** : 3 × 15 × 13 studs
 - **Contenu** : 50 Parts · 20 MeshParts

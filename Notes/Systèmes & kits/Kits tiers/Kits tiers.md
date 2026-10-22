@@ -8,7 +8,7 @@ tags: [index, categorie/systemes-kits]
 
 # Kits tiers
 
-Sous-catégorie de [Systèmes & kits](../Syst%C3%A8mes%20%26%20kits.md) · **3 éléments**
+Sous-catégorie de [Systèmes & kits](../Syst%C3%A8mes%20&%20kits.md) · **3 éléments**
 
 | Aperçu | Élément | Infos |
 | --- | --- | --- |

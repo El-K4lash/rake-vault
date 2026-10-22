@@ -12,7 +12,7 @@ Sous-catégorie de [Interfaces](../Interfaces.md) · **10 éléments**
 
 | Aperçu | Élément | Infos |
 | --- | --- | --- |
-| ![Aperçu\|120](../../_img/Lg0184.webp) | [Settings · +1 Jump Every Second](Settings%20%C2%B7%20%2B1%20Jump%20Every%20Second.md) | Interface (ScreenGui) · 8 éléments UI |
+| ![Aperçu\|120](../../_img/Lg0184.webp) | [Settings · +1 Jump Every Second](Settings%20%C2%B7%20+1%20Jump%20Every%20Second.md) | Interface (ScreenGui) · 8 éléments UI |
 | ![Aperçu\|120](../../_img/Lg0185.webp) | [Settings · First Donations](Settings%20%C2%B7%20First%20Donations.md) | Interface (ScreenGui) · 17 éléments UI |
 | ![Aperçu\|120](../../_img/Lg0186.webp) | [Settings · Hatching Simulator](Settings%20%C2%B7%20Hatching%20Simulator.md) | Interface (ScreenGui) · 75 éléments UI |
 | ![Aperçu\|120](../../_img/Lg0187.webp) | [Settings · Pet Pharmica](Settings%20%C2%B7%20Pet%20Pharmica.md) | Interface (ScreenGui) · 23 éléments UI |

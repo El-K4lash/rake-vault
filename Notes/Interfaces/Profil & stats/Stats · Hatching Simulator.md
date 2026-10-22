@@ -17,7 +17,7 @@ tags: [categorie/interfaces, sous-categorie/profil-stats, type/lib-gui, jeu/hatc
 Interface « Stats » du jeu Hatching Simulator. 36 éléments UI.
 
 - **Catégorie** : [Interfaces](../Interfaces.md)
-- **Sous-catégorie** : [Profil & stats](Profil%20%26%20stats.md)
+- **Sous-catégorie** : [Profil & stats](Profil%20&%20stats.md)
 - **Type** : Interface (ScreenGui)
 - **Contenu** : 36 éléments UI
 - **Jeu d'origine** : Hatching Simulator

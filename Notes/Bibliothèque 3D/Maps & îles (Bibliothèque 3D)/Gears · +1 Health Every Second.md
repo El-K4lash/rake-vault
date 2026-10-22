@@ -18,7 +18,7 @@ tags: [categorie/bibliotheque-3d, sous-categorie/maps-iles, type/lib-part, jeu/1
 Modèle en Parts « Gears » (+1 Health Every Second).
 
 - **Catégorie** : [Bibliothèque 3D](../Biblioth%C3%A8que%203D.md)
-- **Sous-catégorie** : [Maps & îles](Maps%20%26%20%C3%AEles%20%28Biblioth%C3%A8que%203D%29.md)
+- **Sous-catégorie** : [Maps & îles](Maps%20&%20%C3%AEles%20%28Biblioth%C3%A8que%203D%29.md)
 - **Type** : Modèle en Parts
 - **Taille** : 12 × 11 × 10 studs
 - **Contenu** : 105 Parts · 40 MeshParts

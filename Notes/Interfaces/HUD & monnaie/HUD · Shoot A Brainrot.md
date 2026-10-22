@@ -17,7 +17,7 @@ tags: [categorie/interfaces, sous-categorie/hud-monnaie, type/lib-gui, jeu/shoot
 Interface « HUD » du jeu Shoot A Brainrot. 46 éléments UI.
 
 - **Catégorie** : [Interfaces](../Interfaces.md)
-- **Sous-catégorie** : [HUD & monnaie](HUD%20%26%20monnaie.md)
+- **Sous-catégorie** : [HUD & monnaie](HUD%20&%20monnaie.md)
 - **Type** : Interface (ScreenGui)
 - **Contenu** : 46 éléments UI
 - **Jeu d'origine** : Shoot A Brainrot

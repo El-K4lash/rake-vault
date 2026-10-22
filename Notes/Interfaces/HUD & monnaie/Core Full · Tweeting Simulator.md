@@ -17,7 +17,7 @@ tags: [categorie/interfaces, sous-categorie/hud-monnaie, type/lib-gui, jeu/tweet
 Interface « Core Full » du jeu Tweeting Simulator. 49 éléments UI.
 
 - **Catégorie** : [Interfaces](../Interfaces.md)
-- **Sous-catégorie** : [HUD & monnaie](HUD%20%26%20monnaie.md)
+- **Sous-catégorie** : [HUD & monnaie](HUD%20&%20monnaie.md)
 - **Type** : Interface (ScreenGui)
 - **Contenu** : 49 éléments UI
 - **Jeu d'origine** : Tweeting Simulator

@@ -17,7 +17,7 @@ tags: [categorie/interfaces, sous-categorie/hud-monnaie, type/lib-gui, jeu/minin
 Interface « Side Buttons » du jeu Mining Masters. 70 éléments UI.
 
 - **Catégorie** : [Interfaces](../Interfaces.md)
-- **Sous-catégorie** : [HUD & monnaie](HUD%20%26%20monnaie.md)
+- **Sous-catégorie** : [HUD & monnaie](HUD%20&%20monnaie.md)
 - **Type** : Interface (ScreenGui)
 - **Contenu** : 70 éléments UI
 - **Jeu d'origine** : Mining Masters

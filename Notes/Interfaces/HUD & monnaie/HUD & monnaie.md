@@ -27,8 +27,8 @@ Sous-catégorie de [Interfaces](../Interfaces.md) · **27 éléments**
 | ![Aperçu\|120](../../_img/Lg0051.webp) | [Hud Left Right Top · Lib perso](Hud%20Left%20Right%20Top%20%C2%B7%20Lib%20perso.md) | Interface (ScreenGui) · 95 éléments UI |
 | ![Aperçu\|120](../../_img/Lg0055.webp) | [Left HUD · Pet Pharmica](Left%20HUD%20%C2%B7%20Pet%20Pharmica.md) | Interface (ScreenGui) · 51 éléments UI |
 | ![Aperçu\|120](../../_img/Lg0057.webp) | [Main · Punch Simulator](Main%20%C2%B7%20Punch%20Simulator.md) | Interface (ScreenGui) · 99 éléments UI |
-| ![Aperçu\|120](../../_img/Lg0041.webp) | [Main Full · +1 Health Every Second](Main%20Full%20%C2%B7%20%2B1%20Health%20Every%20Second.md) | Interface (ScreenGui) · 342 éléments UI |
-| ![Aperçu\|120](../../_img/Lg0042.webp) | [Main Full · +1 Jump Every Second](Main%20Full%20%C2%B7%20%2B1%20Jump%20Every%20Second.md) | Interface (ScreenGui) · 309 éléments UI |
+| ![Aperçu\|120](../../_img/Lg0041.webp) | [Main Full · +1 Health Every Second](Main%20Full%20%C2%B7%20+1%20Health%20Every%20Second.md) | Interface (ScreenGui) · 342 éléments UI |
+| ![Aperçu\|120](../../_img/Lg0042.webp) | [Main Full · +1 Jump Every Second](Main%20Full%20%C2%B7%20+1%20Jump%20Every%20Second.md) | Interface (ScreenGui) · 309 éléments UI |
 | ![Aperçu\|120](../../_img/Lg0044.webp) | [Main Full · Bakery Simulator](Main%20Full%20%C2%B7%20Bakery%20Simulator.md) | Interface (ScreenGui) · 90 éléments UI |
 | ![Aperçu\|120](../../_img/Lg0056.webp) | [Main Full · Pet Pharmica](Main%20Full%20%C2%B7%20Pet%20Pharmica.md) | Interface (ScreenGui) · 69 éléments UI |
 | ![Aperçu\|120](../../_img/Lg0060.webp) | [Main Full · Robot Simulator](Main%20Full%20%C2%B7%20Robot%20Simulator.md) | Interface (ScreenGui) · 29 éléments UI |
@@ -36,6 +36,6 @@ Sous-catégorie de [Interfaces](../Interfaces.md) · **27 éléments**
 | ![Aperçu\|120](../../_img/Lg0059.webp) | [Main UI Full · Rebirth Champions X](Main%20UI%20Full%20%C2%B7%20Rebirth%20Champions%20X.md) | Interface (ScreenGui) · 91 éléments UI |
 | ![Aperçu\|120](../../_img/Lg0066.webp) | [Main UI Full · Training Simulator](Main%20UI%20Full%20%C2%B7%20Training%20Simulator.md) | Interface (ScreenGui) · 79 éléments UI |
 | ![Aperçu\|120](../../_img/Lg0064.webp) | [Potion Timers · Tapping Lords](Potion%20Timers%20%C2%B7%20Tapping%20Lords.md) | Interface (ScreenGui) · 5 éléments UI |
-| ![Aperçu\|120](../../_img/Lg0043.webp) | [Progress Bar · +1 Jump Every Second](Progress%20Bar%20%C2%B7%20%2B1%20Jump%20Every%20Second.md) | Interface (ScreenGui) · 8 éléments UI |
+| ![Aperçu\|120](../../_img/Lg0043.webp) | [Progress Bar · +1 Jump Every Second](Progress%20Bar%20%C2%B7%20+1%20Jump%20Every%20Second.md) | Interface (ScreenGui) · 8 éléments UI |
 | ![Aperçu\|120](../../_img/Lg0053.webp) | [Side Buttons · Mining Masters](Side%20Buttons%20%C2%B7%20Mining%20Masters.md) | Interface (ScreenGui) · 70 éléments UI |
 | ![Aperçu\|120](../../_img/Lg0054.webp) | [UI Full · Mining Masters](UI%20Full%20%C2%B7%20Mining%20Masters.md) | Interface (ScreenGui) · 76 éléments UI |

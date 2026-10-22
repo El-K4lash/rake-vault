@@ -17,7 +17,7 @@ tags: [categorie/interfaces, sous-categorie/ufs-eclosion, type/lib-gui, jeu/glas
 Interface « Reward Showcase » du jeu Glass Bridge. 66 éléments UI.
 
 - **Catégorie** : [Interfaces](../Interfaces.md)
-- **Sous-catégorie** : [Œufs & éclosion](%C5%92ufs%20%26%20%C3%A9closion.md)
+- **Sous-catégorie** : [Œufs & éclosion](%C5%92ufs%20&%20%C3%A9closion.md)
 - **Type** : Interface (ScreenGui)
 - **Contenu** : 66 éléments UI
 - **Jeu d'origine** : Glass Bridge

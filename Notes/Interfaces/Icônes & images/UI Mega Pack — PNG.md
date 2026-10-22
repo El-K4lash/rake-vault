@@ -16,7 +16,7 @@ tags: [categorie/interfaces, sous-categorie/icones-images, type/lib-img]
 Pack « UI Mega Pack — PNG » : 46 images PNG. Télécharge le .zip puis importe les images dans Roblox Studio (Asset Manager ou Bulk Import).
 
 - **Catégorie** : [Interfaces](../Interfaces.md)
-- **Sous-catégorie** : [Icônes & images](Ic%C3%B4nes%20%26%20images.md)
+- **Sous-catégorie** : [Icônes & images](Ic%C3%B4nes%20&%20images.md)
 - **Type** : Pack d'images
 - **Fichier source** : `ui/Roblox Ui Model/png` (dans ta bibliothèque `rblx\lib`)
 

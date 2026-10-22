@@ -8,7 +8,7 @@ tags: [index, categorie/pets-meshes]
 
 # Nature · Bois & racines
 
-Sous-catégorie de [Pets & meshes](../Pets%20%26%20meshes.md) · **42 éléments**
+Sous-catégorie de [Pets & meshes](../Pets%20&%20meshes.md) · **42 éléments**
 
 | Aperçu | Élément | Infos |
 | --- | --- | --- |

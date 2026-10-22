@@ -17,7 +17,7 @@ tags: [categorie/interfaces, sous-categorie/admin-debug, type/lib-gui, jeu/baker
 Interface « Admin Panel » du jeu Bakery Simulator. 11 éléments UI.
 
 - **Catégorie** : [Interfaces](../Interfaces.md)
-- **Sous-catégorie** : [Admin & debug](Admin%20%26%20debug.md)
+- **Sous-catégorie** : [Admin & debug](Admin%20&%20debug.md)
 - **Type** : Interface (ScreenGui)
 - **Contenu** : 11 éléments UI
 - **Jeu d'origine** : Bakery Simulator

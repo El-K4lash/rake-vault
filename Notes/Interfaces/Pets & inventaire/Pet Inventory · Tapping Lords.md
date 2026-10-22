@@ -17,7 +17,7 @@ tags: [categorie/interfaces, sous-categorie/pets-inventaire, type/lib-gui, jeu/t
 Interface « Pet Inventory » du jeu Tapping Lords. 28 éléments UI.
 
 - **Catégorie** : [Interfaces](../Interfaces.md)
-- **Sous-catégorie** : [Pets & inventaire](Pets%20%26%20inventaire.md)
+- **Sous-catégorie** : [Pets & inventaire](Pets%20&%20inventaire.md)
 - **Type** : Interface (ScreenGui)
 - **Contenu** : 28 éléments UI
 - **Jeu d'origine** : Tapping Lords

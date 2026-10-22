@@ -15,7 +15,7 @@ tags: [categorie/systemes-kits, sous-categorie/kits-tiers, type/lib-sys]
 
 Kits tier : 87 scripts.
 
-- **Catégorie** : [Systèmes & kits](../Syst%C3%A8mes%20%26%20kits.md)
+- **Catégorie** : [Systèmes & kits](../Syst%C3%A8mes%20&%20kits.md)
 - **Sous-catégorie** : [Kits tiers](Kits%20tiers.md)
 - **Type** : Système de jeu
 - **Contenu** : 87 scripts · 6 479 instances

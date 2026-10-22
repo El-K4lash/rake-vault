@@ -8,7 +8,7 @@ tags: [index, categorie/pets-meshes]
 
 # Assets de jeux
 
-Sous-catégorie de [Pets & meshes](../Pets%20%26%20meshes.md) · **36 éléments**
+Sous-catégorie de [Pets & meshes](../Pets%20&%20meshes.md) · **36 éléments**
 
 | Aperçu | Élément | Infos |
 | --- | --- | --- |
@@ -44,7 +44,7 @@ Sous-catégorie de [Pets & meshes](../Pets%20%26%20meshes.md) · **36 éléments
 | ![Aperçu\|120](../../_img/Lm1731.webp) | [Sells · Robot Simulator](Sells%20%C2%B7%20Robot%20Simulator.md) | Modèle en MeshParts · 15 Parts · 26 MeshParts |
 | ![Aperçu\|120](../../_img/Lm1546.webp) | [Spotlight · First Donations](Spotlight%20%C2%B7%20First%20Donations.md) | Modèle en MeshParts · 8 MeshParts |
 | ![Aperçu\|120](../../_img/Lm1547.webp) | [Stands · First Donations](Stands%20%C2%B7%20First%20Donations.md) | Modèle en MeshParts · 448 MeshParts |
-| ![Aperçu\|120](../../_img/Lm1439.webp) | [Superbiz Catalog Model · +1 Jump Every Second](Superbiz%20Catalog%20Model%20%C2%B7%20%2B1%20Jump%20Every%20Second.md) | Modèle en MeshParts · 1 Part · 8 MeshParts |
+| ![Aperçu\|120](../../_img/Lm1439.webp) | [Superbiz Catalog Model · +1 Jump Every Second](Superbiz%20Catalog%20Model%20%C2%B7%20+1%20Jump%20Every%20Second.md) | Modèle en MeshParts · 1 Part · 8 MeshParts |
 | ![Aperçu\|120](../../_img/Lm1531.webp) | [Templates · First Donations](Templates%20%C2%B7%20First%20Donations.md) | Modèle en MeshParts · 7 MeshParts |
 | ![Aperçu\|120](../../_img/Lm1532.webp) | [Tools · First Donations](Tools%20%C2%B7%20First%20Donations.md) | Modèle en MeshParts · 7 MeshParts |
 | ![Aperçu\|120](../../_img/Lm1770.webp) | [Youtube Star · Tapping Lords](Youtube%20Star%20%C2%B7%20Tapping%20Lords.md) | Modèle en MeshParts · 3 MeshParts |

@@ -16,8 +16,8 @@ tags: [categorie/pets-meshes, sous-categorie/tycoon-convoyeurs, type/lib-mesh, j
 
 Modèle en MeshParts « City Tycoon Island » (Robot Simulator). Aperçu rendu dans Roblox Studio avec ses vraies textures.
 
-- **Catégorie** : [Pets & meshes](../Pets%20%26%20meshes.md)
-- **Sous-catégorie** : [Tycoon & convoyeurs](Tycoon%20%26%20convoyeurs%20%28Pets%20%26%20meshes%29.md)
+- **Catégorie** : [Pets & meshes](../Pets%20&%20meshes.md)
+- **Sous-catégorie** : [Tycoon & convoyeurs](Tycoon%20&%20convoyeurs%20%28Pets%20&%20meshes%29.md)
 - **Type** : Modèle en MeshParts
 - **Contenu** : 181 Parts · 46 MeshParts
 - **Jeu d'origine** : Robot Simulator

@@ -17,7 +17,7 @@ tags: [categorie/interfaces, sous-categorie/index-collection, type/lib-gui, jeu/
 Interface « Pet Index » du jeu Hatching Simulator. 22 éléments UI.
 
 - **Catégorie** : [Interfaces](../Interfaces.md)
-- **Sous-catégorie** : [Index & collection](Index%20%26%20collection.md)
+- **Sous-catégorie** : [Index & collection](Index%20&%20collection.md)
 - **Type** : Interface (ScreenGui)
 - **Contenu** : 22 éléments UI
 - **Jeu d'origine** : Hatching Simulator

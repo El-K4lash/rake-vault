@@ -18,7 +18,7 @@ tags: [categorie/bibliotheque-3d, sous-categorie/chapeaux-accessoires, type/lib-
 Modèle en Parts « Debug Glider » (Robot Simulator).
 
 - **Catégorie** : [Bibliothèque 3D](../Biblioth%C3%A8que%203D.md)
-- **Sous-catégorie** : [Chapeaux & accessoires](Chapeaux%20%26%20accessoires%20%28Biblioth%C3%A8que%203D%29.md)
+- **Sous-catégorie** : [Chapeaux & accessoires](Chapeaux%20&%20accessoires%20%28Biblioth%C3%A8que%203D%29.md)
 - **Type** : Modèle en Parts
 - **Taille** : 16 × 9 × 5 studs
 - **Contenu** : 36 Parts

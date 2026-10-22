@@ -8,7 +8,7 @@ tags: [index, categorie/pets-meshes]
 
 # Œufs & incubateurs
 
-Sous-catégorie de [Pets & meshes](../Pets%20%26%20meshes.md) · **56 éléments**
+Sous-catégorie de [Pets & meshes](../Pets%20&%20meshes.md) · **56 éléments**
 
 | Aperçu | Élément | Infos |
 | --- | --- | --- |
@@ -37,9 +37,9 @@ Sous-catégorie de [Pets & meshes](../Pets%20%26%20meshes.md) · **56 éléments
 | ![Aperçu\|120](../../_img/Lm0479.webp) | [Egg · Punch Simulator](Egg%20%C2%B7%20Punch%20Simulator.md) | Modèle en MeshParts · 2 MeshParts |
 | ![Aperçu\|120](../../_img/Lm0480.webp) | [Egg 2 · Punch Simulator](Egg%202%20%C2%B7%20Punch%20Simulator.md) | Modèle en MeshParts · 4 MeshParts |
 | ![Aperçu\|120](../../_img/Lm0586.webp) | [Egg Incubators 200 · Tweeting Simulator](Egg%20Incubators%20200%20%C2%B7%20Tweeting%20Simulator.md) | Modèle en MeshParts · 1 Part · 6 MeshParts |
-| ![Aperçu\|120](../../_img/Lm0421.webp) | [Eggs · +1 Jump Every Second](Eggs%20%C2%B7%20%2B1%20Jump%20Every%20Second.md) | Modèle en MeshParts · 18 MeshParts |
+| ![Aperçu\|120](../../_img/Lm0421.webp) | [Eggs · +1 Jump Every Second](Eggs%20%C2%B7%20+1%20Jump%20Every%20Second.md) | Modèle en MeshParts · 18 MeshParts |
 | ![Aperçu\|120](../../_img/Lm0511.webp) | [Eggs · Rebirth Champions X](Eggs%20%C2%B7%20Rebirth%20Champions%20X.md) | Modèle en MeshParts · 1 MeshPart |
-| ![Aperçu\|120](../../_img/Lm0422.webp) | [Eggs 2 · +1 Jump Every Second](Eggs%202%20%C2%B7%20%2B1%20Jump%20Every%20Second.md) | Modèle en MeshParts · 7 MeshParts |
+| ![Aperçu\|120](../../_img/Lm0422.webp) | [Eggs 2 · +1 Jump Every Second](Eggs%202%20%C2%B7%20+1%20Jump%20Every%20Second.md) | Modèle en MeshParts · 7 MeshParts |
 | ![Aperçu\|120](../../_img/Lm0427.webp) | [Electric Egg · Hatching Simulator](Electric%20Egg%20%C2%B7%20Hatching%20Simulator.md) | Modèle en MeshParts · 4 MeshParts |
 | ![Aperçu\|120](../../_img/Lm0512.webp) | [Fire · Rebirth Champions X](Fire%20%C2%B7%20Rebirth%20Champions%20X.md) | Modèle en MeshParts · 2 MeshParts |
 | ![Aperçu\|120](../../_img/Lm0431.webp) | [Flame Egg · Hatching Simulator](Flame%20Egg%20%C2%B7%20Hatching%20Simulator.md) | Modèle en MeshParts · 4 MeshParts |

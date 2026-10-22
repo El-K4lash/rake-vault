@@ -18,7 +18,7 @@ tags: [categorie/bibliotheque-3d, sous-categorie/maps-iles, type/lib-part, jeu/r
 Modèle en Parts « Island3 2 » (Robot Simulator).
 
 - **Catégorie** : [Bibliothèque 3D](../Biblioth%C3%A8que%203D.md)
-- **Sous-catégorie** : [Maps & îles](Maps%20%26%20%C3%AEles%20%28Biblioth%C3%A8que%203D%29.md)
+- **Sous-catégorie** : [Maps & îles](Maps%20&%20%C3%AEles%20%28Biblioth%C3%A8que%203D%29.md)
 - **Type** : Modèle en Parts
 - **Taille** : 130 × 37 × 143 studs
 - **Contenu** : 281 Parts · 28 MeshParts

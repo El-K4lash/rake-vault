@@ -8,7 +8,7 @@ tags: [index, categorie/pets-meshes]
 
 # Machines
 
-Sous-catégorie de [Pets & meshes](../Pets%20%26%20meshes.md) · **20 éléments**
+Sous-catégorie de [Pets & meshes](../Pets%20&%20meshes.md) · **20 éléments**
 
 | Aperçu | Élément | Infos |
 | --- | --- | --- |

@@ -20,8 +20,8 @@ Le deuxième cerveau de tes jeux Roblox, version Obsidian : chaque modèle, inte
 | [Biomes](Biomes/Biomes.md) | 320 |
 | [Interfaces](Interfaces/Interfaces.md) | 313 |
 | [Bibliothèque 3D](Biblioth%C3%A8que%203D/Biblioth%C3%A8que%203D.md) | 207 |
-| [Pets & meshes](Pets%20%26%20meshes/Pets%20%26%20meshes.md) | 1250 |
-| [Systèmes & kits](Syst%C3%A8mes%20%26%20kits/Syst%C3%A8mes%20%26%20kits.md) | 39 |
+| [Pets & meshes](Pets%20&%20meshes/Pets%20&%20meshes.md) | 1250 |
+| [Systèmes & kits](Syst%C3%A8mes%20&%20kits/Syst%C3%A8mes%20&%20kits.md) | 39 |
 | [Templates de jeux](Templates%20de%20jeux/Templates%20de%20jeux.md) | 52 |
 
 ## Naviguer

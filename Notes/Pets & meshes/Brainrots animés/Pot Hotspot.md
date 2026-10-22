@@ -15,7 +15,7 @@ tags: [categorie/pets-meshes, sous-categorie/brainrots-animes, type/lib-mesh]
 
 Modèle en MeshParts « Pot Hotspot ». Aperçu rendu dans Roblox Studio avec ses vraies textures.
 
-- **Catégorie** : [Pets & meshes](../Pets%20%26%20meshes.md)
+- **Catégorie** : [Pets & meshes](../Pets%20&%20meshes.md)
 - **Sous-catégorie** : [Brainrots animés](Brainrots%20anim%C3%A9s.md)
 - **Type** : Modèle en MeshParts
 - **Contenu** : 1 MeshPart

@@ -16,8 +16,8 @@ tags: [categorie/pets-meshes, sous-categorie/assets-de-jeux, type/lib-mesh, jeu/
 
 Modèle en MeshParts « Portals » (Tapping Lords). Aperçu : forme du mesh principal (sans texture).
 
-- **Catégorie** : [Pets & meshes](../Pets%20%26%20meshes.md)
-- **Sous-catégorie** : [Assets de jeux](Assets%20de%20jeux%20%28Pets%20%26%20meshes%29.md)
+- **Catégorie** : [Pets & meshes](../Pets%20&%20meshes.md)
+- **Sous-catégorie** : [Assets de jeux](Assets%20de%20jeux%20%28Pets%20&%20meshes%29.md)
 - **Type** : Modèle en MeshParts
 - **Contenu** : 96 Parts · 13 MeshParts
 - **Jeu d'origine** : Tapping Lords

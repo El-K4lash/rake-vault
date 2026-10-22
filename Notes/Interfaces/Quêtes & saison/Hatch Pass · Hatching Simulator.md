@@ -17,7 +17,7 @@ tags: [categorie/interfaces, sous-categorie/quetes-saison, type/lib-gui, jeu/hat
 Interface « Hatch Pass » du jeu Hatching Simulator. 66 éléments UI.
 
 - **Catégorie** : [Interfaces](../Interfaces.md)
-- **Sous-catégorie** : [Quêtes & saison](Qu%C3%AAtes%20%26%20saison.md)
+- **Sous-catégorie** : [Quêtes & saison](Qu%C3%AAtes%20&%20saison.md)
 - **Type** : Interface (ScreenGui)
 - **Contenu** : 66 éléments UI
 - **Jeu d'origine** : Hatching Simulator

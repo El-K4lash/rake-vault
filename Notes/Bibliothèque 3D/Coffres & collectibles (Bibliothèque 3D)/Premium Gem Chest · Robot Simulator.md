@@ -18,7 +18,7 @@ tags: [categorie/bibliotheque-3d, sous-categorie/coffres-collectibles, type/lib-
 Modèle en Parts « Premium Gem Chest » (Robot Simulator).
 
 - **Catégorie** : [Bibliothèque 3D](../Biblioth%C3%A8que%203D.md)
-- **Sous-catégorie** : [Coffres & collectibles](Coffres%20%26%20collectibles%20%28Biblioth%C3%A8que%203D%29.md)
+- **Sous-catégorie** : [Coffres & collectibles](Coffres%20&%20collectibles%20%28Biblioth%C3%A8que%203D%29.md)
 - **Type** : Modèle en Parts
 - **Taille** : 30 × 11 × 30 studs
 - **Contenu** : 68 Parts

@@ -16,7 +16,7 @@ tags: [categorie/pets-meshes, sous-categorie/nature-scenes-pretes, type/lib-mesh
 
 Modèle en MeshParts « Cluster Rock 3 ». Pas d’aperçu 3D : mesh privé du compte LFT_Labs (le .rbxm marche quand même dans Studio connecté avec ce compte).
 
-- **Catégorie** : [Pets & meshes](../Pets%20%26%20meshes.md)
+- **Catégorie** : [Pets & meshes](../Pets%20&%20meshes.md)
 - **Sous-catégorie** : [Nature · Scènes prêtes](Nature%20%C2%B7%20Sc%C3%A8nes%20pr%C3%AAtes.md)
 - **Type** : Modèle en MeshParts
 - **Contenu** : 7 MeshParts

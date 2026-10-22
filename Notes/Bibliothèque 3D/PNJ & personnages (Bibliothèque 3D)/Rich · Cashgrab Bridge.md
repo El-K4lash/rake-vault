@@ -18,7 +18,7 @@ tags: [categorie/bibliotheque-3d, sous-categorie/pnj-personnages, type/lib-part,
 Modèle en Parts « Rich » (Cashgrab Bridge).
 
 - **Catégorie** : [Bibliothèque 3D](../Biblioth%C3%A8que%203D.md)
-- **Sous-catégorie** : [PNJ & personnages](PNJ%20%26%20personnages%20%28Biblioth%C3%A8que%203D%29.md)
+- **Sous-catégorie** : [PNJ & personnages](PNJ%20&%20personnages%20%28Biblioth%C3%A8que%203D%29.md)
 - **Type** : Modèle en Parts
 - **Taille** : 4 × 4 × 3 studs
 - **Contenu** : 8 Parts · 5 MeshParts

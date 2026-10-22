@@ -16,8 +16,8 @@ tags: [categorie/pets-meshes, sous-categorie/nature-plantes-fleurs, type/lib-mes
 
 Modèle en MeshParts « Vine Short 1 ». Pas d’aperçu 3D : mesh privé du compte LFT_Labs (le .rbxm marche quand même dans Studio connecté avec ce compte).
 
-- **Catégorie** : [Pets & meshes](../Pets%20%26%20meshes.md)
-- **Sous-catégorie** : [Nature · Plantes & fleurs](Nature%20%C2%B7%20Plantes%20%26%20fleurs.md)
+- **Catégorie** : [Pets & meshes](../Pets%20&%20meshes.md)
+- **Sous-catégorie** : [Nature · Plantes & fleurs](Nature%20%C2%B7%20Plantes%20&%20fleurs.md)
 - **Type** : Modèle en MeshParts
 - **Contenu** : 1 MeshPart
 - **Pack d'origine** : Roblox Nature 480 (`600.rbxm`)

@@ -16,7 +16,7 @@ tags: [categorie/pets-meshes, sous-categorie/99-eggs, type/lib-mesh, pack/99-egg
 
 Modèle en MeshParts « Little Green Visitor #031 ». Pas d’aperçu 3D : mesh privé du compte LFT_Labs (le .rbxm marche quand même dans Studio connecté avec ce compte).
 
-- **Catégorie** : [Pets & meshes](../Pets%20%26%20meshes.md)
+- **Catégorie** : [Pets & meshes](../Pets%20&%20meshes.md)
 - **Sous-catégorie** : [99 Eggs](99%20Eggs.md)
 - **Type** : Modèle en MeshParts
 - **Contenu** : 1 MeshPart

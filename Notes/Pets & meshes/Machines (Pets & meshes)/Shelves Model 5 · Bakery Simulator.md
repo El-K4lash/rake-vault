@@ -16,8 +16,8 @@ tags: [categorie/pets-meshes, sous-categorie/machines, type/lib-mesh, jeu/bakery
 
 Modèle en MeshParts « Shelves Model 5 » (Bakery Simulator). Aperçu rendu dans Roblox Studio avec ses vraies textures.
 
-- **Catégorie** : [Pets & meshes](../Pets%20%26%20meshes.md)
-- **Sous-catégorie** : [Machines](Machines%20%28Pets%20%26%20meshes%29.md)
+- **Catégorie** : [Pets & meshes](../Pets%20&%20meshes.md)
+- **Sous-catégorie** : [Machines](Machines%20%28Pets%20&%20meshes%29.md)
 - **Type** : Modèle en MeshParts
 - **Contenu** : 2 Parts · 3 MeshParts
 - **Jeu d'origine** : Bakery Simulator

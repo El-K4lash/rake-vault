@@ -18,7 +18,7 @@ tags: [categorie/bibliotheque-3d, sous-categorie/pnj-personnages, type/lib-part,
 Modèle en Parts « Basic Dude » (Shoot A Brainrot).
 
 - **Catégorie** : [Bibliothèque 3D](../Biblioth%C3%A8que%203D.md)
-- **Sous-catégorie** : [PNJ & personnages](PNJ%20%26%20personnages%20%28Biblioth%C3%A8que%203D%29.md)
+- **Sous-catégorie** : [PNJ & personnages](PNJ%20&%20personnages%20%28Biblioth%C3%A8que%203D%29.md)
 - **Type** : Modèle en Parts
 - **Taille** : 4 × 5 × 1 studs
 - **Contenu** : 6 Parts

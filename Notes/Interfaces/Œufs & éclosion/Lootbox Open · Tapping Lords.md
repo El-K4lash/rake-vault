@@ -17,7 +17,7 @@ tags: [categorie/interfaces, sous-categorie/ufs-eclosion, type/lib-gui, jeu/tapp
 Interface « Lootbox Open » du jeu Tapping Lords. 8 éléments UI.
 
 - **Catégorie** : [Interfaces](../Interfaces.md)
-- **Sous-catégorie** : [Œufs & éclosion](%C5%92ufs%20%26%20%C3%A9closion.md)
+- **Sous-catégorie** : [Œufs & éclosion](%C5%92ufs%20&%20%C3%A9closion.md)
 - **Type** : Interface (ScreenGui)
 - **Contenu** : 8 éléments UI
 - **Jeu d'origine** : Tapping Lords

@@ -17,7 +17,7 @@ tags: [categorie/interfaces, sous-categorie/profil-stats, type/lib-gui, jeu/tapp
 Interface « Profile » du jeu Tapping Lords. 47 éléments UI.
 
 - **Catégorie** : [Interfaces](../Interfaces.md)
-- **Sous-catégorie** : [Profil & stats](Profil%20%26%20stats.md)
+- **Sous-catégorie** : [Profil & stats](Profil%20&%20stats.md)
 - **Type** : Interface (ScreenGui)
 - **Contenu** : 47 éléments UI
 - **Jeu d'origine** : Tapping Lords
