@@ -6,7 +6,7 @@ sous-catégorie: "Œufs & incubateurs"
 type: "Modèle en Parts"
 taille: "3 × 7 × 1"
 jeu: "Tapping Lords"
-source: "models/ByType/Eggs_Incubators/TappingLords_Basic.rbxm"
+source: "Assets/models/ByType/Eggs_Incubators/TappingLords_Basic.rbxm"
 image: "_img/Lp0572.webp"
 tags: [categorie/bibliotheque-3d, sous-categorie/ufs-incubateurs, type/lib-part, jeu/tapping-lords]
 ---
@@ -23,4 +23,4 @@ Modèle en Parts « Basic » (Tapping Lords).
 - **Taille** : 3 × 7 × 1 studs
 - **Contenu** : 7 Parts · 1 MeshPart
 - **Jeu d'origine** : Tapping Lords
-- **Fichier source** : `models/ByType/Eggs_Incubators/TappingLords_Basic.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Eggs_Incubators/TappingLords_Basic.rbxm` (dans le vault)

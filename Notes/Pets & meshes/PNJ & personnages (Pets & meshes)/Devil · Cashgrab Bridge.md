@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "PNJ & personnages"
 type: "Modèle en MeshParts"
 jeu: "Cashgrab Bridge"
-source: "models/ByType/NPC_Characters/CashgrabBridge_Devil.rbxm"
+source: "Assets/models/ByType/NPC_Characters/CashgrabBridge_Devil.rbxm"
 image: "_img/Lm0960.webp"
 tags: [categorie/pets-meshes, sous-categorie/pnj-personnages, type/lib-mesh, jeu/cashgrab-bridge]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « Devil » (Cashgrab Bridge). Aperçu rendu dans Roblox St
 - **Type** : Modèle en MeshParts
 - **Contenu** : 8 Parts · 3 MeshParts
 - **Jeu d'origine** : Cashgrab Bridge
-- **Fichier source** : `models/ByType/NPC_Characters/CashgrabBridge_Devil.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/NPC_Characters/CashgrabBridge_Devil.rbxm` (dans le vault)

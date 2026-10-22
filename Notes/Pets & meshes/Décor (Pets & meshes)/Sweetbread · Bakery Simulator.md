@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Décor"
 type: "Modèle en MeshParts"
 jeu: "Bakery Simulator"
-source: "models/ByType/Decor_Props/BakerySim_Sweetbread.rbxm"
+source: "Assets/models/ByType/Decor_Props/BakerySim_Sweetbread.rbxm"
 image: "_img/Lm0183.webp"
 tags: [categorie/pets-meshes, sous-categorie/decor, type/lib-mesh, jeu/bakery-simulator]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « Sweetbread » (Bakery Simulator). Aperçu rendu dans Rob
 - **Type** : Modèle en MeshParts
 - **Contenu** : 1 MeshPart
 - **Jeu d'origine** : Bakery Simulator
-- **Fichier source** : `models/ByType/Decor_Props/BakerySim_Sweetbread.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Decor_Props/BakerySim_Sweetbread.rbxm` (dans le vault)

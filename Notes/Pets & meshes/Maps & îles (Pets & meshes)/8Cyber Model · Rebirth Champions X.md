@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Maps & îles"
 type: "Modèle en MeshParts"
 jeu: "Rebirth Champions X"
-source: "models/ByType/Maps_Islands_Worlds/RebirthChampionsX_8Cyber_Model.rbxm"
+source: "Assets/models/ByType/Maps_Islands_Worlds/RebirthChampionsX_8Cyber_Model.rbxm"
 image: "_img/Lm0883.webp"
 tags: [categorie/pets-meshes, sous-categorie/maps-iles, type/lib-mesh, jeu/rebirth-champions-x]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « 8Cyber Model » (Rebirth Champions X). Aperçu rendu dan
 - **Type** : Modèle en MeshParts
 - **Contenu** : 3 Parts · 48 MeshParts
 - **Jeu d'origine** : Rebirth Champions X
-- **Fichier source** : `models/ByType/Maps_Islands_Worlds/RebirthChampionsX_8Cyber_Model.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Maps_Islands_Worlds/RebirthChampionsX_8Cyber_Model.rbxm` (dans le vault)

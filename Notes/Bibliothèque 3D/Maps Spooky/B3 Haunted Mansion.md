@@ -5,7 +5,7 @@ catégorie: "Bibliothèque 3D"
 sous-catégorie: "Maps Spooky"
 type: "Modèle en Parts"
 taille: "165 × 88 × 160"
-source: "maps/SpookyBiomes/B3_HauntedMansion.rbxm"
+source: "Assets/maps/SpookyBiomes/B3_HauntedMansion.rbxm"
 image: "_img/Lp0012.webp"
 tags: [categorie/bibliotheque-3d, sous-categorie/maps-spooky, type/lib-part]
 ---
@@ -21,4 +21,4 @@ Modèle en Parts « B3 Haunted Mansion ».
 - **Type** : Modèle en Parts
 - **Taille** : 165 × 88 × 160 studs
 - **Contenu** : 1 613 Parts
-- **Fichier source** : `maps/SpookyBiomes/B3_HauntedMansion.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/maps/SpookyBiomes/B3_HauntedMansion.rbxm` (dans le vault)

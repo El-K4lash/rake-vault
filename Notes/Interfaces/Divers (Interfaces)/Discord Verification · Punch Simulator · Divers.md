@@ -5,7 +5,7 @@ catégorie: "Interfaces"
 sous-catégorie: "Divers"
 type: "Interface (ScreenGui)"
 jeu: "Punch Simulator"
-source: "ui/ByType/Misc/PunchSim_DiscordVerification.rbxm"
+source: "Assets/ui/ByType/Misc/PunchSim_DiscordVerification.rbxm"
 image: "_img/Lg0104.webp"
 tags: [categorie/interfaces, sous-categorie/divers, type/lib-gui, jeu/punch-simulator]
 ---
@@ -21,4 +21,4 @@ Interface « Discord Verification » du jeu Punch Simulator. 17 éléments UI.
 - **Type** : Interface (ScreenGui)
 - **Contenu** : 17 éléments UI
 - **Jeu d'origine** : Punch Simulator
-- **Fichier source** : `ui/ByType/Misc/PunchSim_DiscordVerification.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/ui/ByType/Misc/PunchSim_DiscordVerification.rbxm` (dans le vault)

@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Pets"
 type: "Modèle en MeshParts"
 jeu: "Magnet Simulator 2"
-source: "models/ByType/Pets/MagnetSim2_HardHatParrot.rbxm"
+source: "Assets/models/ByType/Pets/MagnetSim2_HardHatParrot.rbxm"
 image: "_img/Lm1163.webp"
 tags: [categorie/pets-meshes, sous-categorie/pets, type/lib-mesh, jeu/magnet-simulator-2]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « Hard Hat Parrot » (Magnet Simulator 2). Aperçu rendu d
 - **Type** : Modèle en MeshParts
 - **Contenu** : 8 MeshParts
 - **Jeu d'origine** : Magnet Simulator 2
-- **Fichier source** : `models/ByType/Pets/MagnetSim2_HardHatParrot.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Pets/MagnetSim2_HardHatParrot.rbxm` (dans le vault)

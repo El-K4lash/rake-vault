@@ -5,7 +5,7 @@ catégorie: "Interfaces"
 sous-catégorie: "Robux & gamepass"
 type: "Interface (ScreenGui)"
 jeu: "Tapping Lords"
-source: "ui/ByType/Robux_Gamepass/TappingLords_AutoHatchPass.rbxm"
+source: "Assets/ui/ByType/Robux_Gamepass/TappingLords_AutoHatchPass.rbxm"
 image: "_img/Lg0182.webp"
 tags: [categorie/interfaces, sous-categorie/robux-gamepass, type/lib-gui, jeu/tapping-lords]
 ---
@@ -21,4 +21,4 @@ Interface « Auto Hatch Pass » du jeu Tapping Lords. 12 éléments UI.
 - **Type** : Interface (ScreenGui)
 - **Contenu** : 12 éléments UI
 - **Jeu d'origine** : Tapping Lords
-- **Fichier source** : `ui/ByType/Robux_Gamepass/TappingLords_AutoHatchPass.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/ui/ByType/Robux_Gamepass/TappingLords_AutoHatchPass.rbxm` (dans le vault)

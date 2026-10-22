@@ -4,7 +4,7 @@ id: "Lg0453"
 catégorie: "Interfaces"
 sous-catégorie: "Steal an Spooky Egg"
 type: "Interface (ScreenGui)"
-source: "ui/SpookyGame/Templates/CarryTemplate.rbxm"
+source: "Assets/ui/SpookyGame/Templates/CarryTemplate.rbxm"
 image: "_img/Lg0453.webp"
 tags: [categorie/interfaces, sous-categorie/steal-an-spooky-egg, type/lib-gui]
 ---
@@ -19,4 +19,4 @@ Interface « Carry Template ». 20 éléments UI.
 - **Sous-catégorie** : [Steal an Spooky Egg](Steal%20an%20Spooky%20Egg%20%28Interfaces%29.md)
 - **Type** : Interface (ScreenGui)
 - **Contenu** : 20 éléments UI
-- **Fichier source** : `ui/SpookyGame/Templates/CarryTemplate.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/ui/SpookyGame/Templates/CarryTemplate.rbxm` (dans le vault)

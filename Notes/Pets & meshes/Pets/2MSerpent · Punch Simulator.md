@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Pets"
 type: "Modèle en MeshParts"
 jeu: "Punch Simulator"
-source: "models/ByType/Pets/PunchSim_2MSerpent.rbxm"
+source: "Assets/models/ByType/Pets/PunchSim_2MSerpent.rbxm"
 image: "_img/Lm1378.webp"
 tags: [categorie/pets-meshes, sous-categorie/pets, type/lib-mesh, jeu/punch-simulator]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « 2MSerpent » (Punch Simulator). Aperçu rendu dans Roblo
 - **Type** : Modèle en MeshParts
 - **Contenu** : 1 MeshPart
 - **Jeu d'origine** : Punch Simulator
-- **Fichier source** : `models/ByType/Pets/PunchSim_2MSerpent.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Pets/PunchSim_2MSerpent.rbxm` (dans le vault)

@@ -2,13 +2,13 @@
 title: "Œufs & incubateurs"
 type: "Sous-catégorie"
 catégorie: "Bibliothèque 3D"
-éléments: 26
+éléments: 28
 tags: [index, categorie/bibliotheque-3d]
 ---
 
 # Œufs & incubateurs
 
-Sous-catégorie de [Bibliothèque 3D](../Biblioth%C3%A8que%203D.md) · **26 éléments**
+Sous-catégorie de [Bibliothèque 3D](../Biblioth%C3%A8que%203D.md) · **28 éléments**
 
 | Aperçu | Élément | Infos |
 | --- | --- | --- |
@@ -38,3 +38,5 @@ Sous-catégorie de [Bibliothèque 3D](../Biblioth%C3%A8que%203D.md) · **26 él�
 | ![Aperçu\|120](../../_img/Lp0446.webp) | [Tier4 · Magnet Simulator 2](Tier4%20%C2%B7%20Magnet%20Simulator%202.md) | Modèle en Parts · 2 × 10 × 1 · 5 Parts · 16 MeshParts |
 | ![Aperçu\|120](../../_img/Lp0571.webp) | [Vip Egg 2 · Robot Simulator](Vip%20Egg%202%20%C2%B7%20Robot%20Simulator.md) | Modèle en Parts · 21 × 10 × 17 · 19 Parts · 1 MeshPart |
 | ![Aperçu\|120](../../_img/Lp0578.webp) | [Water · Tapping Lords](Water%20%C2%B7%20Tapping%20Lords.md) | Modèle en Parts · 3 × 7 × 1 · 5 Parts · 1 MeshPart |
+| ![Aperçu\|120](../../_img/Lp0543.webp) | [Œufs & incubateurs — pack par type (90 modèles)](%C5%92ufs%20&%20incubateurs%20%E2%80%94%20pack%20par%20type%20%2890%20mod%C3%A8les%29.md) | Pack de fichiers · 90 fichiers · 5,2 Mo |
+| ![Aperçu\|120](../../_img/Ly0034.webp) | [Egg Incubator Machine](Egg%20Incubator%20Machine.md) | Modèle Roblox (.rbxm) · 1 fichier · 27 Ko |

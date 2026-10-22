@@ -4,7 +4,7 @@ id: "Lg0360"
 catégorie: "Interfaces"
 sous-catégorie: "Packs UI"
 type: "Interface (ScreenGui)"
-source: "ui/Icons/SimulatorIcons.rbxm"
+source: "Assets/ui/Icons/SimulatorIcons.rbxm"
 image: "_img/Lg0360.webp"
 tags: [categorie/interfaces, sous-categorie/packs-ui, type/lib-gui]
 ---
@@ -19,4 +19,4 @@ Interface « Simulator Icons ». 48 éléments UI.
 - **Sous-catégorie** : [Packs UI](Packs%20UI.md)
 - **Type** : Interface (ScreenGui)
 - **Contenu** : 48 éléments UI
-- **Fichier source** : `ui/Icons/SimulatorIcons.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/ui/Icons/SimulatorIcons.rbxm` (dans le vault)

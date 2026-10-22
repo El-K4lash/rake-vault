@@ -5,7 +5,7 @@ catégorie: "Interfaces"
 sous-catégorie: "HUD & monnaie"
 type: "Interface (ScreenGui)"
 jeu: "Bakery Simulator"
-source: "ui/ByType/HUD_Currency/BakerySim_Main_Full.rbxm"
+source: "Assets/ui/ByType/HUD_Currency/BakerySim_Main_Full.rbxm"
 image: "_img/Lg0044.webp"
 tags: [categorie/interfaces, sous-categorie/hud-monnaie, type/lib-gui, jeu/bakery-simulator]
 ---
@@ -21,4 +21,4 @@ Interface « Main Full » du jeu Bakery Simulator. 90 éléments UI.
 - **Type** : Interface (ScreenGui)
 - **Contenu** : 90 éléments UI
 - **Jeu d'origine** : Bakery Simulator
-- **Fichier source** : `ui/ByType/HUD_Currency/BakerySim_Main_Full.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/ui/ByType/HUD_Currency/BakerySim_Main_Full.rbxm` (dans le vault)

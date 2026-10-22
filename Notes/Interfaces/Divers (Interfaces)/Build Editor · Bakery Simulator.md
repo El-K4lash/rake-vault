@@ -5,7 +5,7 @@ catégorie: "Interfaces"
 sous-catégorie: "Divers"
 type: "Interface (ScreenGui)"
 jeu: "Bakery Simulator"
-source: "ui/ByType/Misc/BakerySim_BuildEditor.rbxm"
+source: "Assets/ui/ByType/Misc/BakerySim_BuildEditor.rbxm"
 image: "_img/Lg0084.webp"
 tags: [categorie/interfaces, sous-categorie/divers, type/lib-gui, jeu/bakery-simulator]
 ---
@@ -21,4 +21,4 @@ Interface « Build Editor » du jeu Bakery Simulator. 12 éléments UI.
 - **Type** : Interface (ScreenGui)
 - **Contenu** : 12 éléments UI
 - **Jeu d'origine** : Bakery Simulator
-- **Fichier source** : `ui/ByType/Misc/BakerySim_BuildEditor.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/ui/ByType/Misc/BakerySim_BuildEditor.rbxm` (dans le vault)

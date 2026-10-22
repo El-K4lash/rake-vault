@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Leaderboards & panneaux"
 type: "Modèle en MeshParts"
 jeu: "Rebirth Champions X"
-source: "models/ByType/Leaderboards_Boards/RebirthChampionsX_TopRebirths_2.rbxm"
+source: "Assets/models/ByType/Leaderboards_Boards/RebirthChampionsX_TopRebirths_2.rbxm"
 image: "_img/Lm0699.webp"
 tags: [categorie/pets-meshes, sous-categorie/leaderboards-panneaux, type/lib-mesh, jeu/rebirth-champions-x]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « Top Rebirths 2 » (Rebirth Champions X). Aperçu rendu d
 - **Type** : Modèle en MeshParts
 - **Contenu** : 25 MeshParts
 - **Jeu d'origine** : Rebirth Champions X
-- **Fichier source** : `models/ByType/Leaderboards_Boards/RebirthChampionsX_TopRebirths_2.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Leaderboards_Boards/RebirthChampionsX_TopRebirths_2.rbxm` (dans le vault)

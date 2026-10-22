@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Œufs & incubateurs"
 type: "Modèle en MeshParts"
 jeu: "Robot Simulator"
-source: "models/ByType/Eggs_Incubators/RobotSim_CrystalEgg.rbxm"
+source: "Assets/models/ByType/Eggs_Incubators/RobotSim_CrystalEgg.rbxm"
 image: "_img/Lm0546.webp"
 tags: [categorie/pets-meshes, sous-categorie/ufs-incubateurs, type/lib-mesh, jeu/robot-simulator]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « Crystal Egg » (Robot Simulator). Aperçu : forme du mes
 - **Type** : Modèle en MeshParts
 - **Contenu** : 2 MeshParts
 - **Jeu d'origine** : Robot Simulator
-- **Fichier source** : `models/ByType/Eggs_Incubators/RobotSim_CrystalEgg.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Eggs_Incubators/RobotSim_CrystalEgg.rbxm` (dans le vault)

@@ -4,7 +4,7 @@ id: "Lj0009"
 catégorie: "Templates de jeux"
 sous-catégorie: "Jump"
 type: "Place complète (.rbxl)"
-source: "games/Jump/Jump_For_Youtubers.rbxl"
+source: "Assets/games/Jump/Jump_For_Youtubers.rbxl"
 image: "_img/Lj0009.webp"
 tags: [categorie/templates-de-jeux, sous-categorie/jump, type/lib-game]
 ---
@@ -19,4 +19,4 @@ Place Roblox complète (.rbxl) : 118 scripts, 11049 instances.
 - **Sous-catégorie** : [Jump](Jump.md)
 - **Type** : Place complète (.rbxl)
 - **Contenu** : 118 scripts · 11 049 instances
-- **Fichier source** : `games/Jump/Jump_For_Youtubers.rbxl` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/games/Jump/Jump_For_Youtubers.rbxl` (dans le vault)

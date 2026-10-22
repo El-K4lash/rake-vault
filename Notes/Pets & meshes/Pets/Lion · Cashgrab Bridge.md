@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Pets"
 type: "Modèle en MeshParts"
 jeu: "Cashgrab Bridge"
-source: "models/ByType/Pets/CashgrabBridge_Lion.rbxm"
+source: "Assets/models/ByType/Pets/CashgrabBridge_Lion.rbxm"
 image: "_img/Lm1080.webp"
 tags: [categorie/pets-meshes, sous-categorie/pets, type/lib-mesh, jeu/cashgrab-bridge]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « Lion » (Cashgrab Bridge). Aperçu rendu dans Roblox Stu
 - **Type** : Modèle en MeshParts
 - **Contenu** : 7 MeshParts
 - **Jeu d'origine** : Cashgrab Bridge
-- **Fichier source** : `models/ByType/Pets/CashgrabBridge_Lion.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Pets/CashgrabBridge_Lion.rbxm` (dans le vault)

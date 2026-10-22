@@ -6,7 +6,7 @@ sous-catégorie: "Divers"
 type: "Modèle en Parts"
 taille: "81 × 19 × 219"
 jeu: "Pet Pharmica"
-source: "models/ByType/Misc/PetPharmica_Streat.rbxm"
+source: "Assets/models/ByType/Misc/PetPharmica_Streat.rbxm"
 image: "_img/Lp0931.webp"
 tags: [categorie/bibliotheque-3d, sous-categorie/divers, type/lib-part, jeu/pet-pharmica]
 ---
@@ -23,4 +23,4 @@ Modèle en Parts « Streat » (Pet Pharmica).
 - **Taille** : 81 × 19 × 219 studs
 - **Contenu** : 8 Parts
 - **Jeu d'origine** : Pet Pharmica
-- **Fichier source** : `models/ByType/Misc/PetPharmica_Streat.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Misc/PetPharmica_Streat.rbxm` (dans le vault)

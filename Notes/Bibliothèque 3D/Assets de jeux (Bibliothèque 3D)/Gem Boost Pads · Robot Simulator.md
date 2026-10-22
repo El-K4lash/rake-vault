@@ -6,7 +6,7 @@ sous-catégorie: "Assets de jeux"
 type: "Modèle en Parts"
 taille: "22 × 43 × 20"
 jeu: "Robot Simulator"
-source: "models/FromGames/Robot Simulator/Workspace/GemBoostPads.rbxm"
+source: "Assets/models/FromGames/Robot Simulator/Workspace/GemBoostPads.rbxm"
 image: "_img/Lp1713.webp"
 tags: [categorie/bibliotheque-3d, sous-categorie/assets-de-jeux, type/lib-part, jeu/robot-simulator]
 ---
@@ -23,4 +23,4 @@ Modèle en Parts « Gem Boost Pads » (Robot Simulator).
 - **Taille** : 22 × 43 × 20 studs
 - **Contenu** : 36 Parts · 11 MeshParts
 - **Jeu d'origine** : Robot Simulator
-- **Fichier source** : `models/FromGames/Robot Simulator/Workspace/GemBoostPads.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/FromGames/Robot Simulator/Workspace/GemBoostPads.rbxm` (dans le vault)

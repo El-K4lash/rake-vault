@@ -5,7 +5,7 @@ catégorie: "Interfaces"
 sous-catégorie: "Boutiques"
 type: "Interface (ScreenGui)"
 jeu: "Robot Simulator"
-source: "ui/ByType/Shop_Store/RobotSim_WeaponSkillShop.rbxm"
+source: "Assets/ui/ByType/Shop_Store/RobotSim_WeaponSkillShop.rbxm"
 image: "_img/Lg0206.webp"
 tags: [categorie/interfaces, sous-categorie/boutiques, type/lib-gui, jeu/robot-simulator]
 ---
@@ -21,4 +21,4 @@ Interface « Weapon Skill Shop » du jeu Robot Simulator. 12 éléments UI.
 - **Type** : Interface (ScreenGui)
 - **Contenu** : 12 éléments UI
 - **Jeu d'origine** : Robot Simulator
-- **Fichier source** : `ui/ByType/Shop_Store/RobotSim_WeaponSkillShop.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/ui/ByType/Shop_Store/RobotSim_WeaponSkillShop.rbxm` (dans le vault)

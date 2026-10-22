@@ -6,7 +6,7 @@ sous-catégorie: "Maps & îles"
 type: "Modèle en Parts"
 taille: "3 × 15 × 13"
 jeu: "Pet Pharmica"
-source: "models/ByType/Maps_Islands_Worlds/PetPharmica_1Spawn_Model.rbxm"
+source: "Assets/models/ByType/Maps_Islands_Worlds/PetPharmica_1Spawn_Model.rbxm"
 image: "_img/Lp0858.webp"
 tags: [categorie/bibliotheque-3d, sous-categorie/maps-iles, type/lib-part, jeu/pet-pharmica]
 ---
@@ -23,4 +23,4 @@ Modèle en Parts « 1Spawn Model » (Pet Pharmica).
 - **Taille** : 3 × 15 × 13 studs
 - **Contenu** : 50 Parts · 20 MeshParts
 - **Jeu d'origine** : Pet Pharmica
-- **Fichier source** : `models/ByType/Maps_Islands_Worlds/PetPharmica_1Spawn_Model.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Maps_Islands_Worlds/PetPharmica_1Spawn_Model.rbxm` (dans le vault)

@@ -2,13 +2,13 @@
 title: "Pets"
 type: "Sous-catégorie"
 catégorie: "Pets & meshes"
-éléments: 203
+éléments: 205
 tags: [index, categorie/pets-meshes]
 ---
 
 # Pets
 
-Sous-catégorie de [Pets & meshes](../Pets%20&%20meshes.md) · **203 éléments**
+Sous-catégorie de [Pets & meshes](../Pets%20&%20meshes.md) · **205 éléments**
 
 | Aperçu | Élément | Infos |
 | --- | --- | --- |
@@ -215,3 +215,5 @@ Sous-catégorie de [Pets & meshes](../Pets%20&%20meshes.md) · **203 éléments*
 | ![Aperçu\|120](../../_img/Lm1052.webp) | [Walrus · +1 Jump Every Second](Walrus%20%C2%B7%20+1%20Jump%20Every%20Second.md) | Modèle en MeshParts · 1 MeshPart |
 | ![Aperçu\|120](../../_img/Lm1092.webp) | [Walrus · Cashgrab Bridge](Walrus%20%C2%B7%20Cashgrab%20Bridge.md) | Modèle en MeshParts · 1 MeshPart |
 | ![Aperçu\|120](../../_img/Lm1094.webp) | [Yellow · Cashgrab Bridge](Yellow%20%C2%B7%20Cashgrab%20Bridge.md) | Modèle en MeshParts · 4 MeshParts |
+| ![Aperçu\|120](../../_img/Lm1280.webp) | [Pets — pack par type (194 modèles)](Pets%20%E2%80%94%20pack%20par%20type%20%28194%20mod%C3%A8les%29.md) | Pack de fichiers · 194 fichiers · 5,1 Mo |
+| ![Aperçu\|120](../../_img/Ly0054.webp) | [Fish models (by Kronos)](Fish%20models%20%28by%20Kronos%29.md) | Pack de fichiers · 204 fichiers · 2,0 Mo |

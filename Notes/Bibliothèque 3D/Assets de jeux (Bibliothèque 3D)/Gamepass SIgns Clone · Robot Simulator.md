@@ -6,7 +6,7 @@ sous-catégorie: "Assets de jeux"
 type: "Modèle en Parts"
 taille: "14 × 10 × 67"
 jeu: "Robot Simulator"
-source: "models/FromGames/Robot Simulator/GamepassSIgnsClone.rbxm"
+source: "Assets/models/FromGames/Robot Simulator/GamepassSIgnsClone.rbxm"
 image: "_img/Lp1681.webp"
 tags: [categorie/bibliotheque-3d, sous-categorie/assets-de-jeux, type/lib-part, jeu/robot-simulator]
 ---
@@ -23,4 +23,4 @@ Modèle en Parts « Gamepass SIgns Clone » (Robot Simulator).
 - **Taille** : 14 × 10 × 67 studs
 - **Contenu** : 192 Parts
 - **Jeu d'origine** : Robot Simulator
-- **Fichier source** : `models/FromGames/Robot Simulator/GamepassSIgnsClone.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/FromGames/Robot Simulator/GamepassSIgnsClone.rbxm` (dans le vault)

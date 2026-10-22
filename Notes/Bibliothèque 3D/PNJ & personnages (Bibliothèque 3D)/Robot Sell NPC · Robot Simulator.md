@@ -6,7 +6,7 @@ sous-catégorie: "PNJ & personnages"
 type: "Modèle en Parts"
 taille: "2 × 3 × 3"
 jeu: "Robot Simulator"
-source: "models/ByType/NPC_Characters/RobotSim_RobotSellNPC.rbxm"
+source: "Assets/models/ByType/NPC_Characters/RobotSim_RobotSellNPC.rbxm"
 image: "_img/Lp0998.webp"
 tags: [categorie/bibliotheque-3d, sous-categorie/pnj-personnages, type/lib-part, jeu/robot-simulator]
 ---
@@ -23,4 +23,4 @@ Modèle en Parts « Robot Sell NPC » (Robot Simulator).
 - **Taille** : 2 × 3 × 3 studs
 - **Contenu** : 5 Parts · 1 MeshPart
 - **Jeu d'origine** : Robot Simulator
-- **Fichier source** : `models/ByType/NPC_Characters/RobotSim_RobotSellNPC.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/NPC_Characters/RobotSim_RobotSellNPC.rbxm` (dans le vault)

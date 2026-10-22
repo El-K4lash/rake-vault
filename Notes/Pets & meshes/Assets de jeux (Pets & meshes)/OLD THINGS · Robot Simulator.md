@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Assets de jeux"
 type: "Modèle en MeshParts"
 jeu: "Robot Simulator"
-source: "models/FromGames/Robot Simulator/OLD_THINGS.rbxm"
+source: "Assets/models/FromGames/Robot Simulator/OLD_THINGS.rbxm"
 image: "_img/Lm1688.webp"
 tags: [categorie/pets-meshes, sous-categorie/assets-de-jeux, type/lib-mesh, jeu/robot-simulator]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « OLD THINGS » (Robot Simulator). Aperçu rendu dans Robl
 - **Type** : Modèle en MeshParts
 - **Contenu** : 330 Parts · 46 MeshParts
 - **Jeu d'origine** : Robot Simulator
-- **Fichier source** : `models/FromGames/Robot Simulator/OLD_THINGS.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/FromGames/Robot Simulator/OLD_THINGS.rbxm` (dans le vault)

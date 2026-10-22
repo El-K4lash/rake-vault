@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Pets"
 type: "Modèle en MeshParts"
 jeu: "Bakery Simulator"
-source: "models/ByType/Pets/BakerySim_Owl.rbxm"
+source: "Assets/models/ByType/Pets/BakerySim_Owl.rbxm"
 image: "_img/Lm1067.webp"
 tags: [categorie/pets-meshes, sous-categorie/pets, type/lib-mesh, jeu/bakery-simulator]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « Owl » (Bakery Simulator). Aperçu rendu dans Roblox Stu
 - **Type** : Modèle en MeshParts
 - **Contenu** : 1 MeshPart
 - **Jeu d'origine** : Bakery Simulator
-- **Fichier source** : `models/ByType/Pets/BakerySim_Owl.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Pets/BakerySim_Owl.rbxm` (dans le vault)

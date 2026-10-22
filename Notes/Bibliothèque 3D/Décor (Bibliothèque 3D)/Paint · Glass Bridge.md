@@ -6,7 +6,7 @@ sous-catégorie: "Décor"
 type: "Modèle en Parts"
 taille: "1 × 9 × 28"
 jeu: "Glass Bridge"
-source: "models/ByType/Decor_Props/GlassBridge_Paint.rbxm"
+source: "Assets/models/ByType/Decor_Props/GlassBridge_Paint.rbxm"
 image: "_img/Lp0233.webp"
 tags: [categorie/bibliotheque-3d, sous-categorie/decor, type/lib-part, jeu/glass-bridge]
 ---
@@ -23,4 +23,4 @@ Modèle en Parts « Paint » (Glass Bridge).
 - **Taille** : 1 × 9 × 28 studs
 - **Contenu** : 15 Parts
 - **Jeu d'origine** : Glass Bridge
-- **Fichier source** : `models/ByType/Decor_Props/GlassBridge_Paint.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Decor_Props/GlassBridge_Paint.rbxm` (dans le vault)

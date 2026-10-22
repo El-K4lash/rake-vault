@@ -5,7 +5,7 @@ catégorie: "Bibliothèque 3D"
 sous-catégorie: "Steal an Spooky Egg"
 type: "Modèle en Parts"
 taille: "18 × 13 × 8"
-source: "models/SpookyGame/Stand_3.rbxm"
+source: "Assets/models/SpookyGame/Stand_3.rbxm"
 image: "_img/Lp1814.webp"
 tags: [categorie/bibliotheque-3d, sous-categorie/steal-an-spooky-egg, type/lib-part]
 ---
@@ -21,4 +21,4 @@ Modèle en Parts « Stand 3 ».
 - **Type** : Modèle en Parts
 - **Taille** : 18 × 13 × 8 studs
 - **Contenu** : 30 Parts · 2 MeshParts
-- **Fichier source** : `models/SpookyGame/Stand_3.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/SpookyGame/Stand_3.rbxm` (dans le vault)

@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Œufs & incubateurs"
 type: "Modèle en MeshParts"
 jeu: "Hatching Simulator"
-source: "models/ByType/Eggs_Incubators/HatchingSim_CommonEgg_2.rbxm"
+source: "Assets/models/ByType/Eggs_Incubators/HatchingSim_CommonEgg_2.rbxm"
 image: "_img/Lm0426.webp"
 tags: [categorie/pets-meshes, sous-categorie/ufs-incubateurs, type/lib-mesh, jeu/hatching-simulator]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « Common Egg 2 » (Hatching Simulator). Aperçu rendu dans
 - **Type** : Modèle en MeshParts
 - **Contenu** : 10 MeshParts
 - **Jeu d'origine** : Hatching Simulator
-- **Fichier source** : `models/ByType/Eggs_Incubators/HatchingSim_CommonEgg_2.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Eggs_Incubators/HatchingSim_CommonEgg_2.rbxm` (dans le vault)

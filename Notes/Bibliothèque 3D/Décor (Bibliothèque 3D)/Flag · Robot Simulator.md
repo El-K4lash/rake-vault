@@ -6,7 +6,7 @@ sous-catégorie: "Décor"
 type: "Modèle en Parts"
 taille: "1 × 36 × 1"
 jeu: "Robot Simulator"
-source: "models/ByType/Decor_Props/RobotSim_Flag.rbxm"
+source: "Assets/models/ByType/Decor_Props/RobotSim_Flag.rbxm"
 image: "_img/Lp0360.webp"
 tags: [categorie/bibliotheque-3d, sous-categorie/decor, type/lib-part, jeu/robot-simulator]
 ---
@@ -23,4 +23,4 @@ Modèle en Parts « Flag » (Robot Simulator).
 - **Taille** : 1 × 36 × 1 studs
 - **Contenu** : 5 Parts · 3 MeshParts
 - **Jeu d'origine** : Robot Simulator
-- **Fichier source** : `models/ByType/Decor_Props/RobotSim_Flag.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Decor_Props/RobotSim_Flag.rbxm` (dans le vault)

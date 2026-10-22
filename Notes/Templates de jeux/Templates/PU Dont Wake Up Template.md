@@ -4,7 +4,7 @@ id: "Lj0045"
 catégorie: "Templates de jeux"
 sous-catégorie: "Templates"
 type: "Place complète (.rbxl)"
-source: "kits/Templates/PU - Dont Wake Up Template.rbxl"
+source: "Assets/kits/Templates/PU - Dont Wake Up Template.rbxl"
 image: "_img/Lj0045.webp"
 tags: [categorie/templates-de-jeux, sous-categorie/templates, type/lib-game]
 ---
@@ -19,4 +19,4 @@ Place Roblox complète (.rbxl) : 136 scripts, 15523 instances.
 - **Sous-catégorie** : [Templates](Templates.md)
 - **Type** : Place complète (.rbxl)
 - **Contenu** : 136 scripts · 15 523 instances
-- **Fichier source** : `kits/Templates/PU - Dont Wake Up Template.rbxl` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/kits/Templates/PU - Dont Wake Up Template.rbxl` (dans le vault)

@@ -4,7 +4,7 @@ id: "Lm2290"
 catégorie: "Pets & meshes"
 sous-catégorie: "Brainrots animés"
 type: "Modèle en MeshParts"
-source: "packs/Brainrots_Animated/Normal/Esok Sekolah.rbxm"
+source: "Assets/packs/Brainrots_Animated/Normal/Esok Sekolah.rbxm"
 image: "_img/Lm2290.webp"
 tags: [categorie/pets-meshes, sous-categorie/brainrots-animes, type/lib-mesh]
 ---
@@ -19,4 +19,4 @@ Modèle en MeshParts « Esok Sekolah ». Aperçu rendu dans Roblox Studio avec s
 - **Sous-catégorie** : [Brainrots animés](Brainrots%20anim%C3%A9s.md)
 - **Type** : Modèle en MeshParts
 - **Contenu** : 1 MeshPart
-- **Fichier source** : `packs/Brainrots_Animated/Normal/Esok Sekolah.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/packs/Brainrots_Animated/Normal/Esok Sekolah.rbxm` (dans le vault)

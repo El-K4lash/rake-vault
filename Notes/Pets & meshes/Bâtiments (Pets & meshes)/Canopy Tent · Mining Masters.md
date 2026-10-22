@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Bâtiments"
 type: "Modèle en MeshParts"
 jeu: "Mining Masters"
-source: "models/ByType/Buildings/MiningMasters_CanopyTent.rbxm"
+source: "Assets/models/ByType/Buildings/MiningMasters_CanopyTent.rbxm"
 image: "_img/Lm0073.webp"
 tags: [categorie/pets-meshes, sous-categorie/batiments, type/lib-mesh, jeu/mining-masters]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « Canopy Tent » (Mining Masters). Aperçu rendu dans Robl
 - **Type** : Modèle en MeshParts
 - **Contenu** : 2 MeshParts
 - **Jeu d'origine** : Mining Masters
-- **Fichier source** : `models/ByType/Buildings/MiningMasters_CanopyTent.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Buildings/MiningMasters_CanopyTent.rbxm` (dans le vault)

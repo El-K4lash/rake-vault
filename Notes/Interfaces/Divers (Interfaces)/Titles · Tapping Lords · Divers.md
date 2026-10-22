@@ -5,7 +5,7 @@ catégorie: "Interfaces"
 sous-catégorie: "Divers"
 type: "Interface (ScreenGui)"
 jeu: "Tapping Lords"
-source: "ui/ByType/Misc/TappingLords_Titles.rbxm"
+source: "Assets/ui/ByType/Misc/TappingLords_Titles.rbxm"
 image: "_img/Lg0113.webp"
 tags: [categorie/interfaces, sous-categorie/divers, type/lib-gui, jeu/tapping-lords]
 ---
@@ -21,4 +21,4 @@ Interface « Titles » du jeu Tapping Lords. 113 éléments UI.
 - **Type** : Interface (ScreenGui)
 - **Contenu** : 113 éléments UI
 - **Jeu d'origine** : Tapping Lords
-- **Fichier source** : `ui/ByType/Misc/TappingLords_Titles.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/ui/ByType/Misc/TappingLords_Titles.rbxm` (dans le vault)

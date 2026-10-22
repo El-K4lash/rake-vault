@@ -2,13 +2,13 @@
 title: "Robux & gamepass"
 type: "Sous-catégorie"
 catégorie: "Interfaces"
-éléments: 16
+éléments: 18
 tags: [index, categorie/interfaces]
 ---
 
 # Robux & gamepass
 
-Sous-catégorie de [Interfaces](../Interfaces.md) · **16 éléments**
+Sous-catégorie de [Interfaces](../Interfaces.md) · **18 éléments**
 
 | Aperçu | Élément | Infos |
 | --- | --- | --- |
@@ -28,3 +28,5 @@ Sous-catégorie de [Interfaces](../Interfaces.md) · **16 éléments**
 | ![Aperçu\|120](../../_img/Lg0183.webp) | [Robux Shop · Tweeting Simulator](Robux%20Shop%20%C2%B7%20Tweeting%20Simulator.md) | Interface (ScreenGui) · 58 éléments UI |
 | ![Aperçu\|120](../../_img/Lg0170.webp) | [Shop Gui · Billionaire Tycoon](Shop%20Gui%20%C2%B7%20Billionaire%20Tycoon%20%C2%B7%20Robux%20&%20gamepass.md) | Interface (ScreenGui) · 74 éléments UI |
 | ![Aperçu\|120](../../_img/Lg0174.webp) | [Troll Products · Cashgrab Bridge](Troll%20Products%20%C2%B7%20Cashgrab%20Bridge.md) | Interface (ScreenGui) · 17 éléments UI |
+| ![Aperçu\|120](../../_img/Lx0004.webp) | [Gamepass Pack 3DSCLASSIC (PSD)](Gamepass%20Pack%203DSCLASSIC%20%28PSD%29.md) | Pack de fichiers · 1 fichier · 25,5 Mo |
+| ![Aperçu\|120](../../_img/Lg0182.webp) | [Robux & gamepass — interfaces en plus (2)](Robux%20&%20gamepass%20%E2%80%94%20interfaces%20en%20plus%20%282%29.md) | Pack de fichiers · 2 fichiers · 40 Ko |

@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Tycoon & convoyeurs"
 type: "Modèle en MeshParts"
 jeu: "Robot Simulator"
-source: "models/ByType/Conveyors_Tycoon/RobotSim_CityTycoonIsland.rbxm"
+source: "Assets/models/ByType/Conveyors_Tycoon/RobotSim_CityTycoonIsland.rbxm"
 image: "_img/Lm0152.webp"
 tags: [categorie/pets-meshes, sous-categorie/tycoon-convoyeurs, type/lib-mesh, jeu/robot-simulator]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « City Tycoon Island » (Robot Simulator). Aperçu rendu d
 - **Type** : Modèle en MeshParts
 - **Contenu** : 181 Parts · 46 MeshParts
 - **Jeu d'origine** : Robot Simulator
-- **Fichier source** : `models/ByType/Conveyors_Tycoon/RobotSim_CityTycoonIsland.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Conveyors_Tycoon/RobotSim_CityTycoonIsland.rbxm` (dans le vault)

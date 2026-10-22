@@ -6,7 +6,7 @@ sous-catégorie: "Assets de jeux"
 type: "Modèle en Parts"
 taille: "1 × 2 × 2"
 jeu: "Tapping Lords"
-source: "models/FromGames/Tapping-Lords-Simulator/Workspace/Plush Bacon Hair.rbxm"
+source: "Assets/models/FromGames/Tapping-Lords-Simulator/Workspace/Plush Bacon Hair.rbxm"
 image: "_img/Lp1759.webp"
 tags: [categorie/bibliotheque-3d, sous-categorie/assets-de-jeux, type/lib-part, jeu/tapping-lords]
 ---
@@ -23,4 +23,4 @@ Modèle en Parts « Plush Bacon Hair » (Tapping Lords).
 - **Taille** : 1 × 2 × 2 studs
 - **Contenu** : 6 Parts · 1 MeshPart
 - **Jeu d'origine** : Tapping Lords
-- **Fichier source** : `models/FromGames/Tapping-Lords-Simulator/Workspace/Plush Bacon Hair.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/FromGames/Tapping-Lords-Simulator/Workspace/Plush Bacon Hair.rbxm` (dans le vault)

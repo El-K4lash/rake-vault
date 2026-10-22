@@ -5,7 +5,7 @@ catégorie: "Bibliothèque 3D"
 sous-catégorie: "Halloween"
 type: "Modèle en Parts"
 taille: "5 × 9 × 3"
-source: "packs/Halloween/Monsters/Vampire.rbxm"
+source: "Assets/packs/Halloween/Monsters/Vampire.rbxm"
 image: "_img/Lp2610.webp"
 tags: [categorie/bibliotheque-3d, sous-categorie/halloween, type/lib-part]
 ---
@@ -21,4 +21,4 @@ Modèle en Parts « Vampire ».
 - **Type** : Modèle en Parts
 - **Taille** : 5 × 9 × 3 studs
 - **Contenu** : 40 Parts
-- **Fichier source** : `packs/Halloween/Monsters/Vampire.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/packs/Halloween/Monsters/Vampire.rbxm` (dans le vault)

@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Pets"
 type: "Modèle en MeshParts"
 jeu: "Hatching Simulator"
-source: "models/ByType/Pets/HatchingSim_FallenOwl.rbxm"
+source: "Assets/models/ByType/Pets/HatchingSim_FallenOwl.rbxm"
 image: "_img/Lm1112.webp"
 tags: [categorie/pets-meshes, sous-categorie/pets, type/lib-mesh, jeu/hatching-simulator]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « Fallen Owl » (Hatching Simulator). Aperçu rendu dans R
 - **Type** : Modèle en MeshParts
 - **Contenu** : 5 MeshParts
 - **Jeu d'origine** : Hatching Simulator
-- **Fichier source** : `models/ByType/Pets/HatchingSim_FallenOwl.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Pets/HatchingSim_FallenOwl.rbxm` (dans le vault)

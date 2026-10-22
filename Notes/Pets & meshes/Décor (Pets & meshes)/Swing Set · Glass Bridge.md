@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Décor"
 type: "Modèle en MeshParts"
 jeu: "Glass Bridge"
-source: "models/ByType/Decor_Props/GlassBridge_SwingSet.rbxm"
+source: "Assets/models/ByType/Decor_Props/GlassBridge_SwingSet.rbxm"
 image: "_img/Lm0235.webp"
 tags: [categorie/pets-meshes, sous-categorie/decor, type/lib-mesh, jeu/glass-bridge]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « Swing Set » (Glass Bridge). Aperçu rendu dans Roblox S
 - **Type** : Modèle en MeshParts
 - **Contenu** : 9 Parts · 12 MeshParts
 - **Jeu d'origine** : Glass Bridge
-- **Fichier source** : `models/ByType/Decor_Props/GlassBridge_SwingSet.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Decor_Props/GlassBridge_SwingSet.rbxm` (dans le vault)

@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Œufs & incubateurs"
 type: "Modèle en MeshParts"
 jeu: "Hatching Simulator"
-source: "models/ByType/Eggs_Incubators/HatchingSim_ReleaseEgg.rbxm"
+source: "Assets/models/ByType/Eggs_Incubators/HatchingSim_ReleaseEgg.rbxm"
 image: "_img/Lm0437.webp"
 tags: [categorie/pets-meshes, sous-categorie/ufs-incubateurs, type/lib-mesh, jeu/hatching-simulator]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « Release Egg » (Hatching Simulator). Aperçu rendu dans 
 - **Type** : Modèle en MeshParts
 - **Contenu** : 12 MeshParts
 - **Jeu d'origine** : Hatching Simulator
-- **Fichier source** : `models/ByType/Eggs_Incubators/HatchingSim_ReleaseEgg.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Eggs_Incubators/HatchingSim_ReleaseEgg.rbxm` (dans le vault)

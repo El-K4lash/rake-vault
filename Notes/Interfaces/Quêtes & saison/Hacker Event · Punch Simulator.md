@@ -5,7 +5,7 @@ catégorie: "Interfaces"
 sous-catégorie: "Quêtes & saison"
 type: "Interface (ScreenGui)"
 jeu: "Punch Simulator"
-source: "ui/ByType/Quests_Season/PunchSim_HackerEvent.rbxm"
+source: "Assets/ui/ByType/Quests_Season/PunchSim_HackerEvent.rbxm"
 image: "_img/Lg0154.webp"
 tags: [categorie/interfaces, sous-categorie/quetes-saison, type/lib-gui, jeu/punch-simulator]
 ---
@@ -21,4 +21,4 @@ Interface « Hacker Event » du jeu Punch Simulator. 29 éléments UI.
 - **Type** : Interface (ScreenGui)
 - **Contenu** : 29 éléments UI
 - **Jeu d'origine** : Punch Simulator
-- **Fichier source** : `ui/ByType/Quests_Season/PunchSim_HackerEvent.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/ui/ByType/Quests_Season/PunchSim_HackerEvent.rbxm` (dans le vault)

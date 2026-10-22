@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Divers"
 type: "Modèle en MeshParts"
 jeu: "Mining Masters"
-source: "models/ByType/Misc/MiningMasters_Cube.rbxm"
+source: "Assets/models/ByType/Misc/MiningMasters_Cube.rbxm"
 image: "_img/Lm0924.webp"
 tags: [categorie/pets-meshes, sous-categorie/divers, type/lib-mesh, jeu/mining-masters]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « Cube » (Mining Masters). Aperçu rendu dans Roblox Stud
 - **Type** : Modèle en MeshParts
 - **Contenu** : 1 MeshPart
 - **Jeu d'origine** : Mining Masters
-- **Fichier source** : `models/ByType/Misc/MiningMasters_Cube.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Misc/MiningMasters_Cube.rbxm` (dans le vault)

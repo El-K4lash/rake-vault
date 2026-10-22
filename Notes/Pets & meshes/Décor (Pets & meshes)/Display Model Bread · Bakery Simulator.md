@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Décor"
 type: "Modèle en MeshParts"
 jeu: "Bakery Simulator"
-source: "models/ByType/Decor_Props/BakerySim_DisplayModelBread.rbxm"
+source: "Assets/models/ByType/Decor_Props/BakerySim_DisplayModelBread.rbxm"
 image: "_img/Lm0174.webp"
 tags: [categorie/pets-meshes, sous-categorie/decor, type/lib-mesh, jeu/bakery-simulator]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « Display Model Bread » (Bakery Simulator). Aperçu rendu
 - **Type** : Modèle en MeshParts
 - **Contenu** : 1 MeshPart
 - **Jeu d'origine** : Bakery Simulator
-- **Fichier source** : `models/ByType/Decor_Props/BakerySim_DisplayModelBread.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Decor_Props/BakerySim_DisplayModelBread.rbxm` (dans le vault)

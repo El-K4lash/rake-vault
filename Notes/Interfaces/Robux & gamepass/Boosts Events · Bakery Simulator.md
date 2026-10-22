@@ -5,7 +5,7 @@ catégorie: "Interfaces"
 sous-catégorie: "Robux & gamepass"
 type: "Interface (ScreenGui)"
 jeu: "Bakery Simulator"
-source: "ui/ByType/Robux_Gamepass/BakerySim_BoostsEvents.rbxm"
+source: "Assets/ui/ByType/Robux_Gamepass/BakerySim_BoostsEvents.rbxm"
 image: "_img/Lg0168.webp"
 tags: [categorie/interfaces, sous-categorie/robux-gamepass, type/lib-gui, jeu/bakery-simulator]
 ---
@@ -21,4 +21,4 @@ Interface « Boosts Events » du jeu Bakery Simulator. 41 éléments UI.
 - **Type** : Interface (ScreenGui)
 - **Contenu** : 41 éléments UI
 - **Jeu d'origine** : Bakery Simulator
-- **Fichier source** : `ui/ByType/Robux_Gamepass/BakerySim_BoostsEvents.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/ui/ByType/Robux_Gamepass/BakerySim_BoostsEvents.rbxm` (dans le vault)

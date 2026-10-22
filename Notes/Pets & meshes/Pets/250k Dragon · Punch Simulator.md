@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Pets"
 type: "Modèle en MeshParts"
 jeu: "Punch Simulator"
-source: "models/ByType/Pets/PunchSim_250kDragon.rbxm"
+source: "Assets/models/ByType/Pets/PunchSim_250kDragon.rbxm"
 image: "_img/Lm1377.webp"
 tags: [categorie/pets-meshes, sous-categorie/pets, type/lib-mesh, jeu/punch-simulator]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « 250k Dragon » (Punch Simulator). Aperçu rendu dans Rob
 - **Type** : Modèle en MeshParts
 - **Contenu** : 1 MeshPart
 - **Jeu d'origine** : Punch Simulator
-- **Fichier source** : `models/ByType/Pets/PunchSim_250kDragon.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Pets/PunchSim_250kDragon.rbxm` (dans le vault)

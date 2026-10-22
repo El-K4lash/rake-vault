@@ -5,7 +5,7 @@ catégorie: "Interfaces"
 sous-catégorie: "Divers"
 type: "Interface (ScreenGui)"
 jeu: "First Donations"
-source: "ui/ByType/Misc/FirstDonations_EditGui_Full.rbxm"
+source: "Assets/ui/ByType/Misc/FirstDonations_EditGui_Full.rbxm"
 image: "_img/Lg0089.webp"
 tags: [categorie/interfaces, sous-categorie/divers, type/lib-gui, jeu/first-donations]
 ---
@@ -21,4 +21,4 @@ Interface « Edit Gui Full » du jeu First Donations. 64 éléments UI.
 - **Type** : Interface (ScreenGui)
 - **Contenu** : 64 éléments UI
 - **Jeu d'origine** : First Donations
-- **Fichier source** : `ui/ByType/Misc/FirstDonations_EditGui_Full.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/ui/ByType/Misc/FirstDonations_EditGui_Full.rbxm` (dans le vault)

@@ -6,7 +6,7 @@ sous-catégorie: "PNJ & personnages"
 type: "Modèle en Parts"
 taille: "1 × 4 × 3"
 jeu: "Pet Pharmica"
-source: "models/ByType/NPC_Characters/PetPharmica_Dummy.rbxm"
+source: "Assets/models/ByType/NPC_Characters/PetPharmica_Dummy.rbxm"
 image: "_img/Lp0981.webp"
 tags: [categorie/bibliotheque-3d, sous-categorie/pnj-personnages, type/lib-part, jeu/pet-pharmica]
 ---
@@ -23,4 +23,4 @@ Modèle en Parts « Dummy » (Pet Pharmica).
 - **Taille** : 1 × 4 × 3 studs
 - **Contenu** : 7 Parts
 - **Jeu d'origine** : Pet Pharmica
-- **Fichier source** : `models/ByType/NPC_Characters/PetPharmica_Dummy.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/NPC_Characters/PetPharmica_Dummy.rbxm` (dans le vault)

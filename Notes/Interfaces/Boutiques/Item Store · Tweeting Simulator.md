@@ -5,7 +5,7 @@ catégorie: "Interfaces"
 sous-catégorie: "Boutiques"
 type: "Interface (ScreenGui)"
 jeu: "Tweeting Simulator"
-source: "ui/ByType/Shop_Store/TweetingSim_ItemStore.rbxm"
+source: "Assets/ui/ByType/Shop_Store/TweetingSim_ItemStore.rbxm"
 image: "_img/Lg0212.webp"
 tags: [categorie/interfaces, sous-categorie/boutiques, type/lib-gui, jeu/tweeting-simulator]
 ---
@@ -21,4 +21,4 @@ Interface « Item Store » du jeu Tweeting Simulator. 34 éléments UI.
 - **Type** : Interface (ScreenGui)
 - **Contenu** : 34 éléments UI
 - **Jeu d'origine** : Tweeting Simulator
-- **Fichier source** : `ui/ByType/Shop_Store/TweetingSim_ItemStore.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/ui/ByType/Shop_Store/TweetingSim_ItemStore.rbxm` (dans le vault)

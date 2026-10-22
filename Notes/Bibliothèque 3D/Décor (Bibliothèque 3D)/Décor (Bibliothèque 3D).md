@@ -2,13 +2,13 @@
 title: "Décor"
 type: "Sous-catégorie"
 catégorie: "Bibliothèque 3D"
-éléments: 16
+éléments: 19
 tags: [index, categorie/bibliotheque-3d]
 ---
 
 # Décor
 
-Sous-catégorie de [Bibliothèque 3D](../Biblioth%C3%A8que%203D.md) · **16 éléments**
+Sous-catégorie de [Bibliothèque 3D](../Biblioth%C3%A8que%203D.md) · **19 éléments**
 
 | Aperçu | Élément | Infos |
 | --- | --- | --- |
@@ -28,3 +28,6 @@ Sous-catégorie de [Bibliothèque 3D](../Biblioth%C3%A8que%203D.md) · **16 él�
 | ![Aperçu\|120](../../_img/Lp0384.webp) | [Rock · Shoot A Brainrot](Rock%20%C2%B7%20Shoot%20A%20Brainrot.md) | Modèle en Parts · 4 × 1 × 5 · 9 Parts |
 | ![Aperçu\|120](../../_img/Lp0312.webp) | [Training Areas 1 · Punch Simulator](Training%20Areas%201%20%C2%B7%20Punch%20Simulator.md) | Modèle en Parts · 31 × 11 × 38 · 63 Parts · 25 MeshParts |
 | ![Aperçu\|120](../../_img/Lp0236.webp) | [Trampoline · Glass Bridge](Trampoline%20%C2%B7%20Glass%20Bridge.md) | Modèle en Parts · 18 × 10 × 19 · 42 Parts · 50 MeshParts |
+| ![Aperçu\|120](../../_img/Lp0292.webp) | [Décor — pack par type (130 modèles)](D%C3%A9cor%20%E2%80%94%20pack%20par%20type%20%28130%20mod%C3%A8les%29.md) | Pack de fichiers · 130 fichiers · 2,8 Mo |
+| — | [Spirit Blossom Shrine ⛩️](Spirit%20Blossom%20Shrine%20%E2%9B%A9%EF%B8%8F.md) | Modèle Roblox (.rbxm) · 1 fichier · 85 Ko |
+| — | [Tree models (.obj)](Tree%20models%20%28.obj%29.md) | Pack de fichiers · 1 fichier · 66 Ko |

@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Décor"
 type: "Modèle en MeshParts"
 jeu: "Tweeting Simulator"
-source: "models/ByType/Decor_Props/TweetingSim_Grass.rbxm"
+source: "Assets/models/ByType/Decor_Props/TweetingSim_Grass.rbxm"
 image: "_img/Lm0407.webp"
 tags: [categorie/pets-meshes, sous-categorie/decor, type/lib-mesh, jeu/tweeting-simulator]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « Grass » (Tweeting Simulator). Aperçu : forme du mesh p
 - **Type** : Modèle en MeshParts
 - **Contenu** : 47 MeshParts
 - **Jeu d'origine** : Tweeting Simulator
-- **Fichier source** : `models/ByType/Decor_Props/TweetingSim_Grass.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Decor_Props/TweetingSim_Grass.rbxm` (dans le vault)

@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Divers"
 type: "Modèle en MeshParts"
 jeu: "Cashgrab Bridge"
-source: "models/ByType/Misc/CashgrabBridge_Green.rbxm"
+source: "Assets/models/ByType/Misc/CashgrabBridge_Green.rbxm"
 image: "_img/Lm0917.webp"
 tags: [categorie/pets-meshes, sous-categorie/divers, type/lib-mesh, jeu/cashgrab-bridge]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « Green » (Cashgrab Bridge). Aperçu rendu dans Roblox St
 - **Type** : Modèle en MeshParts
 - **Contenu** : 11 Parts · 57 MeshParts
 - **Jeu d'origine** : Cashgrab Bridge
-- **Fichier source** : `models/ByType/Misc/CashgrabBridge_Green.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Misc/CashgrabBridge_Green.rbxm` (dans le vault)

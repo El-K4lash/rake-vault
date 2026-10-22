@@ -4,7 +4,7 @@ id: "Ls0028"
 catégorie: "Systèmes & kits"
 sous-catégorie: "Kits prêts à l’emploi"
 type: "Système de jeu"
-source: "kits/ObbyBridgeKit/ObbyBridgeKit.rbxm"
+source: "Assets/kits/ObbyBridgeKit/ObbyBridgeKit.rbxm"
 image: "_img/Ls0028.webp"
 tags: [categorie/systemes-kits, sous-categorie/kits-prets-a-lemploi, type/lib-sys]
 ---
@@ -19,4 +19,4 @@ Kits prêts à l’emploi : 7 scripts.
 - **Sous-catégorie** : [Kits prêts à l’emploi](Kits%20pr%C3%AAts%20%C3%A0%20l%E2%80%99emploi.md)
 - **Type** : Système de jeu
 - **Contenu** : 7 scripts · 80 instances
-- **Fichier source** : `kits/ObbyBridgeKit/ObbyBridgeKit.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/kits/ObbyBridgeKit/ObbyBridgeKit.rbxm` (dans le vault)

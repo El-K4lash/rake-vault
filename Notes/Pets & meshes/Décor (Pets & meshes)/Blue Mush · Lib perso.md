@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Décor"
 type: "Modèle en MeshParts"
 jeu: "Lib perso"
-source: "models/ByType/Decor_Props/Lib_BlueMush.rbxm"
+source: "Assets/models/ByType/Decor_Props/Lib_BlueMush.rbxm"
 image: "_img/Lm0257.webp"
 tags: [categorie/pets-meshes, sous-categorie/decor, type/lib-mesh, jeu/lib-perso]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « Blue Mush » (Lib perso). Aperçu rendu dans Roblox Stud
 - **Type** : Modèle en MeshParts
 - **Contenu** : 2 MeshParts
 - **Jeu d'origine** : Lib perso
-- **Fichier source** : `models/ByType/Decor_Props/Lib_BlueMush.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Decor_Props/Lib_BlueMush.rbxm` (dans le vault)

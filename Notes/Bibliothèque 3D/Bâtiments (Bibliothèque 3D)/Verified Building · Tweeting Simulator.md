@@ -6,7 +6,7 @@ sous-catégorie: "Bâtiments"
 type: "Modèle en Parts"
 taille: "65 × 38 × 53"
 jeu: "Tweeting Simulator"
-source: "models/ByType/Buildings/TweetingSim_VerifiedBuilding.rbxm"
+source: "Assets/models/ByType/Buildings/TweetingSim_VerifiedBuilding.rbxm"
 image: "_img/Lp0113.webp"
 tags: [categorie/bibliotheque-3d, sous-categorie/batiments, type/lib-part, jeu/tweeting-simulator]
 ---
@@ -23,4 +23,4 @@ Modèle en Parts « Verified Building » (Tweeting Simulator).
 - **Taille** : 65 × 38 × 53 studs
 - **Contenu** : 43 Parts · 2 MeshParts
 - **Jeu d'origine** : Tweeting Simulator
-- **Fichier source** : `models/ByType/Buildings/TweetingSim_VerifiedBuilding.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Buildings/TweetingSim_VerifiedBuilding.rbxm` (dans le vault)

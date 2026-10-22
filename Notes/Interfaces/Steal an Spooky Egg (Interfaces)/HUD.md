@@ -4,7 +4,7 @@ id: "Lg0443"
 catégorie: "Interfaces"
 sous-catégorie: "Steal an Spooky Egg"
 type: "Interface (ScreenGui)"
-source: "ui/SpookyGame/Menus/HUD.rbxm"
+source: "Assets/ui/SpookyGame/Menus/HUD.rbxm"
 image: "_img/Lg0443.webp"
 tags: [categorie/interfaces, sous-categorie/steal-an-spooky-egg, type/lib-gui]
 ---
@@ -19,4 +19,4 @@ Interface « HUD ». 85 éléments UI.
 - **Sous-catégorie** : [Steal an Spooky Egg](Steal%20an%20Spooky%20Egg%20%28Interfaces%29.md)
 - **Type** : Interface (ScreenGui)
 - **Contenu** : 85 éléments UI
-- **Fichier source** : `ui/SpookyGame/Menus/HUD.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/ui/SpookyGame/Menus/HUD.rbxm` (dans le vault)

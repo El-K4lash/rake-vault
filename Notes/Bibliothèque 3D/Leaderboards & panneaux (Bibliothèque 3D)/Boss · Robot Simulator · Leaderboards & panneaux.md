@@ -6,7 +6,7 @@ sous-catégorie: "Leaderboards & panneaux"
 type: "Modèle en Parts"
 taille: "3 × 10 × 9"
 jeu: "Robot Simulator"
-source: "models/ByType/Leaderboards_Boards/RobotSim_Boss.rbxm"
+source: "Assets/models/ByType/Leaderboards_Boards/RobotSim_Boss.rbxm"
 image: "_img/Lp0705.webp"
 tags: [categorie/bibliotheque-3d, sous-categorie/leaderboards-panneaux, type/lib-part, jeu/robot-simulator]
 ---
@@ -23,4 +23,4 @@ Modèle en Parts « Boss » (Robot Simulator).
 - **Taille** : 3 × 10 × 9 studs
 - **Contenu** : 9 Parts · 9 MeshParts
 - **Jeu d'origine** : Robot Simulator
-- **Fichier source** : `models/ByType/Leaderboards_Boards/RobotSim_Boss.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Leaderboards_Boards/RobotSim_Boss.rbxm` (dans le vault)

@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Pets"
 type: "Modèle en MeshParts"
 jeu: "Hatching Simulator"
-source: "models/ByType/Pets/HatchingSim_PastelShock.rbxm"
+source: "Assets/models/ByType/Pets/HatchingSim_PastelShock.rbxm"
 image: "_img/Lm1138.webp"
 tags: [categorie/pets-meshes, sous-categorie/pets, type/lib-mesh, jeu/hatching-simulator]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « Pastel Shock » (Hatching Simulator). Aperçu rendu dans
 - **Type** : Modèle en MeshParts
 - **Contenu** : 6 MeshParts
 - **Jeu d'origine** : Hatching Simulator
-- **Fichier source** : `models/ByType/Pets/HatchingSim_PastelShock.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Pets/HatchingSim_PastelShock.rbxm` (dans le vault)

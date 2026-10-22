@@ -4,7 +4,7 @@ id: "Lm2266"
 catégorie: "Pets & meshes"
 sous-catégorie: "Brainrots animés"
 type: "Modèle en MeshParts"
-source: "packs/Brainrots_Animated/Normal/Ballerino Lololo.rbxm"
+source: "Assets/packs/Brainrots_Animated/Normal/Ballerino Lololo.rbxm"
 image: "_img/Lm2266.webp"
 tags: [categorie/pets-meshes, sous-categorie/brainrots-animes, type/lib-mesh]
 ---
@@ -19,4 +19,4 @@ Modèle en MeshParts « Ballerino Lololo ». Aperçu rendu dans Roblox Studio av
 - **Sous-catégorie** : [Brainrots animés](Brainrots%20anim%C3%A9s.md)
 - **Type** : Modèle en MeshParts
 - **Contenu** : 1 MeshPart
-- **Fichier source** : `packs/Brainrots_Animated/Normal/Ballerino Lololo.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/packs/Brainrots_Animated/Normal/Ballerino Lololo.rbxm` (dans le vault)

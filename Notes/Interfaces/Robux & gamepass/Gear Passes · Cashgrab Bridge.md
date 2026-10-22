@@ -5,7 +5,7 @@ catégorie: "Interfaces"
 sous-catégorie: "Robux & gamepass"
 type: "Interface (ScreenGui)"
 jeu: "Cashgrab Bridge"
-source: "ui/ByType/Robux_Gamepass/CashgrabBridge_GearPasses.rbxm"
+source: "Assets/ui/ByType/Robux_Gamepass/CashgrabBridge_GearPasses.rbxm"
 image: "_img/Lg0172.webp"
 tags: [categorie/interfaces, sous-categorie/robux-gamepass, type/lib-gui, jeu/cashgrab-bridge]
 ---
@@ -21,4 +21,4 @@ Interface « Gear Passes » du jeu Cashgrab Bridge. 12 éléments UI.
 - **Type** : Interface (ScreenGui)
 - **Contenu** : 12 éléments UI
 - **Jeu d'origine** : Cashgrab Bridge
-- **Fichier source** : `ui/ByType/Robux_Gamepass/CashgrabBridge_GearPasses.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/ui/ByType/Robux_Gamepass/CashgrabBridge_GearPasses.rbxm` (dans le vault)

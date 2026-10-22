@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "PNJ & personnages"
 type: "Modèle en MeshParts"
 jeu: "Robot Simulator"
-source: "models/ByType/NPC_Characters/RobotSim_PurpleTitan.rbxm"
+source: "Assets/models/ByType/NPC_Characters/RobotSim_PurpleTitan.rbxm"
 image: "_img/Lm0996.webp"
 tags: [categorie/pets-meshes, sous-categorie/pnj-personnages, type/lib-mesh, jeu/robot-simulator]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « Purple Titan » (Robot Simulator). Aperçu rendu dans Ro
 - **Type** : Modèle en MeshParts
 - **Contenu** : 16 MeshParts
 - **Jeu d'origine** : Robot Simulator
-- **Fichier source** : `models/ByType/NPC_Characters/RobotSim_PurpleTitan.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/NPC_Characters/RobotSim_PurpleTitan.rbxm` (dans le vault)

@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Assets de jeux"
 type: "Modèle en MeshParts"
 jeu: "First Donations"
-source: "models/FromGames/First_Donations/Dune Buggy beige.rbxm"
+source: "Assets/models/FromGames/First_Donations/Dune Buggy beige.rbxm"
 image: "_img/Lm1522.webp"
 tags: [categorie/pets-meshes, sous-categorie/assets-de-jeux, type/lib-mesh, jeu/first-donations]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « Dune Buggy beige » (First Donations). Aperçu rendu dan
 - **Type** : Modèle en MeshParts
 - **Contenu** : 18 Parts · 23 MeshParts
 - **Jeu d'origine** : First Donations
-- **Fichier source** : `models/FromGames/First_Donations/Dune Buggy beige.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/FromGames/First_Donations/Dune Buggy beige.rbxm` (dans le vault)

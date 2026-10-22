@@ -1,0 +1,29 @@
+# Obsidian : état perso de l'application (chaque PC garde le sien)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+.trash/
+**/.trash/
+
+# Fichiers système
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Sauvegardes Blender
+*.blend1
+*.blend2
+
+# Fichiers temporaires
+*.tmp
+*.temp
+~$*
+.~lock.*
+*.swp
+*.bak
+
+# Fichiers de travail de la fusion rblx -> vault (non versionnés)
+_claude_tmp/*.tsv
+_claude_tmp/notes_*.txt
+_claude_tmp/gap_*.png
+_claude_tmp/sae/

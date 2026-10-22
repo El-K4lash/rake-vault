@@ -6,7 +6,7 @@ sous-catégorie: "Œufs & incubateurs"
 type: "Modèle en Parts"
 taille: "15 × 10 × 9"
 jeu: "Robot Simulator"
-source: "models/ByType/Eggs_Incubators/RobotSim_RoboticEgg.rbxm"
+source: "Assets/models/ByType/Eggs_Incubators/RobotSim_RoboticEgg.rbxm"
 image: "_img/Lp0564.webp"
 tags: [categorie/bibliotheque-3d, sous-categorie/ufs-incubateurs, type/lib-part, jeu/robot-simulator]
 ---
@@ -23,4 +23,4 @@ Modèle en Parts « Robotic Egg » (Robot Simulator).
 - **Taille** : 15 × 10 × 9 studs
 - **Contenu** : 17 Parts · 1 MeshPart
 - **Jeu d'origine** : Robot Simulator
-- **Fichier source** : `models/ByType/Eggs_Incubators/RobotSim_RoboticEgg.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Eggs_Incubators/RobotSim_RoboticEgg.rbxm` (dans le vault)

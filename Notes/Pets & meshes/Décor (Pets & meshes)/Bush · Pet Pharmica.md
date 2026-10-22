@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Décor"
 type: "Modèle en MeshParts"
 jeu: "Pet Pharmica"
-source: "models/ByType/Decor_Props/PetPharmica_Bush.rbxm"
+source: "Assets/models/ByType/Decor_Props/PetPharmica_Bush.rbxm"
 image: "_img/Lm0295.webp"
 tags: [categorie/pets-meshes, sous-categorie/decor, type/lib-mesh, jeu/pet-pharmica]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « Bush » (Pet Pharmica). Aperçu rendu dans Roblox Studio
 - **Type** : Modèle en MeshParts
 - **Contenu** : 2 MeshParts
 - **Jeu d'origine** : Pet Pharmica
-- **Fichier source** : `models/ByType/Decor_Props/PetPharmica_Bush.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Decor_Props/PetPharmica_Bush.rbxm` (dans le vault)

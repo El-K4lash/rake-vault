@@ -6,7 +6,7 @@ sous-catégorie: "PNJ & personnages"
 type: "Modèle en Parts"
 taille: "3 × 4 × 1"
 jeu: "Shoot A Brainrot"
-source: "models/ByType/NPC_Characters/ShootABrainrot_Npc.rbxm"
+source: "Assets/models/ByType/NPC_Characters/ShootABrainrot_Npc.rbxm"
 image: "_img/Lp1009.webp"
 tags: [categorie/bibliotheque-3d, sous-categorie/pnj-personnages, type/lib-part, jeu/shoot-a-brainrot]
 ---
@@ -23,4 +23,4 @@ Modèle en Parts « Npc » (Shoot A Brainrot).
 - **Taille** : 3 × 4 × 1 studs
 - **Contenu** : 6 Parts
 - **Jeu d'origine** : Shoot A Brainrot
-- **Fichier source** : `models/ByType/NPC_Characters/ShootABrainrot_Npc.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/NPC_Characters/ShootABrainrot_Npc.rbxm` (dans le vault)

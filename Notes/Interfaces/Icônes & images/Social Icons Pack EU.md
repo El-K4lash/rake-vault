@@ -4,7 +4,7 @@ id: "Liic_social_icons_pack_eu"
 catégorie: "Interfaces"
 sous-catégorie: "Icônes & images"
 type: "Pack d'images"
-source: "ui/Icons/Social Icons Pack EU (PNG).zip"
+source: "Assets/ui/Icons/Social Icons Pack EU (PNG).zip"
 image: "_img/Liic_social_icons_pack_eu.webp"
 tags: [categorie/interfaces, sous-categorie/icones-images, type/lib-img]
 ---
@@ -18,7 +18,7 @@ Pack « Social Icons Pack EU » : 284 images PNG (aperçu de 94). Télécharge l
 - **Catégorie** : [Interfaces](../Interfaces.md)
 - **Sous-catégorie** : [Icônes & images](Ic%C3%B4nes%20&%20images.md)
 - **Type** : Pack d'images
-- **Fichier source** : `ui/Icons/Social Icons Pack EU (PNG).zip` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/ui/Icons/Social Icons Pack EU (PNG).zip` (dans le vault)
 
 ## Maquette
 

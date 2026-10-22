@@ -5,7 +5,7 @@ catégorie: "Interfaces"
 sous-catégorie: "Téléport & zones"
 type: "Interface (ScreenGui)"
 jeu: "Pet Pharmica"
-source: "ui/ByType/Teleport_Zones/PetPharmica_Teleport.rbxm"
+source: "Assets/ui/ByType/Teleport_Zones/PetPharmica_Teleport.rbxm"
 image: "_img/Lg0218.webp"
 tags: [categorie/interfaces, sous-categorie/teleport-zones, type/lib-gui, jeu/pet-pharmica]
 ---
@@ -21,4 +21,4 @@ Interface « Teleport » du jeu Pet Pharmica. 66 éléments UI.
 - **Type** : Interface (ScreenGui)
 - **Contenu** : 66 éléments UI
 - **Jeu d'origine** : Pet Pharmica
-- **Fichier source** : `ui/ByType/Teleport_Zones/PetPharmica_Teleport.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/ui/ByType/Teleport_Zones/PetPharmica_Teleport.rbxm` (dans le vault)

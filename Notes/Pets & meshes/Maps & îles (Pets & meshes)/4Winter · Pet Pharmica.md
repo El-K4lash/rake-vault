@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Maps & îles"
 type: "Modèle en MeshParts"
 jeu: "Pet Pharmica"
-source: "models/ByType/Maps_Islands_Worlds/PetPharmica_4Winter.rbxm"
+source: "Assets/models/ByType/Maps_Islands_Worlds/PetPharmica_4Winter.rbxm"
 image: "_img/Lm0862.webp"
 tags: [categorie/pets-meshes, sous-categorie/maps-iles, type/lib-mesh, jeu/pet-pharmica]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « 4Winter » (Pet Pharmica). Aperçu rendu dans Roblox Stu
 - **Type** : Modèle en MeshParts
 - **Contenu** : 43 Parts · 172 MeshParts
 - **Jeu d'origine** : Pet Pharmica
-- **Fichier source** : `models/ByType/Maps_Islands_Worlds/PetPharmica_4Winter.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Maps_Islands_Worlds/PetPharmica_4Winter.rbxm` (dans le vault)

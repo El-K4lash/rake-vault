@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Décor"
 type: "Modèle en MeshParts"
 jeu: "Rebirth Champions X"
-source: "models/ByType/Decor_Props/RebirthChampionsX_Shinies.rbxm"
+source: "Assets/models/ByType/Decor_Props/RebirthChampionsX_Shinies.rbxm"
 image: "_img/Lm0347.webp"
 tags: [categorie/pets-meshes, sous-categorie/decor, type/lib-mesh, jeu/rebirth-champions-x]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « Shinies » (Rebirth Champions X). Aperçu : forme du mes
 - **Type** : Modèle en MeshParts
 - **Contenu** : 50 MeshParts
 - **Jeu d'origine** : Rebirth Champions X
-- **Fichier source** : `models/ByType/Decor_Props/RebirthChampionsX_Shinies.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Decor_Props/RebirthChampionsX_Shinies.rbxm` (dans le vault)

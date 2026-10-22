@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Bâtiments"
 type: "Modèle en MeshParts"
 jeu: "Punch Simulator"
-source: "models/ByType/Buildings/PunchSim_Pipe2.rbxm"
+source: "Assets/models/ByType/Buildings/PunchSim_Pipe2.rbxm"
 image: "_img/Lm0083.webp"
 tags: [categorie/pets-meshes, sous-categorie/batiments, type/lib-mesh, jeu/punch-simulator]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « Pipe2 » (Punch Simulator). Aperçu rendu dans Roblox St
 - **Type** : Modèle en MeshParts
 - **Contenu** : 6 MeshParts
 - **Jeu d'origine** : Punch Simulator
-- **Fichier source** : `models/ByType/Buildings/PunchSim_Pipe2.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Buildings/PunchSim_Pipe2.rbxm` (dans le vault)

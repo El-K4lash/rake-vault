@@ -6,7 +6,7 @@ sous-catégorie: "PNJ & personnages"
 type: "Modèle en Parts"
 taille: "1 × 9 × 5"
 jeu: "Shoot A Brainrot"
-source: "models/ByType/NPC_Characters/ShootABrainrot_TungTungSahur.rbxm"
+source: "Assets/models/ByType/NPC_Characters/ShootABrainrot_TungTungSahur.rbxm"
 image: "_img/Lp1011.webp"
 tags: [categorie/bibliotheque-3d, sous-categorie/pnj-personnages, type/lib-part, jeu/shoot-a-brainrot]
 ---
@@ -23,4 +23,4 @@ Modèle en Parts « Tung Tung Sahur » (Shoot A Brainrot).
 - **Taille** : 1 × 9 × 5 studs
 - **Contenu** : 11 Parts · 6 MeshParts
 - **Jeu d'origine** : Shoot A Brainrot
-- **Fichier source** : `models/ByType/NPC_Characters/ShootABrainrot_TungTungSahur.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/NPC_Characters/ShootABrainrot_TungTungSahur.rbxm` (dans le vault)

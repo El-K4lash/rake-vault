@@ -6,7 +6,7 @@ sous-catégorie: "PNJ & personnages"
 type: "Modèle en Parts"
 taille: "3 × 4 × 1"
 jeu: "Billionaire Tycoon"
-source: "models/ByType/NPC_Characters/BillionaireTycoon_GetDressedfortheBeach.rbxm"
+source: "Assets/models/ByType/NPC_Characters/BillionaireTycoon_GetDressedfortheBeach.rbxm"
 image: "_img/Lp0958.webp"
 tags: [categorie/bibliotheque-3d, sous-categorie/pnj-personnages, type/lib-part, jeu/billionaire-tycoon]
 ---
@@ -23,4 +23,4 @@ Modèle en Parts « Get Dressedforthe Beach » (Billionaire Tycoon).
 - **Taille** : 3 × 4 × 1 studs
 - **Contenu** : 6 Parts · 1 MeshPart
 - **Jeu d'origine** : Billionaire Tycoon
-- **Fichier source** : `models/ByType/NPC_Characters/BillionaireTycoon_GetDressedfortheBeach.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/NPC_Characters/BillionaireTycoon_GetDressedfortheBeach.rbxm` (dans le vault)

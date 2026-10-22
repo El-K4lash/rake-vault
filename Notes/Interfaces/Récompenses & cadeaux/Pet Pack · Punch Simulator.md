@@ -5,7 +5,7 @@ catégorie: "Interfaces"
 sous-catégorie: "Récompenses & cadeaux"
 type: "Interface (ScreenGui)"
 jeu: "Punch Simulator"
-source: "ui/ByType/DailyRewards_Gifts/PunchSim_PetPack.rbxm"
+source: "Assets/ui/ByType/DailyRewards_Gifts/PunchSim_PetPack.rbxm"
 image: "_img/Lg0024.webp"
 tags: [categorie/interfaces, sous-categorie/recompenses-cadeaux, type/lib-gui, jeu/punch-simulator]
 ---
@@ -21,4 +21,4 @@ Interface « Pet Pack » du jeu Punch Simulator. 16 éléments UI.
 - **Type** : Interface (ScreenGui)
 - **Contenu** : 16 éléments UI
 - **Jeu d'origine** : Punch Simulator
-- **Fichier source** : `ui/ByType/DailyRewards_Gifts/PunchSim_PetPack.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/ui/ByType/DailyRewards_Gifts/PunchSim_PetPack.rbxm` (dans le vault)

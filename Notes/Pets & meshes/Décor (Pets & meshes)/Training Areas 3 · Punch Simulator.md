@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Décor"
 type: "Modèle en MeshParts"
 jeu: "Punch Simulator"
-source: "models/ByType/Decor_Props/PunchSim_TrainingAreas_3.rbxm"
+source: "Assets/models/ByType/Decor_Props/PunchSim_TrainingAreas_3.rbxm"
 image: "_img/Lm0314.webp"
 tags: [categorie/pets-meshes, sous-categorie/decor, type/lib-mesh, jeu/punch-simulator]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « Training Areas 3 » (Punch Simulator). Aperçu rendu dan
 - **Type** : Modèle en MeshParts
 - **Contenu** : 1 Part · 5 MeshParts
 - **Jeu d'origine** : Punch Simulator
-- **Fichier source** : `models/ByType/Decor_Props/PunchSim_TrainingAreas_3.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Decor_Props/PunchSim_TrainingAreas_3.rbxm` (dans le vault)

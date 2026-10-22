@@ -4,7 +4,7 @@ id: "Lj0026"
 catégorie: "Templates de jeux"
 sous-catégorie: "Steal a…"
 type: "Place complète (.rbxl)"
-source: "games/Steal/Steal_From_Template_Spider.rbxl"
+source: "Assets/games/Steal/Steal_From_Template_Spider.rbxl"
 image: "_img/Lj0026.webp"
 tags: [categorie/templates-de-jeux, sous-categorie/steal-a, type/lib-game]
 ---
@@ -19,4 +19,4 @@ Place Roblox complète (.rbxl) : 116 scripts, 19991 instances.
 - **Sous-catégorie** : [Steal a…](Steal%20a%E2%80%A6.md)
 - **Type** : Place complète (.rbxl)
 - **Contenu** : 116 scripts · 19 991 instances
-- **Fichier source** : `games/Steal/Steal_From_Template_Spider.rbxl` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/games/Steal/Steal_From_Template_Spider.rbxl` (dans le vault)

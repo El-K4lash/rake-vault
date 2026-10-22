@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Décor"
 type: "Modèle en MeshParts"
 jeu: "+1 Health Every Second"
-source: "models/ByType/Decor_Props/1HealthEverySecond_Tree.rbxm"
+source: "Assets/models/ByType/Decor_Props/1HealthEverySecond_Tree.rbxm"
 image: "_img/Lm0156.webp"
 tags: [categorie/pets-meshes, sous-categorie/decor, type/lib-mesh, jeu/1-health-every-second]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « Tree » (+1 Health Every Second). Aperçu rendu dans Rob
 - **Type** : Modèle en MeshParts
 - **Contenu** : 4 MeshParts
 - **Jeu d'origine** : +1 Health Every Second
-- **Fichier source** : `models/ByType/Decor_Props/1HealthEverySecond_Tree.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Decor_Props/1HealthEverySecond_Tree.rbxm` (dans le vault)

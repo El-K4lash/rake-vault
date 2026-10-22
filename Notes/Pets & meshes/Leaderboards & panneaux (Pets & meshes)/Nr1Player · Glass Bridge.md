@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Leaderboards & panneaux"
 type: "Modèle en MeshParts"
 jeu: "Glass Bridge"
-source: "models/ByType/Leaderboards_Boards/GlassBridge_Nr1Player.rbxm"
+source: "Assets/models/ByType/Leaderboards_Boards/GlassBridge_Nr1Player.rbxm"
 image: "_img/Lm0677.webp"
 tags: [categorie/pets-meshes, sous-categorie/leaderboards-panneaux, type/lib-mesh, jeu/glass-bridge]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « Nr1Player » (Glass Bridge). Aperçu rendu dans Roblox S
 - **Type** : Modèle en MeshParts
 - **Contenu** : 15 MeshParts
 - **Jeu d'origine** : Glass Bridge
-- **Fichier source** : `models/ByType/Leaderboards_Boards/GlassBridge_Nr1Player.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Leaderboards_Boards/GlassBridge_Nr1Player.rbxm` (dans le vault)

@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Pets"
 type: "Modèle en MeshParts"
 jeu: "Pet Pharmica"
-source: "models/ByType/Pets/PetPharmica_1kDog.rbxm"
+source: "Assets/models/ByType/Pets/PetPharmica_1kDog.rbxm"
 image: "_img/Lm1284.webp"
 tags: [categorie/pets-meshes, sous-categorie/pets, type/lib-mesh, jeu/pet-pharmica]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « 1k Dog » (Pet Pharmica). Aperçu rendu dans Roblox Stud
 - **Type** : Modèle en MeshParts
 - **Contenu** : 5 MeshParts
 - **Jeu d'origine** : Pet Pharmica
-- **Fichier source** : `models/ByType/Pets/PetPharmica_1kDog.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Pets/PetPharmica_1kDog.rbxm` (dans le vault)

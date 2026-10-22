@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "PNJ & personnages"
 type: "Modèle en MeshParts"
 jeu: "Hatching Simulator"
-source: "models/ByType/NPC_Characters/HatchingSim_Npcs_3.rbxm"
+source: "Assets/models/ByType/NPC_Characters/HatchingSim_Npcs_3.rbxm"
 image: "_img/Lm0977.webp"
 tags: [categorie/pets-meshes, sous-categorie/pnj-personnages, type/lib-mesh, jeu/hatching-simulator]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « Npcs 3 » (Hatching Simulator). Aperçu rendu dans Roblo
 - **Type** : Modèle en MeshParts
 - **Contenu** : 1 Part · 15 MeshParts
 - **Jeu d'origine** : Hatching Simulator
-- **Fichier source** : `models/ByType/NPC_Characters/HatchingSim_Npcs_3.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/NPC_Characters/HatchingSim_Npcs_3.rbxm` (dans le vault)

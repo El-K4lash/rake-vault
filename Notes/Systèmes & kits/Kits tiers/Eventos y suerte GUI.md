@@ -4,7 +4,7 @@ id: "Ls0056"
 catégorie: "Systèmes & kits"
 sous-catégorie: "Kits tiers"
 type: "Système de jeu"
-source: "kits/ThirdParty/Eventos y suerte GUI.rbxm"
+source: "Assets/kits/ThirdParty/Eventos y suerte GUI.rbxm"
 image: "_img/Ls0056.webp"
 tags: [categorie/systemes-kits, sous-categorie/kits-tiers, type/lib-sys]
 ---
@@ -19,4 +19,4 @@ Kits tier : 71 scripts.
 - **Sous-catégorie** : [Kits tiers](Kits%20tiers.md)
 - **Type** : Système de jeu
 - **Contenu** : 71 scripts · 4 828 instances
-- **Fichier source** : `kits/ThirdParty/Eventos y suerte GUI.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/kits/ThirdParty/Eventos y suerte GUI.rbxm` (dans le vault)

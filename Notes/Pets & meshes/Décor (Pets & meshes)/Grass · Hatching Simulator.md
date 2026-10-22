@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Décor"
 type: "Modèle en MeshParts"
 jeu: "Hatching Simulator"
-source: "models/ByType/Decor_Props/HatchingSim_Grass.rbxm"
+source: "Assets/models/ByType/Decor_Props/HatchingSim_Grass.rbxm"
 image: "_img/Lm0240.webp"
 tags: [categorie/pets-meshes, sous-categorie/decor, type/lib-mesh, jeu/hatching-simulator]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « Grass » (Hatching Simulator). Aperçu rendu dans Roblox
 - **Type** : Modèle en MeshParts
 - **Contenu** : 3 MeshParts
 - **Jeu d'origine** : Hatching Simulator
-- **Fichier source** : `models/ByType/Decor_Props/HatchingSim_Grass.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Decor_Props/HatchingSim_Grass.rbxm` (dans le vault)

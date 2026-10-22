@@ -6,7 +6,7 @@ sous-catégorie: "Leaderboards & panneaux"
 type: "Modèle en Parts"
 taille: "43 × 16 × 1"
 jeu: "Shoot A Brainrot"
-source: "models/ByType/Leaderboards_Boards/ShootABrainrot_Billboard.rbxm"
+source: "Assets/models/ByType/Leaderboards_Boards/ShootABrainrot_Billboard.rbxm"
 image: "_img/Lp0728.webp"
 tags: [categorie/bibliotheque-3d, sous-categorie/leaderboards-panneaux, type/lib-part, jeu/shoot-a-brainrot]
 ---
@@ -23,4 +23,4 @@ Modèle en Parts « Billboard » (Shoot A Brainrot).
 - **Taille** : 43 × 16 × 1 studs
 - **Contenu** : 5 Parts
 - **Jeu d'origine** : Shoot A Brainrot
-- **Fichier source** : `models/ByType/Leaderboards_Boards/ShootABrainrot_Billboard.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Leaderboards_Boards/ShootABrainrot_Billboard.rbxm` (dans le vault)

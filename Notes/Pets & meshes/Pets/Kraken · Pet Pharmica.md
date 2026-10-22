@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Pets"
 type: "Modèle en MeshParts"
 jeu: "Pet Pharmica"
-source: "models/ByType/Pets/PetPharmica_Kraken.rbxm"
+source: "Assets/models/ByType/Pets/PetPharmica_Kraken.rbxm"
 image: "_img/Lm1334.webp"
 tags: [categorie/pets-meshes, sous-categorie/pets, type/lib-mesh, jeu/pet-pharmica]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « Kraken » (Pet Pharmica). Aperçu rendu dans Roblox Stud
 - **Type** : Modèle en MeshParts
 - **Contenu** : 3 MeshParts
 - **Jeu d'origine** : Pet Pharmica
-- **Fichier source** : `models/ByType/Pets/PetPharmica_Kraken.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Pets/PetPharmica_Kraken.rbxm` (dans le vault)

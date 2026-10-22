@@ -5,7 +5,7 @@ catégorie: "Interfaces"
 sous-catégorie: "Récompenses & cadeaux"
 type: "Interface (ScreenGui)"
 jeu: "Tweeting Simulator"
-source: "ui/ByType/DailyRewards_Gifts/TweetingSim_DailyRewards.rbxm"
+source: "Assets/ui/ByType/DailyRewards_Gifts/TweetingSim_DailyRewards.rbxm"
 image: "_img/Lg0027.webp"
 tags: [categorie/interfaces, sous-categorie/recompenses-cadeaux, type/lib-gui, jeu/tweeting-simulator]
 ---
@@ -21,4 +21,4 @@ Interface « Daily Rewards » du jeu Tweeting Simulator. 30 éléments UI.
 - **Type** : Interface (ScreenGui)
 - **Contenu** : 30 éléments UI
 - **Jeu d'origine** : Tweeting Simulator
-- **Fichier source** : `ui/ByType/DailyRewards_Gifts/TweetingSim_DailyRewards.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/ui/ByType/DailyRewards_Gifts/TweetingSim_DailyRewards.rbxm` (dans le vault)

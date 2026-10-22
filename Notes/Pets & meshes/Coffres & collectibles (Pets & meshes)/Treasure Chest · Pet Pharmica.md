@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Coffres & collectibles"
 type: "Modèle en MeshParts"
 jeu: "Pet Pharmica"
-source: "models/ByType/Collectibles_Chests/PetPharmica_TreasureChest.rbxm"
+source: "Assets/models/ByType/Collectibles_Chests/PetPharmica_TreasureChest.rbxm"
 image: "_img/Lm0128.webp"
 tags: [categorie/pets-meshes, sous-categorie/coffres-collectibles, type/lib-mesh, jeu/pet-pharmica]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « Treasure Chest » (Pet Pharmica). Aperçu rendu dans Rob
 - **Type** : Modèle en MeshParts
 - **Contenu** : 1 Part · 4 MeshParts
 - **Jeu d'origine** : Pet Pharmica
-- **Fichier source** : `models/ByType/Collectibles_Chests/PetPharmica_TreasureChest.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Collectibles_Chests/PetPharmica_TreasureChest.rbxm` (dans le vault)

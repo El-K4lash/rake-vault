@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Machines"
 type: "Modèle en MeshParts"
 jeu: "Bakery Simulator"
-source: "models/ByType/Machines_Upgraders/BakerySim_CauldronEvent.rbxm"
+source: "Assets/models/ByType/Machines_Upgraders/BakerySim_CauldronEvent.rbxm"
 image: "_img/Lm0754.webp"
 tags: [categorie/pets-meshes, sous-categorie/machines, type/lib-mesh, jeu/bakery-simulator]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « Cauldron Event » (Bakery Simulator). Aperçu rendu dans
 - **Type** : Modèle en MeshParts
 - **Contenu** : 51 Parts · 21 MeshParts
 - **Jeu d'origine** : Bakery Simulator
-- **Fichier source** : `models/ByType/Machines_Upgraders/BakerySim_CauldronEvent.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Machines_Upgraders/BakerySim_CauldronEvent.rbxm` (dans le vault)

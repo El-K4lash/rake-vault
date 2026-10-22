@@ -5,7 +5,7 @@ catégorie: "Interfaces"
 sous-catégorie: "Divers"
 type: "Interface (ScreenGui)"
 jeu: "Rebirth Champions X"
-source: "ui/ByType/Misc/RebirthChampionsX_Auras.rbxm"
+source: "Assets/ui/ByType/Misc/RebirthChampionsX_Auras.rbxm"
 image: "_img/Lg0107.webp"
 tags: [categorie/interfaces, sous-categorie/divers, type/lib-gui, jeu/rebirth-champions-x]
 ---
@@ -21,4 +21,4 @@ Interface « Auras » du jeu Rebirth Champions X. 21 éléments UI.
 - **Type** : Interface (ScreenGui)
 - **Contenu** : 21 éléments UI
 - **Jeu d'origine** : Rebirth Champions X
-- **Fichier source** : `ui/ByType/Misc/RebirthChampionsX_Auras.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/ui/ByType/Misc/RebirthChampionsX_Auras.rbxm` (dans le vault)

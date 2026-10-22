@@ -5,7 +5,7 @@ catégorie: "Bibliothèque 3D"
 sous-catégorie: "Œufs Spooky"
 type: "Modèle en Parts"
 taille: "4 × 5 × 2"
-source: "packs/Eggs_Spooky/Legendary.rbxm"
+source: "Assets/packs/Eggs_Spooky/Legendary.rbxm"
 image: "_img/Lp2596.webp"
 tags: [categorie/bibliotheque-3d, sous-categorie/ufs-spooky, type/lib-part]
 ---
@@ -21,4 +21,4 @@ Modèle en Parts « Legendary ».
 - **Type** : Modèle en Parts
 - **Taille** : 4 × 5 × 2 studs
 - **Contenu** : 30 Parts
-- **Fichier source** : `packs/Eggs_Spooky/Legendary.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/packs/Eggs_Spooky/Legendary.rbxm` (dans le vault)

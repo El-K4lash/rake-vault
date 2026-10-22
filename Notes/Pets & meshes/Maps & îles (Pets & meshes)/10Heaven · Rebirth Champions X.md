@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Maps & îles"
 type: "Modèle en MeshParts"
 jeu: "Rebirth Champions X"
-source: "models/ByType/Maps_Islands_Worlds/RebirthChampionsX_10Heaven.rbxm"
+source: "Assets/models/ByType/Maps_Islands_Worlds/RebirthChampionsX_10Heaven.rbxm"
 image: "_img/Lm0871.webp"
 tags: [categorie/pets-meshes, sous-categorie/maps-iles, type/lib-mesh, jeu/rebirth-champions-x]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « 10Heaven » (Rebirth Champions X). Aperçu rendu dans Ro
 - **Type** : Modèle en MeshParts
 - **Contenu** : 1 Part · 107 MeshParts
 - **Jeu d'origine** : Rebirth Champions X
-- **Fichier source** : `models/ByType/Maps_Islands_Worlds/RebirthChampionsX_10Heaven.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Maps_Islands_Worlds/RebirthChampionsX_10Heaven.rbxm` (dans le vault)

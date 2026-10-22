@@ -6,7 +6,7 @@ sous-catégorie: "Assets de jeux"
 type: "Modèle en Parts"
 taille: "1 × 7 × 12"
 jeu: "Cashgrab Bridge"
-source: "models/FromGames/CashgrabBridgeEU/Workspace/Magic Carpet Speed Coil and Gravity Coil Givers.rbxm"
+source: "Assets/models/FromGames/CashgrabBridgeEU/Workspace/Magic Carpet Speed Coil and Gravity Coil Givers.rbxm"
 image: "_img/Lp1511.webp"
 tags: [categorie/bibliotheque-3d, sous-categorie/assets-de-jeux, type/lib-part, jeu/cashgrab-bridge]
 ---
@@ -23,4 +23,4 @@ Modèle en Parts « Magic Carpet Speed Coil and Gravity Coil Givers » (Cashgrab
 - **Taille** : 1 × 7 × 12 studs
 - **Contenu** : 15 Parts · 3 MeshParts
 - **Jeu d'origine** : Cashgrab Bridge
-- **Fichier source** : `models/FromGames/CashgrabBridgeEU/Workspace/Magic Carpet Speed Coil and Gravity Coil Givers.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/FromGames/CashgrabBridgeEU/Workspace/Magic Carpet Speed Coil and Gravity Coil Givers.rbxm` (dans le vault)

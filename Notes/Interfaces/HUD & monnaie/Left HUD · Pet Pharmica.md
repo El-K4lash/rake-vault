@@ -5,7 +5,7 @@ catégorie: "Interfaces"
 sous-catégorie: "HUD & monnaie"
 type: "Interface (ScreenGui)"
 jeu: "Pet Pharmica"
-source: "ui/ByType/HUD_Currency/PetPharmica_LeftHUD.rbxm"
+source: "Assets/ui/ByType/HUD_Currency/PetPharmica_LeftHUD.rbxm"
 image: "_img/Lg0055.webp"
 tags: [categorie/interfaces, sous-categorie/hud-monnaie, type/lib-gui, jeu/pet-pharmica]
 ---
@@ -21,4 +21,4 @@ Interface « Left HUD » du jeu Pet Pharmica. 51 éléments UI.
 - **Type** : Interface (ScreenGui)
 - **Contenu** : 51 éléments UI
 - **Jeu d'origine** : Pet Pharmica
-- **Fichier source** : `ui/ByType/HUD_Currency/PetPharmica_LeftHUD.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/ui/ByType/HUD_Currency/PetPharmica_LeftHUD.rbxm` (dans le vault)

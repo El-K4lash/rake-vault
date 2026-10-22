@@ -6,7 +6,7 @@ sous-catégorie: "Machines"
 type: "Modèle en Parts"
 taille: "12 × 3 × 4"
 jeu: "Bakery Simulator"
-source: "models/ByType/Machines_Upgraders/BakerySim_Shelves_Model_2.rbxm"
+source: "Assets/models/ByType/Machines_Upgraders/BakerySim_Shelves_Model_2.rbxm"
 image: "_img/Lp0793.webp"
 tags: [categorie/bibliotheque-3d, sous-categorie/machines, type/lib-part, jeu/bakery-simulator]
 ---
@@ -23,4 +23,4 @@ Modèle en Parts « Shelves Model 2 » (Bakery Simulator).
 - **Taille** : 12 × 3 × 4 studs
 - **Contenu** : 13 Parts · 6 MeshParts
 - **Jeu d'origine** : Bakery Simulator
-- **Fichier source** : `models/ByType/Machines_Upgraders/BakerySim_Shelves_Model_2.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Machines_Upgraders/BakerySim_Shelves_Model_2.rbxm` (dans le vault)

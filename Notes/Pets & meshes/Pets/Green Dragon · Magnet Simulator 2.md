@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Pets"
 type: "Modèle en MeshParts"
 jeu: "Magnet Simulator 2"
-source: "models/ByType/Pets/MagnetSim2_GreenDragon.rbxm"
+source: "Assets/models/ByType/Pets/MagnetSim2_GreenDragon.rbxm"
 image: "_img/Lm1161.webp"
 tags: [categorie/pets-meshes, sous-categorie/pets, type/lib-mesh, jeu/magnet-simulator-2]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « Green Dragon » (Magnet Simulator 2). Aperçu rendu dans
 - **Type** : Modèle en MeshParts
 - **Contenu** : 6 MeshParts
 - **Jeu d'origine** : Magnet Simulator 2
-- **Fichier source** : `models/ByType/Pets/MagnetSim2_GreenDragon.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Pets/MagnetSim2_GreenDragon.rbxm` (dans le vault)

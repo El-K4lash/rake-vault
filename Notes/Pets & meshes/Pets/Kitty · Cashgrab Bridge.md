@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Pets"
 type: "Modèle en MeshParts"
 jeu: "Cashgrab Bridge"
-source: "models/ByType/Pets/CashgrabBridge_Kitty.rbxm"
+source: "Assets/models/ByType/Pets/CashgrabBridge_Kitty.rbxm"
 image: "_img/Lm1079.webp"
 tags: [categorie/pets-meshes, sous-categorie/pets, type/lib-mesh, jeu/cashgrab-bridge]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « Kitty » (Cashgrab Bridge). Aperçu rendu dans Roblox St
 - **Type** : Modèle en MeshParts
 - **Contenu** : 4 MeshParts
 - **Jeu d'origine** : Cashgrab Bridge
-- **Fichier source** : `models/ByType/Pets/CashgrabBridge_Kitty.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Pets/CashgrabBridge_Kitty.rbxm` (dans le vault)

@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "PNJ & personnages"
 type: "Modèle en MeshParts"
 jeu: "First Donations"
-source: "models/ByType/NPC_Characters/FirstDonations_Picnic.rbxm"
+source: "Assets/models/ByType/NPC_Characters/FirstDonations_Picnic.rbxm"
 image: "_img/Lm0971.webp"
 tags: [categorie/pets-meshes, sous-categorie/pnj-personnages, type/lib-mesh, jeu/first-donations]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « Picnic » (First Donations). Aperçu rendu dans Roblox S
 - **Type** : Modèle en MeshParts
 - **Contenu** : 41 MeshParts
 - **Jeu d'origine** : First Donations
-- **Fichier source** : `models/ByType/NPC_Characters/FirstDonations_Picnic.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/NPC_Characters/FirstDonations_Picnic.rbxm` (dans le vault)

@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Décor"
 type: "Modèle en MeshParts"
 jeu: "Mining Masters"
-source: "models/ByType/Decor_Props/MiningMasters_DeadTree.rbxm"
+source: "Assets/models/ByType/Decor_Props/MiningMasters_DeadTree.rbxm"
 image: "_img/Lm0276.webp"
 tags: [categorie/pets-meshes, sous-categorie/decor, type/lib-mesh, jeu/mining-masters]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « Dead Tree » (Mining Masters). Aperçu rendu dans Roblox
 - **Type** : Modèle en MeshParts
 - **Contenu** : 1 MeshPart
 - **Jeu d'origine** : Mining Masters
-- **Fichier source** : `models/ByType/Decor_Props/MiningMasters_DeadTree.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Decor_Props/MiningMasters_DeadTree.rbxm` (dans le vault)

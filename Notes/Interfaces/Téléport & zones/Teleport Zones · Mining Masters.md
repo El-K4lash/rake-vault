@@ -5,7 +5,7 @@ catégorie: "Interfaces"
 sous-catégorie: "Téléport & zones"
 type: "Interface (ScreenGui)"
 jeu: "Mining Masters"
-source: "ui/ByType/Teleport_Zones/MiningMasters_TeleportZones.rbxm"
+source: "Assets/ui/ByType/Teleport_Zones/MiningMasters_TeleportZones.rbxm"
 image: "_img/Lg0216.webp"
 tags: [categorie/interfaces, sous-categorie/teleport-zones, type/lib-gui, jeu/mining-masters]
 ---
@@ -21,4 +21,4 @@ Interface « Teleport Zones » du jeu Mining Masters. 11 éléments UI.
 - **Type** : Interface (ScreenGui)
 - **Contenu** : 11 éléments UI
 - **Jeu d'origine** : Mining Masters
-- **Fichier source** : `ui/ByType/Teleport_Zones/MiningMasters_TeleportZones.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/ui/ByType/Teleport_Zones/MiningMasters_TeleportZones.rbxm` (dans le vault)

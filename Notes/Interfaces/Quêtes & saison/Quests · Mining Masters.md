@@ -5,7 +5,7 @@ catégorie: "Interfaces"
 sous-catégorie: "Quêtes & saison"
 type: "Interface (ScreenGui)"
 jeu: "Mining Masters"
-source: "ui/ByType/Quests_Season/MiningMasters_Quests.rbxm"
+source: "Assets/ui/ByType/Quests_Season/MiningMasters_Quests.rbxm"
 image: "_img/Lg0152.webp"
 tags: [categorie/interfaces, sous-categorie/quetes-saison, type/lib-gui, jeu/mining-masters]
 ---
@@ -21,4 +21,4 @@ Interface « Quests » du jeu Mining Masters. 7 éléments UI.
 - **Type** : Interface (ScreenGui)
 - **Contenu** : 7 éléments UI
 - **Jeu d'origine** : Mining Masters
-- **Fichier source** : `ui/ByType/Quests_Season/MiningMasters_Quests.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/ui/ByType/Quests_Season/MiningMasters_Quests.rbxm` (dans le vault)

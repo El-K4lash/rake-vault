@@ -5,7 +5,7 @@ catégorie: "Interfaces"
 sous-catégorie: "Pets & inventaire"
 type: "Interface (ScreenGui)"
 jeu: "Hatching Simulator"
-source: "ui/ByType/Pets_Inventory/HatchingSim_PetsInventory_Patriot.rbxm"
+source: "Assets/ui/ByType/Pets_Inventory/HatchingSim_PetsInventory_Patriot.rbxm"
 image: "_img/Lg0134.webp"
 tags: [categorie/interfaces, sous-categorie/pets-inventaire, type/lib-gui, jeu/hatching-simulator]
 ---
@@ -21,4 +21,4 @@ Interface « Pets Inventory Patriot » du jeu Hatching Simulator. 73 éléments 
 - **Type** : Interface (ScreenGui)
 - **Contenu** : 73 éléments UI
 - **Jeu d'origine** : Hatching Simulator
-- **Fichier source** : `ui/ByType/Pets_Inventory/HatchingSim_PetsInventory_Patriot.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/ui/ByType/Pets_Inventory/HatchingSim_PetsInventory_Patriot.rbxm` (dans le vault)

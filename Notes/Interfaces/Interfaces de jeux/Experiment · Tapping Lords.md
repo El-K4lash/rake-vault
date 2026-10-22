@@ -5,7 +5,7 @@ catégorie: "Interfaces"
 sous-catégorie: "Interfaces de jeux"
 type: "Interface (ScreenGui)"
 jeu: "Tapping Lords"
-source: "ui/FromGames/Tapping-Lords-Simulator/Experiment.rbxm"
+source: "Assets/ui/FromGames/Tapping-Lords-Simulator/Experiment.rbxm"
 image: "_img/Lg0344.webp"
 tags: [categorie/interfaces, sous-categorie/interfaces-de-jeux, type/lib-gui, jeu/tapping-lords]
 ---
@@ -21,4 +21,4 @@ Interface « Experiment » du jeu Tapping Lords. 1 éléments UI.
 - **Type** : Interface (ScreenGui)
 - **Contenu** : 1 élément UI
 - **Jeu d'origine** : Tapping Lords
-- **Fichier source** : `ui/FromGames/Tapping-Lords-Simulator/Experiment.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/ui/FromGames/Tapping-Lords-Simulator/Experiment.rbxm` (dans le vault)

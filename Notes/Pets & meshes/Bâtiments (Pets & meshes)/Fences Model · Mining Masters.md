@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Bâtiments"
 type: "Modèle en MeshParts"
 jeu: "Mining Masters"
-source: "models/ByType/Buildings/MiningMasters_Fences_Model.rbxm"
+source: "Assets/models/ByType/Buildings/MiningMasters_Fences_Model.rbxm"
 image: "_img/Lm0075.webp"
 tags: [categorie/pets-meshes, sous-categorie/batiments, type/lib-mesh, jeu/mining-masters]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « Fences Model » (Mining Masters). Aperçu rendu dans Rob
 - **Type** : Modèle en MeshParts
 - **Contenu** : 5 MeshParts
 - **Jeu d'origine** : Mining Masters
-- **Fichier source** : `models/ByType/Buildings/MiningMasters_Fences_Model.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Buildings/MiningMasters_Fences_Model.rbxm` (dans le vault)

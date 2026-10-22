@@ -4,7 +4,7 @@ id: "Lm2615"
 catégorie: "Pets & meshes"
 sous-catégorie: "Halloween"
 type: "Modèle en MeshParts"
-source: "packs/Halloween/_Archive/HalloweenModels_IA.rbxm"
+source: "Assets/packs/Halloween/_Archive/HalloweenModels_IA.rbxm"
 image: "_img/Lm2615.webp"
 tags: [categorie/pets-meshes, sous-categorie/halloween, type/lib-mesh]
 ---
@@ -19,4 +19,4 @@ Modèle en MeshParts « Halloween Models IA ». Aperçu : forme du mesh principa
 - **Sous-catégorie** : [Halloween](Halloween%20%28Pets%20&%20meshes%29.md)
 - **Type** : Modèle en MeshParts
 - **Contenu** : 7 MeshParts
-- **Fichier source** : `packs/Halloween/_Archive/HalloweenModels_IA.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/packs/Halloween/_Archive/HalloweenModels_IA.rbxm` (dans le vault)

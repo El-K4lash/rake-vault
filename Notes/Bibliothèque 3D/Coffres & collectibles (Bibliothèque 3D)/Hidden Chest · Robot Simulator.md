@@ -6,7 +6,7 @@ sous-catégorie: "Coffres & collectibles"
 type: "Modèle en Parts"
 taille: "10 × 8 × 11"
 jeu: "Robot Simulator"
-source: "models/ByType/Collectibles_Chests/RobotSim_HiddenChest.rbxm"
+source: "Assets/models/ByType/Collectibles_Chests/RobotSim_HiddenChest.rbxm"
 image: "_img/Lp0143.webp"
 tags: [categorie/bibliotheque-3d, sous-categorie/coffres-collectibles, type/lib-part, jeu/robot-simulator]
 ---
@@ -23,4 +23,4 @@ Modèle en Parts « Hidden Chest » (Robot Simulator).
 - **Taille** : 10 × 8 × 11 studs
 - **Contenu** : 39 Parts
 - **Jeu d'origine** : Robot Simulator
-- **Fichier source** : `models/ByType/Collectibles_Chests/RobotSim_HiddenChest.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Collectibles_Chests/RobotSim_HiddenChest.rbxm` (dans le vault)

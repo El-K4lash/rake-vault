@@ -5,7 +5,7 @@ catégorie: "Interfaces"
 sous-catégorie: "Chargement & intro"
 type: "Interface (ScreenGui)"
 jeu: "Mining Masters"
-source: "ui/ByType/Loading_Intro/MiningMasters_LoadingScreen.rbxm"
+source: "Assets/ui/ByType/Loading_Intro/MiningMasters_LoadingScreen.rbxm"
 image: "_img/Lg0081.webp"
 tags: [categorie/interfaces, sous-categorie/chargement-intro, type/lib-gui, jeu/mining-masters]
 ---
@@ -21,4 +21,4 @@ Interface « Loading Screen » du jeu Mining Masters. 10 éléments UI.
 - **Type** : Interface (ScreenGui)
 - **Contenu** : 10 éléments UI
 - **Jeu d'origine** : Mining Masters
-- **Fichier source** : `ui/ByType/Loading_Intro/MiningMasters_LoadingScreen.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/ui/ByType/Loading_Intro/MiningMasters_LoadingScreen.rbxm` (dans le vault)

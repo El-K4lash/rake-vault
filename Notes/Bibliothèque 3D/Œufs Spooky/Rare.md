@@ -5,7 +5,7 @@ catégorie: "Bibliothèque 3D"
 sous-catégorie: "Œufs Spooky"
 type: "Modèle en Parts"
 taille: "1 × 5 × 2"
-source: "packs/Eggs_Spooky/Rare.rbxm"
+source: "Assets/packs/Eggs_Spooky/Rare.rbxm"
 image: "_img/Lp2598.webp"
 tags: [categorie/bibliotheque-3d, sous-categorie/ufs-spooky, type/lib-part]
 ---
@@ -21,4 +21,4 @@ Modèle en Parts « Rare ».
 - **Type** : Modèle en Parts
 - **Taille** : 1 × 5 × 2 studs
 - **Contenu** : 25 Parts
-- **Fichier source** : `packs/Eggs_Spooky/Rare.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/packs/Eggs_Spooky/Rare.rbxm` (dans le vault)

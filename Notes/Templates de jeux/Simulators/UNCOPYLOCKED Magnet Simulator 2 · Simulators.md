@@ -4,7 +4,7 @@ id: "Lj0024"
 catégorie: "Templates de jeux"
 sous-catégorie: "Simulators"
 type: "Place complète (.rbxl)"
-source: "games/Simulators/UNCOPYLOCKED-Magnet-Simulator-2.rbxl"
+source: "Assets/games/Simulators/UNCOPYLOCKED-Magnet-Simulator-2.rbxl"
 image: "_img/Lj0024.webp"
 tags: [categorie/templates-de-jeux, sous-categorie/simulators, type/lib-game]
 ---
@@ -19,4 +19,4 @@ Place Roblox complète (.rbxl) : 80 scripts, 7564 instances.
 - **Sous-catégorie** : [Simulators](Simulators.md)
 - **Type** : Place complète (.rbxl)
 - **Contenu** : 80 scripts · 7 564 instances
-- **Fichier source** : `games/Simulators/UNCOPYLOCKED-Magnet-Simulator-2.rbxl` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/games/Simulators/UNCOPYLOCKED-Magnet-Simulator-2.rbxl` (dans le vault)

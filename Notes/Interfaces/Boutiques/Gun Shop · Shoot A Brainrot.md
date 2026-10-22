@@ -5,7 +5,7 @@ catégorie: "Interfaces"
 sous-catégorie: "Boutiques"
 type: "Interface (ScreenGui)"
 jeu: "Shoot A Brainrot"
-source: "ui/ByType/Shop_Store/ShootABrainrot_GunShop.rbxm"
+source: "Assets/ui/ByType/Shop_Store/ShootABrainrot_GunShop.rbxm"
 image: "_img/Lg0208.webp"
 tags: [categorie/interfaces, sous-categorie/boutiques, type/lib-gui, jeu/shoot-a-brainrot]
 ---
@@ -21,4 +21,4 @@ Interface « Gun Shop » du jeu Shoot A Brainrot. 32 éléments UI.
 - **Type** : Interface (ScreenGui)
 - **Contenu** : 32 éléments UI
 - **Jeu d'origine** : Shoot A Brainrot
-- **Fichier source** : `ui/ByType/Shop_Store/ShootABrainrot_GunShop.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/ui/ByType/Shop_Store/ShootABrainrot_GunShop.rbxm` (dans le vault)

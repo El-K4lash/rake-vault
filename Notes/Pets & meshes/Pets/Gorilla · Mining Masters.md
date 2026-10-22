@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Pets"
 type: "Modèle en MeshParts"
 jeu: "Mining Masters"
-source: "models/ByType/Pets/MiningMasters_Gorilla.rbxm"
+source: "Assets/models/ByType/Pets/MiningMasters_Gorilla.rbxm"
 image: "_img/Lm1241.webp"
 tags: [categorie/pets-meshes, sous-categorie/pets, type/lib-mesh, jeu/mining-masters]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « Gorilla » (Mining Masters). Aperçu rendu dans Roblox S
 - **Type** : Modèle en MeshParts
 - **Contenu** : 1 MeshPart
 - **Jeu d'origine** : Mining Masters
-- **Fichier source** : `models/ByType/Pets/MiningMasters_Gorilla.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Pets/MiningMasters_Gorilla.rbxm` (dans le vault)

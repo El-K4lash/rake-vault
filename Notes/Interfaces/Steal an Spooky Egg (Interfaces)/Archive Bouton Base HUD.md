@@ -4,7 +4,7 @@ id: "Lg0421"
 catégorie: "Interfaces"
 sous-catégorie: "Steal an Spooky Egg"
 type: "Interface (ScreenGui)"
-source: "ui/SpookyGame/Archives/Archive_BoutonBase_HUD.rbxm"
+source: "Assets/ui/SpookyGame/Archives/Archive_BoutonBase_HUD.rbxm"
 image: "_img/Lg0421.webp"
 tags: [categorie/interfaces, sous-categorie/steal-an-spooky-egg, type/lib-gui]
 ---
@@ -19,4 +19,4 @@ Interface « Archive Bouton Base HUD ». 13 éléments UI.
 - **Sous-catégorie** : [Steal an Spooky Egg](Steal%20an%20Spooky%20Egg%20%28Interfaces%29.md)
 - **Type** : Interface (ScreenGui)
 - **Contenu** : 13 éléments UI
-- **Fichier source** : `ui/SpookyGame/Archives/Archive_BoutonBase_HUD.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/ui/SpookyGame/Archives/Archive_BoutonBase_HUD.rbxm` (dans le vault)

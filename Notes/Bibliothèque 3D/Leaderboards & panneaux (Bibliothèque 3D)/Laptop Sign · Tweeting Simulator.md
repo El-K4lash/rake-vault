@@ -6,7 +6,7 @@ sous-catégorie: "Leaderboards & panneaux"
 type: "Modèle en Parts"
 taille: "2 × 4 × 1"
 jeu: "Tweeting Simulator"
-source: "models/ByType/Leaderboards_Boards/TweetingSim_LaptopSign.rbxm"
+source: "Assets/models/ByType/Leaderboards_Boards/TweetingSim_LaptopSign.rbxm"
 image: "_img/Lp0740.webp"
 tags: [categorie/bibliotheque-3d, sous-categorie/leaderboards-panneaux, type/lib-part, jeu/tweeting-simulator]
 ---
@@ -23,4 +23,4 @@ Modèle en Parts « Laptop Sign » (Tweeting Simulator).
 - **Taille** : 2 × 4 × 1 studs
 - **Contenu** : 3 Parts · 3 MeshParts
 - **Jeu d'origine** : Tweeting Simulator
-- **Fichier source** : `models/ByType/Leaderboards_Boards/TweetingSim_LaptopSign.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Leaderboards_Boards/TweetingSim_LaptopSign.rbxm` (dans le vault)

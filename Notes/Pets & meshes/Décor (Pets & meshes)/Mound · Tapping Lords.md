@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Décor"
 type: "Modèle en MeshParts"
 jeu: "Tapping Lords"
-source: "models/ByType/Decor_Props/TappingLords_Mound.rbxm"
+source: "Assets/models/ByType/Decor_Props/TappingLords_Mound.rbxm"
 image: "_img/Lm0388.webp"
 tags: [categorie/pets-meshes, sous-categorie/decor, type/lib-mesh, jeu/tapping-lords]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « Mound » (Tapping Lords). Aperçu rendu dans Roblox Stud
 - **Type** : Modèle en MeshParts
 - **Contenu** : 2 MeshParts
 - **Jeu d'origine** : Tapping Lords
-- **Fichier source** : `models/ByType/Decor_Props/TappingLords_Mound.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Decor_Props/TappingLords_Mound.rbxm` (dans le vault)

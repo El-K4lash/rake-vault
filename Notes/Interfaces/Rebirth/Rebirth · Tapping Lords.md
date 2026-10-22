@@ -5,7 +5,7 @@ catégorie: "Interfaces"
 sous-catégorie: "Rebirth"
 type: "Interface (ScreenGui)"
 jeu: "Tapping Lords"
-source: "ui/ByType/Rebirth/TappingLords_Rebirth.rbxm"
+source: "Assets/ui/ByType/Rebirth/TappingLords_Rebirth.rbxm"
 image: "_img/Lg0164.webp"
 tags: [categorie/interfaces, sous-categorie/rebirth, type/lib-gui, jeu/tapping-lords]
 ---
@@ -21,4 +21,4 @@ Interface « Rebirth » du jeu Tapping Lords. 18 éléments UI.
 - **Type** : Interface (ScreenGui)
 - **Contenu** : 18 éléments UI
 - **Jeu d'origine** : Tapping Lords
-- **Fichier source** : `ui/ByType/Rebirth/TappingLords_Rebirth.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/ui/ByType/Rebirth/TappingLords_Rebirth.rbxm` (dans le vault)

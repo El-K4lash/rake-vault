@@ -6,7 +6,7 @@ sous-catégorie: "Maps & îles"
 type: "Modèle en Parts"
 taille: "11 × 8 × 13"
 jeu: "Robot Simulator"
-source: "models/ByType/Maps_Islands_Worlds/RobotSim_Boxes.rbxm"
+source: "Assets/models/ByType/Maps_Islands_Worlds/RobotSim_Boxes.rbxm"
 image: "_img/Lp0885.webp"
 tags: [categorie/bibliotheque-3d, sous-categorie/maps-iles, type/lib-part, jeu/robot-simulator]
 ---
@@ -23,4 +23,4 @@ Modèle en Parts « Boxes » (Robot Simulator).
 - **Taille** : 11 × 8 × 13 studs
 - **Contenu** : 85 Parts
 - **Jeu d'origine** : Robot Simulator
-- **Fichier source** : `models/ByType/Maps_Islands_Worlds/RobotSim_Boxes.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Maps_Islands_Worlds/RobotSim_Boxes.rbxm` (dans le vault)

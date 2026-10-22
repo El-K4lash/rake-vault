@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Leaderboards & panneaux"
 type: "Modèle en MeshParts"
 jeu: "+1 Jump Every Second"
-source: "models/ByType/Leaderboards_Boards/1JumpEverySecond_PremiumBenefitBoard.rbxm"
+source: "Assets/models/ByType/Leaderboards_Boards/1JumpEverySecond_PremiumBenefitBoard.rbxm"
 image: "_img/Lm0673.webp"
 tags: [categorie/pets-meshes, sous-categorie/leaderboards-panneaux, type/lib-mesh, jeu/1-jump-every-second]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « Premium Benefit Board » (+1 Jump Every Second). Aperçu
 - **Type** : Modèle en MeshParts
 - **Contenu** : 19 MeshParts
 - **Jeu d'origine** : +1 Jump Every Second
-- **Fichier source** : `models/ByType/Leaderboards_Boards/1JumpEverySecond_PremiumBenefitBoard.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Leaderboards_Boards/1JumpEverySecond_PremiumBenefitBoard.rbxm` (dans le vault)

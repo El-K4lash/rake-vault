@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Assets de jeux"
 type: "Modèle en MeshParts"
 jeu: "Tapping Lords"
-source: "models/FromGames/Tapping-Lords-Simulator/Pets.rbxm"
+source: "Assets/models/FromGames/Tapping-Lords-Simulator/Pets.rbxm"
 image: "_img/Lm1739.webp"
 tags: [categorie/pets-meshes, sous-categorie/assets-de-jeux, type/lib-mesh, jeu/tapping-lords]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « Pets » (Tapping Lords). Aperçu : forme du mesh princip
 - **Type** : Modèle en MeshParts
 - **Contenu** : 33 Parts · 1 317 MeshParts
 - **Jeu d'origine** : Tapping Lords
-- **Fichier source** : `models/FromGames/Tapping-Lords-Simulator/Pets.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/FromGames/Tapping-Lords-Simulator/Pets.rbxm` (dans le vault)

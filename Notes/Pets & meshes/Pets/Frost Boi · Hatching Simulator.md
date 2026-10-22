@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Pets"
 type: "Modèle en MeshParts"
 jeu: "Hatching Simulator"
-source: "models/ByType/Pets/HatchingSim_FrostBoi.rbxm"
+source: "Assets/models/ByType/Pets/HatchingSim_FrostBoi.rbxm"
 image: "_img/Lm1121.webp"
 tags: [categorie/pets-meshes, sous-categorie/pets, type/lib-mesh, jeu/hatching-simulator]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « Frost Boi » (Hatching Simulator). Aperçu rendu dans Ro
 - **Type** : Modèle en MeshParts
 - **Contenu** : 2 MeshParts
 - **Jeu d'origine** : Hatching Simulator
-- **Fichier source** : `models/ByType/Pets/HatchingSim_FrostBoi.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Pets/HatchingSim_FrostBoi.rbxm` (dans le vault)

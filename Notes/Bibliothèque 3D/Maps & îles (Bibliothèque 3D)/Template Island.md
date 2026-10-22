@@ -5,7 +5,7 @@ catégorie: "Bibliothèque 3D"
 sous-catégorie: "Maps & îles"
 type: "Modèle en Parts"
 taille: "393 × 29 × 359"
-source: "models/ByType/Maps_Islands_Worlds/Template_Island.rbxm"
+source: "Assets/models/ByType/Maps_Islands_Worlds/Template_Island.rbxm"
 image: "_img/Lp0902.webp"
 tags: [categorie/bibliotheque-3d, sous-categorie/maps-iles, type/lib-part]
 ---
@@ -21,4 +21,4 @@ Modèle en Parts « Template Island ».
 - **Type** : Modèle en Parts
 - **Taille** : 393 × 29 × 359 studs
 - **Contenu** : 992 Parts · 6 MeshParts
-- **Fichier source** : `models/ByType/Maps_Islands_Worlds/Template_Island.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Maps_Islands_Worlds/Template_Island.rbxm` (dans le vault)

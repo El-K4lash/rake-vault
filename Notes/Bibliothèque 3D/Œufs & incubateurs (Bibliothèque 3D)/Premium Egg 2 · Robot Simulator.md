@@ -6,7 +6,7 @@ sous-catégorie: "Œufs & incubateurs"
 type: "Modèle en Parts"
 taille: "22 × 10 × 17"
 jeu: "Robot Simulator"
-source: "models/ByType/Eggs_Incubators/RobotSim_PremiumEgg_2.rbxm"
+source: "Assets/models/ByType/Eggs_Incubators/RobotSim_PremiumEgg_2.rbxm"
 image: "_img/Lp0563.webp"
 tags: [categorie/bibliotheque-3d, sous-categorie/ufs-incubateurs, type/lib-part, jeu/robot-simulator]
 ---
@@ -23,4 +23,4 @@ Modèle en Parts « Premium Egg 2 » (Robot Simulator).
 - **Taille** : 22 × 10 × 17 studs
 - **Contenu** : 18 Parts · 1 MeshPart
 - **Jeu d'origine** : Robot Simulator
-- **Fichier source** : `models/ByType/Eggs_Incubators/RobotSim_PremiumEgg_2.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Eggs_Incubators/RobotSim_PremiumEgg_2.rbxm` (dans le vault)

@@ -5,7 +5,7 @@ catégorie: "Interfaces"
 sous-catégorie: "Divers"
 type: "Interface (ScreenGui)"
 jeu: "Tapping Lords"
-source: "ui/ByType/Misc/TappingLords_FrameUI_Full.rbxm"
+source: "Assets/ui/ByType/Misc/TappingLords_FrameUI_Full.rbxm"
 image: "_img/Lg0112.webp"
 tags: [categorie/interfaces, sous-categorie/divers, type/lib-gui, jeu/tapping-lords]
 ---
@@ -21,4 +21,4 @@ Interface « Frame UI Full » du jeu Tapping Lords. 418 éléments UI.
 - **Type** : Interface (ScreenGui)
 - **Contenu** : 418 éléments UI
 - **Jeu d'origine** : Tapping Lords
-- **Fichier source** : `ui/ByType/Misc/TappingLords_FrameUI_Full.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/ui/ByType/Misc/TappingLords_FrameUI_Full.rbxm` (dans le vault)

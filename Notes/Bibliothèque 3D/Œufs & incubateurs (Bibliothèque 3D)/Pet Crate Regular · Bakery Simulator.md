@@ -6,7 +6,7 @@ sous-catégorie: "Œufs & incubateurs"
 type: "Modèle en Parts"
 taille: "1 × 1 × 1"
 jeu: "Bakery Simulator"
-source: "models/ByType/Eggs_Incubators/BakerySim_PetCrateRegular.rbxm"
+source: "Assets/models/ByType/Eggs_Incubators/BakerySim_PetCrateRegular.rbxm"
 image: "_img/Lp0423.webp"
 tags: [categorie/bibliotheque-3d, sous-categorie/ufs-incubateurs, type/lib-part, jeu/bakery-simulator]
 ---
@@ -23,4 +23,4 @@ Modèle en Parts « Pet Crate Regular » (Bakery Simulator).
 - **Taille** : 1 × 1 × 1 studs
 - **Contenu** : 4 Parts · 8 MeshParts
 - **Jeu d'origine** : Bakery Simulator
-- **Fichier source** : `models/ByType/Eggs_Incubators/BakerySim_PetCrateRegular.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Eggs_Incubators/BakerySim_PetCrateRegular.rbxm` (dans le vault)

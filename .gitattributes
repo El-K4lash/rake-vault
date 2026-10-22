@@ -1,0 +1,22 @@
+# Git LFS : places Roblox, archives et fichiers lourds (ajoutés lors de la fusion rblx -> vault)
+*.rbxl filter=lfs diff=lfs merge=lfs -text
+*.rbxlx filter=lfs diff=lfs merge=lfs -text
+*.zip filter=lfs diff=lfs merge=lfs -text
+*.tgz filter=lfs diff=lfs merge=lfs -text
+*.psd filter=lfs diff=lfs merge=lfs -text
+*.exe filter=lfs diff=lfs merge=lfs -text
+*.fig filter=lfs diff=lfs merge=lfs -text
+*.obj filter=lfs diff=lfs merge=lfs -text
+*.fbx filter=lfs diff=lfs merge=lfs -text
+*.blend filter=lfs diff=lfs merge=lfs -text
+Assets/_Archives/lib_update/** filter=lfs diff=lfs merge=lfs -text
+
+# .rbxm / .rbxmx de plus de 5 Mo
+Assets/models/FromGames/Rebirth[[:space:]]Champions[[:space:]]X/Assets.rbxm filter=lfs diff=lfs merge=lfs -text
+Assets/packs/All[[:space:]]Brainrots[[:space:]]Models[[:space:]]With[[:space:]]All[[:space:]]Mutations/ALL[[:space:]]BRAINROTS[[:space:]]MODELS[[:space:]]WITH[[:space:]]ALL[[:space:]]MUTATIONS.rbxm filter=lfs diff=lfs merge=lfs -text
+Assets/systems/FromGames/Steal[[:space:]]An[[:space:]]Egg[[:space:]]Better[[:space:]]Version[[:space:]]clstudioo_Systems.rbxm filter=lfs diff=lfs merge=lfs -text
+Assets/systems/FromGames/Steal[[:space:]]An[[:space:]]Egg[[:space:]]Sourced_Systems.rbxm filter=lfs diff=lfs merge=lfs -text
+Projets/RakeForBrainrots_projet/deliver/RakeForBrainrots.rbxmx filter=lfs diff=lfs merge=lfs -text
+
+# Déjà versionné hors LFS avant la fusion : on le laisse tel quel
+Assets/_Originaux/99_EGGS.rbxl -filter -diff -merge -text

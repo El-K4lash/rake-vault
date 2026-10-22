@@ -4,7 +4,7 @@ id: "Lj0014"
 catégorie: "Templates de jeux"
 sous-catégorie: "Simulators"
 type: "Place complète (.rbxl)"
-source: "games/Simulators/Bakery-Simulator.rbxl"
+source: "Assets/games/Simulators/Bakery-Simulator.rbxl"
 image: "_img/Lj0014.webp"
 tags: [categorie/templates-de-jeux, sous-categorie/simulators, type/lib-game]
 ---
@@ -19,4 +19,4 @@ Place Roblox complète (.rbxl) : 208 scripts, 30724 instances.
 - **Sous-catégorie** : [Simulators](Simulators.md)
 - **Type** : Place complète (.rbxl)
 - **Contenu** : 208 scripts · 30 724 instances
-- **Fichier source** : `games/Simulators/Bakery-Simulator.rbxl` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/games/Simulators/Bakery-Simulator.rbxl` (dans le vault)

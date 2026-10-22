@@ -4,7 +4,7 @@ id: "Lj0050"
 catégorie: "Templates de jeux"
 sous-catégorie: "Templates"
 type: "Place complète (.rbxl)"
-source: "kits/Templates/PU - Steal a Template.rbxl"
+source: "Assets/kits/Templates/PU - Steal a Template.rbxl"
 image: "_img/Lj0050.webp"
 tags: [categorie/templates-de-jeux, sous-categorie/templates, type/lib-game]
 ---
@@ -19,4 +19,4 @@ Place Roblox complète (.rbxl) : 157 scripts, 38862 instances.
 - **Sous-catégorie** : [Templates](Templates.md)
 - **Type** : Place complète (.rbxl)
 - **Contenu** : 157 scripts · 38 862 instances
-- **Fichier source** : `kits/Templates/PU - Steal a Template.rbxl` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/kits/Templates/PU - Steal a Template.rbxl` (dans le vault)

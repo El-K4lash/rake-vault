@@ -5,7 +5,7 @@ catégorie: "Interfaces"
 sous-catégorie: "Divers"
 type: "Interface (ScreenGui)"
 jeu: "Robot Simulator"
-source: "ui/ByType/Misc/RobotSim_CreditsUpdateLog.rbxm"
+source: "Assets/ui/ByType/Misc/RobotSim_CreditsUpdateLog.rbxm"
 image: "_img/Lg0109.webp"
 tags: [categorie/interfaces, sous-categorie/divers, type/lib-gui, jeu/robot-simulator]
 ---
@@ -21,4 +21,4 @@ Interface « Credits Update Log » du jeu Robot Simulator. 63 éléments UI.
 - **Type** : Interface (ScreenGui)
 - **Contenu** : 63 éléments UI
 - **Jeu d'origine** : Robot Simulator
-- **Fichier source** : `ui/ByType/Misc/RobotSim_CreditsUpdateLog.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/ui/ByType/Misc/RobotSim_CreditsUpdateLog.rbxm` (dans le vault)

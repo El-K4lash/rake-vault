@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Œufs & incubateurs"
 type: "Modèle en MeshParts"
 jeu: "Bakery Simulator"
-source: "models/ByType/Eggs_Incubators/BakerySim_RegularCrateOpen.rbxm"
+source: "Assets/models/ByType/Eggs_Incubators/BakerySim_RegularCrateOpen.rbxm"
 image: "_img/Lm0424.webp"
 tags: [categorie/pets-meshes, sous-categorie/ufs-incubateurs, type/lib-mesh, jeu/bakery-simulator]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « Regular Crate Open » (Bakery Simulator). Aperçu rendu 
 - **Type** : Modèle en MeshParts
 - **Contenu** : 2 Parts · 21 MeshParts
 - **Jeu d'origine** : Bakery Simulator
-- **Fichier source** : `models/ByType/Eggs_Incubators/BakerySim_RegularCrateOpen.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Eggs_Incubators/BakerySim_RegularCrateOpen.rbxm` (dans le vault)

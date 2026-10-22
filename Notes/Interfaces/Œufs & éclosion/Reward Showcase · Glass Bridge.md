@@ -5,7 +5,7 @@ catégorie: "Interfaces"
 sous-catégorie: "Œufs & éclosion"
 type: "Interface (ScreenGui)"
 jeu: "Glass Bridge"
-source: "ui/ByType/Eggs_Hatch/GlassBridge_RewardShowcase.rbxm"
+source: "Assets/ui/ByType/Eggs_Hatch/GlassBridge_RewardShowcase.rbxm"
 image: "_img/Lg0028.webp"
 tags: [categorie/interfaces, sous-categorie/ufs-eclosion, type/lib-gui, jeu/glass-bridge]
 ---
@@ -21,4 +21,4 @@ Interface « Reward Showcase » du jeu Glass Bridge. 66 éléments UI.
 - **Type** : Interface (ScreenGui)
 - **Contenu** : 66 éléments UI
 - **Jeu d'origine** : Glass Bridge
-- **Fichier source** : `ui/ByType/Eggs_Hatch/GlassBridge_RewardShowcase.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/ui/ByType/Eggs_Hatch/GlassBridge_RewardShowcase.rbxm` (dans le vault)

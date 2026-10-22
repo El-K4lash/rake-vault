@@ -6,7 +6,7 @@ sous-catégorie: "Bâtiments"
 type: "Modèle en Parts"
 taille: "39 × 26 × 31"
 jeu: "Billionaire Tycoon"
-source: "models/ByType/Buildings/BillionaireTycoon_House2c.rbxm"
+source: "Assets/models/ByType/Buildings/BillionaireTycoon_House2c.rbxm"
 image: "_img/Lp0060.webp"
 tags: [categorie/bibliotheque-3d, sous-categorie/batiments, type/lib-part, jeu/billionaire-tycoon]
 ---
@@ -23,4 +23,4 @@ Modèle en Parts « House2c » (Billionaire Tycoon).
 - **Taille** : 39 × 26 × 31 studs
 - **Contenu** : 191 Parts
 - **Jeu d'origine** : Billionaire Tycoon
-- **Fichier source** : `models/ByType/Buildings/BillionaireTycoon_House2c.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Buildings/BillionaireTycoon_House2c.rbxm` (dans le vault)

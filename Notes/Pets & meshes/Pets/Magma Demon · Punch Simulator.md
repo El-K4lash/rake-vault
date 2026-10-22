@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Pets"
 type: "Modèle en MeshParts"
 jeu: "Punch Simulator"
-source: "models/ByType/Pets/PunchSim_MagmaDemon.rbxm"
+source: "Assets/models/ByType/Pets/PunchSim_MagmaDemon.rbxm"
 image: "_img/Lm1413.webp"
 tags: [categorie/pets-meshes, sous-categorie/pets, type/lib-mesh, jeu/punch-simulator]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « Magma Demon » (Punch Simulator). Aperçu rendu dans Rob
 - **Type** : Modèle en MeshParts
 - **Contenu** : 1 MeshPart
 - **Jeu d'origine** : Punch Simulator
-- **Fichier source** : `models/ByType/Pets/PunchSim_MagmaDemon.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Pets/PunchSim_MagmaDemon.rbxm` (dans le vault)

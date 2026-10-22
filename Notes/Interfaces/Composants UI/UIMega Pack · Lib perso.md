@@ -5,7 +5,7 @@ catégorie: "Interfaces"
 sous-catégorie: "Composants UI"
 type: "Interface (ScreenGui)"
 jeu: "Lib perso"
-source: "ui/ByType/Components_Kits/Lib_UIMegaPack.rbxm"
+source: "Assets/ui/ByType/Components_Kits/Lib_UIMegaPack.rbxm"
 image: "_img/Lg0014.webp"
 tags: [categorie/interfaces, sous-categorie/composants-ui, type/lib-gui, jeu/lib-perso]
 ---
@@ -21,4 +21,4 @@ Interface « UIMega Pack » du jeu Lib perso. 115 éléments UI.
 - **Type** : Interface (ScreenGui)
 - **Contenu** : 115 éléments UI
 - **Jeu d'origine** : Lib perso
-- **Fichier source** : `ui/ByType/Components_Kits/Lib_UIMegaPack.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/ui/ByType/Components_Kits/Lib_UIMegaPack.rbxm` (dans le vault)

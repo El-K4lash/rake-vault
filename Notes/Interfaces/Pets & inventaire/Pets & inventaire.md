@@ -2,13 +2,13 @@
 title: "Pets & inventaire"
 type: "Sous-catégorie"
 catégorie: "Interfaces"
-éléments: 12
+éléments: 13
 tags: [index, categorie/interfaces]
 ---
 
 # Pets & inventaire
 
-Sous-catégorie de [Interfaces](../Interfaces.md) · **12 éléments**
+Sous-catégorie de [Interfaces](../Interfaces.md) · **13 éléments**
 
 | Aperçu | Élément | Infos |
 | --- | --- | --- |
@@ -24,3 +24,4 @@ Sous-catégorie de [Interfaces](../Interfaces.md) · **12 éléments**
 | ![Aperçu\|120](../../_img/Lg0134.webp) | [Pets Inventory Patriot · Hatching Simulator](Pets%20Inventory%20Patriot%20%C2%B7%20Hatching%20Simulator.md) | Interface (ScreenGui) · 73 éléments UI |
 | ![Aperçu\|120](../../_img/Lg0138.webp) | [UITemplates · Pet Pharmica](UITemplates%20%C2%B7%20Pet%20Pharmica.md) | Interface (ScreenGui) · 25 éléments UI |
 | ![Aperçu\|120](../../_img/Lg0143.webp) | [UITemplates · Tapping Lords](UITemplates%20%C2%B7%20Tapping%20Lords.md) | Interface (ScreenGui) · 16 éléments UI |
+| ![Aperçu\|120](../../_img/Lg0132.webp) | [Pets & inventaire — interfaces en plus (2)](Pets%20&%20inventaire%20%E2%80%94%20interfaces%20en%20plus%20%282%29.md) | Pack de fichiers · 2 fichiers · 33 Ko |

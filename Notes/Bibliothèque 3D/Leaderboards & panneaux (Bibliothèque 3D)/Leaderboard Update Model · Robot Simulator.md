@@ -6,7 +6,7 @@ sous-catégorie: "Leaderboards & panneaux"
 type: "Modèle en Parts"
 taille: "6 × 4 × 4"
 jeu: "Robot Simulator"
-source: "models/ByType/Leaderboards_Boards/RobotSim_LeaderboardUpdate_Model.rbxm"
+source: "Assets/models/ByType/Leaderboards_Boards/RobotSim_LeaderboardUpdate_Model.rbxm"
 image: "_img/Lp0723.webp"
 tags: [categorie/bibliotheque-3d, sous-categorie/leaderboards-panneaux, type/lib-part, jeu/robot-simulator]
 ---
@@ -23,4 +23,4 @@ Modèle en Parts « Leaderboard Update Model » (Robot Simulator).
 - **Taille** : 6 × 4 × 4 studs
 - **Contenu** : 8 Parts
 - **Jeu d'origine** : Robot Simulator
-- **Fichier source** : `models/ByType/Leaderboards_Boards/RobotSim_LeaderboardUpdate_Model.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Leaderboards_Boards/RobotSim_LeaderboardUpdate_Model.rbxm` (dans le vault)

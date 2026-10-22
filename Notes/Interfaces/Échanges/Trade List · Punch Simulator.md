@@ -5,7 +5,7 @@ catégorie: "Interfaces"
 sous-catégorie: "Échanges"
 type: "Interface (ScreenGui)"
 jeu: "Punch Simulator"
-source: "ui/ByType/Trade/PunchSim_TradeList.rbxm"
+source: "Assets/ui/ByType/Trade/PunchSim_TradeList.rbxm"
 image: "_img/Lg0228.webp"
 tags: [categorie/interfaces, sous-categorie/echanges, type/lib-gui, jeu/punch-simulator]
 ---
@@ -21,4 +21,4 @@ Interface « Trade List » du jeu Punch Simulator. 4 éléments UI.
 - **Type** : Interface (ScreenGui)
 - **Contenu** : 4 éléments UI
 - **Jeu d'origine** : Punch Simulator
-- **Fichier source** : `ui/ByType/Trade/PunchSim_TradeList.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/ui/ByType/Trade/PunchSim_TradeList.rbxm` (dans le vault)

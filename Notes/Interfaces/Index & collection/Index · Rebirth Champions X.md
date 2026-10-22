@@ -5,7 +5,7 @@ catégorie: "Interfaces"
 sous-catégorie: "Index & collection"
 type: "Interface (ScreenGui)"
 jeu: "Rebirth Champions X"
-source: "ui/ByType/Index_Collection/RebirthChampionsX_Index.rbxm"
+source: "Assets/ui/ByType/Index_Collection/RebirthChampionsX_Index.rbxm"
 image: "_img/Lg0072.webp"
 tags: [categorie/interfaces, sous-categorie/index-collection, type/lib-gui, jeu/rebirth-champions-x]
 ---
@@ -21,4 +21,4 @@ Interface « Index » du jeu Rebirth Champions X. 24 éléments UI.
 - **Type** : Interface (ScreenGui)
 - **Contenu** : 24 éléments UI
 - **Jeu d'origine** : Rebirth Champions X
-- **Fichier source** : `ui/ByType/Index_Collection/RebirthChampionsX_Index.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/ui/ByType/Index_Collection/RebirthChampionsX_Index.rbxm` (dans le vault)

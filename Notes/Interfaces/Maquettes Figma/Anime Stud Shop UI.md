@@ -4,7 +4,7 @@ id: "LfFanime_stud_shop_ui"
 catégorie: "Interfaces"
 sous-catégorie: "Maquettes Figma"
 type: "Maquette Figma"
-source: "ui/Figma/Anime-Stud Shop UI.fig"
+source: "Assets/ui/Figma/Anime-Stud Shop UI.fig"
 image: "_img/LfFanime_stud_shop_ui.webp"
 tags: [categorie/interfaces, sous-categorie/maquettes-figma, type/lib-fig]
 ---
@@ -18,7 +18,7 @@ Maquette Figma « Anime Stud Shop UI » : 4 frames. Le .fig s’ouvre dans Figma
 - **Catégorie** : [Interfaces](../Interfaces.md)
 - **Sous-catégorie** : [Maquettes Figma](Maquettes%20Figma.md)
 - **Type** : Maquette Figma
-- **Fichier source** : `ui/Figma/Anime-Stud Shop UI.fig` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/ui/Figma/Anime-Stud Shop UI.fig` (dans le vault)
 
 ## Maquette
 

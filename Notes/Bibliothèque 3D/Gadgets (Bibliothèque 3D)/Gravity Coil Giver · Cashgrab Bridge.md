@@ -6,7 +6,7 @@ sous-catégorie: "Gadgets"
 type: "Modèle en Parts"
 taille: "1 × 7 × 1"
 jeu: "Cashgrab Bridge"
-source: "models/ByType/Gear_Gadgets/CashgrabBridge_GravityCoilGiver.rbxm"
+source: "Assets/models/ByType/Gear_Gadgets/CashgrabBridge_GravityCoilGiver.rbxm"
 image: "_img/Lp0613.webp"
 tags: [categorie/bibliotheque-3d, sous-categorie/gadgets, type/lib-part, jeu/cashgrab-bridge]
 ---
@@ -23,4 +23,4 @@ Modèle en Parts « Gravity Coil Giver » (Cashgrab Bridge).
 - **Taille** : 1 × 7 × 1 studs
 - **Contenu** : 5 Parts · 1 MeshPart
 - **Jeu d'origine** : Cashgrab Bridge
-- **Fichier source** : `models/ByType/Gear_Gadgets/CashgrabBridge_GravityCoilGiver.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Gear_Gadgets/CashgrabBridge_GravityCoilGiver.rbxm` (dans le vault)

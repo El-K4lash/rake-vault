@@ -5,7 +5,7 @@ catégorie: "Interfaces"
 sous-catégorie: "Récompenses & cadeaux"
 type: "Interface (ScreenGui)"
 jeu: "Cashgrab Bridge"
-source: "ui/ByType/DailyRewards_Gifts/CashgrabBridge_FreeTimer.rbxm"
+source: "Assets/ui/ByType/DailyRewards_Gifts/CashgrabBridge_FreeTimer.rbxm"
 image: "_img/Lg0017.webp"
 tags: [categorie/interfaces, sous-categorie/recompenses-cadeaux, type/lib-gui, jeu/cashgrab-bridge]
 ---
@@ -21,4 +21,4 @@ Interface « Free Timer » du jeu Cashgrab Bridge. 8 éléments UI.
 - **Type** : Interface (ScreenGui)
 - **Contenu** : 8 éléments UI
 - **Jeu d'origine** : Cashgrab Bridge
-- **Fichier source** : `ui/ByType/DailyRewards_Gifts/CashgrabBridge_FreeTimer.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/ui/ByType/DailyRewards_Gifts/CashgrabBridge_FreeTimer.rbxm` (dans le vault)

@@ -5,7 +5,7 @@ catégorie: "Bibliothèque 3D"
 sous-catégorie: "Œufs Spooky"
 type: "Modèle en Parts"
 taille: "3 × 5 × 3"
-source: "packs/Eggs_Spooky/Common.rbxm"
+source: "Assets/packs/Eggs_Spooky/Common.rbxm"
 image: "_img/Lp2594.webp"
 tags: [categorie/bibliotheque-3d, sous-categorie/ufs-spooky, type/lib-part]
 ---
@@ -21,4 +21,4 @@ Modèle en Parts « Common ».
 - **Type** : Modèle en Parts
 - **Taille** : 3 × 5 × 3 studs
 - **Contenu** : 57 Parts
-- **Fichier source** : `packs/Eggs_Spooky/Common.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/packs/Eggs_Spooky/Common.rbxm` (dans le vault)

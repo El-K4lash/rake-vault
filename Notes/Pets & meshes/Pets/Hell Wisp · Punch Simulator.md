@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Pets"
 type: "Modèle en MeshParts"
 jeu: "Punch Simulator"
-source: "models/ByType/Pets/PunchSim_HellWisp.rbxm"
+source: "Assets/models/ByType/Pets/PunchSim_HellWisp.rbxm"
 image: "_img/Lm1402.webp"
 tags: [categorie/pets-meshes, sous-categorie/pets, type/lib-mesh, jeu/punch-simulator]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « Hell Wisp » (Punch Simulator). Aperçu rendu dans Roblo
 - **Type** : Modèle en MeshParts
 - **Contenu** : 2 MeshParts
 - **Jeu d'origine** : Punch Simulator
-- **Fichier source** : `models/ByType/Pets/PunchSim_HellWisp.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Pets/PunchSim_HellWisp.rbxm` (dans le vault)

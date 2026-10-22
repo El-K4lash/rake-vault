@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "PNJ & personnages"
 type: "Modèle en MeshParts"
 jeu: "Glass Bridge"
-source: "models/ByType/NPC_Characters/GlassBridge_Unnamed.rbxm"
+source: "Assets/models/ByType/NPC_Characters/GlassBridge_Unnamed.rbxm"
 image: "_img/Lm0972.webp"
 tags: [categorie/pets-meshes, sous-categorie/pnj-personnages, type/lib-mesh, jeu/glass-bridge]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « Unnamed » (Glass Bridge). Aperçu rendu dans Roblox Stu
 - **Type** : Modèle en MeshParts
 - **Contenu** : 1 Part · 17 MeshParts
 - **Jeu d'origine** : Glass Bridge
-- **Fichier source** : `models/ByType/NPC_Characters/GlassBridge_Unnamed.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/NPC_Characters/GlassBridge_Unnamed.rbxm` (dans le vault)

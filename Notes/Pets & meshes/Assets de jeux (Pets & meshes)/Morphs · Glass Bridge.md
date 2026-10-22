@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Assets de jeux"
 type: "Modèle en MeshParts"
 jeu: "Glass Bridge"
-source: "models/FromGames/GlassBridge/Workspace/Morphs.rbxm"
+source: "Assets/models/FromGames/GlassBridge/Workspace/Morphs.rbxm"
 image: "_img/Lm1565.webp"
 tags: [categorie/pets-meshes, sous-categorie/assets-de-jeux, type/lib-mesh, jeu/glass-bridge]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « Morphs » (Glass Bridge). Aperçu rendu dans Roblox Stud
 - **Type** : Modèle en MeshParts
 - **Contenu** : 38 Parts · 60 MeshParts
 - **Jeu d'origine** : Glass Bridge
-- **Fichier source** : `models/FromGames/GlassBridge/Workspace/Morphs.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/FromGames/GlassBridge/Workspace/Morphs.rbxm` (dans le vault)

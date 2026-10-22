@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Œufs & incubateurs"
 type: "Modèle en MeshParts"
 jeu: "Rebirth Champions X"
-source: "models/ByType/Eggs_Incubators/RebirthChampionsX_EasterRobux.rbxm"
+source: "Assets/models/ByType/Eggs_Incubators/RebirthChampionsX_EasterRobux.rbxm"
 image: "_img/Lm0506.webp"
 tags: [categorie/pets-meshes, sous-categorie/ufs-incubateurs, type/lib-mesh, jeu/rebirth-champions-x]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « Easter Robux » (Rebirth Champions X). Aperçu rendu dan
 - **Type** : Modèle en MeshParts
 - **Contenu** : 1 MeshPart
 - **Jeu d'origine** : Rebirth Champions X
-- **Fichier source** : `models/ByType/Eggs_Incubators/RebirthChampionsX_EasterRobux.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Eggs_Incubators/RebirthChampionsX_EasterRobux.rbxm` (dans le vault)

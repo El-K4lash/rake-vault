@@ -6,7 +6,7 @@ sous-catégorie: "Leaderboards & panneaux"
 type: "Modèle en Parts"
 taille: "8 × 7 × 8"
 jeu: "Robot Simulator"
-source: "models/ByType/Leaderboards_Boards/RobotSim_GamepassSign.rbxm"
+source: "Assets/models/ByType/Leaderboards_Boards/RobotSim_GamepassSign.rbxm"
 image: "_img/Lp0718.webp"
 tags: [categorie/bibliotheque-3d, sous-categorie/leaderboards-panneaux, type/lib-part, jeu/robot-simulator]
 ---
@@ -23,4 +23,4 @@ Modèle en Parts « Gamepass Sign » (Robot Simulator).
 - **Taille** : 8 × 7 × 8 studs
 - **Contenu** : 13 Parts
 - **Jeu d'origine** : Robot Simulator
-- **Fichier source** : `models/ByType/Leaderboards_Boards/RobotSim_GamepassSign.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Leaderboards_Boards/RobotSim_GamepassSign.rbxm` (dans le vault)

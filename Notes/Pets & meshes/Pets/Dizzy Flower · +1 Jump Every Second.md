@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Pets"
 type: "Modèle en MeshParts"
 jeu: "+1 Jump Every Second"
-source: "models/ByType/Pets/1JumpEverySecond_DizzyFlower.rbxm"
+source: "Assets/models/ByType/Pets/1JumpEverySecond_DizzyFlower.rbxm"
 image: "_img/Lm1037.webp"
 tags: [categorie/pets-meshes, sous-categorie/pets, type/lib-mesh, jeu/1-jump-every-second]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « Dizzy Flower » (+1 Jump Every Second). Aperçu rendu da
 - **Type** : Modèle en MeshParts
 - **Contenu** : 1 MeshPart
 - **Jeu d'origine** : +1 Jump Every Second
-- **Fichier source** : `models/ByType/Pets/1JumpEverySecond_DizzyFlower.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Pets/1JumpEverySecond_DizzyFlower.rbxm` (dans le vault)

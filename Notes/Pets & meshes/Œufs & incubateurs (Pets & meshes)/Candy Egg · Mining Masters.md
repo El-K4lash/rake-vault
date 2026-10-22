@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Œufs & incubateurs"
 type: "Modèle en MeshParts"
 jeu: "Mining Masters"
-source: "models/ByType/Eggs_Incubators/MiningMasters_CandyEgg.rbxm"
+source: "Assets/models/ByType/Eggs_Incubators/MiningMasters_CandyEgg.rbxm"
 image: "_img/Lm0449.webp"
 tags: [categorie/pets-meshes, sous-categorie/ufs-incubateurs, type/lib-mesh, jeu/mining-masters]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « Candy Egg » (Mining Masters). Aperçu rendu dans Roblox
 - **Type** : Modèle en MeshParts
 - **Contenu** : 8 MeshParts
 - **Jeu d'origine** : Mining Masters
-- **Fichier source** : `models/ByType/Eggs_Incubators/MiningMasters_CandyEgg.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Eggs_Incubators/MiningMasters_CandyEgg.rbxm` (dans le vault)

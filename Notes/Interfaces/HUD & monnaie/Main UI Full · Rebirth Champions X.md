@@ -5,7 +5,7 @@ catégorie: "Interfaces"
 sous-catégorie: "HUD & monnaie"
 type: "Interface (ScreenGui)"
 jeu: "Rebirth Champions X"
-source: "ui/ByType/HUD_Currency/RebirthChampionsX_MainUI_Full.rbxm"
+source: "Assets/ui/ByType/HUD_Currency/RebirthChampionsX_MainUI_Full.rbxm"
 image: "_img/Lg0059.webp"
 tags: [categorie/interfaces, sous-categorie/hud-monnaie, type/lib-gui, jeu/rebirth-champions-x]
 ---
@@ -21,4 +21,4 @@ Interface « Main UI Full » du jeu Rebirth Champions X. 91 éléments UI.
 - **Type** : Interface (ScreenGui)
 - **Contenu** : 91 éléments UI
 - **Jeu d'origine** : Rebirth Champions X
-- **Fichier source** : `ui/ByType/HUD_Currency/RebirthChampionsX_MainUI_Full.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/ui/ByType/HUD_Currency/RebirthChampionsX_MainUI_Full.rbxm` (dans le vault)

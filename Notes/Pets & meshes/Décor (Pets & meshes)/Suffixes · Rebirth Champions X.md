@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Décor"
 type: "Modèle en MeshParts"
 jeu: "Rebirth Champions X"
-source: "models/ByType/Decor_Props/RebirthChampionsX_Suffixes.rbxm"
+source: "Assets/models/ByType/Decor_Props/RebirthChampionsX_Suffixes.rbxm"
 image: "_img/Lm0349.webp"
 tags: [categorie/pets-meshes, sous-categorie/decor, type/lib-mesh, jeu/rebirth-champions-x]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « Suffixes » (Rebirth Champions X). Aperçu rendu dans Ro
 - **Type** : Modèle en MeshParts
 - **Contenu** : 2 Parts · 2 MeshParts
 - **Jeu d'origine** : Rebirth Champions X
-- **Fichier source** : `models/ByType/Decor_Props/RebirthChampionsX_Suffixes.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Decor_Props/RebirthChampionsX_Suffixes.rbxm` (dans le vault)

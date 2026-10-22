@@ -5,7 +5,7 @@ catégorie: "Interfaces"
 sous-catégorie: "Interfaces de jeux"
 type: "Interface (ScreenGui)"
 jeu: "Billionaire Tycoon"
-source: "ui/FromGames/Billionaire_Tycoon/ShopGui.rbxm"
+source: "Assets/ui/FromGames/Billionaire_Tycoon/ShopGui.rbxm"
 image: "_img/Lg0254.webp"
 tags: [categorie/interfaces, sous-categorie/interfaces-de-jeux, type/lib-gui, jeu/billionaire-tycoon]
 ---
@@ -21,4 +21,4 @@ Interface « Shop Gui » du jeu Billionaire Tycoon. 74 éléments UI.
 - **Type** : Interface (ScreenGui)
 - **Contenu** : 74 éléments UI
 - **Jeu d'origine** : Billionaire Tycoon
-- **Fichier source** : `ui/FromGames/Billionaire_Tycoon/ShopGui.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/ui/FromGames/Billionaire_Tycoon/ShopGui.rbxm` (dans le vault)

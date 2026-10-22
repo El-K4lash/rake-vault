@@ -6,7 +6,7 @@ sous-catégorie: "Assets de jeux"
 type: "Modèle en Parts"
 taille: "25 × 10 × 22"
 jeu: "Magnet Simulator 2"
-source: "models/FromGames/UNCOPYLOCKED-Magnet-Simulator-2/Workspace/Eggs.rbxm"
+source: "Assets/models/FromGames/UNCOPYLOCKED-Magnet-Simulator-2/Workspace/Eggs.rbxm"
 image: "_img/Lp1789.webp"
 tags: [categorie/bibliotheque-3d, sous-categorie/assets-de-jeux, type/lib-part, jeu/magnet-simulator-2]
 ---
@@ -23,4 +23,4 @@ Modèle en Parts « Eggs » (Magnet Simulator 2).
 - **Taille** : 25 × 10 × 22 studs
 - **Contenu** : 20 Parts · 25 MeshParts
 - **Jeu d'origine** : Magnet Simulator 2
-- **Fichier source** : `models/FromGames/UNCOPYLOCKED-Magnet-Simulator-2/Workspace/Eggs.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/FromGames/UNCOPYLOCKED-Magnet-Simulator-2/Workspace/Eggs.rbxm` (dans le vault)

@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Machines"
 type: "Modèle en MeshParts"
 jeu: "Bakery Simulator"
-source: "models/ByType/Machines_Upgraders/BakerySim_Melon.rbxm"
+source: "Assets/models/ByType/Machines_Upgraders/BakerySim_Melon.rbxm"
 image: "_img/Lm0778.webp"
 tags: [categorie/pets-meshes, sous-categorie/machines, type/lib-mesh, jeu/bakery-simulator]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « Melon » (Bakery Simulator). Aperçu rendu dans Roblox S
 - **Type** : Modèle en MeshParts
 - **Contenu** : 14 Parts · 6 MeshParts
 - **Jeu d'origine** : Bakery Simulator
-- **Fichier source** : `models/ByType/Machines_Upgraders/BakerySim_Melon.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Machines_Upgraders/BakerySim_Melon.rbxm` (dans le vault)

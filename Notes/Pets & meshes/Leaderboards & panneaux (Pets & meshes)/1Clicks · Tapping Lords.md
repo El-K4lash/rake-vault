@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Leaderboards & panneaux"
 type: "Modèle en MeshParts"
 jeu: "Tapping Lords"
-source: "models/ByType/Leaderboards_Boards/TappingLords_1Clicks.rbxm"
+source: "Assets/models/ByType/Leaderboards_Boards/TappingLords_1Clicks.rbxm"
 image: "_img/Lm0729.webp"
 tags: [categorie/pets-meshes, sous-categorie/leaderboards-panneaux, type/lib-mesh, jeu/tapping-lords]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « 1Clicks » (Tapping Lords). Aperçu rendu dans Roblox St
 - **Type** : Modèle en MeshParts
 - **Contenu** : 15 MeshParts
 - **Jeu d'origine** : Tapping Lords
-- **Fichier source** : `models/ByType/Leaderboards_Boards/TappingLords_1Clicks.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Leaderboards_Boards/TappingLords_1Clicks.rbxm` (dans le vault)

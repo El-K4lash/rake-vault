@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Maps & îles"
 type: "Modèle en MeshParts"
 jeu: "Pet Pharmica"
-source: "models/ByType/Maps_Islands_Worlds/PetPharmica_GypsyArea.rbxm"
+source: "Assets/models/ByType/Maps_Islands_Worlds/PetPharmica_GypsyArea.rbxm"
 image: "_img/Lm0865.webp"
 tags: [categorie/pets-meshes, sous-categorie/maps-iles, type/lib-mesh, jeu/pet-pharmica]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « Gypsy Area » (Pet Pharmica). Aperçu rendu dans Roblox 
 - **Type** : Modèle en MeshParts
 - **Contenu** : 25 Parts · 46 MeshParts
 - **Jeu d'origine** : Pet Pharmica
-- **Fichier source** : `models/ByType/Maps_Islands_Worlds/PetPharmica_GypsyArea.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Maps_Islands_Worlds/PetPharmica_GypsyArea.rbxm` (dans le vault)

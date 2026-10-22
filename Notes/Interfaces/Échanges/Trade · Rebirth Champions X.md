@@ -5,7 +5,7 @@ catégorie: "Interfaces"
 sous-catégorie: "Échanges"
 type: "Interface (ScreenGui)"
 jeu: "Rebirth Champions X"
-source: "ui/ByType/Trade/RebirthChampionsX_Trade.rbxm"
+source: "Assets/ui/ByType/Trade/RebirthChampionsX_Trade.rbxm"
 image: "_img/Lg0229.webp"
 tags: [categorie/interfaces, sous-categorie/echanges, type/lib-gui, jeu/rebirth-champions-x]
 ---
@@ -21,4 +21,4 @@ Interface « Trade » du jeu Rebirth Champions X. 21 éléments UI.
 - **Type** : Interface (ScreenGui)
 - **Contenu** : 21 éléments UI
 - **Jeu d'origine** : Rebirth Champions X
-- **Fichier source** : `ui/ByType/Trade/RebirthChampionsX_Trade.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/ui/ByType/Trade/RebirthChampionsX_Trade.rbxm` (dans le vault)

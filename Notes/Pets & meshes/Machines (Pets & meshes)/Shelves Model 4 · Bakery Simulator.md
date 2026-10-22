@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Machines"
 type: "Modèle en MeshParts"
 jeu: "Bakery Simulator"
-source: "models/ByType/Machines_Upgraders/BakerySim_Shelves_Model_4.rbxm"
+source: "Assets/models/ByType/Machines_Upgraders/BakerySim_Shelves_Model_4.rbxm"
 image: "_img/Lm0795.webp"
 tags: [categorie/pets-meshes, sous-categorie/machines, type/lib-mesh, jeu/bakery-simulator]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « Shelves Model 4 » (Bakery Simulator). Aperçu rendu dan
 - **Type** : Modèle en MeshParts
 - **Contenu** : 10 Parts · 4 MeshParts
 - **Jeu d'origine** : Bakery Simulator
-- **Fichier source** : `models/ByType/Machines_Upgraders/BakerySim_Shelves_Model_4.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Machines_Upgraders/BakerySim_Shelves_Model_4.rbxm` (dans le vault)

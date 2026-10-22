@@ -5,7 +5,7 @@ catégorie: "Interfaces"
 sous-catégorie: "HUD & monnaie"
 type: "Interface (ScreenGui)"
 jeu: "Hatching Simulator"
-source: "ui/ByType/HUD_Currency/HatchingSim_EventBoosts.rbxm"
+source: "Assets/ui/ByType/HUD_Currency/HatchingSim_EventBoosts.rbxm"
 image: "_img/Lg0048.webp"
 tags: [categorie/interfaces, sous-categorie/hud-monnaie, type/lib-gui, jeu/hatching-simulator]
 ---
@@ -21,4 +21,4 @@ Interface « Event Boosts » du jeu Hatching Simulator. 4 éléments UI.
 - **Type** : Interface (ScreenGui)
 - **Contenu** : 4 éléments UI
 - **Jeu d'origine** : Hatching Simulator
-- **Fichier source** : `ui/ByType/HUD_Currency/HatchingSim_EventBoosts.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/ui/ByType/HUD_Currency/HatchingSim_EventBoosts.rbxm` (dans le vault)

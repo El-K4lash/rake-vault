@@ -6,7 +6,7 @@ sous-catégorie: "Bâtiments"
 type: "Modèle en Parts"
 taille: "1 × 2 × 15"
 jeu: "Cashgrab Bridge"
-source: "models/ByType/Buildings/CashgrabBridge_Fence.rbxm"
+source: "Assets/models/ByType/Buildings/CashgrabBridge_Fence.rbxm"
 image: "_img/Lp0065.webp"
 tags: [categorie/bibliotheque-3d, sous-categorie/batiments, type/lib-part, jeu/cashgrab-bridge]
 ---
@@ -23,4 +23,4 @@ Modèle en Parts « Fence » (Cashgrab Bridge).
 - **Taille** : 1 × 2 × 15 studs
 - **Contenu** : 11 Parts
 - **Jeu d'origine** : Cashgrab Bridge
-- **Fichier source** : `models/ByType/Buildings/CashgrabBridge_Fence.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Buildings/CashgrabBridge_Fence.rbxm` (dans le vault)

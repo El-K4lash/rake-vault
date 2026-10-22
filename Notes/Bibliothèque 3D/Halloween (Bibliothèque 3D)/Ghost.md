@@ -5,7 +5,7 @@ catégorie: "Bibliothèque 3D"
 sous-catégorie: "Halloween"
 type: "Modèle en Parts"
 taille: "5 × 7 × 3"
-source: "packs/Halloween/Monsters/Ghost.rbxm"
+source: "Assets/packs/Halloween/Monsters/Ghost.rbxm"
 image: "_img/Lp2608.webp"
 tags: [categorie/bibliotheque-3d, sous-categorie/halloween, type/lib-part]
 ---
@@ -21,4 +21,4 @@ Modèle en Parts « Ghost ».
 - **Type** : Modèle en Parts
 - **Taille** : 5 × 7 × 3 studs
 - **Contenu** : 32 Parts
-- **Fichier source** : `packs/Halloween/Monsters/Ghost.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/packs/Halloween/Monsters/Ghost.rbxm` (dans le vault)

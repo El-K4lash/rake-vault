@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Bâtiments"
 type: "Modèle en MeshParts"
 jeu: "Pet Pharmica"
-source: "models/ByType/Buildings/PetPharmica_JungleHouse.rbxm"
+source: "Assets/models/ByType/Buildings/PetPharmica_JungleHouse.rbxm"
 image: "_img/Lm0080.webp"
 tags: [categorie/pets-meshes, sous-categorie/batiments, type/lib-mesh, jeu/pet-pharmica]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « Jungle House » (Pet Pharmica). Aperçu rendu dans Roblo
 - **Type** : Modèle en MeshParts
 - **Contenu** : 19 Parts · 6 MeshParts
 - **Jeu d'origine** : Pet Pharmica
-- **Fichier source** : `models/ByType/Buildings/PetPharmica_JungleHouse.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Buildings/PetPharmica_JungleHouse.rbxm` (dans le vault)

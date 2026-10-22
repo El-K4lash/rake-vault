@@ -4,7 +4,7 @@ id: "Lm2322"
 catégorie: "Pets & meshes"
 sous-catégorie: "Brainrots animés"
 type: "Modèle en MeshParts"
-source: "packs/Brainrots_Animated/Normal/Pot Hotspot.rbxm"
+source: "Assets/packs/Brainrots_Animated/Normal/Pot Hotspot.rbxm"
 image: "_img/Lm2322.webp"
 tags: [categorie/pets-meshes, sous-categorie/brainrots-animes, type/lib-mesh]
 ---
@@ -19,4 +19,4 @@ Modèle en MeshParts « Pot Hotspot ». Aperçu rendu dans Roblox Studio avec se
 - **Sous-catégorie** : [Brainrots animés](Brainrots%20anim%C3%A9s.md)
 - **Type** : Modèle en MeshParts
 - **Contenu** : 1 MeshPart
-- **Fichier source** : `packs/Brainrots_Animated/Normal/Pot Hotspot.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/packs/Brainrots_Animated/Normal/Pot Hotspot.rbxm` (dans le vault)

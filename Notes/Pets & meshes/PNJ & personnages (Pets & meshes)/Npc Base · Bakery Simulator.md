@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "PNJ & personnages"
 type: "Modèle en MeshParts"
 jeu: "Bakery Simulator"
-source: "models/ByType/NPC_Characters/BakerySim_NpcBase.rbxm"
+source: "Assets/models/ByType/NPC_Characters/BakerySim_NpcBase.rbxm"
 image: "_img/Lm0957.webp"
 tags: [categorie/pets-meshes, sous-categorie/pnj-personnages, type/lib-mesh, jeu/bakery-simulator]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « Npc Base » (Bakery Simulator). Aperçu rendu dans Roblo
 - **Type** : Modèle en MeshParts
 - **Contenu** : 1 Part · 15 MeshParts
 - **Jeu d'origine** : Bakery Simulator
-- **Fichier source** : `models/ByType/NPC_Characters/BakerySim_NpcBase.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/NPC_Characters/BakerySim_NpcBase.rbxm` (dans le vault)

@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Décor"
 type: "Modèle en MeshParts"
 jeu: "Tapping Lords"
-source: "models/ByType/Decor_Props/TappingLords_Mountain.rbxm"
+source: "Assets/models/ByType/Decor_Props/TappingLords_Mountain.rbxm"
 image: "_img/Lm0389.webp"
 tags: [categorie/pets-meshes, sous-categorie/decor, type/lib-mesh, jeu/tapping-lords]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « Mountain » (Tapping Lords). Aperçu rendu dans Roblox S
 - **Type** : Modèle en MeshParts
 - **Contenu** : 2 MeshParts
 - **Jeu d'origine** : Tapping Lords
-- **Fichier source** : `models/ByType/Decor_Props/TappingLords_Mountain.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Decor_Props/TappingLords_Mountain.rbxm` (dans le vault)

@@ -5,7 +5,7 @@ catégorie: "Interfaces"
 sous-catégorie: "Récompenses & cadeaux"
 type: "Interface (ScreenGui)"
 jeu: "Hatching Simulator"
-source: "ui/ByType/DailyRewards_Gifts/HatchingSim_ChestReward.rbxm"
+source: "Assets/ui/ByType/DailyRewards_Gifts/HatchingSim_ChestReward.rbxm"
 image: "_img/Lg0018.webp"
 tags: [categorie/interfaces, sous-categorie/recompenses-cadeaux, type/lib-gui, jeu/hatching-simulator]
 ---
@@ -21,4 +21,4 @@ Interface « Chest Reward » du jeu Hatching Simulator. 11 éléments UI.
 - **Type** : Interface (ScreenGui)
 - **Contenu** : 11 éléments UI
 - **Jeu d'origine** : Hatching Simulator
-- **Fichier source** : `ui/ByType/DailyRewards_Gifts/HatchingSim_ChestReward.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/ui/ByType/DailyRewards_Gifts/HatchingSim_ChestReward.rbxm` (dans le vault)

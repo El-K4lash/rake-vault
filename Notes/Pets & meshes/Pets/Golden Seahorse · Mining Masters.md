@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Pets"
 type: "Modèle en MeshParts"
 jeu: "Mining Masters"
-source: "models/ByType/Pets/MiningMasters_GoldenSeahorse.rbxm"
+source: "Assets/models/ByType/Pets/MiningMasters_GoldenSeahorse.rbxm"
 image: "_img/Lm1236.webp"
 tags: [categorie/pets-meshes, sous-categorie/pets, type/lib-mesh, jeu/mining-masters]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « Golden Seahorse » (Mining Masters). Aperçu rendu dans 
 - **Type** : Modèle en MeshParts
 - **Contenu** : 2 MeshParts
 - **Jeu d'origine** : Mining Masters
-- **Fichier source** : `models/ByType/Pets/MiningMasters_GoldenSeahorse.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Pets/MiningMasters_GoldenSeahorse.rbxm` (dans le vault)

@@ -4,7 +4,7 @@ id: "Ls0070"
 catégorie: "Systèmes & kits"
 sous-catégorie: "Systèmes de jeux"
 type: "Système de jeu"
-source: "systems/FromGames/HatchingSimulator_Systems.rbxm"
+source: "Assets/systems/FromGames/HatchingSimulator_Systems.rbxm"
 image: "_img/Ls0070.webp"
 tags: [categorie/systemes-kits, sous-categorie/systemes-de-jeux, type/lib-sys]
 ---
@@ -19,4 +19,4 @@ Systèmes du jeu : 93 scripts.
 - **Sous-catégorie** : [Systèmes de jeux](Syst%C3%A8mes%20de%20jeux.md)
 - **Type** : Système de jeu
 - **Contenu** : 93 scripts · 896 instances
-- **Fichier source** : `systems/FromGames/HatchingSimulator_Systems.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/systems/FromGames/HatchingSimulator_Systems.rbxm` (dans le vault)

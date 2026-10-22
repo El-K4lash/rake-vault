@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Coffres & collectibles"
 type: "Modèle en MeshParts"
 jeu: "Robot Simulator"
-source: "models/ByType/Collectibles_Chests/RobotSim_DailyReward.rbxm"
+source: "Assets/models/ByType/Collectibles_Chests/RobotSim_DailyReward.rbxm"
 image: "_img/Lm0139.webp"
 tags: [categorie/pets-meshes, sous-categorie/coffres-collectibles, type/lib-mesh, jeu/robot-simulator]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « Daily Reward » (Robot Simulator). Aperçu rendu dans Ro
 - **Type** : Modèle en MeshParts
 - **Contenu** : 2 Parts · 11 MeshParts
 - **Jeu d'origine** : Robot Simulator
-- **Fichier source** : `models/ByType/Collectibles_Chests/RobotSim_DailyReward.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Collectibles_Chests/RobotSim_DailyReward.rbxm` (dans le vault)

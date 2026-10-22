@@ -6,7 +6,7 @@ sous-catégorie: "Assets de jeux"
 type: "Modèle en Parts"
 taille: "1 × 5 × 19"
 jeu: "+1 Jump Every Second"
-source: "models/FromGames/1JumpEverySecond/Workspace/MorphGivers.rbxm"
+source: "Assets/models/FromGames/1JumpEverySecond/Workspace/MorphGivers.rbxm"
 image: "_img/Lp1435.webp"
 tags: [categorie/bibliotheque-3d, sous-categorie/assets-de-jeux, type/lib-part, jeu/1-jump-every-second]
 ---
@@ -23,4 +23,4 @@ Modèle en Parts « Morph Givers » (+1 Jump Every Second).
 - **Taille** : 1 × 5 × 19 studs
 - **Contenu** : 26 Parts · 7 MeshParts
 - **Jeu d'origine** : +1 Jump Every Second
-- **Fichier source** : `models/FromGames/1JumpEverySecond/Workspace/MorphGivers.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/FromGames/1JumpEverySecond/Workspace/MorphGivers.rbxm` (dans le vault)

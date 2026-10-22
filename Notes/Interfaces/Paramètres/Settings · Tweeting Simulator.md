@@ -5,7 +5,7 @@ catégorie: "Interfaces"
 sous-catégorie: "Paramètres"
 type: "Interface (ScreenGui)"
 jeu: "Tweeting Simulator"
-source: "ui/ByType/Settings/TweetingSim_Settings.rbxm"
+source: "Assets/ui/ByType/Settings/TweetingSim_Settings.rbxm"
 image: "_img/Lg0193.webp"
 tags: [categorie/interfaces, sous-categorie/parametres, type/lib-gui, jeu/tweeting-simulator]
 ---
@@ -21,4 +21,4 @@ Interface « Settings » du jeu Tweeting Simulator. 30 éléments UI.
 - **Type** : Interface (ScreenGui)
 - **Contenu** : 30 éléments UI
 - **Jeu d'origine** : Tweeting Simulator
-- **Fichier source** : `ui/ByType/Settings/TweetingSim_Settings.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/ui/ByType/Settings/TweetingSim_Settings.rbxm` (dans le vault)

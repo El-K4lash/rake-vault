@@ -5,7 +5,7 @@ catégorie: "Interfaces"
 sous-catégorie: "Robux & gamepass"
 type: "Interface (ScreenGui)"
 jeu: "Punch Simulator"
-source: "ui/ByType/Robux_Gamepass/PunchSim_DarkMatterPack.rbxm"
+source: "Assets/ui/ByType/Robux_Gamepass/PunchSim_DarkMatterPack.rbxm"
 image: "_img/Lg0179.webp"
 tags: [categorie/interfaces, sous-categorie/robux-gamepass, type/lib-gui, jeu/punch-simulator]
 ---
@@ -21,4 +21,4 @@ Interface « Dark Matter Pack » du jeu Punch Simulator. 35 éléments UI.
 - **Type** : Interface (ScreenGui)
 - **Contenu** : 35 éléments UI
 - **Jeu d'origine** : Punch Simulator
-- **Fichier source** : `ui/ByType/Robux_Gamepass/PunchSim_DarkMatterPack.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/ui/ByType/Robux_Gamepass/PunchSim_DarkMatterPack.rbxm` (dans le vault)

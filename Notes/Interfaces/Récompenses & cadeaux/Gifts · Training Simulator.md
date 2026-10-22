@@ -5,7 +5,7 @@ catégorie: "Interfaces"
 sous-catégorie: "Récompenses & cadeaux"
 type: "Interface (ScreenGui)"
 jeu: "Training Simulator"
-source: "ui/ByType/DailyRewards_Gifts/TrainingSim_Gifts.rbxm"
+source: "Assets/ui/ByType/DailyRewards_Gifts/TrainingSim_Gifts.rbxm"
 image: "_img/Lg0026.webp"
 tags: [categorie/interfaces, sous-categorie/recompenses-cadeaux, type/lib-gui, jeu/training-simulator]
 ---
@@ -21,4 +21,4 @@ Interface « Gifts » du jeu Training Simulator. 63 éléments UI.
 - **Type** : Interface (ScreenGui)
 - **Contenu** : 63 éléments UI
 - **Jeu d'origine** : Training Simulator
-- **Fichier source** : `ui/ByType/DailyRewards_Gifts/TrainingSim_Gifts.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/ui/ByType/DailyRewards_Gifts/TrainingSim_Gifts.rbxm` (dans le vault)

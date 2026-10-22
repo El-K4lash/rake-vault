@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Décor"
 type: "Modèle en MeshParts"
 jeu: "First Donations"
-source: "models/ByType/Decor_Props/FirstDonations_Nubes.rbxm"
+source: "Assets/models/ByType/Decor_Props/FirstDonations_Nubes.rbxm"
 image: "_img/Lm0212.webp"
 tags: [categorie/pets-meshes, sous-categorie/decor, type/lib-mesh, jeu/first-donations]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « Nubes » (First Donations). Aperçu rendu dans Roblox St
 - **Type** : Modèle en MeshParts
 - **Contenu** : 7 MeshParts
 - **Jeu d'origine** : First Donations
-- **Fichier source** : `models/ByType/Decor_Props/FirstDonations_Nubes.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Decor_Props/FirstDonations_Nubes.rbxm` (dans le vault)

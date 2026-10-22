@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Pets"
 type: "Modèle en MeshParts"
 jeu: "Mining Masters"
-source: "models/ByType/Pets/MiningMasters_Bunny.rbxm"
+source: "Assets/models/ByType/Pets/MiningMasters_Bunny.rbxm"
 image: "_img/Lm1175.webp"
 tags: [categorie/pets-meshes, sous-categorie/pets, type/lib-mesh, jeu/mining-masters]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « Bunny » (Mining Masters). Aperçu rendu dans Roblox Stu
 - **Type** : Modèle en MeshParts
 - **Contenu** : 8 MeshParts
 - **Jeu d'origine** : Mining Masters
-- **Fichier source** : `models/ByType/Pets/MiningMasters_Bunny.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Pets/MiningMasters_Bunny.rbxm` (dans le vault)

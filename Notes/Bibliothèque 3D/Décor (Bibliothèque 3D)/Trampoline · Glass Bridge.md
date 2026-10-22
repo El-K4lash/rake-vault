@@ -6,7 +6,7 @@ sous-catégorie: "Décor"
 type: "Modèle en Parts"
 taille: "18 × 10 × 19"
 jeu: "Glass Bridge"
-source: "models/ByType/Decor_Props/GlassBridge_Trampoline.rbxm"
+source: "Assets/models/ByType/Decor_Props/GlassBridge_Trampoline.rbxm"
 image: "_img/Lp0236.webp"
 tags: [categorie/bibliotheque-3d, sous-categorie/decor, type/lib-part, jeu/glass-bridge]
 ---
@@ -23,4 +23,4 @@ Modèle en Parts « Trampoline » (Glass Bridge).
 - **Taille** : 18 × 10 × 19 studs
 - **Contenu** : 42 Parts · 50 MeshParts
 - **Jeu d'origine** : Glass Bridge
-- **Fichier source** : `models/ByType/Decor_Props/GlassBridge_Trampoline.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Decor_Props/GlassBridge_Trampoline.rbxm` (dans le vault)

@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Assets de jeux"
 type: "Modèle en MeshParts"
 jeu: "Mining Masters"
-source: "models/FromGames/Mining-Masters/Pickaxe.rbxm"
+source: "Assets/models/FromGames/Mining-Masters/Pickaxe.rbxm"
 image: "_img/Lm1587.webp"
 tags: [categorie/pets-meshes, sous-categorie/assets-de-jeux, type/lib-mesh, jeu/mining-masters]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « Pickaxe » (Mining Masters). Aperçu rendu dans Roblox S
 - **Type** : Modèle en MeshParts
 - **Contenu** : 3 MeshParts
 - **Jeu d'origine** : Mining Masters
-- **Fichier source** : `models/FromGames/Mining-Masters/Pickaxe.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/FromGames/Mining-Masters/Pickaxe.rbxm` (dans le vault)

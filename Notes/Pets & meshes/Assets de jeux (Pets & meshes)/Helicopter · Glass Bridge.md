@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Assets de jeux"
 type: "Modèle en MeshParts"
 jeu: "Glass Bridge"
-source: "models/FromGames/GlassBridge/Helicopter.rbxm"
+source: "Assets/models/FromGames/GlassBridge/Helicopter.rbxm"
 image: "_img/Lm1553.webp"
 tags: [categorie/pets-meshes, sous-categorie/assets-de-jeux, type/lib-mesh, jeu/glass-bridge]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « Helicopter » (Glass Bridge). Aperçu rendu dans Roblox 
 - **Type** : Modèle en MeshParts
 - **Contenu** : 2 Parts · 5 MeshParts
 - **Jeu d'origine** : Glass Bridge
-- **Fichier source** : `models/FromGames/GlassBridge/Helicopter.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/FromGames/GlassBridge/Helicopter.rbxm` (dans le vault)

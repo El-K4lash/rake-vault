@@ -2,13 +2,13 @@
 title: "Steal an Spooky Egg"
 type: "Sous-catégorie"
 catégorie: "Interfaces"
-éléments: 33
+éléments: 34
 tags: [index, categorie/interfaces]
 ---
 
 # Steal an Spooky Egg
 
-Sous-catégorie de [Interfaces](../Interfaces.md) · **33 éléments**
+Sous-catégorie de [Interfaces](../Interfaces.md) · **34 éléments**
 
 | Aperçu | Élément | Infos |
 | --- | --- | --- |
@@ -45,3 +45,4 @@ Sous-catégorie de [Interfaces](../Interfaces.md) · **33 éléments**
 | ![Aperçu\|120](../../_img/Lg0463.webp) | [Speed Template](Speed%20Template.md) | Interface (ScreenGui) · 20 éléments UI |
 | ![Aperçu\|120](../../_img/Lg0447.webp) | [Trash](Trash.md) | Interface (ScreenGui) · 4 éléments UI |
 | ![Aperçu\|120](../../_img/Lg0464.webp) | [Upgrade GUI](Upgrade%20GUI.md) | Interface (ScreenGui) · 6 éléments UI |
+| ![Aperçu\|120](../../_img/Lg0421.webp) | [Interfaces Steal an Spooky Egg — compléments (11)](Interfaces%20Steal%20an%20Spooky%20Egg%20%E2%80%94%20compl%C3%A9ments%20%2811%29.md) | Pack de fichiers · 11 fichiers · 0,3 Mo |

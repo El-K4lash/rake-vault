@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Machines"
 type: "Modèle en MeshParts"
 jeu: "Bakery Simulator"
-source: "models/ByType/Machines_Upgraders/BakerySim_Overgrown.rbxm"
+source: "Assets/models/ByType/Machines_Upgraders/BakerySim_Overgrown.rbxm"
 image: "_img/Lm0783.webp"
 tags: [categorie/pets-meshes, sous-categorie/machines, type/lib-mesh, jeu/bakery-simulator]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « Overgrown » (Bakery Simulator). Aperçu rendu dans Robl
 - **Type** : Modèle en MeshParts
 - **Contenu** : 14 Parts · 7 MeshParts
 - **Jeu d'origine** : Bakery Simulator
-- **Fichier source** : `models/ByType/Machines_Upgraders/BakerySim_Overgrown.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Machines_Upgraders/BakerySim_Overgrown.rbxm` (dans le vault)

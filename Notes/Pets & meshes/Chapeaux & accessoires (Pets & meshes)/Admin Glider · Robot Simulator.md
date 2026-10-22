@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Chapeaux & accessoires"
 type: "Modèle en MeshParts"
 jeu: "Robot Simulator"
-source: "models/ByType/Accessories_Hats/RobotSim_AdminGlider.rbxm"
+source: "Assets/models/ByType/Accessories_Hats/RobotSim_AdminGlider.rbxm"
 image: "_img/Lm0047.webp"
 tags: [categorie/pets-meshes, sous-categorie/chapeaux-accessoires, type/lib-mesh, jeu/robot-simulator]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « Admin Glider » (Robot Simulator). Aperçu rendu dans Ro
 - **Type** : Modèle en MeshParts
 - **Contenu** : 3 MeshParts
 - **Jeu d'origine** : Robot Simulator
-- **Fichier source** : `models/ByType/Accessories_Hats/RobotSim_AdminGlider.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Accessories_Hats/RobotSim_AdminGlider.rbxm` (dans le vault)

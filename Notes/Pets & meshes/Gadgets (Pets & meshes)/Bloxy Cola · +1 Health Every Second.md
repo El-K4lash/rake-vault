@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Gadgets"
 type: "Modèle en MeshParts"
 jeu: "+1 Health Every Second"
-source: "models/ByType/Gear_Gadgets/1HealthEverySecond_BloxyCola.rbxm"
+source: "Assets/models/ByType/Gear_Gadgets/1HealthEverySecond_BloxyCola.rbxm"
 image: "_img/Lm0593.webp"
 tags: [categorie/pets-meshes, sous-categorie/gadgets, type/lib-mesh, jeu/1-health-every-second]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « Bloxy Cola » (+1 Health Every Second). Aperçu rendu da
 - **Type** : Modèle en MeshParts
 - **Contenu** : 1 MeshPart
 - **Jeu d'origine** : +1 Health Every Second
-- **Fichier source** : `models/ByType/Gear_Gadgets/1HealthEverySecond_BloxyCola.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Gear_Gadgets/1HealthEverySecond_BloxyCola.rbxm` (dans le vault)

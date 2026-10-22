@@ -5,7 +5,7 @@ catégorie: "Interfaces"
 sous-catégorie: "Boutiques"
 type: "Interface (ScreenGui)"
 jeu: "Cashgrab Bridge"
-source: "ui/ByType/Shop_Store/CashgrabBridge_PetShop.rbxm"
+source: "Assets/ui/ByType/Shop_Store/CashgrabBridge_PetShop.rbxm"
 image: "_img/Lg0198.webp"
 tags: [categorie/interfaces, sous-categorie/boutiques, type/lib-gui, jeu/cashgrab-bridge]
 ---
@@ -21,4 +21,4 @@ Interface « Pet Shop » du jeu Cashgrab Bridge. 14 éléments UI.
 - **Type** : Interface (ScreenGui)
 - **Contenu** : 14 éléments UI
 - **Jeu d'origine** : Cashgrab Bridge
-- **Fichier source** : `ui/ByType/Shop_Store/CashgrabBridge_PetShop.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/ui/ByType/Shop_Store/CashgrabBridge_PetShop.rbxm` (dans le vault)

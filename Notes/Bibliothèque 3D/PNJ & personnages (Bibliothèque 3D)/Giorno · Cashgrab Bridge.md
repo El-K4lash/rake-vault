@@ -6,7 +6,7 @@ sous-catégorie: "PNJ & personnages"
 type: "Modèle en Parts"
 taille: "3 × 4 × 3"
 jeu: "Cashgrab Bridge"
-source: "models/ByType/NPC_Characters/CashgrabBridge_Giorno.rbxm"
+source: "Assets/models/ByType/NPC_Characters/CashgrabBridge_Giorno.rbxm"
 image: "_img/Lp0962.webp"
 tags: [categorie/bibliotheque-3d, sous-categorie/pnj-personnages, type/lib-part, jeu/cashgrab-bridge]
 ---
@@ -23,4 +23,4 @@ Modèle en Parts « Giorno » (Cashgrab Bridge).
 - **Taille** : 3 × 4 × 3 studs
 - **Contenu** : 8 Parts · 3 MeshParts
 - **Jeu d'origine** : Cashgrab Bridge
-- **Fichier source** : `models/ByType/NPC_Characters/CashgrabBridge_Giorno.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/NPC_Characters/CashgrabBridge_Giorno.rbxm` (dans le vault)

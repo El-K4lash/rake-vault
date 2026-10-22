@@ -5,7 +5,7 @@ catégorie: "Bibliothèque 3D"
 sous-catégorie: "Halloween"
 type: "Modèle en Parts"
 taille: "7 × 13 × 7"
-source: "packs/Halloween/Monsters/Demon.rbxm"
+source: "Assets/packs/Halloween/Monsters/Demon.rbxm"
 image: "_img/Lp2607.webp"
 tags: [categorie/bibliotheque-3d, sous-categorie/halloween, type/lib-part]
 ---
@@ -21,4 +21,4 @@ Modèle en Parts « Demon ».
 - **Type** : Modèle en Parts
 - **Taille** : 7 × 13 × 7 studs
 - **Contenu** : 61 Parts
-- **Fichier source** : `packs/Halloween/Monsters/Demon.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/packs/Halloween/Monsters/Demon.rbxm` (dans le vault)

@@ -5,7 +5,7 @@ catégorie: "Interfaces"
 sous-catégorie: "Paramètres"
 type: "Interface (ScreenGui)"
 jeu: "First Donations"
-source: "ui/ByType/Settings/FirstDonations_Settings.rbxm"
+source: "Assets/ui/ByType/Settings/FirstDonations_Settings.rbxm"
 image: "_img/Lg0185.webp"
 tags: [categorie/interfaces, sous-categorie/parametres, type/lib-gui, jeu/first-donations]
 ---
@@ -21,4 +21,4 @@ Interface « Settings » du jeu First Donations. 17 éléments UI.
 - **Type** : Interface (ScreenGui)
 - **Contenu** : 17 éléments UI
 - **Jeu d'origine** : First Donations
-- **Fichier source** : `ui/ByType/Settings/FirstDonations_Settings.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/ui/ByType/Settings/FirstDonations_Settings.rbxm` (dans le vault)

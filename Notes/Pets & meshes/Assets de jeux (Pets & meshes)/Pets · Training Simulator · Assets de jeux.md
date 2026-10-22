@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Assets de jeux"
 type: "Modèle en MeshParts"
 jeu: "Training Simulator"
-source: "models/FromGames/TrainingSimulatorEU/Pets.rbxm"
+source: "Assets/models/FromGames/TrainingSimulatorEU/Pets.rbxm"
 image: "_img/Lm1773.webp"
 tags: [categorie/pets-meshes, sous-categorie/assets-de-jeux, type/lib-mesh, jeu/training-simulator]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « Pets » (Training Simulator). Aperçu : forme du mesh pr
 - **Type** : Modèle en MeshParts
 - **Contenu** : 595 MeshParts
 - **Jeu d'origine** : Training Simulator
-- **Fichier source** : `models/FromGames/TrainingSimulatorEU/Pets.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/FromGames/TrainingSimulatorEU/Pets.rbxm` (dans le vault)

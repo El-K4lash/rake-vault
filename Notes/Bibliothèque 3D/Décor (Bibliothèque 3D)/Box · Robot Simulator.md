@@ -6,7 +6,7 @@ sous-catégorie: "Décor"
 type: "Modèle en Parts"
 taille: "6 × 8 × 6"
 jeu: "Robot Simulator"
-source: "models/ByType/Decor_Props/RobotSim_Box.rbxm"
+source: "Assets/models/ByType/Decor_Props/RobotSim_Box.rbxm"
 image: "_img/Lp0355.webp"
 tags: [categorie/bibliotheque-3d, sous-categorie/decor, type/lib-part, jeu/robot-simulator]
 ---
@@ -23,4 +23,4 @@ Modèle en Parts « Box » (Robot Simulator).
 - **Taille** : 6 × 8 × 6 studs
 - **Contenu** : 17 Parts
 - **Jeu d'origine** : Robot Simulator
-- **Fichier source** : `models/ByType/Decor_Props/RobotSim_Box.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Decor_Props/RobotSim_Box.rbxm` (dans le vault)

@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Décor"
 type: "Modèle en MeshParts"
 jeu: "Hatching Simulator"
-source: "models/ByType/Decor_Props/HatchingSim_Hill.rbxm"
+source: "Assets/models/ByType/Decor_Props/HatchingSim_Hill.rbxm"
 image: "_img/Lm0241.webp"
 tags: [categorie/pets-meshes, sous-categorie/decor, type/lib-mesh, jeu/hatching-simulator]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « Hill » (Hatching Simulator). Aperçu rendu dans Roblox 
 - **Type** : Modèle en MeshParts
 - **Contenu** : 2 MeshParts
 - **Jeu d'origine** : Hatching Simulator
-- **Fichier source** : `models/ByType/Decor_Props/HatchingSim_Hill.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Decor_Props/HatchingSim_Hill.rbxm` (dans le vault)

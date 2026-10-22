@@ -5,7 +5,7 @@ catégorie: "Interfaces"
 sous-catégorie: "Boutiques"
 type: "Interface (ScreenGui)"
 jeu: "Tapping Lords"
-source: "ui/ByType/Shop_Store/TappingLords_Shop.rbxm"
+source: "Assets/ui/ByType/Shop_Store/TappingLords_Shop.rbxm"
 image: "_img/Lg0210.webp"
 tags: [categorie/interfaces, sous-categorie/boutiques, type/lib-gui, jeu/tapping-lords]
 ---
@@ -21,4 +21,4 @@ Interface « Shop » du jeu Tapping Lords. 82 éléments UI.
 - **Type** : Interface (ScreenGui)
 - **Contenu** : 82 éléments UI
 - **Jeu d'origine** : Tapping Lords
-- **Fichier source** : `ui/ByType/Shop_Store/TappingLords_Shop.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/ui/ByType/Shop_Store/TappingLords_Shop.rbxm` (dans le vault)

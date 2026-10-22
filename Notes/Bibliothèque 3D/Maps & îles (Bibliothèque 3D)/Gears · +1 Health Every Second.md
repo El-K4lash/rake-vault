@@ -6,7 +6,7 @@ sous-catégorie: "Maps & îles"
 type: "Modèle en Parts"
 taille: "12 × 11 × 10"
 jeu: "+1 Health Every Second"
-source: "models/ByType/Maps_Islands_Worlds/1HealthEverySecond_Gears.rbxm"
+source: "Assets/models/ByType/Maps_Islands_Worlds/1HealthEverySecond_Gears.rbxm"
 image: "_img/Lp0836.webp"
 tags: [categorie/bibliotheque-3d, sous-categorie/maps-iles, type/lib-part, jeu/1-health-every-second]
 ---
@@ -23,4 +23,4 @@ Modèle en Parts « Gears » (+1 Health Every Second).
 - **Taille** : 12 × 11 × 10 studs
 - **Contenu** : 105 Parts · 40 MeshParts
 - **Jeu d'origine** : +1 Health Every Second
-- **Fichier source** : `models/ByType/Maps_Islands_Worlds/1HealthEverySecond_Gears.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Maps_Islands_Worlds/1HealthEverySecond_Gears.rbxm` (dans le vault)

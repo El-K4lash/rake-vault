@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Décor"
 type: "Modèle en MeshParts"
 jeu: "Bakery Simulator"
-source: "models/ByType/Decor_Props/BakerySim_Pies.rbxm"
+source: "Assets/models/ByType/Decor_Props/BakerySim_Pies.rbxm"
 image: "_img/Lm0182.webp"
 tags: [categorie/pets-meshes, sous-categorie/decor, type/lib-mesh, jeu/bakery-simulator]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « Pies » (Bakery Simulator). Aperçu rendu dans Roblox St
 - **Type** : Modèle en MeshParts
 - **Contenu** : 12 MeshParts
 - **Jeu d'origine** : Bakery Simulator
-- **Fichier source** : `models/ByType/Decor_Props/BakerySim_Pies.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Decor_Props/BakerySim_Pies.rbxm` (dans le vault)

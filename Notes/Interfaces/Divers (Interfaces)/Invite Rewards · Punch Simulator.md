@@ -5,7 +5,7 @@ catégorie: "Interfaces"
 sous-catégorie: "Divers"
 type: "Interface (ScreenGui)"
 jeu: "Punch Simulator"
-source: "ui/ByType/Misc/PunchSim_InviteRewards.rbxm"
+source: "Assets/ui/ByType/Misc/PunchSim_InviteRewards.rbxm"
 image: "_img/Lg0105.webp"
 tags: [categorie/interfaces, sous-categorie/divers, type/lib-gui, jeu/punch-simulator]
 ---
@@ -21,4 +21,4 @@ Interface « Invite Rewards » du jeu Punch Simulator. 19 éléments UI.
 - **Type** : Interface (ScreenGui)
 - **Contenu** : 19 éléments UI
 - **Jeu d'origine** : Punch Simulator
-- **Fichier source** : `ui/ByType/Misc/PunchSim_InviteRewards.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/ui/ByType/Misc/PunchSim_InviteRewards.rbxm` (dans le vault)

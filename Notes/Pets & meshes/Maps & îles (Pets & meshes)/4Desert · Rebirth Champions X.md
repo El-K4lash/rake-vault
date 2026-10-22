@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Maps & îles"
 type: "Modèle en MeshParts"
 jeu: "Rebirth Champions X"
-source: "models/ByType/Maps_Islands_Worlds/RebirthChampionsX_4Desert.rbxm"
+source: "Assets/models/ByType/Maps_Islands_Worlds/RebirthChampionsX_4Desert.rbxm"
 image: "_img/Lm0878.webp"
 tags: [categorie/pets-meshes, sous-categorie/maps-iles, type/lib-mesh, jeu/rebirth-champions-x]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « 4Desert » (Rebirth Champions X). Aperçu rendu dans Rob
 - **Type** : Modèle en MeshParts
 - **Contenu** : 4 Parts · 99 MeshParts
 - **Jeu d'origine** : Rebirth Champions X
-- **Fichier source** : `models/ByType/Maps_Islands_Worlds/RebirthChampionsX_4Desert.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Maps_Islands_Worlds/RebirthChampionsX_4Desert.rbxm` (dans le vault)

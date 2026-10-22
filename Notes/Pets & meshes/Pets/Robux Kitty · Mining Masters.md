@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Pets"
 type: "Modèle en MeshParts"
 jeu: "Mining Masters"
-source: "models/ByType/Pets/MiningMasters_RobuxKitty.rbxm"
+source: "Assets/models/ByType/Pets/MiningMasters_RobuxKitty.rbxm"
 image: "_img/Lm1269.webp"
 tags: [categorie/pets-meshes, sous-categorie/pets, type/lib-mesh, jeu/mining-masters]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « Robux Kitty » (Mining Masters). Aperçu rendu dans Robl
 - **Type** : Modèle en MeshParts
 - **Contenu** : 3 MeshParts
 - **Jeu d'origine** : Mining Masters
-- **Fichier source** : `models/ByType/Pets/MiningMasters_RobuxKitty.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Pets/MiningMasters_RobuxKitty.rbxm` (dans le vault)

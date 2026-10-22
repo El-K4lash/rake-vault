@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Pets"
 type: "Modèle en MeshParts"
 jeu: "Glass Bridge"
-source: "models/ByType/Pets/GlassBridge_MythicKoi.rbxm"
+source: "Assets/models/ByType/Pets/GlassBridge_MythicKoi.rbxm"
 image: "_img/Lm1096.webp"
 tags: [categorie/pets-meshes, sous-categorie/pets, type/lib-mesh, jeu/glass-bridge]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « Mythic Koi » (Glass Bridge). Aperçu rendu dans Roblox 
 - **Type** : Modèle en MeshParts
 - **Contenu** : 8 MeshParts
 - **Jeu d'origine** : Glass Bridge
-- **Fichier source** : `models/ByType/Pets/GlassBridge_MythicKoi.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Pets/GlassBridge_MythicKoi.rbxm` (dans le vault)

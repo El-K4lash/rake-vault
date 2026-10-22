@@ -4,7 +4,7 @@ id: "Lm2313"
 catégorie: "Pets & meshes"
 sous-catégorie: "Brainrots animés"
 type: "Modèle en MeshParts"
-source: "packs/Brainrots_Animated/Normal/Nyannini Cattalini.rbxm"
+source: "Assets/packs/Brainrots_Animated/Normal/Nyannini Cattalini.rbxm"
 image: "_img/Lm2313.webp"
 tags: [categorie/pets-meshes, sous-categorie/brainrots-animes, type/lib-mesh]
 ---
@@ -19,4 +19,4 @@ Modèle en MeshParts « Nyannini Cattalini ». Aperçu rendu dans Roblox Studio 
 - **Sous-catégorie** : [Brainrots animés](Brainrots%20anim%C3%A9s.md)
 - **Type** : Modèle en MeshParts
 - **Contenu** : 1 MeshPart
-- **Fichier source** : `packs/Brainrots_Animated/Normal/Nyannini Cattalini.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/packs/Brainrots_Animated/Normal/Nyannini Cattalini.rbxm` (dans le vault)

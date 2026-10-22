@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Assets de jeux"
 type: "Modèle en MeshParts"
 jeu: "Billionaire Tycoon"
-source: "models/FromGames/Billionaire_Tycoon/Hyperlaser Gun.rbxm"
+source: "Assets/models/FromGames/Billionaire_Tycoon/Hyperlaser Gun.rbxm"
 image: "_img/Lm1468.webp"
 tags: [categorie/pets-meshes, sous-categorie/assets-de-jeux, type/lib-mesh, jeu/billionaire-tycoon]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « Hyperlaser Gun » (Billionaire Tycoon). Aperçu rendu da
 - **Type** : Modèle en MeshParts
 - **Contenu** : 1 MeshPart
 - **Jeu d'origine** : Billionaire Tycoon
-- **Fichier source** : `models/FromGames/Billionaire_Tycoon/Hyperlaser Gun.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/FromGames/Billionaire_Tycoon/Hyperlaser Gun.rbxm` (dans le vault)

@@ -6,7 +6,7 @@ sous-catégorie: "Divers"
 type: "Modèle en Parts"
 taille: "10 × 10 × 11"
 jeu: "+1 Jump Every Second"
-source: "models/ByType/Misc/1JumpEverySecond_Gears.rbxm"
+source: "Assets/models/ByType/Misc/1JumpEverySecond_Gears.rbxm"
 image: "_img/Lp0913.webp"
 tags: [categorie/bibliotheque-3d, sous-categorie/divers, type/lib-part, jeu/1-jump-every-second]
 ---
@@ -23,4 +23,4 @@ Modèle en Parts « Gears » (+1 Jump Every Second).
 - **Taille** : 10 × 10 × 11 studs
 - **Contenu** : 105 Parts · 40 MeshParts
 - **Jeu d'origine** : +1 Jump Every Second
-- **Fichier source** : `models/ByType/Misc/1JumpEverySecond_Gears.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Misc/1JumpEverySecond_Gears.rbxm` (dans le vault)

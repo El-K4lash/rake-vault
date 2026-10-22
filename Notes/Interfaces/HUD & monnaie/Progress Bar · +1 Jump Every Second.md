@@ -5,7 +5,7 @@ catégorie: "Interfaces"
 sous-catégorie: "HUD & monnaie"
 type: "Interface (ScreenGui)"
 jeu: "+1 Jump Every Second"
-source: "ui/ByType/HUD_Currency/1JumpEverySecond_ProgressBar.rbxm"
+source: "Assets/ui/ByType/HUD_Currency/1JumpEverySecond_ProgressBar.rbxm"
 image: "_img/Lg0043.webp"
 tags: [categorie/interfaces, sous-categorie/hud-monnaie, type/lib-gui, jeu/1-jump-every-second]
 ---
@@ -21,4 +21,4 @@ Interface « Progress Bar » du jeu +1 Jump Every Second. 8 éléments UI.
 - **Type** : Interface (ScreenGui)
 - **Contenu** : 8 éléments UI
 - **Jeu d'origine** : +1 Jump Every Second
-- **Fichier source** : `ui/ByType/HUD_Currency/1JumpEverySecond_ProgressBar.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/ui/ByType/HUD_Currency/1JumpEverySecond_ProgressBar.rbxm` (dans le vault)

@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Décor"
 type: "Modèle en MeshParts"
 jeu: "Tweeting Simulator"
-source: "models/ByType/Decor_Props/TweetingSim_Mountain.rbxm"
+source: "Assets/models/ByType/Decor_Props/TweetingSim_Mountain.rbxm"
 image: "_img/Lm0410.webp"
 tags: [categorie/pets-meshes, sous-categorie/decor, type/lib-mesh, jeu/tweeting-simulator]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « Mountain » (Tweeting Simulator). Aperçu rendu dans Rob
 - **Type** : Modèle en MeshParts
 - **Contenu** : 2 MeshParts
 - **Jeu d'origine** : Tweeting Simulator
-- **Fichier source** : `models/ByType/Decor_Props/TweetingSim_Mountain.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Decor_Props/TweetingSim_Mountain.rbxm` (dans le vault)

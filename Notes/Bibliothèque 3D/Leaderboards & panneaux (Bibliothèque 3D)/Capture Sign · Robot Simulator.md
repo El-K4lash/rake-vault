@@ -6,7 +6,7 @@ sous-catégorie: "Leaderboards & panneaux"
 type: "Modèle en Parts"
 taille: "2 × 4 × 9"
 jeu: "Robot Simulator"
-source: "models/ByType/Leaderboards_Boards/RobotSim_CaptureSign.rbxm"
+source: "Assets/models/ByType/Leaderboards_Boards/RobotSim_CaptureSign.rbxm"
 image: "_img/Lp0706.webp"
 tags: [categorie/bibliotheque-3d, sous-categorie/leaderboards-panneaux, type/lib-part, jeu/robot-simulator]
 ---
@@ -23,4 +23,4 @@ Modèle en Parts « Capture Sign » (Robot Simulator).
 - **Taille** : 2 × 4 × 9 studs
 - **Contenu** : 12 Parts
 - **Jeu d'origine** : Robot Simulator
-- **Fichier source** : `models/ByType/Leaderboards_Boards/RobotSim_CaptureSign.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Leaderboards_Boards/RobotSim_CaptureSign.rbxm` (dans le vault)

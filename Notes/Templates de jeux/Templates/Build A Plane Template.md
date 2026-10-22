@@ -4,7 +4,7 @@ id: "Lj0032"
 catégorie: "Templates de jeux"
 sous-catégorie: "Templates"
 type: "Place complète (.rbxl)"
-source: "kits/Templates/Build A Plane Template.rbxl"
+source: "Assets/kits/Templates/Build A Plane Template.rbxl"
 image: "_img/Lj0032.webp"
 tags: [categorie/templates-de-jeux, sous-categorie/templates, type/lib-game]
 ---
@@ -19,4 +19,4 @@ Place Roblox complète (.rbxl) : 74 scripts, 46579 instances.
 - **Sous-catégorie** : [Templates](Templates.md)
 - **Type** : Place complète (.rbxl)
 - **Contenu** : 74 scripts · 46 579 instances
-- **Fichier source** : `kits/Templates/Build A Plane Template.rbxl` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/kits/Templates/Build A Plane Template.rbxl` (dans le vault)

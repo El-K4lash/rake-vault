@@ -5,7 +5,7 @@ catégorie: "Interfaces"
 sous-catégorie: "Robux & gamepass"
 type: "Interface (ScreenGui)"
 jeu: "Cashgrab Bridge"
-source: "ui/ByType/Robux_Gamepass/CashgrabBridge_TrollProducts.rbxm"
+source: "Assets/ui/ByType/Robux_Gamepass/CashgrabBridge_TrollProducts.rbxm"
 image: "_img/Lg0174.webp"
 tags: [categorie/interfaces, sous-categorie/robux-gamepass, type/lib-gui, jeu/cashgrab-bridge]
 ---
@@ -21,4 +21,4 @@ Interface « Troll Products » du jeu Cashgrab Bridge. 17 éléments UI.
 - **Type** : Interface (ScreenGui)
 - **Contenu** : 17 éléments UI
 - **Jeu d'origine** : Cashgrab Bridge
-- **Fichier source** : `ui/ByType/Robux_Gamepass/CashgrabBridge_TrollProducts.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/ui/ByType/Robux_Gamepass/CashgrabBridge_TrollProducts.rbxm` (dans le vault)

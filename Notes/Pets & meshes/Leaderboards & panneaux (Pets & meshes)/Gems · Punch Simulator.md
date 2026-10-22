@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Leaderboards & panneaux"
 type: "Modèle en MeshParts"
 jeu: "Punch Simulator"
-source: "models/ByType/Leaderboards_Boards/PunchSim_Gems.rbxm"
+source: "Assets/models/ByType/Leaderboards_Boards/PunchSim_Gems.rbxm"
 image: "_img/Lm0686.webp"
 tags: [categorie/pets-meshes, sous-categorie/leaderboards-panneaux, type/lib-mesh, jeu/punch-simulator]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « Gems » (Punch Simulator). Aperçu rendu dans Roblox Stu
 - **Type** : Modèle en MeshParts
 - **Contenu** : 4 MeshParts
 - **Jeu d'origine** : Punch Simulator
-- **Fichier source** : `models/ByType/Leaderboards_Boards/PunchSim_Gems.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Leaderboards_Boards/PunchSim_Gems.rbxm` (dans le vault)

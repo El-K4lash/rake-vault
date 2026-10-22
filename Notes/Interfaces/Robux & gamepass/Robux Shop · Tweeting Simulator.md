@@ -5,7 +5,7 @@ catégorie: "Interfaces"
 sous-catégorie: "Robux & gamepass"
 type: "Interface (ScreenGui)"
 jeu: "Tweeting Simulator"
-source: "ui/ByType/Robux_Gamepass/TweetingSim_RobuxShop.rbxm"
+source: "Assets/ui/ByType/Robux_Gamepass/TweetingSim_RobuxShop.rbxm"
 image: "_img/Lg0183.webp"
 tags: [categorie/interfaces, sous-categorie/robux-gamepass, type/lib-gui, jeu/tweeting-simulator]
 ---
@@ -21,4 +21,4 @@ Interface « Robux Shop » du jeu Tweeting Simulator. 58 éléments UI.
 - **Type** : Interface (ScreenGui)
 - **Contenu** : 58 éléments UI
 - **Jeu d'origine** : Tweeting Simulator
-- **Fichier source** : `ui/ByType/Robux_Gamepass/TweetingSim_RobuxShop.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/ui/ByType/Robux_Gamepass/TweetingSim_RobuxShop.rbxm` (dans le vault)

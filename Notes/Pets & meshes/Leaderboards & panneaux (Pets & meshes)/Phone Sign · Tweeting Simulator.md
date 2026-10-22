@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Leaderboards & panneaux"
 type: "Modèle en MeshParts"
 jeu: "Tweeting Simulator"
-source: "models/ByType/Leaderboards_Boards/TweetingSim_PhoneSign.rbxm"
+source: "Assets/models/ByType/Leaderboards_Boards/TweetingSim_PhoneSign.rbxm"
 image: "_img/Lm0741.webp"
 tags: [categorie/pets-meshes, sous-categorie/leaderboards-panneaux, type/lib-mesh, jeu/tweeting-simulator]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « Phone Sign » (Tweeting Simulator). Aperçu rendu dans R
 - **Type** : Modèle en MeshParts
 - **Contenu** : 3 MeshParts
 - **Jeu d'origine** : Tweeting Simulator
-- **Fichier source** : `models/ByType/Leaderboards_Boards/TweetingSim_PhoneSign.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Leaderboards_Boards/TweetingSim_PhoneSign.rbxm` (dans le vault)

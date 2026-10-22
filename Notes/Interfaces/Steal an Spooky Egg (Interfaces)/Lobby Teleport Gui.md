@@ -4,7 +4,7 @@ id: "Lg0449"
 catégorie: "Interfaces"
 sous-catégorie: "Steal an Spooky Egg"
 type: "Interface (ScreenGui)"
-source: "ui/SpookyGame/StarterGui/LobbyTeleportGui.rbxm"
+source: "Assets/ui/SpookyGame/StarterGui/LobbyTeleportGui.rbxm"
 image: "_img/Lg0449.webp"
 tags: [categorie/interfaces, sous-categorie/steal-an-spooky-egg, type/lib-gui]
 ---
@@ -19,4 +19,4 @@ Interface « Lobby Teleport Gui ». 16 éléments UI.
 - **Sous-catégorie** : [Steal an Spooky Egg](Steal%20an%20Spooky%20Egg%20%28Interfaces%29.md)
 - **Type** : Interface (ScreenGui)
 - **Contenu** : 16 éléments UI
-- **Fichier source** : `ui/SpookyGame/StarterGui/LobbyTeleportGui.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/ui/SpookyGame/StarterGui/LobbyTeleportGui.rbxm` (dans le vault)

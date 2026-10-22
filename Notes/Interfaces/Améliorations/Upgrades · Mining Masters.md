@@ -5,7 +5,7 @@ catégorie: "Interfaces"
 sous-catégorie: "Améliorations"
 type: "Interface (ScreenGui)"
 jeu: "Mining Masters"
-source: "ui/ByType/Upgrades/MiningMasters_Upgrades.rbxm"
+source: "Assets/ui/ByType/Upgrades/MiningMasters_Upgrades.rbxm"
 image: "_img/Lg0231.webp"
 tags: [categorie/interfaces, sous-categorie/ameliorations, type/lib-gui, jeu/mining-masters]
 ---
@@ -21,4 +21,4 @@ Interface « Upgrades » du jeu Mining Masters. 8 éléments UI.
 - **Type** : Interface (ScreenGui)
 - **Contenu** : 8 éléments UI
 - **Jeu d'origine** : Mining Masters
-- **Fichier source** : `ui/ByType/Upgrades/MiningMasters_Upgrades.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/ui/ByType/Upgrades/MiningMasters_Upgrades.rbxm` (dans le vault)

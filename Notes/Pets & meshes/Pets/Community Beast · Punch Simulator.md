@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Pets"
 type: "Modèle en MeshParts"
 jeu: "Punch Simulator"
-source: "models/ByType/Pets/PunchSim_CommunityBeast.rbxm"
+source: "Assets/models/ByType/Pets/PunchSim_CommunityBeast.rbxm"
 image: "_img/Lm1383.webp"
 tags: [categorie/pets-meshes, sous-categorie/pets, type/lib-mesh, jeu/punch-simulator]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « Community Beast » (Punch Simulator). Aperçu rendu dans
 - **Type** : Modèle en MeshParts
 - **Contenu** : 2 MeshParts
 - **Jeu d'origine** : Punch Simulator
-- **Fichier source** : `models/ByType/Pets/PunchSim_CommunityBeast.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Pets/PunchSim_CommunityBeast.rbxm` (dans le vault)

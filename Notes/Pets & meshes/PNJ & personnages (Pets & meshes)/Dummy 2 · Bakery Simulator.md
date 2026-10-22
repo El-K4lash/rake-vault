@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "PNJ & personnages"
 type: "Modèle en MeshParts"
 jeu: "Bakery Simulator"
-source: "models/ByType/NPC_Characters/BakerySim_Dummy_2.rbxm"
+source: "Assets/models/ByType/NPC_Characters/BakerySim_Dummy_2.rbxm"
 image: "_img/Lm0955.webp"
 tags: [categorie/pets-meshes, sous-categorie/pnj-personnages, type/lib-mesh, jeu/bakery-simulator]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « Dummy 2 » (Bakery Simulator). Aperçu rendu dans Roblox
 - **Type** : Modèle en MeshParts
 - **Contenu** : 1 Part · 16 MeshParts
 - **Jeu d'origine** : Bakery Simulator
-- **Fichier source** : `models/ByType/NPC_Characters/BakerySim_Dummy_2.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/NPC_Characters/BakerySim_Dummy_2.rbxm` (dans le vault)

@@ -2,13 +2,13 @@
 title: "Brainrots animés"
 type: "Sous-catégorie"
 catégorie: "Pets & meshes"
-éléments: 87
+éléments: 97
 tags: [index, categorie/pets-meshes]
 ---
 
 # Brainrots animés
 
-Sous-catégorie de [Pets & meshes](../Pets%20&%20meshes.md) · **87 éléments**
+Sous-catégorie de [Pets & meshes](../Pets%20&%20meshes.md) · **97 éléments**
 
 | Aperçu | Élément | Infos |
 | --- | --- | --- |
@@ -99,3 +99,13 @@ Sous-catégorie de [Pets & meshes](../Pets%20&%20meshes.md) · **87 éléments**
 | ![Aperçu\|120](../../_img/Lm2346.webp) | [W Or L](W%20Or%20L.md) | Modèle en MeshParts · 1 MeshPart |
 | ![Aperçu\|120](../../_img/Lm2347.webp) | [Yess My Examen](Yess%20My%20Examen.md) | Modèle en MeshParts · 1 MeshPart |
 | ![Aperçu\|120](../../_img/Lm2348.webp) | [Zibra Zubra Zibralini](Zibra%20Zubra%20Zibralini.md) | Modèle en MeshParts · 1 MeshPart |
+| ![Aperçu\|120](../../_img/Lx0044.webp) | [Brainrots animés — variante Arcoiris (87)](Brainrots%20anim%C3%A9s%20%E2%80%94%20variante%20Arcoiris%20%2887%29.md) | Pack de fichiers · 87 fichiers · 0,9 Mo |
+| ![Aperçu\|120](../../_img/Lx0045.webp) | [Brainrots animés — variante Diamante (87)](Brainrots%20anim%C3%A9s%20%E2%80%94%20variante%20Diamante%20%2887%29.md) | Pack de fichiers · 87 fichiers · 0,8 Mo |
+| ![Aperçu\|120](../../_img/Lx0046.webp) | [Brainrots animés — variante Galaxia (87)](Brainrots%20anim%C3%A9s%20%E2%80%94%20variante%20Galaxia%20%2887%29.md) | Pack de fichiers · 87 fichiers · 1,0 Mo |
+| ![Aperçu\|120](../../_img/Lx0047.webp) | [Brainrots animés — variante Hacker (88)](Brainrots%20anim%C3%A9s%20%E2%80%94%20variante%20Hacker%20%2888%29.md) | Pack de fichiers · 88 fichiers · 0,8 Mo |
+| ![Aperçu\|120](../../_img/Lx0048.webp) | [Brainrots animés — variante Lava (87)](Brainrots%20anim%C3%A9s%20%E2%80%94%20variante%20Lava%20%2887%29.md) | Pack de fichiers · 87 fichiers · 0,9 Mo |
+| ![Aperçu\|120](../../_img/Lx0049.webp) | [Brainrots animés — variante Oro (87)](Brainrots%20anim%C3%A9s%20%E2%80%94%20variante%20Oro%20%2887%29.md) | Pack de fichiers · 87 fichiers · 0,8 Mo |
+| ![Aperçu\|120](../../_img/Lm2262.webp) | [Brainrots animés — packs complets par variante](Brainrots%20anim%C3%A9s%20%E2%80%94%20packs%20complets%20par%20variante.md) | Pack de fichiers · 7 fichiers · 0,7 Mo |
+| ![Aperçu\|120](../../_img/Ly0050.webp) | [Los Dons (brainrot, by Witox / sammyni Spookyni)](Los%20Dons%20%28brainrot,%20by%20Witox%20%20sammyni%20Spookyni%29.md) | Modèle Roblox (.rbxm) · 1 fichier · 27 Ko |
+| ![Aperçu\|120](../../_img/Ly0051.webp) | [All Brainrots Models With All Mutations (fayplestudios)](All%20Brainrots%20Models%20With%20All%20Mutations%20%28fayplestudios%29.md) | Pack de fichiers · 13 fichiers · 31,4 Mo |
+| ![Aperçu\|120](../../_img/Ly0052.webp) | [Baby Brainrots (11 modèles)](Baby%20Brainrots%20%2811%20mod%C3%A8les%29.md) | Pack de fichiers · 12 fichiers · 0,2 Mo |

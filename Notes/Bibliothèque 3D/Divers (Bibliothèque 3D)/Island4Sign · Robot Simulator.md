@@ -6,7 +6,7 @@ sous-catégorie: "Divers"
 type: "Modèle en Parts"
 taille: "4 × 4 × 8"
 jeu: "Robot Simulator"
-source: "models/ByType/Misc/RobotSim_Island4Sign.rbxm"
+source: "Assets/models/ByType/Misc/RobotSim_Island4Sign.rbxm"
 image: "_img/Lp0939.webp"
 tags: [categorie/bibliotheque-3d, sous-categorie/divers, type/lib-part, jeu/robot-simulator]
 ---
@@ -23,4 +23,4 @@ Modèle en Parts « Island4Sign » (Robot Simulator).
 - **Taille** : 4 × 4 × 8 studs
 - **Contenu** : 12 Parts · 7 MeshParts
 - **Jeu d'origine** : Robot Simulator
-- **Fichier source** : `models/ByType/Misc/RobotSim_Island4Sign.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Misc/RobotSim_Island4Sign.rbxm` (dans le vault)

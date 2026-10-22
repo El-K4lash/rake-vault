@@ -5,7 +5,7 @@ catégorie: "Interfaces"
 sous-catégorie: "Améliorations"
 type: "Interface (ScreenGui)"
 jeu: "Tapping Lords"
-source: "ui/ByType/Upgrades/TappingLords_Upgrades.rbxm"
+source: "Assets/ui/ByType/Upgrades/TappingLords_Upgrades.rbxm"
 image: "_img/Lg0237.webp"
 tags: [categorie/interfaces, sous-categorie/ameliorations, type/lib-gui, jeu/tapping-lords]
 ---
@@ -21,4 +21,4 @@ Interface « Upgrades » du jeu Tapping Lords. 83 éléments UI.
 - **Type** : Interface (ScreenGui)
 - **Contenu** : 83 éléments UI
 - **Jeu d'origine** : Tapping Lords
-- **Fichier source** : `ui/ByType/Upgrades/TappingLords_Upgrades.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/ui/ByType/Upgrades/TappingLords_Upgrades.rbxm` (dans le vault)

@@ -5,7 +5,7 @@ catégorie: "Interfaces"
 sous-catégorie: "Index & collection"
 type: "Interface (ScreenGui)"
 jeu: "Lib perso"
-source: "ui/ByType/Index_Collection/Lib_IndexButton.rbxm"
+source: "Assets/ui/ByType/Index_Collection/Lib_IndexButton.rbxm"
 image: "_img/Lg0071.webp"
 tags: [categorie/interfaces, sous-categorie/index-collection, type/lib-gui, jeu/lib-perso]
 ---
@@ -21,4 +21,4 @@ Interface « Index Button » du jeu Lib perso. 3 éléments UI.
 - **Type** : Interface (ScreenGui)
 - **Contenu** : 3 éléments UI
 - **Jeu d'origine** : Lib perso
-- **Fichier source** : `ui/ByType/Index_Collection/Lib_IndexButton.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/ui/ByType/Index_Collection/Lib_IndexButton.rbxm` (dans le vault)

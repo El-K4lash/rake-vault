@@ -2,13 +2,13 @@
 title: "Nature · Scènes prêtes"
 type: "Sous-catégorie"
 catégorie: "Pets & meshes"
-éléments: 28
+éléments: 31
 tags: [index, categorie/pets-meshes]
 ---
 
 # Nature · Scènes prêtes
 
-Sous-catégorie de [Pets & meshes](../Pets%20&%20meshes.md) · **28 éléments**
+Sous-catégorie de [Pets & meshes](../Pets%20&%20meshes.md) · **31 éléments**
 
 | Aperçu | Élément | Infos |
 | --- | --- | --- |
@@ -40,3 +40,6 @@ Sous-catégorie de [Pets & meshes](../Pets%20&%20meshes.md) · **28 éléments**
 | ![Aperçu\|120](../../_img/Lm3132.webp) | [Cluster Snow 1](Cluster%20Snow%201.md) | Modèle en MeshParts · 6 MeshParts |
 | ![Aperçu\|120](../../_img/Lm3128.webp) | [Cluster Snow 2](Cluster%20Snow%202.md) | Modèle en MeshParts · 6 MeshParts |
 | ![Aperçu\|120](../../_img/Lm3122.webp) | [Cluster Wetland 1](Cluster%20Wetland%201.md) | Modèle en MeshParts · 6 MeshParts |
+| ![Aperçu\|120](../../_img/Lm2993.webp) | [Pack 600+ (Nature 480 + UI Mega Pack)](Pack%20600+%20%28Nature%20480%20+%20UI%20Mega%20Pack%29.md) | Pack de fichiers · 3 fichiers · 10,3 Mo |
+| — | [Biomes nature — 9 scènes (.rbxm)](Biomes%20nature%20%E2%80%94%209%20sc%C3%A8nes%20%28.rbxm%29.md) | Pack de fichiers · 9 fichiers · 1,6 Mo |
+| ![Aperçu\|120](../../_img/Lm2993.webp) | [Nature 480 — fichiers par famille](Nature%20480%20%E2%80%94%20fichiers%20par%20famille.md) | Pack de fichiers · 7 fichiers · 5,2 Mo |

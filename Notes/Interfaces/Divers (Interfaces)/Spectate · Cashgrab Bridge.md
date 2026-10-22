@@ -5,7 +5,7 @@ catégorie: "Interfaces"
 sous-catégorie: "Divers"
 type: "Interface (ScreenGui)"
 jeu: "Cashgrab Bridge"
-source: "ui/ByType/Misc/CashgrabBridge_Spectate.rbxm"
+source: "Assets/ui/ByType/Misc/CashgrabBridge_Spectate.rbxm"
 image: "_img/Lg0087.webp"
 tags: [categorie/interfaces, sous-categorie/divers, type/lib-gui, jeu/cashgrab-bridge]
 ---
@@ -21,4 +21,4 @@ Interface « Spectate » du jeu Cashgrab Bridge. 7 éléments UI.
 - **Type** : Interface (ScreenGui)
 - **Contenu** : 7 éléments UI
 - **Jeu d'origine** : Cashgrab Bridge
-- **Fichier source** : `ui/ByType/Misc/CashgrabBridge_Spectate.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/ui/ByType/Misc/CashgrabBridge_Spectate.rbxm` (dans le vault)

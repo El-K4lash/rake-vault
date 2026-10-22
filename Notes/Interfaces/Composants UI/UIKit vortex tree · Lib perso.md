@@ -5,7 +5,7 @@ catégorie: "Interfaces"
 sous-catégorie: "Composants UI"
 type: "Interface (ScreenGui)"
 jeu: "Lib perso"
-source: "ui/ByType/Components_Kits/Lib_UIKit_vortex_tree.rbxm"
+source: "Assets/ui/ByType/Components_Kits/Lib_UIKit_vortex_tree.rbxm"
 image: "_img/Lg0013.webp"
 tags: [categorie/interfaces, sous-categorie/composants-ui, type/lib-gui, jeu/lib-perso]
 ---
@@ -21,4 +21,4 @@ Interface « UIKit vortex tree » du jeu Lib perso. 105 éléments UI.
 - **Type** : Interface (ScreenGui)
 - **Contenu** : 105 éléments UI
 - **Jeu d'origine** : Lib perso
-- **Fichier source** : `ui/ByType/Components_Kits/Lib_UIKit_vortex_tree.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/ui/ByType/Components_Kits/Lib_UIKit_vortex_tree.rbxm` (dans le vault)

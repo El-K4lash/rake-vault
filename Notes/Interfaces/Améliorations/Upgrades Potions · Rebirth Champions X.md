@@ -5,7 +5,7 @@ catégorie: "Interfaces"
 sous-catégorie: "Améliorations"
 type: "Interface (ScreenGui)"
 jeu: "Rebirth Champions X"
-source: "ui/ByType/Upgrades/RebirthChampionsX_UpgradesPotions.rbxm"
+source: "Assets/ui/ByType/Upgrades/RebirthChampionsX_UpgradesPotions.rbxm"
 image: "_img/Lg0235.webp"
 tags: [categorie/interfaces, sous-categorie/ameliorations, type/lib-gui, jeu/rebirth-champions-x]
 ---
@@ -21,4 +21,4 @@ Interface « Upgrades Potions » du jeu Rebirth Champions X. 96 éléments UI.
 - **Type** : Interface (ScreenGui)
 - **Contenu** : 96 éléments UI
 - **Jeu d'origine** : Rebirth Champions X
-- **Fichier source** : `ui/ByType/Upgrades/RebirthChampionsX_UpgradesPotions.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/ui/ByType/Upgrades/RebirthChampionsX_UpgradesPotions.rbxm` (dans le vault)

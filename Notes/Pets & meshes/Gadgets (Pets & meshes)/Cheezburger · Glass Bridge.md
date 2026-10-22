@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Gadgets"
 type: "Modèle en MeshParts"
 jeu: "Glass Bridge"
-source: "models/ByType/Gear_Gadgets/GlassBridge_Cheezburger.rbxm"
+source: "Assets/models/ByType/Gear_Gadgets/GlassBridge_Cheezburger.rbxm"
 image: "_img/Lm0618.webp"
 tags: [categorie/pets-meshes, sous-categorie/gadgets, type/lib-mesh, jeu/glass-bridge]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « Cheezburger » (Glass Bridge). Aperçu rendu dans Roblox
 - **Type** : Modèle en MeshParts
 - **Contenu** : 1 MeshPart
 - **Jeu d'origine** : Glass Bridge
-- **Fichier source** : `models/ByType/Gear_Gadgets/GlassBridge_Cheezburger.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Gear_Gadgets/GlassBridge_Cheezburger.rbxm` (dans le vault)

@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Œufs & incubateurs"
 type: "Modèle en MeshParts"
 jeu: "Tweeting Simulator"
-source: "models/ByType/Eggs_Incubators/TweetingSim_EggIncubators_200.rbxm"
+source: "Assets/models/ByType/Eggs_Incubators/TweetingSim_EggIncubators_200.rbxm"
 image: "_img/Lm0586.webp"
 tags: [categorie/pets-meshes, sous-categorie/ufs-incubateurs, type/lib-mesh, jeu/tweeting-simulator]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « Egg Incubators 200 » (Tweeting Simulator). Aperçu rend
 - **Type** : Modèle en MeshParts
 - **Contenu** : 1 Part · 6 MeshParts
 - **Jeu d'origine** : Tweeting Simulator
-- **Fichier source** : `models/ByType/Eggs_Incubators/TweetingSim_EggIncubators_200.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Eggs_Incubators/TweetingSim_EggIncubators_200.rbxm` (dans le vault)

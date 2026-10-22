@@ -4,7 +4,7 @@ id: "Lj0052"
 catégorie: "Templates de jeux"
 sous-catégorie: "Templates"
 type: "Place complète (.rbxl)"
-source: "kits/Templates/Shoot A Brainrot Template.rbxl"
+source: "Assets/kits/Templates/Shoot A Brainrot Template.rbxl"
 image: "_img/Lj0052.webp"
 tags: [categorie/templates-de-jeux, sous-categorie/templates, type/lib-game]
 ---
@@ -19,4 +19,4 @@ Place Roblox complète (.rbxl) : 98 scripts, 8689 instances.
 - **Sous-catégorie** : [Templates](Templates.md)
 - **Type** : Place complète (.rbxl)
 - **Contenu** : 98 scripts · 8 689 instances
-- **Fichier source** : `kits/Templates/Shoot A Brainrot Template.rbxl` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/kits/Templates/Shoot A Brainrot Template.rbxl` (dans le vault)

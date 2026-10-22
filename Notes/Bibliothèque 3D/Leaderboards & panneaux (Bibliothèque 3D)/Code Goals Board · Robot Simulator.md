@@ -6,7 +6,7 @@ sous-catégorie: "Leaderboards & panneaux"
 type: "Modèle en Parts"
 taille: "2 × 12 × 10"
 jeu: "Robot Simulator"
-source: "models/ByType/Leaderboards_Boards/RobotSim_CodeGoalsBoard.rbxm"
+source: "Assets/models/ByType/Leaderboards_Boards/RobotSim_CodeGoalsBoard.rbxm"
 image: "_img/Lp0708.webp"
 tags: [categorie/bibliotheque-3d, sous-categorie/leaderboards-panneaux, type/lib-part, jeu/robot-simulator]
 ---
@@ -23,4 +23,4 @@ Modèle en Parts « Code Goals Board » (Robot Simulator).
 - **Taille** : 2 × 12 × 10 studs
 - **Contenu** : 20 Parts · 9 MeshParts
 - **Jeu d'origine** : Robot Simulator
-- **Fichier source** : `models/ByType/Leaderboards_Boards/RobotSim_CodeGoalsBoard.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Leaderboards_Boards/RobotSim_CodeGoalsBoard.rbxm` (dans le vault)

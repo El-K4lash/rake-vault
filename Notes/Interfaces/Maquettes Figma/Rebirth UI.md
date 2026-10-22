@@ -4,7 +4,7 @@ id: "LfFrebirthui"
 catégorie: "Interfaces"
 sous-catégorie: "Maquettes Figma"
 type: "Maquette Figma"
-source: "ui/Figma/RebirthUI.fig"
+source: "Assets/ui/Figma/RebirthUI.fig"
 image: "_img/LfFrebirthui.webp"
 tags: [categorie/interfaces, sous-categorie/maquettes-figma, type/lib-fig]
 ---
@@ -18,7 +18,7 @@ Maquette Figma « Rebirth UI » : 1 frame. Le .fig s’ouvre dans Figma (glisser
 - **Catégorie** : [Interfaces](../Interfaces.md)
 - **Sous-catégorie** : [Maquettes Figma](Maquettes%20Figma.md)
 - **Type** : Maquette Figma
-- **Fichier source** : `ui/Figma/RebirthUI.fig` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/ui/Figma/RebirthUI.fig` (dans le vault)
 
 ## Maquette
 

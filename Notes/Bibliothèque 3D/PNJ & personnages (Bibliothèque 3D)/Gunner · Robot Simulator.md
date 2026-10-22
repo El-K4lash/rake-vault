@@ -6,7 +6,7 @@ sous-catégorie: "PNJ & personnages"
 type: "Modèle en Parts"
 taille: "1 × 4 × 1"
 jeu: "Robot Simulator"
-source: "models/ByType/NPC_Characters/RobotSim_Gunner.rbxm"
+source: "Assets/models/ByType/NPC_Characters/RobotSim_Gunner.rbxm"
 image: "_img/Lp0992.webp"
 tags: [categorie/bibliotheque-3d, sous-categorie/pnj-personnages, type/lib-part, jeu/robot-simulator]
 ---
@@ -23,4 +23,4 @@ Modèle en Parts « Gunner » (Robot Simulator).
 - **Taille** : 1 × 4 × 1 studs
 - **Contenu** : 6 Parts · 4 MeshParts
 - **Jeu d'origine** : Robot Simulator
-- **Fichier source** : `models/ByType/NPC_Characters/RobotSim_Gunner.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/NPC_Characters/RobotSim_Gunner.rbxm` (dans le vault)

@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Maps & îles"
 type: "Modèle en MeshParts"
 jeu: "Robot Simulator"
-source: "models/ByType/Maps_Islands_Worlds/RobotSim_Island1.rbxm"
+source: "Assets/models/ByType/Maps_Islands_Worlds/RobotSim_Island1.rbxm"
 image: "_img/Lm0888.webp"
 tags: [categorie/pets-meshes, sous-categorie/maps-iles, type/lib-mesh, jeu/robot-simulator]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « Island1 » (Robot Simulator). Aperçu rendu dans Roblox 
 - **Type** : Modèle en MeshParts
 - **Contenu** : 273 Parts · 16 MeshParts
 - **Jeu d'origine** : Robot Simulator
-- **Fichier source** : `models/ByType/Maps_Islands_Worlds/RobotSim_Island1.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Maps_Islands_Worlds/RobotSim_Island1.rbxm` (dans le vault)

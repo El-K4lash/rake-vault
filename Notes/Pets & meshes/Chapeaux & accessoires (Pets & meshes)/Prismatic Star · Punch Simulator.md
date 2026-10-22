@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Chapeaux & accessoires"
 type: "Modèle en MeshParts"
 jeu: "Punch Simulator"
-source: "models/ByType/Accessories_Hats/PunchSim_PrismaticStar.rbxm"
+source: "Assets/models/ByType/Accessories_Hats/PunchSim_PrismaticStar.rbxm"
 image: "_img/Lm0046.webp"
 tags: [categorie/pets-meshes, sous-categorie/chapeaux-accessoires, type/lib-mesh, jeu/punch-simulator]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « Prismatic Star » (Punch Simulator). Aperçu rendu dans 
 - **Type** : Modèle en MeshParts
 - **Contenu** : 1 MeshPart
 - **Jeu d'origine** : Punch Simulator
-- **Fichier source** : `models/ByType/Accessories_Hats/PunchSim_PrismaticStar.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Accessories_Hats/PunchSim_PrismaticStar.rbxm` (dans le vault)

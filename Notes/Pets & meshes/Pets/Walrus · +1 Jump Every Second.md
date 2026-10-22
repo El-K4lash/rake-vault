@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Pets"
 type: "Modèle en MeshParts"
 jeu: "+1 Jump Every Second"
-source: "models/ByType/Pets/1JumpEverySecond_Walrus.rbxm"
+source: "Assets/models/ByType/Pets/1JumpEverySecond_Walrus.rbxm"
 image: "_img/Lm1052.webp"
 tags: [categorie/pets-meshes, sous-categorie/pets, type/lib-mesh, jeu/1-jump-every-second]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « Walrus » (+1 Jump Every Second). Aperçu rendu dans Rob
 - **Type** : Modèle en MeshParts
 - **Contenu** : 1 MeshPart
 - **Jeu d'origine** : +1 Jump Every Second
-- **Fichier source** : `models/ByType/Pets/1JumpEverySecond_Walrus.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Pets/1JumpEverySecond_Walrus.rbxm` (dans le vault)

@@ -6,7 +6,7 @@ sous-catégorie: "Assets de jeux"
 type: "Modèle en Parts"
 taille: "1 × 3 × 15"
 jeu: "Cashgrab Bridge"
-source: "models/FromGames/CashgrabBridgeEU/Workspace/Hats1.rbxm"
+source: "Assets/models/FromGames/CashgrabBridgeEU/Workspace/Hats1.rbxm"
 image: "_img/Lp1505.webp"
 tags: [categorie/bibliotheque-3d, sous-categorie/assets-de-jeux, type/lib-part, jeu/cashgrab-bridge]
 ---
@@ -23,4 +23,4 @@ Modèle en Parts « Hats1 » (Cashgrab Bridge).
 - **Taille** : 1 × 3 × 15 studs
 - **Contenu** : 20 Parts · 6 MeshParts
 - **Jeu d'origine** : Cashgrab Bridge
-- **Fichier source** : `models/FromGames/CashgrabBridgeEU/Workspace/Hats1.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/FromGames/CashgrabBridgeEU/Workspace/Hats1.rbxm` (dans le vault)

@@ -5,7 +5,7 @@ catégorie: "Interfaces"
 sous-catégorie: "Œufs & éclosion"
 type: "Interface (ScreenGui)"
 jeu: "Pet Pharmica"
-source: "ui/ByType/Eggs_Hatch/PetPharmica_AutoDelete.rbxm"
+source: "Assets/ui/ByType/Eggs_Hatch/PetPharmica_AutoDelete.rbxm"
 image: "_img/Lg0031.webp"
 tags: [categorie/interfaces, sous-categorie/ufs-eclosion, type/lib-gui, jeu/pet-pharmica]
 ---
@@ -21,4 +21,4 @@ Interface « Auto Delete » du jeu Pet Pharmica. 14 éléments UI.
 - **Type** : Interface (ScreenGui)
 - **Contenu** : 14 éléments UI
 - **Jeu d'origine** : Pet Pharmica
-- **Fichier source** : `ui/ByType/Eggs_Hatch/PetPharmica_AutoDelete.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/ui/ByType/Eggs_Hatch/PetPharmica_AutoDelete.rbxm` (dans le vault)

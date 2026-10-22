@@ -6,7 +6,7 @@ sous-catégorie: "Leaderboards & panneaux"
 type: "Modèle en Parts"
 taille: "13 × 11 × 1"
 jeu: "Pet Pharmica"
-source: "models/ByType/Leaderboards_Boards/PetPharmica_Plaques.rbxm"
+source: "Assets/models/ByType/Leaderboards_Boards/PetPharmica_Plaques.rbxm"
 image: "_img/Lp0684.webp"
 tags: [categorie/bibliotheque-3d, sous-categorie/leaderboards-panneaux, type/lib-part, jeu/pet-pharmica]
 ---
@@ -23,4 +23,4 @@ Modèle en Parts « Plaques » (Pet Pharmica).
 - **Taille** : 13 × 11 × 1 studs
 - **Contenu** : 8 Parts
 - **Jeu d'origine** : Pet Pharmica
-- **Fichier source** : `models/ByType/Leaderboards_Boards/PetPharmica_Plaques.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Leaderboards_Boards/PetPharmica_Plaques.rbxm` (dans le vault)

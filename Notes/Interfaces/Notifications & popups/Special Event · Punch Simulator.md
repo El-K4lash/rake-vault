@@ -5,7 +5,7 @@ catégorie: "Interfaces"
 sous-catégorie: "Notifications & popups"
 type: "Interface (ScreenGui)"
 jeu: "Punch Simulator"
-source: "ui/ByType/Notifications_Popups/PunchSim_SpecialEvent.rbxm"
+source: "Assets/ui/ByType/Notifications_Popups/PunchSim_SpecialEvent.rbxm"
 image: "_img/Lg0125.webp"
 tags: [categorie/interfaces, sous-categorie/notifications-popups, type/lib-gui, jeu/punch-simulator]
 ---
@@ -21,4 +21,4 @@ Interface « Special Event » du jeu Punch Simulator. 6 éléments UI.
 - **Type** : Interface (ScreenGui)
 - **Contenu** : 6 éléments UI
 - **Jeu d'origine** : Punch Simulator
-- **Fichier source** : `ui/ByType/Notifications_Popups/PunchSim_SpecialEvent.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/ui/ByType/Notifications_Popups/PunchSim_SpecialEvent.rbxm` (dans le vault)

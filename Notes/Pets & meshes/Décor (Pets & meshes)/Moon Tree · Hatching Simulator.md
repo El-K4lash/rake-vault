@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Décor"
 type: "Modèle en MeshParts"
 jeu: "Hatching Simulator"
-source: "models/ByType/Decor_Props/HatchingSim_MoonTree.rbxm"
+source: "Assets/models/ByType/Decor_Props/HatchingSim_MoonTree.rbxm"
 image: "_img/Lm0246.webp"
 tags: [categorie/pets-meshes, sous-categorie/decor, type/lib-mesh, jeu/hatching-simulator]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « Moon Tree » (Hatching Simulator). Aperçu rendu dans Ro
 - **Type** : Modèle en MeshParts
 - **Contenu** : 3 MeshParts
 - **Jeu d'origine** : Hatching Simulator
-- **Fichier source** : `models/ByType/Decor_Props/HatchingSim_MoonTree.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Decor_Props/HatchingSim_MoonTree.rbxm` (dans le vault)

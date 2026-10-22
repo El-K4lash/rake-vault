@@ -5,7 +5,7 @@ catégorie: "Interfaces"
 sous-catégorie: "Téléport & zones"
 type: "Interface (ScreenGui)"
 jeu: "Tapping Lords"
-source: "ui/ByType/Teleport_Zones/TappingLords_PortalBuy.rbxm"
+source: "Assets/ui/ByType/Teleport_Zones/TappingLords_PortalBuy.rbxm"
 image: "_img/Lg0220.webp"
 tags: [categorie/interfaces, sous-categorie/teleport-zones, type/lib-gui, jeu/tapping-lords]
 ---
@@ -21,4 +21,4 @@ Interface « Portal Buy » du jeu Tapping Lords. 65 éléments UI.
 - **Type** : Interface (ScreenGui)
 - **Contenu** : 65 éléments UI
 - **Jeu d'origine** : Tapping Lords
-- **Fichier source** : `ui/ByType/Teleport_Zones/TappingLords_PortalBuy.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/ui/ByType/Teleport_Zones/TappingLords_PortalBuy.rbxm` (dans le vault)

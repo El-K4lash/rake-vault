@@ -5,7 +5,7 @@ catégorie: "Interfaces"
 sous-catégorie: "Quêtes & saison"
 type: "Interface (ScreenGui)"
 jeu: "Punch Simulator"
-source: "ui/ByType/Quests_Season/PunchSim_FreeHugeEvent.rbxm"
+source: "Assets/ui/ByType/Quests_Season/PunchSim_FreeHugeEvent.rbxm"
 image: "_img/Lg0153.webp"
 tags: [categorie/interfaces, sous-categorie/quetes-saison, type/lib-gui, jeu/punch-simulator]
 ---
@@ -21,4 +21,4 @@ Interface « Free Huge Event » du jeu Punch Simulator. 27 éléments UI.
 - **Type** : Interface (ScreenGui)
 - **Contenu** : 27 éléments UI
 - **Jeu d'origine** : Punch Simulator
-- **Fichier source** : `ui/ByType/Quests_Season/PunchSim_FreeHugeEvent.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/ui/ByType/Quests_Season/PunchSim_FreeHugeEvent.rbxm` (dans le vault)

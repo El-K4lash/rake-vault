@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Pets"
 type: "Modèle en MeshParts"
 jeu: "Pet Pharmica"
-source: "models/ByType/Pets/PetPharmica_SnowKing.rbxm"
+source: "Assets/models/ByType/Pets/PetPharmica_SnowKing.rbxm"
 image: "_img/Lm1365.webp"
 tags: [categorie/pets-meshes, sous-categorie/pets, type/lib-mesh, jeu/pet-pharmica]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « Snow King » (Pet Pharmica). Aperçu rendu dans Roblox S
 - **Type** : Modèle en MeshParts
 - **Contenu** : 14 MeshParts
 - **Jeu d'origine** : Pet Pharmica
-- **Fichier source** : `models/ByType/Pets/PetPharmica_SnowKing.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Pets/PetPharmica_SnowKing.rbxm` (dans le vault)

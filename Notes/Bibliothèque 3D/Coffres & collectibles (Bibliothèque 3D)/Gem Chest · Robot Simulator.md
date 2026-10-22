@@ -6,7 +6,7 @@ sous-catégorie: "Coffres & collectibles"
 type: "Modèle en Parts"
 taille: "31 × 2 × 31"
 jeu: "Robot Simulator"
-source: "models/ByType/Collectibles_Chests/RobotSim_GemChest.rbxm"
+source: "Assets/models/ByType/Collectibles_Chests/RobotSim_GemChest.rbxm"
 image: "_img/Lp0141.webp"
 tags: [categorie/bibliotheque-3d, sous-categorie/coffres-collectibles, type/lib-part, jeu/robot-simulator]
 ---
@@ -23,4 +23,4 @@ Modèle en Parts « Gem Chest » (Robot Simulator).
 - **Taille** : 31 × 2 × 31 studs
 - **Contenu** : 29 Parts · 3 MeshParts
 - **Jeu d'origine** : Robot Simulator
-- **Fichier source** : `models/ByType/Collectibles_Chests/RobotSim_GemChest.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Collectibles_Chests/RobotSim_GemChest.rbxm` (dans le vault)

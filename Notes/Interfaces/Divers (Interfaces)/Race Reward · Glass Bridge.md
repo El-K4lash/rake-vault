@@ -5,7 +5,7 @@ catégorie: "Interfaces"
 sous-catégorie: "Divers"
 type: "Interface (ScreenGui)"
 jeu: "Glass Bridge"
-source: "ui/ByType/Misc/GlassBridge_RaceReward.rbxm"
+source: "Assets/ui/ByType/Misc/GlassBridge_RaceReward.rbxm"
 image: "_img/Lg0094.webp"
 tags: [categorie/interfaces, sous-categorie/divers, type/lib-gui, jeu/glass-bridge]
 ---
@@ -21,4 +21,4 @@ Interface « Race Reward » du jeu Glass Bridge. 6 éléments UI.
 - **Type** : Interface (ScreenGui)
 - **Contenu** : 6 éléments UI
 - **Jeu d'origine** : Glass Bridge
-- **Fichier source** : `ui/ByType/Misc/GlassBridge_RaceReward.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/ui/ByType/Misc/GlassBridge_RaceReward.rbxm` (dans le vault)

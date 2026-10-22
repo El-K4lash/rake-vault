@@ -4,7 +4,7 @@ id: "Ls0030"
 catégorie: "Systèmes & kits"
 sous-catégorie: "Kits prêts à l’emploi"
 type: "Système de jeu"
-source: "kits/StealAnEggKit/StealAnEggKit.rbxm"
+source: "Assets/kits/StealAnEggKit/StealAnEggKit.rbxm"
 image: "_img/Ls0030.webp"
 tags: [categorie/systemes-kits, sous-categorie/kits-prets-a-lemploi, type/lib-sys]
 ---
@@ -19,4 +19,4 @@ Kits prêts à l’emploi : 82 scripts.
 - **Sous-catégorie** : [Kits prêts à l’emploi](Kits%20pr%C3%AAts%20%C3%A0%20l%E2%80%99emploi.md)
 - **Type** : Système de jeu
 - **Contenu** : 82 scripts · 4 005 instances
-- **Fichier source** : `kits/StealAnEggKit/StealAnEggKit.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/kits/StealAnEggKit/StealAnEggKit.rbxm` (dans le vault)

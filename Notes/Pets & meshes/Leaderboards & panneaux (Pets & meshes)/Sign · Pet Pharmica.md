@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Leaderboards & panneaux"
 type: "Modèle en MeshParts"
 jeu: "Pet Pharmica"
-source: "models/ByType/Leaderboards_Boards/PetPharmica_Sign.rbxm"
+source: "Assets/models/ByType/Leaderboards_Boards/PetPharmica_Sign.rbxm"
 image: "_img/Lm0685.webp"
 tags: [categorie/pets-meshes, sous-categorie/leaderboards-panneaux, type/lib-mesh, jeu/pet-pharmica]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « Sign » (Pet Pharmica). Aperçu rendu dans Roblox Studio
 - **Type** : Modèle en MeshParts
 - **Contenu** : 1 MeshPart
 - **Jeu d'origine** : Pet Pharmica
-- **Fichier source** : `models/ByType/Leaderboards_Boards/PetPharmica_Sign.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Leaderboards_Boards/PetPharmica_Sign.rbxm` (dans le vault)

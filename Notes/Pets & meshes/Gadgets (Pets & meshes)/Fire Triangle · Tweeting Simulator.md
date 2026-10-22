@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Gadgets"
 type: "Modèle en MeshParts"
 jeu: "Tweeting Simulator"
-source: "models/ByType/Gear_Gadgets/TweetingSim_FireTriangle.rbxm"
+source: "Assets/models/ByType/Gear_Gadgets/TweetingSim_FireTriangle.rbxm"
 image: "_img/Lm0660.webp"
 tags: [categorie/pets-meshes, sous-categorie/gadgets, type/lib-mesh, jeu/tweeting-simulator]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « Fire Triangle » (Tweeting Simulator). Aperçu rendu dan
 - **Type** : Modèle en MeshParts
 - **Contenu** : 1 Part · 3 MeshParts
 - **Jeu d'origine** : Tweeting Simulator
-- **Fichier source** : `models/ByType/Gear_Gadgets/TweetingSim_FireTriangle.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Gear_Gadgets/TweetingSim_FireTriangle.rbxm` (dans le vault)

@@ -6,7 +6,7 @@ sous-catégorie: "Décor"
 type: "Modèle en Parts"
 taille: "4 × 9 × 4"
 jeu: "First Donations"
-source: "models/ByType/Decor_Props/FirstDonations_IceSpike.rbxm"
+source: "Assets/models/ByType/Decor_Props/FirstDonations_IceSpike.rbxm"
 image: "_img/Lp0201.webp"
 tags: [categorie/bibliotheque-3d, sous-categorie/decor, type/lib-part, jeu/first-donations]
 ---
@@ -23,4 +23,4 @@ Modèle en Parts « Ice Spike » (First Donations).
 - **Taille** : 4 × 9 × 4 studs
 - **Contenu** : 31 Parts
 - **Jeu d'origine** : First Donations
-- **Fichier source** : `models/ByType/Decor_Props/FirstDonations_IceSpike.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Decor_Props/FirstDonations_IceSpike.rbxm` (dans le vault)

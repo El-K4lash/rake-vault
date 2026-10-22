@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Décor"
 type: "Modèle en MeshParts"
 jeu: "Mining Masters"
-source: "models/ByType/Decor_Props/MiningMasters_spike.rbxm"
+source: "Assets/models/ByType/Decor_Props/MiningMasters_spike.rbxm"
 image: "_img/Lm0287.webp"
 tags: [categorie/pets-meshes, sous-categorie/decor, type/lib-mesh, jeu/mining-masters]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « Spike » (Mining Masters). Aperçu rendu dans Roblox Stu
 - **Type** : Modèle en MeshParts
 - **Contenu** : 1 MeshPart
 - **Jeu d'origine** : Mining Masters
-- **Fichier source** : `models/ByType/Decor_Props/MiningMasters_spike.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Decor_Props/MiningMasters_spike.rbxm` (dans le vault)

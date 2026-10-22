@@ -2,13 +2,13 @@
 title: "Divers"
 type: "Sous-catégorie"
 catégorie: "Bibliothèque 3D"
-éléments: 10
+éléments: 13
 tags: [index, categorie/bibliotheque-3d]
 ---
 
 # Divers
 
-Sous-catégorie de [Bibliothèque 3D](../Biblioth%C3%A8que%203D.md) · **10 éléments**
+Sous-catégorie de [Bibliothèque 3D](../Biblioth%C3%A8que%203D.md) · **13 éléments**
 
 | Aperçu | Élément | Infos |
 | --- | --- | --- |
@@ -22,3 +22,6 @@ Sous-catégorie de [Bibliothèque 3D](../Biblioth%C3%A8que%203D.md) · **10 él�
 | ![Aperçu\|120](../../_img/Lp0939.webp) | [Island4Sign · Robot Simulator](Island4Sign%20%C2%B7%20Robot%20Simulator.md) | Modèle en Parts · 4 × 4 × 8 · 12 Parts · 7 MeshParts |
 | ![Aperçu\|120](../../_img/Lp0918.webp) | [Red · Cashgrab Bridge](Red%20%C2%B7%20Cashgrab%20Bridge.md) | Modèle en Parts · 7 × 9 × 3 · 11 Parts |
 | ![Aperçu\|120](../../_img/Lp0931.webp) | [Streat · Pet Pharmica](Streat%20%C2%B7%20Pet%20Pharmica.md) | Modèle en Parts · 81 × 19 × 219 · 8 Parts |
+| ![Aperçu\|120](../../_img/Lx0005.webp) | [Effets VFX & auras (7 fichiers)](Effets%20VFX%20&%20auras%20%287%20fichiers%29.md) | Pack de fichiers · 7 fichiers · 0,7 Mo |
+| ![Aperçu\|120](../../_img/Lp0943.webp) | [Modèles divers — pack par type (24 modèles)](Mod%C3%A8les%20divers%20%E2%80%94%20pack%20par%20type%20%2824%20mod%C3%A8les%29.md) | Pack de fichiers · 24 fichiers · 0,4 Mo |
+| — | [lime machine (AdminBoard)](lime%20machine%20%28AdminBoard%29.md) | Modèle Roblox (.rbxm) · 1 fichier · 4 Ko |

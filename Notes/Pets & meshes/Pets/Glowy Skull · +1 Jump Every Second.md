@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Pets"
 type: "Modèle en MeshParts"
 jeu: "+1 Jump Every Second"
-source: "models/ByType/Pets/1JumpEverySecond_GlowySkull.rbxm"
+source: "Assets/models/ByType/Pets/1JumpEverySecond_GlowySkull.rbxm"
 image: "_img/Lm1039.webp"
 tags: [categorie/pets-meshes, sous-categorie/pets, type/lib-mesh, jeu/1-jump-every-second]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « Glowy Skull » (+1 Jump Every Second). Aperçu rendu dan
 - **Type** : Modèle en MeshParts
 - **Contenu** : 1 MeshPart
 - **Jeu d'origine** : +1 Jump Every Second
-- **Fichier source** : `models/ByType/Pets/1JumpEverySecond_GlowySkull.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Pets/1JumpEverySecond_GlowySkull.rbxm` (dans le vault)

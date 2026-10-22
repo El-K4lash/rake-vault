@@ -5,7 +5,7 @@ catégorie: "Interfaces"
 sous-catégorie: "Boutiques"
 type: "Interface (ScreenGui)"
 jeu: "Rebirth Champions X"
-source: "ui/ByType/Shop_Store/RebirthChampionsX_EventShop.rbxm"
+source: "Assets/ui/ByType/Shop_Store/RebirthChampionsX_EventShop.rbxm"
 image: "_img/Lg0203.webp"
 tags: [categorie/interfaces, sous-categorie/boutiques, type/lib-gui, jeu/rebirth-champions-x]
 ---
@@ -21,4 +21,4 @@ Interface « Event Shop » du jeu Rebirth Champions X. 68 éléments UI.
 - **Type** : Interface (ScreenGui)
 - **Contenu** : 68 éléments UI
 - **Jeu d'origine** : Rebirth Champions X
-- **Fichier source** : `ui/ByType/Shop_Store/RebirthChampionsX_EventShop.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/ui/ByType/Shop_Store/RebirthChampionsX_EventShop.rbxm` (dans le vault)

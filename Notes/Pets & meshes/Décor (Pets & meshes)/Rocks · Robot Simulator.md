@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Décor"
 type: "Modèle en MeshParts"
 jeu: "Robot Simulator"
-source: "models/ByType/Decor_Props/RobotSim_Rocks.rbxm"
+source: "Assets/models/ByType/Decor_Props/RobotSim_Rocks.rbxm"
 image: "_img/Lm0374.webp"
 tags: [categorie/pets-meshes, sous-categorie/decor, type/lib-mesh, jeu/robot-simulator]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « Rocks » (Robot Simulator). Aperçu rendu dans Roblox St
 - **Type** : Modèle en MeshParts
 - **Contenu** : 69 MeshParts
 - **Jeu d'origine** : Robot Simulator
-- **Fichier source** : `models/ByType/Decor_Props/RobotSim_Rocks.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Decor_Props/RobotSim_Rocks.rbxm` (dans le vault)

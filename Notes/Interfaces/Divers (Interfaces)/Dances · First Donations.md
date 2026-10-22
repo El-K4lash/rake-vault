@@ -5,7 +5,7 @@ catégorie: "Interfaces"
 sous-catégorie: "Divers"
 type: "Interface (ScreenGui)"
 jeu: "First Donations"
-source: "ui/ByType/Misc/FirstDonations_Dances.rbxm"
+source: "Assets/ui/ByType/Misc/FirstDonations_Dances.rbxm"
 image: "_img/Lg0088.webp"
 tags: [categorie/interfaces, sous-categorie/divers, type/lib-gui, jeu/first-donations]
 ---
@@ -21,4 +21,4 @@ Interface « Dances » du jeu First Donations. 6 éléments UI.
 - **Type** : Interface (ScreenGui)
 - **Contenu** : 6 éléments UI
 - **Jeu d'origine** : First Donations
-- **Fichier source** : `ui/ByType/Misc/FirstDonations_Dances.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/ui/ByType/Misc/FirstDonations_Dances.rbxm` (dans le vault)

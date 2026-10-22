@@ -6,7 +6,7 @@ sous-catégorie: "PNJ & personnages"
 type: "Modèle en Parts"
 taille: "5 × 1 × 4"
 jeu: "Robot Simulator"
-source: "models/ByType/NPC_Characters/RobotSim_BuildersSimpleBed.rbxm"
+source: "Assets/models/ByType/NPC_Characters/RobotSim_BuildersSimpleBed.rbxm"
 image: "_img/Lp0990.webp"
 tags: [categorie/bibliotheque-3d, sous-categorie/pnj-personnages, type/lib-part, jeu/robot-simulator]
 ---
@@ -23,4 +23,4 @@ Modèle en Parts « Builders Simple Bed » (Robot Simulator).
 - **Taille** : 5 × 1 × 4 studs
 - **Contenu** : 4 Parts · 15 MeshParts
 - **Jeu d'origine** : Robot Simulator
-- **Fichier source** : `models/ByType/NPC_Characters/RobotSim_BuildersSimpleBed.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/NPC_Characters/RobotSim_BuildersSimpleBed.rbxm` (dans le vault)

@@ -2,13 +2,13 @@
 title: "Récompenses & cadeaux"
 type: "Sous-catégorie"
 catégorie: "Interfaces"
-éléments: 12
+éléments: 13
 tags: [index, categorie/interfaces]
 ---
 
 # Récompenses & cadeaux
 
-Sous-catégorie de [Interfaces](../Interfaces.md) · **12 éléments**
+Sous-catégorie de [Interfaces](../Interfaces.md) · **13 éléments**
 
 | Aperçu | Élément | Infos |
 | --- | --- | --- |
@@ -24,3 +24,4 @@ Sous-catégorie de [Interfaces](../Interfaces.md) · **12 éléments**
 | ![Aperçu\|120](../../_img/Lg0026.webp) | [Gifts · Training Simulator](Gifts%20%C2%B7%20Training%20Simulator.md) | Interface (ScreenGui) · 63 éléments UI |
 | ![Aperçu\|120](../../_img/Lg0024.webp) | [Pet Pack · Punch Simulator](Pet%20Pack%20%C2%B7%20Punch%20Simulator.md) | Interface (ScreenGui) · 16 éléments UI |
 | ![Aperçu\|120](../../_img/Lg0020.webp) | [Time Rewards · Hatching Simulator](Time%20Rewards%20%C2%B7%20Hatching%20Simulator.md) | Interface (ScreenGui) · 15 éléments UI |
+| ![Aperçu\|120](../../_img/Lg0018.webp) | [Récompenses & cadeaux — interfaces en plus (1)](R%C3%A9compenses%20&%20cadeaux%20%E2%80%94%20interfaces%20en%20plus%20%281%29.md) | Pack de fichiers · 1 fichier · 19 Ko |

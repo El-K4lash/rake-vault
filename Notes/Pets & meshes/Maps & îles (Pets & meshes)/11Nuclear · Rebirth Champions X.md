@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Maps & îles"
 type: "Modèle en MeshParts"
 jeu: "Rebirth Champions X"
-source: "models/ByType/Maps_Islands_Worlds/RebirthChampionsX_11Nuclear.rbxm"
+source: "Assets/models/ByType/Maps_Islands_Worlds/RebirthChampionsX_11Nuclear.rbxm"
 image: "_img/Lm0872.webp"
 tags: [categorie/pets-meshes, sous-categorie/maps-iles, type/lib-mesh, jeu/rebirth-champions-x]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « 11Nuclear » (Rebirth Champions X). Aperçu rendu dans R
 - **Type** : Modèle en MeshParts
 - **Contenu** : 13 Parts · 95 MeshParts
 - **Jeu d'origine** : Rebirth Champions X
-- **Fichier source** : `models/ByType/Maps_Islands_Worlds/RebirthChampionsX_11Nuclear.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Maps_Islands_Worlds/RebirthChampionsX_11Nuclear.rbxm` (dans le vault)

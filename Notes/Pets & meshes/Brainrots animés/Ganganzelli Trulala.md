@@ -4,7 +4,7 @@ id: "Lm2294"
 catégorie: "Pets & meshes"
 sous-catégorie: "Brainrots animés"
 type: "Modèle en MeshParts"
-source: "packs/Brainrots_Animated/Normal/Ganganzelli Trulala.rbxm"
+source: "Assets/packs/Brainrots_Animated/Normal/Ganganzelli Trulala.rbxm"
 image: "_img/Lm2294.webp"
 tags: [categorie/pets-meshes, sous-categorie/brainrots-animes, type/lib-mesh]
 ---
@@ -19,4 +19,4 @@ Modèle en MeshParts « Ganganzelli Trulala ». Aperçu rendu dans Roblox Studio
 - **Sous-catégorie** : [Brainrots animés](Brainrots%20anim%C3%A9s.md)
 - **Type** : Modèle en MeshParts
 - **Contenu** : 1 MeshPart
-- **Fichier source** : `packs/Brainrots_Animated/Normal/Ganganzelli Trulala.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/packs/Brainrots_Animated/Normal/Ganganzelli Trulala.rbxm` (dans le vault)

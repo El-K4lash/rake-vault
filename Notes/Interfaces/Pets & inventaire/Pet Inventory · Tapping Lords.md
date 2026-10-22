@@ -5,7 +5,7 @@ catégorie: "Interfaces"
 sous-catégorie: "Pets & inventaire"
 type: "Interface (ScreenGui)"
 jeu: "Tapping Lords"
-source: "ui/ByType/Pets_Inventory/TappingLords_PetInventory.rbxm"
+source: "Assets/ui/ByType/Pets_Inventory/TappingLords_PetInventory.rbxm"
 image: "_img/Lg0142.webp"
 tags: [categorie/interfaces, sous-categorie/pets-inventaire, type/lib-gui, jeu/tapping-lords]
 ---
@@ -21,4 +21,4 @@ Interface « Pet Inventory » du jeu Tapping Lords. 28 éléments UI.
 - **Type** : Interface (ScreenGui)
 - **Contenu** : 28 éléments UI
 - **Jeu d'origine** : Tapping Lords
-- **Fichier source** : `ui/ByType/Pets_Inventory/TappingLords_PetInventory.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/ui/ByType/Pets_Inventory/TappingLords_PetInventory.rbxm` (dans le vault)

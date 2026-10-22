@@ -6,7 +6,7 @@ sous-catégorie: "Bâtiments"
 type: "Modèle en Parts"
 taille: "132 × 105 × 148"
 jeu: "Tweeting Simulator"
-source: "models/ByType/Buildings/TweetingSim_SunBuilding_2.rbxm"
+source: "Assets/models/ByType/Buildings/TweetingSim_SunBuilding_2.rbxm"
 image: "_img/Lp0112.webp"
 tags: [categorie/bibliotheque-3d, sous-categorie/batiments, type/lib-part, jeu/tweeting-simulator]
 ---
@@ -23,4 +23,4 @@ Modèle en Parts « Sun Building 2 » (Tweeting Simulator).
 - **Taille** : 132 × 105 × 148 studs
 - **Contenu** : 24 Parts
 - **Jeu d'origine** : Tweeting Simulator
-- **Fichier source** : `models/ByType/Buildings/TweetingSim_SunBuilding_2.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Buildings/TweetingSim_SunBuilding_2.rbxm` (dans le vault)

@@ -5,7 +5,7 @@ catégorie: "Interfaces"
 sous-catégorie: "HUD & monnaie"
 type: "Interface (ScreenGui)"
 jeu: "Robot Simulator"
-source: "ui/ByType/HUD_Currency/RobotSim_main_Full.rbxm"
+source: "Assets/ui/ByType/HUD_Currency/RobotSim_main_Full.rbxm"
 image: "_img/Lg0060.webp"
 tags: [categorie/interfaces, sous-categorie/hud-monnaie, type/lib-gui, jeu/robot-simulator]
 ---
@@ -21,4 +21,4 @@ Interface « Main Full » du jeu Robot Simulator. 29 éléments UI.
 - **Type** : Interface (ScreenGui)
 - **Contenu** : 29 éléments UI
 - **Jeu d'origine** : Robot Simulator
-- **Fichier source** : `ui/ByType/HUD_Currency/RobotSim_main_Full.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/ui/ByType/HUD_Currency/RobotSim_main_Full.rbxm` (dans le vault)

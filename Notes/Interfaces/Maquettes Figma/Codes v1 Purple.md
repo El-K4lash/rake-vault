@@ -4,7 +4,7 @@ id: "LfFcodes_v1_purple"
 catégorie: "Interfaces"
 sous-catégorie: "Maquettes Figma"
 type: "Maquette Figma"
-source: "ui/Figma/Codes_v1_Purple.fig"
+source: "Assets/ui/Figma/Codes_v1_Purple.fig"
 image: "_img/LfFcodes_v1_purple.webp"
 tags: [categorie/interfaces, sous-categorie/maquettes-figma, type/lib-fig]
 ---
@@ -18,7 +18,7 @@ Maquette Figma « Codes v1 Purple » : 2 frames. Le .fig s’ouvre dans Figma (g
 - **Catégorie** : [Interfaces](../Interfaces.md)
 - **Sous-catégorie** : [Maquettes Figma](Maquettes%20Figma.md)
 - **Type** : Maquette Figma
-- **Fichier source** : `ui/Figma/Codes_v1_Purple.fig` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/ui/Figma/Codes_v1_Purple.fig` (dans le vault)
 
 ## Maquette
 

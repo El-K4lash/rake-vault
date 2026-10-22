@@ -5,7 +5,7 @@ catégorie: "Interfaces"
 sous-catégorie: "Admin & debug"
 type: "Interface (ScreenGui)"
 jeu: "Hatching Simulator"
-source: "ui/ByType/Admin_Debug/HatchingSim_DebugMode.rbxm"
+source: "Assets/ui/ByType/Admin_Debug/HatchingSim_DebugMode.rbxm"
 image: "_img/Lg0001.webp"
 tags: [categorie/interfaces, sous-categorie/admin-debug, type/lib-gui, jeu/hatching-simulator]
 ---
@@ -21,4 +21,4 @@ Interface « Debug Mode » du jeu Hatching Simulator. 13 éléments UI.
 - **Type** : Interface (ScreenGui)
 - **Contenu** : 13 éléments UI
 - **Jeu d'origine** : Hatching Simulator
-- **Fichier source** : `ui/ByType/Admin_Debug/HatchingSim_DebugMode.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/ui/ByType/Admin_Debug/HatchingSim_DebugMode.rbxm` (dans le vault)

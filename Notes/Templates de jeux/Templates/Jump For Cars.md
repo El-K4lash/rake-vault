@@ -4,7 +4,7 @@ id: "Lj0038"
 catégorie: "Templates de jeux"
 sous-catégorie: "Templates"
 type: "Place complète (.rbxl)"
-source: "kits/Templates/Jump For Cars.rbxl"
+source: "Assets/kits/Templates/Jump For Cars.rbxl"
 image: "_img/Lj0038.webp"
 tags: [categorie/templates-de-jeux, sous-categorie/templates, type/lib-game]
 ---
@@ -19,4 +19,4 @@ Place Roblox complète (.rbxl) : 118 scripts, 7701 instances.
 - **Sous-catégorie** : [Templates](Templates.md)
 - **Type** : Place complète (.rbxl)
 - **Contenu** : 118 scripts · 7 701 instances
-- **Fichier source** : `kits/Templates/Jump For Cars.rbxl` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/kits/Templates/Jump For Cars.rbxl` (dans le vault)

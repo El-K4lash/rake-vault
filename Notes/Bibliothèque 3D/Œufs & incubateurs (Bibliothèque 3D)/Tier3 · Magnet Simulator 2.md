@@ -6,7 +6,7 @@ sous-catégorie: "Œufs & incubateurs"
 type: "Modèle en Parts"
 taille: "2 × 10 × 1"
 jeu: "Magnet Simulator 2"
-source: "models/ByType/Eggs_Incubators/MagnetSim2_Tier3.rbxm"
+source: "Assets/models/ByType/Eggs_Incubators/MagnetSim2_Tier3.rbxm"
 image: "_img/Lp0445.webp"
 tags: [categorie/bibliotheque-3d, sous-categorie/ufs-incubateurs, type/lib-part, jeu/magnet-simulator-2]
 ---
@@ -23,4 +23,4 @@ Modèle en Parts « Tier3 » (Magnet Simulator 2).
 - **Taille** : 2 × 10 × 1 studs
 - **Contenu** : 5 Parts · 4 MeshParts
 - **Jeu d'origine** : Magnet Simulator 2
-- **Fichier source** : `models/ByType/Eggs_Incubators/MagnetSim2_Tier3.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Eggs_Incubators/MagnetSim2_Tier3.rbxm` (dans le vault)

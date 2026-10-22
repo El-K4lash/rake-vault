@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Pets"
 type: "Modèle en MeshParts"
 jeu: "Cashgrab Bridge"
-source: "models/ByType/Pets/CashgrabBridge_Reindeer.rbxm"
+source: "Assets/models/ByType/Pets/CashgrabBridge_Reindeer.rbxm"
 image: "_img/Lm1087.webp"
 tags: [categorie/pets-meshes, sous-categorie/pets, type/lib-mesh, jeu/cashgrab-bridge]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « Reindeer » (Cashgrab Bridge). Aperçu rendu dans Roblox
 - **Type** : Modèle en MeshParts
 - **Contenu** : 1 MeshPart
 - **Jeu d'origine** : Cashgrab Bridge
-- **Fichier source** : `models/ByType/Pets/CashgrabBridge_Reindeer.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Pets/CashgrabBridge_Reindeer.rbxm` (dans le vault)

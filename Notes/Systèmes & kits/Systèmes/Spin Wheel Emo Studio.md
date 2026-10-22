@@ -4,7 +4,7 @@ id: "Ls0089"
 catégorie: "Systèmes & kits"
 sous-catégorie: "Systèmes"
 type: "Système de jeu"
-source: "systems/SpinWheel_EmoStudio.rbxm"
+source: "Assets/systems/SpinWheel_EmoStudio.rbxm"
 image: "_img/Ls0089.webp"
 tags: [categorie/systemes-kits, sous-categorie/systemes, type/lib-sys]
 ---
@@ -19,4 +19,4 @@ Système : 8 scripts.
 - **Sous-catégorie** : [Systèmes](Syst%C3%A8mes.md)
 - **Type** : Système de jeu
 - **Contenu** : 8 scripts · 136 instances
-- **Fichier source** : `systems/SpinWheel_EmoStudio.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/systems/SpinWheel_EmoStudio.rbxm` (dans le vault)

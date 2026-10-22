@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Maps & îles"
 type: "Modèle en MeshParts"
 jeu: "Pet Pharmica"
-source: "models/ByType/Maps_Islands_Worlds/PetPharmica_6Atlantis.rbxm"
+source: "Assets/models/ByType/Maps_Islands_Worlds/PetPharmica_6Atlantis.rbxm"
 image: "_img/Lm0864.webp"
 tags: [categorie/pets-meshes, sous-categorie/maps-iles, type/lib-mesh, jeu/pet-pharmica]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « 6Atlantis » (Pet Pharmica). Aperçu : forme du mesh pri
 - **Type** : Modèle en MeshParts
 - **Contenu** : 59 Parts · 208 MeshParts
 - **Jeu d'origine** : Pet Pharmica
-- **Fichier source** : `models/ByType/Maps_Islands_Worlds/PetPharmica_6Atlantis.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Maps_Islands_Worlds/PetPharmica_6Atlantis.rbxm` (dans le vault)

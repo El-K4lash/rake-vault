@@ -5,7 +5,7 @@ catégorie: "Interfaces"
 sous-catégorie: "Améliorations"
 type: "Interface (ScreenGui)"
 jeu: "Pet Pharmica"
-source: "ui/ByType/Upgrades/PetPharmica_Upgrades.rbxm"
+source: "Assets/ui/ByType/Upgrades/PetPharmica_Upgrades.rbxm"
 image: "_img/Lg0233.webp"
 tags: [categorie/interfaces, sous-categorie/ameliorations, type/lib-gui, jeu/pet-pharmica]
 ---
@@ -21,4 +21,4 @@ Interface « Upgrades » du jeu Pet Pharmica. 20 éléments UI.
 - **Type** : Interface (ScreenGui)
 - **Contenu** : 20 éléments UI
 - **Jeu d'origine** : Pet Pharmica
-- **Fichier source** : `ui/ByType/Upgrades/PetPharmica_Upgrades.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/ui/ByType/Upgrades/PetPharmica_Upgrades.rbxm` (dans le vault)

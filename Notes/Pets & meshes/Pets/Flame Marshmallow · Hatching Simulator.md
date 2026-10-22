@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Pets"
 type: "Modèle en MeshParts"
 jeu: "Hatching Simulator"
-source: "models/ByType/Pets/HatchingSim_FlameMarshmallow.rbxm"
+source: "Assets/models/ByType/Pets/HatchingSim_FlameMarshmallow.rbxm"
 image: "_img/Lm1120.webp"
 tags: [categorie/pets-meshes, sous-categorie/pets, type/lib-mesh, jeu/hatching-simulator]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « Flame Marshmallow » (Hatching Simulator). Aperçu rendu
 - **Type** : Modèle en MeshParts
 - **Contenu** : 4 MeshParts
 - **Jeu d'origine** : Hatching Simulator
-- **Fichier source** : `models/ByType/Pets/HatchingSim_FlameMarshmallow.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Pets/HatchingSim_FlameMarshmallow.rbxm` (dans le vault)

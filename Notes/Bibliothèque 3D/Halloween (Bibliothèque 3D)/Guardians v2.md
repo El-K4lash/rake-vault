@@ -5,7 +5,7 @@ catégorie: "Bibliothèque 3D"
 sous-catégorie: "Halloween"
 type: "Modèle en Parts"
 taille: "7 × 11 × 7"
-source: "packs/Halloween/_Archive/Guardians_v2.rbxm"
+source: "Assets/packs/Halloween/_Archive/Guardians_v2.rbxm"
 image: "_img/Lp2613.webp"
 tags: [categorie/bibliotheque-3d, sous-categorie/halloween, type/lib-part]
 ---
@@ -21,4 +21,4 @@ Modèle en Parts « Guardians v2 ».
 - **Type** : Modèle en Parts
 - **Taille** : 7 × 11 × 7 studs
 - **Contenu** : 114 Parts
-- **Fichier source** : `packs/Halloween/_Archive/Guardians_v2.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/packs/Halloween/_Archive/Guardians_v2.rbxm` (dans le vault)

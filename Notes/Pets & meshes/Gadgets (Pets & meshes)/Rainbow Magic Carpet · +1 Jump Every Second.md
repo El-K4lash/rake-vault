@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Gadgets"
 type: "Modèle en MeshParts"
 jeu: "+1 Jump Every Second"
-source: "models/ByType/Gear_Gadgets/1JumpEverySecond_RainbowMagicCarpet.rbxm"
+source: "Assets/models/ByType/Gear_Gadgets/1JumpEverySecond_RainbowMagicCarpet.rbxm"
 image: "_img/Lm0605.webp"
 tags: [categorie/pets-meshes, sous-categorie/gadgets, type/lib-mesh, jeu/1-jump-every-second]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « Rainbow Magic Carpet » (+1 Jump Every Second). Aperçu 
 - **Type** : Modèle en MeshParts
 - **Contenu** : 1 MeshPart
 - **Jeu d'origine** : +1 Jump Every Second
-- **Fichier source** : `models/ByType/Gear_Gadgets/1JumpEverySecond_RainbowMagicCarpet.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Gear_Gadgets/1JumpEverySecond_RainbowMagicCarpet.rbxm` (dans le vault)

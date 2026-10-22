@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Coffres & collectibles"
 type: "Modèle en MeshParts"
 jeu: "Magnet Simulator 2"
-source: "models/ByType/Collectibles_Chests/MagnetSim2_Chests.rbxm"
+source: "Assets/models/ByType/Collectibles_Chests/MagnetSim2_Chests.rbxm"
 image: "_img/Lm0116.webp"
 tags: [categorie/pets-meshes, sous-categorie/coffres-collectibles, type/lib-mesh, jeu/magnet-simulator-2]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « Chests » (Magnet Simulator 2). Aperçu : forme du mesh 
 - **Type** : Modèle en MeshParts
 - **Contenu** : 5 MeshParts
 - **Jeu d'origine** : Magnet Simulator 2
-- **Fichier source** : `models/ByType/Collectibles_Chests/MagnetSim2_Chests.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Collectibles_Chests/MagnetSim2_Chests.rbxm` (dans le vault)

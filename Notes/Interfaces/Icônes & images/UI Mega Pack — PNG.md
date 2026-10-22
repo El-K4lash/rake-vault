@@ -4,7 +4,7 @@ id: "Liic_ui_mega_pack_png"
 catégorie: "Interfaces"
 sous-catégorie: "Icônes & images"
 type: "Pack d'images"
-source: "ui/Roblox Ui Model/png"
+source: "Assets/ui/Roblox Ui Model/png"
 image: "_img/Liic_ui_mega_pack_png.webp"
 tags: [categorie/interfaces, sous-categorie/icones-images, type/lib-img]
 ---
@@ -18,7 +18,7 @@ Pack « UI Mega Pack — PNG » : 46 images PNG. Télécharge le .zip puis impor
 - **Catégorie** : [Interfaces](../Interfaces.md)
 - **Sous-catégorie** : [Icônes & images](Ic%C3%B4nes%20&%20images.md)
 - **Type** : Pack d'images
-- **Fichier source** : `ui/Roblox Ui Model/png` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/ui/Roblox Ui Model/png` (dans le vault)
 
 ## Maquette
 

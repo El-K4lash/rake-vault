@@ -6,7 +6,7 @@ sous-catégorie: "Leaderboards & panneaux"
 type: "Modèle en Parts"
 taille: "3 × 11 × 9"
 jeu: "Tweeting Simulator"
-source: "models/ByType/Leaderboards_Boards/TweetingSim_DevProductSign.rbxm"
+source: "Assets/models/ByType/Leaderboards_Boards/TweetingSim_DevProductSign.rbxm"
 image: "_img/Lp0739.webp"
 tags: [categorie/bibliotheque-3d, sous-categorie/leaderboards-panneaux, type/lib-part, jeu/tweeting-simulator]
 ---
@@ -23,4 +23,4 @@ Modèle en Parts « Dev Product Sign » (Tweeting Simulator).
 - **Taille** : 3 × 11 × 9 studs
 - **Contenu** : 8 Parts
 - **Jeu d'origine** : Tweeting Simulator
-- **Fichier source** : `models/ByType/Leaderboards_Boards/TweetingSim_DevProductSign.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Leaderboards_Boards/TweetingSim_DevProductSign.rbxm` (dans le vault)

@@ -4,7 +4,7 @@ id: "Lj0047"
 catégorie: "Templates de jeux"
 sous-catégorie: "Templates"
 type: "Place complète (.rbxl)"
-source: "kits/Templates/PU - Mutate Or Lose Template.rbxl"
+source: "Assets/kits/Templates/PU - Mutate Or Lose Template.rbxl"
 image: "_img/Lj0047.webp"
 tags: [categorie/templates-de-jeux, sous-categorie/templates, type/lib-game]
 ---
@@ -19,4 +19,4 @@ Place Roblox complète (.rbxl) : 80 scripts, 11380 instances.
 - **Sous-catégorie** : [Templates](Templates.md)
 - **Type** : Place complète (.rbxl)
 - **Contenu** : 80 scripts · 11 380 instances
-- **Fichier source** : `kits/Templates/PU - Mutate Or Lose Template.rbxl` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/kits/Templates/PU - Mutate Or Lose Template.rbxl` (dans le vault)

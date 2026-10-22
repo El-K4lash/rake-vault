@@ -5,7 +5,7 @@ catégorie: "Interfaces"
 sous-catégorie: "Robux & gamepass"
 type: "Interface (ScreenGui)"
 jeu: "Billionaire Tycoon"
-source: "ui/ByType/Robux_Gamepass/BillionaireTycoon_ShopGui.rbxm"
+source: "Assets/ui/ByType/Robux_Gamepass/BillionaireTycoon_ShopGui.rbxm"
 image: "_img/Lg0170.webp"
 tags: [categorie/interfaces, sous-categorie/robux-gamepass, type/lib-gui, jeu/billionaire-tycoon]
 ---
@@ -21,4 +21,4 @@ Interface « Shop Gui » du jeu Billionaire Tycoon. 74 éléments UI.
 - **Type** : Interface (ScreenGui)
 - **Contenu** : 74 éléments UI
 - **Jeu d'origine** : Billionaire Tycoon
-- **Fichier source** : `ui/ByType/Robux_Gamepass/BillionaireTycoon_ShopGui.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/ui/ByType/Robux_Gamepass/BillionaireTycoon_ShopGui.rbxm` (dans le vault)

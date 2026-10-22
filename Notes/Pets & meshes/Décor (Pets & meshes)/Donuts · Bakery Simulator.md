@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Décor"
 type: "Modèle en MeshParts"
 jeu: "Bakery Simulator"
-source: "models/ByType/Decor_Props/BakerySim_Donuts.rbxm"
+source: "Assets/models/ByType/Decor_Props/BakerySim_Donuts.rbxm"
 image: "_img/Lm0175.webp"
 tags: [categorie/pets-meshes, sous-categorie/decor, type/lib-mesh, jeu/bakery-simulator]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « Donuts » (Bakery Simulator). Aperçu rendu dans Roblox 
 - **Type** : Modèle en MeshParts
 - **Contenu** : 10 MeshParts
 - **Jeu d'origine** : Bakery Simulator
-- **Fichier source** : `models/ByType/Decor_Props/BakerySim_Donuts.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Decor_Props/BakerySim_Donuts.rbxm` (dans le vault)

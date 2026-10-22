@@ -4,7 +4,7 @@ id: "LfFcodes_v2_blue"
 catégorie: "Interfaces"
 sous-catégorie: "Maquettes Figma"
 type: "Maquette Figma"
-source: "ui/Figma/Codes_v2_Blue.fig"
+source: "Assets/ui/Figma/Codes_v2_Blue.fig"
 image: "_img/LfFcodes_v2_blue.webp"
 tags: [categorie/interfaces, sous-categorie/maquettes-figma, type/lib-fig]
 ---
@@ -18,7 +18,7 @@ Maquette Figma « Codes v2 Blue » : 1 frame. Le .fig s’ouvre dans Figma (glis
 - **Catégorie** : [Interfaces](../Interfaces.md)
 - **Sous-catégorie** : [Maquettes Figma](Maquettes%20Figma.md)
 - **Type** : Maquette Figma
-- **Fichier source** : `ui/Figma/Codes_v2_Blue.fig` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/ui/Figma/Codes_v2_Blue.fig` (dans le vault)
 
 ## Maquette
 

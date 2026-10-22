@@ -6,7 +6,7 @@ sous-catégorie: "Coffres & collectibles"
 type: "Modèle en Parts"
 taille: "30 × 2 × 30"
 jeu: "Robot Simulator"
-source: "models/ByType/Collectibles_Chests/RobotSim_PetXPChest.rbxm"
+source: "Assets/models/ByType/Collectibles_Chests/RobotSim_PetXPChest.rbxm"
 image: "_img/Lp0145.webp"
 tags: [categorie/bibliotheque-3d, sous-categorie/coffres-collectibles, type/lib-part, jeu/robot-simulator]
 ---
@@ -23,4 +23,4 @@ Modèle en Parts « Pet XPChest » (Robot Simulator).
 - **Taille** : 30 × 2 × 30 studs
 - **Contenu** : 28 Parts · 3 MeshParts
 - **Jeu d'origine** : Robot Simulator
-- **Fichier source** : `models/ByType/Collectibles_Chests/RobotSim_PetXPChest.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Collectibles_Chests/RobotSim_PetXPChest.rbxm` (dans le vault)

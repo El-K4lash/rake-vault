@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Leaderboards & panneaux"
 type: "Modèle en MeshParts"
 jeu: "Training Simulator"
-source: "models/ByType/Leaderboards_Boards/TrainingSim_RobuxSpent.rbxm"
+source: "Assets/models/ByType/Leaderboards_Boards/TrainingSim_RobuxSpent.rbxm"
 image: "_img/Lm0734.webp"
 tags: [categorie/pets-meshes, sous-categorie/leaderboards-panneaux, type/lib-mesh, jeu/training-simulator]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « Robux Spent » (Training Simulator). Aperçu rendu dans 
 - **Type** : Modèle en MeshParts
 - **Contenu** : 5 MeshParts
 - **Jeu d'origine** : Training Simulator
-- **Fichier source** : `models/ByType/Leaderboards_Boards/TrainingSim_RobuxSpent.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Leaderboards_Boards/TrainingSim_RobuxSpent.rbxm` (dans le vault)

@@ -6,7 +6,7 @@ sous-catégorie: "Divers"
 type: "Modèle en Parts"
 taille: "3 × 6 × 1"
 jeu: "Tapping Lords"
-source: "models/ByType/Misc/TappingLords_10KEgg.rbxm"
+source: "Assets/models/ByType/Misc/TappingLords_10KEgg.rbxm"
 image: "_img/Lp0943.webp"
 tags: [categorie/bibliotheque-3d, sous-categorie/divers, type/lib-part, jeu/tapping-lords]
 ---
@@ -23,4 +23,4 @@ Modèle en Parts « 10KEgg » (Tapping Lords).
 - **Taille** : 3 × 6 × 1 studs
 - **Contenu** : 5 Parts · 2 MeshParts
 - **Jeu d'origine** : Tapping Lords
-- **Fichier source** : `models/ByType/Misc/TappingLords_10KEgg.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Misc/TappingLords_10KEgg.rbxm` (dans le vault)

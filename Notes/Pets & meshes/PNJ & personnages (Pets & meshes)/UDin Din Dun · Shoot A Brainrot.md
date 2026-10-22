@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "PNJ & personnages"
 type: "Modèle en MeshParts"
 jeu: "Shoot A Brainrot"
-source: "models/ByType/NPC_Characters/ShootABrainrot_UDinDinDun.rbxm"
+source: "Assets/models/ByType/NPC_Characters/ShootABrainrot_UDinDinDun.rbxm"
 image: "_img/Lm1012.webp"
 tags: [categorie/pets-meshes, sous-categorie/pnj-personnages, type/lib-mesh, jeu/shoot-a-brainrot]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « UDin Din Dun » (Shoot A Brainrot). Aperçu rendu dans R
 - **Type** : Modèle en MeshParts
 - **Contenu** : 16 Parts · 17 MeshParts
 - **Jeu d'origine** : Shoot A Brainrot
-- **Fichier source** : `models/ByType/NPC_Characters/ShootABrainrot_UDinDinDun.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/NPC_Characters/ShootABrainrot_UDinDinDun.rbxm` (dans le vault)

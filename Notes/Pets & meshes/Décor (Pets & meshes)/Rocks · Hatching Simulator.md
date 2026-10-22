@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Décor"
 type: "Modèle en MeshParts"
 jeu: "Hatching Simulator"
-source: "models/ByType/Decor_Props/HatchingSim_Rocks.rbxm"
+source: "Assets/models/ByType/Decor_Props/HatchingSim_Rocks.rbxm"
 image: "_img/Lm0250.webp"
 tags: [categorie/pets-meshes, sous-categorie/decor, type/lib-mesh, jeu/hatching-simulator]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « Rocks » (Hatching Simulator). Aperçu : forme du mesh p
 - **Type** : Modèle en MeshParts
 - **Contenu** : 11 MeshParts
 - **Jeu d'origine** : Hatching Simulator
-- **Fichier source** : `models/ByType/Decor_Props/HatchingSim_Rocks.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Decor_Props/HatchingSim_Rocks.rbxm` (dans le vault)

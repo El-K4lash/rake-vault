@@ -5,7 +5,7 @@ catégorie: "Interfaces"
 sous-catégorie: "Robux & gamepass"
 type: "Interface (ScreenGui)"
 jeu: "Mining Masters"
-source: "ui/ByType/Robux_Gamepass/MiningMasters_GamepassShop.rbxm"
+source: "Assets/ui/ByType/Robux_Gamepass/MiningMasters_GamepassShop.rbxm"
 image: "_img/Lg0178.webp"
 tags: [categorie/interfaces, sous-categorie/robux-gamepass, type/lib-gui, jeu/mining-masters]
 ---
@@ -21,4 +21,4 @@ Interface « Gamepass Shop » du jeu Mining Masters. 12 éléments UI.
 - **Type** : Interface (ScreenGui)
 - **Contenu** : 12 éléments UI
 - **Jeu d'origine** : Mining Masters
-- **Fichier source** : `ui/ByType/Robux_Gamepass/MiningMasters_GamepassShop.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/ui/ByType/Robux_Gamepass/MiningMasters_GamepassShop.rbxm` (dans le vault)

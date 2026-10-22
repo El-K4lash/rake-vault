@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Décor"
 type: "Modèle en MeshParts"
 jeu: "Mining Masters"
-source: "models/ByType/Decor_Props/MiningMasters_RandomModels_Model_6.rbxm"
+source: "Assets/models/ByType/Decor_Props/MiningMasters_RandomModels_Model_6.rbxm"
 image: "_img/Lm0282.webp"
 tags: [categorie/pets-meshes, sous-categorie/decor, type/lib-mesh, jeu/mining-masters]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « Random Models Model 6 » (Mining Masters). Aperçu rendu
 - **Type** : Modèle en MeshParts
 - **Contenu** : 32 MeshParts
 - **Jeu d'origine** : Mining Masters
-- **Fichier source** : `models/ByType/Decor_Props/MiningMasters_RandomModels_Model_6.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Decor_Props/MiningMasters_RandomModels_Model_6.rbxm` (dans le vault)

@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Chapeaux & accessoires"
 type: "Modèle en MeshParts"
 jeu: "Magnet Simulator 2"
-source: "models/ByType/Accessories_Hats/MagnetSim2_RubberDuckie.rbxm"
+source: "Assets/models/ByType/Accessories_Hats/MagnetSim2_RubberDuckie.rbxm"
 image: "_img/Lm0036.webp"
 tags: [categorie/pets-meshes, sous-categorie/chapeaux-accessoires, type/lib-mesh, jeu/magnet-simulator-2]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « Rubber Duckie » (Magnet Simulator 2). Aperçu rendu dan
 - **Type** : Modèle en MeshParts
 - **Contenu** : 1 MeshPart
 - **Jeu d'origine** : Magnet Simulator 2
-- **Fichier source** : `models/ByType/Accessories_Hats/MagnetSim2_RubberDuckie.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Accessories_Hats/MagnetSim2_RubberDuckie.rbxm` (dans le vault)

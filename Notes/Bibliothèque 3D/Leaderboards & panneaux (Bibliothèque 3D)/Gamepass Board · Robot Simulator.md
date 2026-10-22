@@ -6,7 +6,7 @@ sous-catégorie: "Leaderboards & panneaux"
 type: "Modèle en Parts"
 taille: "13 × 18 × 13"
 jeu: "Robot Simulator"
-source: "models/ByType/Leaderboards_Boards/RobotSim_GamepassBoard.rbxm"
+source: "Assets/models/ByType/Leaderboards_Boards/RobotSim_GamepassBoard.rbxm"
 image: "_img/Lp0717.webp"
 tags: [categorie/bibliotheque-3d, sous-categorie/leaderboards-panneaux, type/lib-part, jeu/robot-simulator]
 ---
@@ -23,4 +23,4 @@ Modèle en Parts « Gamepass Board » (Robot Simulator).
 - **Taille** : 13 × 18 × 13 studs
 - **Contenu** : 20 Parts · 8 MeshParts
 - **Jeu d'origine** : Robot Simulator
-- **Fichier source** : `models/ByType/Leaderboards_Boards/RobotSim_GamepassBoard.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Leaderboards_Boards/RobotSim_GamepassBoard.rbxm` (dans le vault)

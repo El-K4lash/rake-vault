@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Décor"
 type: "Modèle en MeshParts"
 jeu: "Training Simulator"
-source: "models/ByType/Decor_Props/TrainingSim_Table.rbxm"
+source: "Assets/models/ByType/Decor_Props/TrainingSim_Table.rbxm"
 image: "_img/Lm0394.webp"
 tags: [categorie/pets-meshes, sous-categorie/decor, type/lib-mesh, jeu/training-simulator]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « Table » (Training Simulator). Aperçu rendu dans Roblox
 - **Type** : Modèle en MeshParts
 - **Contenu** : 6 MeshParts
 - **Jeu d'origine** : Training Simulator
-- **Fichier source** : `models/ByType/Decor_Props/TrainingSim_Table.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Decor_Props/TrainingSim_Table.rbxm` (dans le vault)

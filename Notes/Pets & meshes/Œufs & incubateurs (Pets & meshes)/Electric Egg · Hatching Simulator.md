@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Œufs & incubateurs"
 type: "Modèle en MeshParts"
 jeu: "Hatching Simulator"
-source: "models/ByType/Eggs_Incubators/HatchingSim_ElectricEgg.rbxm"
+source: "Assets/models/ByType/Eggs_Incubators/HatchingSim_ElectricEgg.rbxm"
 image: "_img/Lm0427.webp"
 tags: [categorie/pets-meshes, sous-categorie/ufs-incubateurs, type/lib-mesh, jeu/hatching-simulator]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « Electric Egg » (Hatching Simulator). Aperçu rendu dans
 - **Type** : Modèle en MeshParts
 - **Contenu** : 4 MeshParts
 - **Jeu d'origine** : Hatching Simulator
-- **Fichier source** : `models/ByType/Eggs_Incubators/HatchingSim_ElectricEgg.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Eggs_Incubators/HatchingSim_ElectricEgg.rbxm` (dans le vault)

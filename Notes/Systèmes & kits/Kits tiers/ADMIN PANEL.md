@@ -4,7 +4,7 @@ id: "Ls0055"
 catégorie: "Systèmes & kits"
 sous-catégorie: "Kits tiers"
 type: "Système de jeu"
-source: "kits/ThirdParty/ADMIN PANEL.rbxm"
+source: "Assets/kits/ThirdParty/ADMIN PANEL.rbxm"
 image: "_img/Ls0055.webp"
 tags: [categorie/systemes-kits, sous-categorie/kits-tiers, type/lib-sys]
 ---
@@ -19,4 +19,4 @@ Kits tier : 64 scripts.
 - **Sous-catégorie** : [Kits tiers](Kits%20tiers.md)
 - **Type** : Système de jeu
 - **Contenu** : 64 scripts · 76 instances
-- **Fichier source** : `kits/ThirdParty/ADMIN PANEL.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/kits/ThirdParty/ADMIN PANEL.rbxm` (dans le vault)

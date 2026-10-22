@@ -6,7 +6,7 @@ sous-catégorie: "Maps & îles"
 type: "Modèle en Parts"
 taille: "130 × 37 × 143"
 jeu: "Robot Simulator"
-source: "models/ByType/Maps_Islands_Worlds/RobotSim_Island3_2.rbxm"
+source: "Assets/models/ByType/Maps_Islands_Worlds/RobotSim_Island3_2.rbxm"
 image: "_img/Lp0891.webp"
 tags: [categorie/bibliotheque-3d, sous-categorie/maps-iles, type/lib-part, jeu/robot-simulator]
 ---
@@ -23,4 +23,4 @@ Modèle en Parts « Island3 2 » (Robot Simulator).
 - **Taille** : 130 × 37 × 143 studs
 - **Contenu** : 281 Parts · 28 MeshParts
 - **Jeu d'origine** : Robot Simulator
-- **Fichier source** : `models/ByType/Maps_Islands_Worlds/RobotSim_Island3_2.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Maps_Islands_Worlds/RobotSim_Island3_2.rbxm` (dans le vault)

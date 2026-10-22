@@ -5,7 +5,7 @@ catégorie: "Interfaces"
 sous-catégorie: "Échanges"
 type: "Interface (ScreenGui)"
 jeu: "Pet Pharmica"
-source: "ui/ByType/Trade/PetPharmica_TradeFrame.rbxm"
+source: "Assets/ui/ByType/Trade/PetPharmica_TradeFrame.rbxm"
 image: "_img/Lg0226.webp"
 tags: [categorie/interfaces, sous-categorie/echanges, type/lib-gui, jeu/pet-pharmica]
 ---
@@ -21,4 +21,4 @@ Interface « Trade Frame » du jeu Pet Pharmica. 21 éléments UI.
 - **Type** : Interface (ScreenGui)
 - **Contenu** : 21 éléments UI
 - **Jeu d'origine** : Pet Pharmica
-- **Fichier source** : `ui/ByType/Trade/PetPharmica_TradeFrame.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/ui/ByType/Trade/PetPharmica_TradeFrame.rbxm` (dans le vault)

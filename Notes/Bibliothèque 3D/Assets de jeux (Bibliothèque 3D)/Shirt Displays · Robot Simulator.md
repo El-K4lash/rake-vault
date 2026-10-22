@@ -6,7 +6,7 @@ sous-catégorie: "Assets de jeux"
 type: "Modèle en Parts"
 taille: "71 × 5 × 2"
 jeu: "Robot Simulator"
-source: "models/FromGames/Robot Simulator/ShirtDisplays.rbxm"
+source: "Assets/models/FromGames/Robot Simulator/ShirtDisplays.rbxm"
 image: "_img/Lp1696.webp"
 tags: [categorie/bibliotheque-3d, sous-categorie/assets-de-jeux, type/lib-part, jeu/robot-simulator]
 ---
@@ -23,4 +23,4 @@ Modèle en Parts « Shirt Displays » (Robot Simulator).
 - **Taille** : 71 × 5 × 2 studs
 - **Contenu** : 89 Parts
 - **Jeu d'origine** : Robot Simulator
-- **Fichier source** : `models/FromGames/Robot Simulator/ShirtDisplays.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/FromGames/Robot Simulator/ShirtDisplays.rbxm` (dans le vault)

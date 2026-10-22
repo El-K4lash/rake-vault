@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Pets"
 type: "Modèle en MeshParts"
 jeu: "Pet Pharmica"
-source: "models/ByType/Pets/PetPharmica_Prisom.rbxm"
+source: "Assets/models/ByType/Pets/PetPharmica_Prisom.rbxm"
 image: "_img/Lm1356.webp"
 tags: [categorie/pets-meshes, sous-categorie/pets, type/lib-mesh, jeu/pet-pharmica]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « Prisom » (Pet Pharmica). Aperçu rendu dans Roblox Stud
 - **Type** : Modèle en MeshParts
 - **Contenu** : 24 MeshParts
 - **Jeu d'origine** : Pet Pharmica
-- **Fichier source** : `models/ByType/Pets/PetPharmica_Prisom.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Pets/PetPharmica_Prisom.rbxm` (dans le vault)

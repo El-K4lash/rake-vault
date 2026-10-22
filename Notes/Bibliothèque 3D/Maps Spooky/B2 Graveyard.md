@@ -5,7 +5,7 @@ catégorie: "Bibliothèque 3D"
 sous-catégorie: "Maps Spooky"
 type: "Modèle en Parts"
 taille: "193 × 54 × 119"
-source: "maps/SpookyBiomes/B2_Graveyard.rbxm"
+source: "Assets/maps/SpookyBiomes/B2_Graveyard.rbxm"
 image: "_img/Lp0011.webp"
 tags: [categorie/bibliotheque-3d, sous-categorie/maps-spooky, type/lib-part]
 ---
@@ -21,4 +21,4 @@ Modèle en Parts « B2 Graveyard ».
 - **Type** : Modèle en Parts
 - **Taille** : 193 × 54 × 119 studs
 - **Contenu** : 1 153 Parts
-- **Fichier source** : `maps/SpookyBiomes/B2_Graveyard.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/maps/SpookyBiomes/B2_Graveyard.rbxm` (dans le vault)

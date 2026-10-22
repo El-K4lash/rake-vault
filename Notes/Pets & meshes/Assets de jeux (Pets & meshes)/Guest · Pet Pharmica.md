@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Assets de jeux"
 type: "Modèle en MeshParts"
 jeu: "Pet Pharmica"
-source: "models/FromGames/Pet_Pharmica_1_1/Workspace/Guest.rbxm"
+source: "Assets/models/FromGames/Pet_Pharmica_1_1/Workspace/Guest.rbxm"
 image: "_img/Lm1629.webp"
 tags: [categorie/pets-meshes, sous-categorie/assets-de-jeux, type/lib-mesh, jeu/pet-pharmica]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « Guest » (Pet Pharmica). Aperçu rendu dans Roblox Studi
 - **Type** : Modèle en MeshParts
 - **Contenu** : 3 MeshParts
 - **Jeu d'origine** : Pet Pharmica
-- **Fichier source** : `models/FromGames/Pet_Pharmica_1_1/Workspace/Guest.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/FromGames/Pet_Pharmica_1_1/Workspace/Guest.rbxm` (dans le vault)

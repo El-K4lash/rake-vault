@@ -4,7 +4,7 @@ id: "Lj0020"
 catégorie: "Templates de jeux"
 sous-catégorie: "Simulators"
 type: "Place complète (.rbxl)"
-source: "games/Simulators/Robot Simulator.rbxl"
+source: "Assets/games/Simulators/Robot Simulator.rbxl"
 image: "_img/Lj0020.webp"
 tags: [categorie/templates-de-jeux, sous-categorie/simulators, type/lib-game]
 ---
@@ -19,4 +19,4 @@ Place Roblox complète (.rbxl) : 330 scripts, 42326 instances.
 - **Sous-catégorie** : [Simulators](Simulators.md)
 - **Type** : Place complète (.rbxl)
 - **Contenu** : 330 scripts · 42 326 instances
-- **Fichier source** : `games/Simulators/Robot Simulator.rbxl` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/games/Simulators/Robot Simulator.rbxl` (dans le vault)

@@ -5,7 +5,7 @@ catégorie: "Bibliothèque 3D"
 sous-catégorie: "Halloween"
 type: "Modèle en Parts"
 taille: "1 × 5 × 1"
-source: "packs/Halloween/BatSkins_Tools/VIP Bat.rbxm"
+source: "Assets/packs/Halloween/BatSkins_Tools/VIP Bat.rbxm"
 image: "_img/Lp2603.webp"
 tags: [categorie/bibliotheque-3d, sous-categorie/halloween, type/lib-part]
 ---
@@ -21,4 +21,4 @@ Modèle en Parts « VIP Bat ».
 - **Type** : Modèle en Parts
 - **Taille** : 1 × 5 × 1 studs
 - **Contenu** : 23 Parts
-- **Fichier source** : `packs/Halloween/BatSkins_Tools/VIP Bat.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/packs/Halloween/BatSkins_Tools/VIP Bat.rbxm` (dans le vault)

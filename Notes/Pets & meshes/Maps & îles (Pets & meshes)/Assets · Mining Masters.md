@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Maps & îles"
 type: "Modèle en MeshParts"
 jeu: "Mining Masters"
-source: "models/ByType/Maps_Islands_Worlds/MiningMasters_assets.rbxm"
+source: "Assets/models/ByType/Maps_Islands_Worlds/MiningMasters_assets.rbxm"
 image: "_img/Lm0857.webp"
 tags: [categorie/pets-meshes, sous-categorie/maps-iles, type/lib-mesh, jeu/mining-masters]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « Assets » (Mining Masters). Aperçu rendu dans Roblox St
 - **Type** : Modèle en MeshParts
 - **Contenu** : 6 Parts · 922 MeshParts
 - **Jeu d'origine** : Mining Masters
-- **Fichier source** : `models/ByType/Maps_Islands_Worlds/MiningMasters_assets.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Maps_Islands_Worlds/MiningMasters_assets.rbxm` (dans le vault)

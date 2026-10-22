@@ -5,7 +5,7 @@ catégorie: "Interfaces"
 sous-catégorie: "Pets & inventaire"
 type: "Interface (ScreenGui)"
 jeu: "Robot Simulator"
-source: "ui/ByType/Pets_Inventory/RobotSim_Pets.rbxm"
+source: "Assets/ui/ByType/Pets_Inventory/RobotSim_Pets.rbxm"
 image: "_img/Lg0141.webp"
 tags: [categorie/interfaces, sous-categorie/pets-inventaire, type/lib-gui, jeu/robot-simulator]
 ---
@@ -21,4 +21,4 @@ Interface « Pets » du jeu Robot Simulator. 20 éléments UI.
 - **Type** : Interface (ScreenGui)
 - **Contenu** : 20 éléments UI
 - **Jeu d'origine** : Robot Simulator
-- **Fichier source** : `ui/ByType/Pets_Inventory/RobotSim_Pets.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/ui/ByType/Pets_Inventory/RobotSim_Pets.rbxm` (dans le vault)

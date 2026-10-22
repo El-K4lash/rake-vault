@@ -5,7 +5,7 @@ catégorie: "Interfaces"
 sous-catégorie: "Chargement & intro"
 type: "Interface (ScreenGui)"
 jeu: "Tapping Lords"
-source: "ui/ByType/Loading_Intro/TappingLords_Intro.rbxm"
+source: "Assets/ui/ByType/Loading_Intro/TappingLords_Intro.rbxm"
 image: "_img/Lg0083.webp"
 tags: [categorie/interfaces, sous-categorie/chargement-intro, type/lib-gui, jeu/tapping-lords]
 ---
@@ -21,4 +21,4 @@ Interface « Intro » du jeu Tapping Lords. 15 éléments UI.
 - **Type** : Interface (ScreenGui)
 - **Contenu** : 15 éléments UI
 - **Jeu d'origine** : Tapping Lords
-- **Fichier source** : `ui/ByType/Loading_Intro/TappingLords_Intro.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/ui/ByType/Loading_Intro/TappingLords_Intro.rbxm` (dans le vault)

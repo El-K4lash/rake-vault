@@ -5,7 +5,7 @@ catégorie: "Interfaces"
 sous-catégorie: "Admin & debug"
 type: "Interface (ScreenGui)"
 jeu: "Lib perso"
-source: "ui/ByType/Admin_Debug/Lib_F2AdminButton.rbxm"
+source: "Assets/ui/ByType/Admin_Debug/Lib_F2AdminButton.rbxm"
 image: "_img/Lg0002.webp"
 tags: [categorie/interfaces, sous-categorie/admin-debug, type/lib-gui, jeu/lib-perso]
 ---
@@ -21,4 +21,4 @@ Interface « F2Admin Button » du jeu Lib perso. 3 éléments UI.
 - **Type** : Interface (ScreenGui)
 - **Contenu** : 3 éléments UI
 - **Jeu d'origine** : Lib perso
-- **Fichier source** : `ui/ByType/Admin_Debug/Lib_F2AdminButton.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/ui/ByType/Admin_Debug/Lib_F2AdminButton.rbxm` (dans le vault)

@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Décor"
 type: "Modèle en MeshParts"
 jeu: "Pet Pharmica"
-source: "models/ByType/Decor_Props/PetPharmica_1Spawn_Model.rbxm"
+source: "Assets/models/ByType/Decor_Props/PetPharmica_1Spawn_Model.rbxm"
 image: "_img/Lm0288.webp"
 tags: [categorie/pets-meshes, sous-categorie/decor, type/lib-mesh, jeu/pet-pharmica]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « 1Spawn Model » (Pet Pharmica). Aperçu rendu dans Roblo
 - **Type** : Modèle en MeshParts
 - **Contenu** : 46 MeshParts
 - **Jeu d'origine** : Pet Pharmica
-- **Fichier source** : `models/ByType/Decor_Props/PetPharmica_1Spawn_Model.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Decor_Props/PetPharmica_1Spawn_Model.rbxm` (dans le vault)

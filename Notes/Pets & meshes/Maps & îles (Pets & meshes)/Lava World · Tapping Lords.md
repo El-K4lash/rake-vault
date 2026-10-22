@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Maps & îles"
 type: "Modèle en MeshParts"
 jeu: "Tapping Lords"
-source: "models/ByType/Maps_Islands_Worlds/TappingLords_LavaWorld.rbxm"
+source: "Assets/models/ByType/Maps_Islands_Worlds/TappingLords_LavaWorld.rbxm"
 image: "_img/Lm0900.webp"
 tags: [categorie/pets-meshes, sous-categorie/maps-iles, type/lib-mesh, jeu/tapping-lords]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « Lava World » (Tapping Lords). Aperçu rendu dans Roblox
 - **Type** : Modèle en MeshParts
 - **Contenu** : 32 Parts · 111 MeshParts
 - **Jeu d'origine** : Tapping Lords
-- **Fichier source** : `models/ByType/Maps_Islands_Worlds/TappingLords_LavaWorld.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Maps_Islands_Worlds/TappingLords_LavaWorld.rbxm` (dans le vault)

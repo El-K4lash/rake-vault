@@ -5,7 +5,7 @@ catégorie: "Interfaces"
 sous-catégorie: "Interfaces de jeux"
 type: "Interface (ScreenGui)"
 jeu: "Cashgrab Bridge"
-source: "ui/FromGames/CashgrabBridgeEU/UI.rbxm"
+source: "Assets/ui/FromGames/CashgrabBridgeEU/UI.rbxm"
 image: "_img/Lg0266.webp"
 tags: [categorie/interfaces, sous-categorie/interfaces-de-jeux, type/lib-gui, jeu/cashgrab-bridge]
 ---
@@ -21,4 +21,4 @@ Interface « UI » du jeu Cashgrab Bridge. 2 éléments UI.
 - **Type** : Interface (ScreenGui)
 - **Contenu** : 2 éléments UI
 - **Jeu d'origine** : Cashgrab Bridge
-- **Fichier source** : `ui/FromGames/CashgrabBridgeEU/UI.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/ui/FromGames/CashgrabBridgeEU/UI.rbxm` (dans le vault)

@@ -6,7 +6,7 @@ sous-catégorie: "Décor"
 type: "Modèle en Parts"
 taille: "30 × 16 × 31"
 jeu: "Robot Simulator"
-source: "models/ByType/Decor_Props/RobotSim_Mountain_Model.rbxm"
+source: "Assets/models/ByType/Decor_Props/RobotSim_Mountain_Model.rbxm"
 image: "_img/Lp0370.webp"
 tags: [categorie/bibliotheque-3d, sous-categorie/decor, type/lib-part, jeu/robot-simulator]
 ---
@@ -23,4 +23,4 @@ Modèle en Parts « Mountain Model » (Robot Simulator).
 - **Taille** : 30 × 16 × 31 studs
 - **Contenu** : 176 Parts
 - **Jeu d'origine** : Robot Simulator
-- **Fichier source** : `models/ByType/Decor_Props/RobotSim_Mountain_Model.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Decor_Props/RobotSim_Mountain_Model.rbxm` (dans le vault)

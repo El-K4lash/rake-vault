@@ -5,7 +5,7 @@ catégorie: "Interfaces"
 sous-catégorie: "Paramètres"
 type: "Interface (ScreenGui)"
 jeu: "Hatching Simulator"
-source: "ui/ByType/Settings/HatchingSim_Settings.rbxm"
+source: "Assets/ui/ByType/Settings/HatchingSim_Settings.rbxm"
 image: "_img/Lg0186.webp"
 tags: [categorie/interfaces, sous-categorie/parametres, type/lib-gui, jeu/hatching-simulator]
 ---
@@ -21,4 +21,4 @@ Interface « Settings » du jeu Hatching Simulator. 75 éléments UI.
 - **Type** : Interface (ScreenGui)
 - **Contenu** : 75 éléments UI
 - **Jeu d'origine** : Hatching Simulator
-- **Fichier source** : `ui/ByType/Settings/HatchingSim_Settings.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/ui/ByType/Settings/HatchingSim_Settings.rbxm` (dans le vault)

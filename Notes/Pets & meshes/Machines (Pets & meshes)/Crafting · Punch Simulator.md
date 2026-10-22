@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Machines"
 type: "Modèle en MeshParts"
 jeu: "Punch Simulator"
-source: "models/ByType/Machines_Upgraders/PunchSim_Crafting.rbxm"
+source: "Assets/models/ByType/Machines_Upgraders/PunchSim_Crafting.rbxm"
 image: "_img/Lm0832.webp"
 tags: [categorie/pets-meshes, sous-categorie/machines, type/lib-mesh, jeu/punch-simulator]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « Crafting » (Punch Simulator). Aperçu rendu dans Roblox
 - **Type** : Modèle en MeshParts
 - **Contenu** : 10 MeshParts
 - **Jeu d'origine** : Punch Simulator
-- **Fichier source** : `models/ByType/Machines_Upgraders/PunchSim_Crafting.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Machines_Upgraders/PunchSim_Crafting.rbxm` (dans le vault)

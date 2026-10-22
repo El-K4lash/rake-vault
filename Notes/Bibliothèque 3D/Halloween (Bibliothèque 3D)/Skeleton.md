@@ -5,7 +5,7 @@ catégorie: "Bibliothèque 3D"
 sous-catégorie: "Halloween"
 type: "Modèle en Parts"
 taille: "4 × 9 × 2"
-source: "packs/Halloween/Monsters/Skeleton.rbxm"
+source: "Assets/packs/Halloween/Monsters/Skeleton.rbxm"
 image: "_img/Lp2609.webp"
 tags: [categorie/bibliotheque-3d, sous-categorie/halloween, type/lib-part]
 ---
@@ -21,4 +21,4 @@ Modèle en Parts « Skeleton ».
 - **Type** : Modèle en Parts
 - **Taille** : 4 × 9 × 2 studs
 - **Contenu** : 62 Parts
-- **Fichier source** : `packs/Halloween/Monsters/Skeleton.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/packs/Halloween/Monsters/Skeleton.rbxm` (dans le vault)

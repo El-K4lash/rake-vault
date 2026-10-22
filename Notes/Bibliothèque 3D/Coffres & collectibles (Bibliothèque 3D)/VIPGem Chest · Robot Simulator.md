@@ -6,7 +6,7 @@ sous-catégorie: "Coffres & collectibles"
 type: "Modèle en Parts"
 taille: "29 × 11 × 29"
 jeu: "Robot Simulator"
-source: "models/ByType/Collectibles_Chests/RobotSim_VIPGemChest.rbxm"
+source: "Assets/models/ByType/Collectibles_Chests/RobotSim_VIPGemChest.rbxm"
 image: "_img/Lp0148.webp"
 tags: [categorie/bibliotheque-3d, sous-categorie/coffres-collectibles, type/lib-part, jeu/robot-simulator]
 ---
@@ -23,4 +23,4 @@ Modèle en Parts « VIPGem Chest » (Robot Simulator).
 - **Taille** : 29 × 11 × 29 studs
 - **Contenu** : 68 Parts
 - **Jeu d'origine** : Robot Simulator
-- **Fichier source** : `models/ByType/Collectibles_Chests/RobotSim_VIPGemChest.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Collectibles_Chests/RobotSim_VIPGemChest.rbxm` (dans le vault)

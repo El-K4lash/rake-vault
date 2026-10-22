@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Bâtiments"
 type: "Modèle en MeshParts"
 jeu: "+1 Jump Every Second"
-source: "models/ByType/Buildings/1JumpEverySecond_Lift.rbxm"
+source: "Assets/models/ByType/Buildings/1JumpEverySecond_Lift.rbxm"
 image: "_img/Lm0052.webp"
 tags: [categorie/pets-meshes, sous-categorie/batiments, type/lib-mesh, jeu/1-jump-every-second]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « Lift » (+1 Jump Every Second). Aperçu rendu dans Roblo
 - **Type** : Modèle en MeshParts
 - **Contenu** : 6 MeshParts
 - **Jeu d'origine** : +1 Jump Every Second
-- **Fichier source** : `models/ByType/Buildings/1JumpEverySecond_Lift.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Buildings/1JumpEverySecond_Lift.rbxm` (dans le vault)

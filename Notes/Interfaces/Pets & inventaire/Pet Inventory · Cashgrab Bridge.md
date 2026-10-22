@@ -5,7 +5,7 @@ catégorie: "Interfaces"
 sous-catégorie: "Pets & inventaire"
 type: "Interface (ScreenGui)"
 jeu: "Cashgrab Bridge"
-source: "ui/ByType/Pets_Inventory/CashgrabBridge_PetInventory.rbxm"
+source: "Assets/ui/ByType/Pets_Inventory/CashgrabBridge_PetInventory.rbxm"
 image: "_img/Lg0132.webp"
 tags: [categorie/interfaces, sous-categorie/pets-inventaire, type/lib-gui, jeu/cashgrab-bridge]
 ---
@@ -21,4 +21,4 @@ Interface « Pet Inventory » du jeu Cashgrab Bridge. 27 éléments UI.
 - **Type** : Interface (ScreenGui)
 - **Contenu** : 27 éléments UI
 - **Jeu d'origine** : Cashgrab Bridge
-- **Fichier source** : `ui/ByType/Pets_Inventory/CashgrabBridge_PetInventory.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/ui/ByType/Pets_Inventory/CashgrabBridge_PetInventory.rbxm` (dans le vault)

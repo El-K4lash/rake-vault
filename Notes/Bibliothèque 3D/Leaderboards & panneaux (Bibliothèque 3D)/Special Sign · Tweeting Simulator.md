@@ -6,7 +6,7 @@ sous-catégorie: "Leaderboards & panneaux"
 type: "Modèle en Parts"
 taille: "1 × 1 × 1"
 jeu: "Tweeting Simulator"
-source: "models/ByType/Leaderboards_Boards/TweetingSim_SpecialSign.rbxm"
+source: "Assets/models/ByType/Leaderboards_Boards/TweetingSim_SpecialSign.rbxm"
 image: "_img/Lp0742.webp"
 tags: [categorie/bibliotheque-3d, sous-categorie/leaderboards-panneaux, type/lib-part, jeu/tweeting-simulator]
 ---
@@ -23,4 +23,4 @@ Modèle en Parts « Special Sign » (Tweeting Simulator).
 - **Taille** : 1 × 1 × 1 studs
 - **Contenu** : 2 Parts · 3 MeshParts
 - **Jeu d'origine** : Tweeting Simulator
-- **Fichier source** : `models/ByType/Leaderboards_Boards/TweetingSim_SpecialSign.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Leaderboards_Boards/TweetingSim_SpecialSign.rbxm` (dans le vault)

@@ -5,7 +5,7 @@ catégorie: "Interfaces"
 sous-catégorie: "HUD & monnaie"
 type: "Interface (ScreenGui)"
 jeu: "Tweeting Simulator"
-source: "ui/ByType/HUD_Currency/TweetingSim_HUD.rbxm"
+source: "Assets/ui/ByType/HUD_Currency/TweetingSim_HUD.rbxm"
 image: "_img/Lg0068.webp"
 tags: [categorie/interfaces, sous-categorie/hud-monnaie, type/lib-gui, jeu/tweeting-simulator]
 ---
@@ -21,4 +21,4 @@ Interface « HUD » du jeu Tweeting Simulator. 39 éléments UI.
 - **Type** : Interface (ScreenGui)
 - **Contenu** : 39 éléments UI
 - **Jeu d'origine** : Tweeting Simulator
-- **Fichier source** : `ui/ByType/HUD_Currency/TweetingSim_HUD.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/ui/ByType/HUD_Currency/TweetingSim_HUD.rbxm` (dans le vault)

@@ -5,7 +5,7 @@ catégorie: "Interfaces"
 sous-catégorie: "Index & collection"
 type: "Interface (ScreenGui)"
 jeu: "Robot Simulator"
-source: "ui/ByType/Index_Collection/RobotSim_Index.rbxm"
+source: "Assets/ui/ByType/Index_Collection/RobotSim_Index.rbxm"
 image: "_img/Lg0073.webp"
 tags: [categorie/interfaces, sous-categorie/index-collection, type/lib-gui, jeu/robot-simulator]
 ---
@@ -21,4 +21,4 @@ Interface « Index » du jeu Robot Simulator. 7 éléments UI.
 - **Type** : Interface (ScreenGui)
 - **Contenu** : 7 éléments UI
 - **Jeu d'origine** : Robot Simulator
-- **Fichier source** : `ui/ByType/Index_Collection/RobotSim_Index.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/ui/ByType/Index_Collection/RobotSim_Index.rbxm` (dans le vault)

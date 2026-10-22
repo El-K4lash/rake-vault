@@ -4,7 +4,7 @@ id: "Ls0090"
 catégorie: "Systèmes & kits"
 sous-catégorie: "Systèmes"
 type: "Système de jeu"
-source: "systems/StealAnSpookyEgg_Systems.rbxm"
+source: "Assets/systems/StealAnSpookyEgg_Systems.rbxm"
 image: "_img/Ls0090.webp"
 tags: [categorie/systemes-kits, sous-categorie/systemes, type/lib-sys]
 ---
@@ -19,4 +19,4 @@ Système : 227 scripts.
 - **Sous-catégorie** : [Systèmes](Syst%C3%A8mes.md)
 - **Type** : Système de jeu
 - **Contenu** : 227 scripts · 287 instances
-- **Fichier source** : `systems/StealAnSpookyEgg_Systems.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/systems/StealAnSpookyEgg_Systems.rbxm` (dans le vault)

@@ -2,13 +2,13 @@
 title: "Systèmes"
 type: "Sous-catégorie"
 catégorie: "Systèmes & kits"
-éléments: 8
+éléments: 13
 tags: [index, categorie/systemes-kits]
 ---
 
 # Systèmes
 
-Sous-catégorie de [Systèmes & kits](../Syst%C3%A8mes%20&%20kits.md) · **8 éléments**
+Sous-catégorie de [Systèmes & kits](../Syst%C3%A8mes%20&%20kits.md) · **13 éléments**
 
 | Aperçu | Élément | Infos |
 | --- | --- | --- |
@@ -20,3 +20,8 @@ Sous-catégorie de [Systèmes & kits](../Syst%C3%A8mes%20&%20kits.md) · **8 él
 | ![Aperçu\|120](../../_img/Ls0088.webp) | [Owner Tag Fares](Owner%20Tag%20Fares.md) | Système de jeu · 1 script · 2 instances |
 | ![Aperçu\|120](../../_img/Ls0089.webp) | [Spin Wheel Emo Studio](Spin%20Wheel%20Emo%20Studio.md) | Système de jeu · 8 scripts · 136 instances |
 | ![Aperçu\|120](../../_img/Ls0090.webp) | [Steal An Spooky Egg](Steal%20An%20Spooky%20Egg.md) | Système de jeu · 227 scripts · 287 instances |
+| ![Aperçu\|120](../../_img/Ls0089.webp) | [Spin System (EmoStudio) — place](Spin%20System%20%28EmoStudio%29%20%E2%80%94%20place.md) | Pack de fichiers · 1 fichier · 80 Ko |
+| — | [FakeVerify (script)](FakeVerify%20%28script%29.md) | Pack de fichiers · 1 fichier · 1 Ko |
+| — | [HUD Controller + EventService (30x Luck)](HUD%20Controller%20+%20EventService%20%2830x%20Luck%29.md) | Système de jeu · 1 fichier · 0,4 Mo |
+| — | [VV Spin System](VV%20Spin%20System.md) | Système de jeu · 1 fichier · 0,1 Mo |
+| — | [Zenith – Brainrot Admin Panel](Zenith%20%E2%80%93%20Brainrot%20Admin%20Panel.md) | Système de jeu · 1 fichier · 29 Ko |

@@ -5,7 +5,7 @@ catégorie: "Interfaces"
 sous-catégorie: "Divers"
 type: "Interface (ScreenGui)"
 jeu: "Pet Pharmica"
-source: "ui/ByType/Misc/PetPharmica_UpdateLog.rbxm"
+source: "Assets/ui/ByType/Misc/PetPharmica_UpdateLog.rbxm"
 image: "_img/Lg0101.webp"
 tags: [categorie/interfaces, sous-categorie/divers, type/lib-gui, jeu/pet-pharmica]
 ---
@@ -21,4 +21,4 @@ Interface « Update Log » du jeu Pet Pharmica. 16 éléments UI.
 - **Type** : Interface (ScreenGui)
 - **Contenu** : 16 éléments UI
 - **Jeu d'origine** : Pet Pharmica
-- **Fichier source** : `ui/ByType/Misc/PetPharmica_UpdateLog.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/ui/ByType/Misc/PetPharmica_UpdateLog.rbxm` (dans le vault)

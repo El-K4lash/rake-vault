@@ -5,7 +5,7 @@ catégorie: "Interfaces"
 sous-catégorie: "Rebirth"
 type: "Interface (ScreenGui)"
 jeu: "Training Simulator"
-source: "ui/ByType/Rebirth/TrainingSim_Rebirth.rbxm"
+source: "Assets/ui/ByType/Rebirth/TrainingSim_Rebirth.rbxm"
 image: "_img/Lg0165.webp"
 tags: [categorie/interfaces, sous-categorie/rebirth, type/lib-gui, jeu/training-simulator]
 ---
@@ -21,4 +21,4 @@ Interface « Rebirth » du jeu Training Simulator. 15 éléments UI.
 - **Type** : Interface (ScreenGui)
 - **Contenu** : 15 éléments UI
 - **Jeu d'origine** : Training Simulator
-- **Fichier source** : `ui/ByType/Rebirth/TrainingSim_Rebirth.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/ui/ByType/Rebirth/TrainingSim_Rebirth.rbxm` (dans le vault)

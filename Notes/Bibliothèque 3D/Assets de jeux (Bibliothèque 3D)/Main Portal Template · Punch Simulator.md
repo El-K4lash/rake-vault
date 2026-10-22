@@ -6,7 +6,7 @@ sous-catégorie: "Assets de jeux"
 type: "Modèle en Parts"
 taille: "15 × 22 × 3"
 jeu: "Punch Simulator"
-source: "models/FromGames/Punch Simulator/Workspace/Main Portal Template.rbxm"
+source: "Assets/models/FromGames/Punch Simulator/Workspace/Main Portal Template.rbxm"
 image: "_img/Lp1656.webp"
 tags: [categorie/bibliotheque-3d, sous-categorie/assets-de-jeux, type/lib-part, jeu/punch-simulator]
 ---
@@ -23,4 +23,4 @@ Modèle en Parts « Main Portal Template » (Punch Simulator).
 - **Taille** : 15 × 22 × 3 studs
 - **Contenu** : 35 Parts · 1 MeshPart
 - **Jeu d'origine** : Punch Simulator
-- **Fichier source** : `models/FromGames/Punch Simulator/Workspace/Main Portal Template.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/FromGames/Punch Simulator/Workspace/Main Portal Template.rbxm` (dans le vault)

@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Décor"
 type: "Modèle en MeshParts"
 jeu: "First Donations"
-source: "models/ByType/Decor_Props/FirstDonations_NukePlatform.rbxm"
+source: "Assets/models/ByType/Decor_Props/FirstDonations_NukePlatform.rbxm"
 image: "_img/Lm0215.webp"
 tags: [categorie/pets-meshes, sous-categorie/decor, type/lib-mesh, jeu/first-donations]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « Nuke Platform » (First Donations). Aperçu rendu dans R
 - **Type** : Modèle en MeshParts
 - **Contenu** : 1 Part · 20 MeshParts
 - **Jeu d'origine** : First Donations
-- **Fichier source** : `models/ByType/Decor_Props/FirstDonations_NukePlatform.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Decor_Props/FirstDonations_NukePlatform.rbxm` (dans le vault)

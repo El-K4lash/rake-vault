@@ -6,7 +6,7 @@ sous-catégorie: "Décor"
 type: "Modèle en Parts"
 taille: "43 × 70 × 9"
 jeu: "Pet Pharmica"
-source: "models/ByType/Decor_Props/PetPharmica_Background_Model_4.rbxm"
+source: "Assets/models/ByType/Decor_Props/PetPharmica_Background_Model_4.rbxm"
 image: "_img/Lp0294.webp"
 tags: [categorie/bibliotheque-3d, sous-categorie/decor, type/lib-part, jeu/pet-pharmica]
 ---
@@ -23,4 +23,4 @@ Modèle en Parts « Background Model 4 » (Pet Pharmica).
 - **Taille** : 43 × 70 × 9 studs
 - **Contenu** : 62 Parts
 - **Jeu d'origine** : Pet Pharmica
-- **Fichier source** : `models/ByType/Decor_Props/PetPharmica_Background_Model_4.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Decor_Props/PetPharmica_Background_Model_4.rbxm` (dans le vault)

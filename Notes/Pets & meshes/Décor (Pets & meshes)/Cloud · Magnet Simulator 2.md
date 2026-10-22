@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Décor"
 type: "Modèle en MeshParts"
 jeu: "Magnet Simulator 2"
-source: "models/ByType/Decor_Props/MagnetSim2_Cloud.rbxm"
+source: "Assets/models/ByType/Decor_Props/MagnetSim2_Cloud.rbxm"
 image: "_img/Lm0265.webp"
 tags: [categorie/pets-meshes, sous-categorie/decor, type/lib-mesh, jeu/magnet-simulator-2]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « Cloud » (Magnet Simulator 2). Aperçu rendu dans Roblox
 - **Type** : Modèle en MeshParts
 - **Contenu** : 1 MeshPart
 - **Jeu d'origine** : Magnet Simulator 2
-- **Fichier source** : `models/ByType/Decor_Props/MagnetSim2_Cloud.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Decor_Props/MagnetSim2_Cloud.rbxm` (dans le vault)

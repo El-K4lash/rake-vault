@@ -5,7 +5,7 @@ catégorie: "Interfaces"
 sous-catégorie: "Interfaces de jeux"
 type: "Interface (ScreenGui)"
 jeu: "First Donations"
-source: "ui/FromGames/First_Donations/PianoGui.rbxm"
+source: "Assets/ui/FromGames/First_Donations/PianoGui.rbxm"
 image: "_img/Lg0270.webp"
 tags: [categorie/interfaces, sous-categorie/interfaces-de-jeux, type/lib-gui, jeu/first-donations]
 ---
@@ -21,4 +21,4 @@ Interface « Piano Gui » du jeu First Donations. 131 éléments UI.
 - **Type** : Interface (ScreenGui)
 - **Contenu** : 131 éléments UI
 - **Jeu d'origine** : First Donations
-- **Fichier source** : `ui/FromGames/First_Donations/PianoGui.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/ui/FromGames/First_Donations/PianoGui.rbxm` (dans le vault)

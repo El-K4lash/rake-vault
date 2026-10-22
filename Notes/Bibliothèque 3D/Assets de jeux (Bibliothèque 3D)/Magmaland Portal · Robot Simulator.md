@@ -6,7 +6,7 @@ sous-catégorie: "Assets de jeux"
 type: "Modèle en Parts"
 taille: "10 × 13 × 8"
 jeu: "Robot Simulator"
-source: "models/FromGames/Robot Simulator/Magmaland Portal.rbxm"
+source: "Assets/models/FromGames/Robot Simulator/Magmaland Portal.rbxm"
 image: "_img/Lp1686.webp"
 tags: [categorie/bibliotheque-3d, sous-categorie/assets-de-jeux, type/lib-part, jeu/robot-simulator]
 ---
@@ -23,4 +23,4 @@ Modèle en Parts « Magmaland Portal » (Robot Simulator).
 - **Taille** : 10 × 13 × 8 studs
 - **Contenu** : 26 Parts · 1 MeshPart
 - **Jeu d'origine** : Robot Simulator
-- **Fichier source** : `models/FromGames/Robot Simulator/Magmaland Portal.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/FromGames/Robot Simulator/Magmaland Portal.rbxm` (dans le vault)

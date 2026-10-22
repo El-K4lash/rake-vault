@@ -5,7 +5,7 @@ catégorie: "Interfaces"
 sous-catégorie: "Boutiques"
 type: "Interface (ScreenGui)"
 jeu: "Bakery Simulator"
-source: "ui/ByType/Shop_Store/BakerySim_ItemShop.rbxm"
+source: "Assets/ui/ByType/Shop_Store/BakerySim_ItemShop.rbxm"
 image: "_img/Lg0196.webp"
 tags: [categorie/interfaces, sous-categorie/boutiques, type/lib-gui, jeu/bakery-simulator]
 ---
@@ -21,4 +21,4 @@ Interface « Item Shop » du jeu Bakery Simulator. 33 éléments UI.
 - **Type** : Interface (ScreenGui)
 - **Contenu** : 33 éléments UI
 - **Jeu d'origine** : Bakery Simulator
-- **Fichier source** : `ui/ByType/Shop_Store/BakerySim_ItemShop.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/ui/ByType/Shop_Store/BakerySim_ItemShop.rbxm` (dans le vault)

@@ -5,7 +5,7 @@ catégorie: "Interfaces"
 sous-catégorie: "Œufs & éclosion"
 type: "Interface (ScreenGui)"
 jeu: "Tapping Lords"
-source: "ui/ByType/Eggs_Hatch/TappingLords_Lootboxes.rbxm"
+source: "Assets/ui/ByType/Eggs_Hatch/TappingLords_Lootboxes.rbxm"
 image: "_img/Lg0037.webp"
 tags: [categorie/interfaces, sous-categorie/ufs-eclosion, type/lib-gui, jeu/tapping-lords]
 ---
@@ -21,4 +21,4 @@ Interface « Lootboxes » du jeu Tapping Lords. 13 éléments UI.
 - **Type** : Interface (ScreenGui)
 - **Contenu** : 13 éléments UI
 - **Jeu d'origine** : Tapping Lords
-- **Fichier source** : `ui/ByType/Eggs_Hatch/TappingLords_Lootboxes.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/ui/ByType/Eggs_Hatch/TappingLords_Lootboxes.rbxm` (dans le vault)

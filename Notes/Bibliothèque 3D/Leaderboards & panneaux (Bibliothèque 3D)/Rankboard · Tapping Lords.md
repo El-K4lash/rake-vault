@@ -6,7 +6,7 @@ sous-catégorie: "Leaderboards & panneaux"
 type: "Modèle en Parts"
 taille: "12 × 14 × 1"
 jeu: "Tapping Lords"
-source: "models/ByType/Leaderboards_Boards/TappingLords_Rankboard.rbxm"
+source: "Assets/models/ByType/Leaderboards_Boards/TappingLords_Rankboard.rbxm"
 image: "_img/Lp0732.webp"
 tags: [categorie/bibliotheque-3d, sous-categorie/leaderboards-panneaux, type/lib-part, jeu/tapping-lords]
 ---
@@ -23,4 +23,4 @@ Modèle en Parts « Rankboard » (Tapping Lords).
 - **Taille** : 12 × 14 × 1 studs
 - **Contenu** : 7 Parts
 - **Jeu d'origine** : Tapping Lords
-- **Fichier source** : `models/ByType/Leaderboards_Boards/TappingLords_Rankboard.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Leaderboards_Boards/TappingLords_Rankboard.rbxm` (dans le vault)

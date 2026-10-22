@@ -6,7 +6,7 @@ sous-catégorie: "Bâtiments"
 type: "Modèle en Parts"
 taille: "141 × 190 × 115"
 jeu: "Punch Simulator"
-source: "models/ByType/Buildings/PunchSim_Stairs.rbxm"
+source: "Assets/models/ByType/Buildings/PunchSim_Stairs.rbxm"
 image: "_img/Lp0085.webp"
 tags: [categorie/bibliotheque-3d, sous-categorie/batiments, type/lib-part, jeu/punch-simulator]
 ---
@@ -23,4 +23,4 @@ Modèle en Parts « Stairs » (Punch Simulator).
 - **Taille** : 141 × 190 × 115 studs
 - **Contenu** : 45 Parts
 - **Jeu d'origine** : Punch Simulator
-- **Fichier source** : `models/ByType/Buildings/PunchSim_Stairs.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Buildings/PunchSim_Stairs.rbxm` (dans le vault)

@@ -5,7 +5,7 @@ catégorie: "Interfaces"
 sous-catégorie: "Notifications & popups"
 type: "Interface (ScreenGui)"
 jeu: "Glass Bridge"
-source: "ui/ByType/Notifications_Popups/GlassBridge_WinScreen.rbxm"
+source: "Assets/ui/ByType/Notifications_Popups/GlassBridge_WinScreen.rbxm"
 image: "_img/Lg0120.webp"
 tags: [categorie/interfaces, sous-categorie/notifications-popups, type/lib-gui, jeu/glass-bridge]
 ---
@@ -21,4 +21,4 @@ Interface « Win Screen » du jeu Glass Bridge. 9 éléments UI.
 - **Type** : Interface (ScreenGui)
 - **Contenu** : 9 éléments UI
 - **Jeu d'origine** : Glass Bridge
-- **Fichier source** : `ui/ByType/Notifications_Popups/GlassBridge_WinScreen.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/ui/ByType/Notifications_Popups/GlassBridge_WinScreen.rbxm` (dans le vault)

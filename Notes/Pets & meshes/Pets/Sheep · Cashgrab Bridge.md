@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Pets"
 type: "Modèle en MeshParts"
 jeu: "Cashgrab Bridge"
-source: "models/ByType/Pets/CashgrabBridge_Sheep.rbxm"
+source: "Assets/models/ByType/Pets/CashgrabBridge_Sheep.rbxm"
 image: "_img/Lm1089.webp"
 tags: [categorie/pets-meshes, sous-categorie/pets, type/lib-mesh, jeu/cashgrab-bridge]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « Sheep » (Cashgrab Bridge). Aperçu rendu dans Roblox St
 - **Type** : Modèle en MeshParts
 - **Contenu** : 3 MeshParts
 - **Jeu d'origine** : Cashgrab Bridge
-- **Fichier source** : `models/ByType/Pets/CashgrabBridge_Sheep.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Pets/CashgrabBridge_Sheep.rbxm` (dans le vault)

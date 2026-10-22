@@ -5,7 +5,7 @@ catégorie: "Interfaces"
 sous-catégorie: "Pets & inventaire"
 type: "Interface (ScreenGui)"
 jeu: "Hatching Simulator"
-source: "ui/ByType/Pets_Inventory/HatchingSim_PetsInventory.rbxm"
+source: "Assets/ui/ByType/Pets_Inventory/HatchingSim_PetsInventory.rbxm"
 image: "_img/Lg0133.webp"
 tags: [categorie/interfaces, sous-categorie/pets-inventaire, type/lib-gui, jeu/hatching-simulator]
 ---
@@ -21,4 +21,4 @@ Interface « Pets Inventory » du jeu Hatching Simulator. 63 éléments UI.
 - **Type** : Interface (ScreenGui)
 - **Contenu** : 63 éléments UI
 - **Jeu d'origine** : Hatching Simulator
-- **Fichier source** : `ui/ByType/Pets_Inventory/HatchingSim_PetsInventory.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/ui/ByType/Pets_Inventory/HatchingSim_PetsInventory.rbxm` (dans le vault)

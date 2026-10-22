@@ -5,7 +5,7 @@ catégorie: "Interfaces"
 sous-catégorie: "HUD & monnaie"
 type: "Interface (ScreenGui)"
 jeu: "+1 Health Every Second"
-source: "ui/ByType/HUD_Currency/1HealthEverySecond_Main_Full.rbxm"
+source: "Assets/ui/ByType/HUD_Currency/1HealthEverySecond_Main_Full.rbxm"
 image: "_img/Lg0041.webp"
 tags: [categorie/interfaces, sous-categorie/hud-monnaie, type/lib-gui, jeu/1-health-every-second]
 ---
@@ -21,4 +21,4 @@ Interface « Main Full » du jeu +1 Health Every Second. 342 éléments UI.
 - **Type** : Interface (ScreenGui)
 - **Contenu** : 342 éléments UI
 - **Jeu d'origine** : +1 Health Every Second
-- **Fichier source** : `ui/ByType/HUD_Currency/1HealthEverySecond_Main_Full.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/ui/ByType/HUD_Currency/1HealthEverySecond_Main_Full.rbxm` (dans le vault)

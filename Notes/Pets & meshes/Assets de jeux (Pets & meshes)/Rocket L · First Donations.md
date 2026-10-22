@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Assets de jeux"
 type: "Modèle en MeshParts"
 jeu: "First Donations"
-source: "models/FromGames/First_Donations/RocketL.rbxm"
+source: "Assets/models/FromGames/First_Donations/RocketL.rbxm"
 image: "_img/Lm1527.webp"
 tags: [categorie/pets-meshes, sous-categorie/assets-de-jeux, type/lib-mesh, jeu/first-donations]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « Rocket L » (First Donations). Aperçu rendu dans Roblox
 - **Type** : Modèle en MeshParts
 - **Contenu** : 1 MeshPart
 - **Jeu d'origine** : First Donations
-- **Fichier source** : `models/FromGames/First_Donations/RocketL.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/FromGames/First_Donations/RocketL.rbxm` (dans le vault)

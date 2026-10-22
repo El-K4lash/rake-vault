@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Œufs & incubateurs"
 type: "Modèle en MeshParts"
 jeu: "+1 Jump Every Second"
-source: "models/ByType/Eggs_Incubators/1JumpEverySecond_Eggs.rbxm"
+source: "Assets/models/ByType/Eggs_Incubators/1JumpEverySecond_Eggs.rbxm"
 image: "_img/Lm0421.webp"
 tags: [categorie/pets-meshes, sous-categorie/ufs-incubateurs, type/lib-mesh, jeu/1-jump-every-second]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « Eggs » (+1 Jump Every Second). Aperçu rendu dans Roblo
 - **Type** : Modèle en MeshParts
 - **Contenu** : 18 MeshParts
 - **Jeu d'origine** : +1 Jump Every Second
-- **Fichier source** : `models/ByType/Eggs_Incubators/1JumpEverySecond_Eggs.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Eggs_Incubators/1JumpEverySecond_Eggs.rbxm` (dans le vault)

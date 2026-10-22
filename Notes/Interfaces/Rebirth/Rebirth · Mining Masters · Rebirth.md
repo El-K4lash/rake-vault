@@ -5,7 +5,7 @@ catégorie: "Interfaces"
 sous-catégorie: "Rebirth"
 type: "Interface (ScreenGui)"
 jeu: "Mining Masters"
-source: "ui/ByType/Rebirth/MiningMasters_Rebirth.rbxm"
+source: "Assets/ui/ByType/Rebirth/MiningMasters_Rebirth.rbxm"
 image: "_img/Lg0161.webp"
 tags: [categorie/interfaces, sous-categorie/rebirth, type/lib-gui, jeu/mining-masters]
 ---
@@ -21,4 +21,4 @@ Interface « Rebirth » du jeu Mining Masters. 43 éléments UI.
 - **Type** : Interface (ScreenGui)
 - **Contenu** : 43 éléments UI
 - **Jeu d'origine** : Mining Masters
-- **Fichier source** : `ui/ByType/Rebirth/MiningMasters_Rebirth.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/ui/ByType/Rebirth/MiningMasters_Rebirth.rbxm` (dans le vault)

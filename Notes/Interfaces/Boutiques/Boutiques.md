@@ -2,13 +2,13 @@
 title: "Boutiques"
 type: "Sous-catégorie"
 catégorie: "Interfaces"
-éléments: 17
+éléments: 21
 tags: [index, categorie/interfaces]
 ---
 
 # Boutiques
 
-Sous-catégorie de [Interfaces](../Interfaces.md) · **17 éléments**
+Sous-catégorie de [Interfaces](../Interfaces.md) · **21 éléments**
 
 | Aperçu | Élément | Infos |
 | --- | --- | --- |
@@ -29,3 +29,7 @@ Sous-catégorie de [Interfaces](../Interfaces.md) · **17 éléments**
 | ![Aperçu\|120](../../_img/Lg0205.webp) | [Shop Boosts · Robot Simulator](Shop%20Boosts%20%C2%B7%20Robot%20Simulator.md) | Interface (ScreenGui) · 111 éléments UI |
 | ![Aperçu\|120](../../_img/Lg0202.webp) | [Store · Punch Simulator](Store%20%C2%B7%20Punch%20Simulator.md) | Interface (ScreenGui) · 351 éléments UI |
 | ![Aperçu\|120](../../_img/Lg0206.webp) | [Weapon Skill Shop · Robot Simulator](Weapon%20Skill%20Shop%20%C2%B7%20Robot%20Simulator.md) | Interface (ScreenGui) · 12 éléments UI |
+| ![Aperçu\|120](../../_img/Lg0203.webp) | [Boutiques — interfaces en plus (2)](Boutiques%20%E2%80%94%20interfaces%20en%20plus%20%282%29.md) | Pack de fichiers · 2 fichiers · 42 Ko |
+| ![Aperçu\|120](../../_img/Ly0067.webp) | [Crates GUI (Lootbox)](Crates%20GUI%20%28Lootbox%29.md) | Interface (ScreenGui) · 1 fichier · 24 Ko |
+| ![Aperçu\|120](../../_img/Ly0068.webp) | [Merchant GUI](Merchant%20GUI.md) | Interface (ScreenGui) · 1 fichier · 22 Ko |
+| ![Aperçu\|120](../../_img/Ly0069.webp) | [Shop GUI (Store)](Shop%20GUI%20%28Store%29.md) | Interface (ScreenGui) · 1 fichier · 42 Ko |

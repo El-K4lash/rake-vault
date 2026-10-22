@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Décor"
 type: "Modèle en MeshParts"
 jeu: "Punch Simulator"
-source: "models/ByType/Decor_Props/PunchSim_Crown.rbxm"
+source: "Assets/models/ByType/Decor_Props/PunchSim_Crown.rbxm"
 image: "_img/Lm0307.webp"
 tags: [categorie/pets-meshes, sous-categorie/decor, type/lib-mesh, jeu/punch-simulator]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « Crown » (Punch Simulator). Aperçu rendu dans Roblox St
 - **Type** : Modèle en MeshParts
 - **Contenu** : 5 MeshParts
 - **Jeu d'origine** : Punch Simulator
-- **Fichier source** : `models/ByType/Decor_Props/PunchSim_Crown.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Decor_Props/PunchSim_Crown.rbxm` (dans le vault)

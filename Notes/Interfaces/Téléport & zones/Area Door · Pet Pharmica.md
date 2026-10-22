@@ -5,7 +5,7 @@ catégorie: "Interfaces"
 sous-catégorie: "Téléport & zones"
 type: "Interface (ScreenGui)"
 jeu: "Pet Pharmica"
-source: "ui/ByType/Teleport_Zones/PetPharmica_AreaDoor.rbxm"
+source: "Assets/ui/ByType/Teleport_Zones/PetPharmica_AreaDoor.rbxm"
 image: "_img/Lg0217.webp"
 tags: [categorie/interfaces, sous-categorie/teleport-zones, type/lib-gui, jeu/pet-pharmica]
 ---
@@ -21,4 +21,4 @@ Interface « Area Door » du jeu Pet Pharmica. 7 éléments UI.
 - **Type** : Interface (ScreenGui)
 - **Contenu** : 7 éléments UI
 - **Jeu d'origine** : Pet Pharmica
-- **Fichier source** : `ui/ByType/Teleport_Zones/PetPharmica_AreaDoor.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/ui/ByType/Teleport_Zones/PetPharmica_AreaDoor.rbxm` (dans le vault)

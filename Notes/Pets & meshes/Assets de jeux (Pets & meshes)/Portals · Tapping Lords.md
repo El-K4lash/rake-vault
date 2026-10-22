@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Assets de jeux"
 type: "Modèle en MeshParts"
 jeu: "Tapping Lords"
-source: "models/FromGames/Tapping-Lords-Simulator/Workspace/Portals.rbxm"
+source: "Assets/models/FromGames/Tapping-Lords-Simulator/Workspace/Portals.rbxm"
 image: "_img/Lm1760.webp"
 tags: [categorie/pets-meshes, sous-categorie/assets-de-jeux, type/lib-mesh, jeu/tapping-lords]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « Portals » (Tapping Lords). Aperçu : forme du mesh prin
 - **Type** : Modèle en MeshParts
 - **Contenu** : 96 Parts · 13 MeshParts
 - **Jeu d'origine** : Tapping Lords
-- **Fichier source** : `models/FromGames/Tapping-Lords-Simulator/Workspace/Portals.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/FromGames/Tapping-Lords-Simulator/Workspace/Portals.rbxm` (dans le vault)

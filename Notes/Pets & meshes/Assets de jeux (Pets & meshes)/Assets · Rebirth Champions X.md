@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Assets de jeux"
 type: "Modèle en MeshParts"
 jeu: "Rebirth Champions X"
-source: "models/FromGames/Rebirth Champions X/Assets.rbxm"
+source: "Assets/models/FromGames/Rebirth Champions X/Assets.rbxm"
 image: "_img/Lm1664.webp"
 tags: [categorie/pets-meshes, sous-categorie/assets-de-jeux, type/lib-mesh, jeu/rebirth-champions-x]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « Assets » (Rebirth Champions X). Aperçu rendu dans Robl
 - **Type** : Modèle en MeshParts
 - **Contenu** : 79 Parts · 6 831 MeshParts
 - **Jeu d'origine** : Rebirth Champions X
-- **Fichier source** : `models/FromGames/Rebirth Champions X/Assets.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/FromGames/Rebirth Champions X/Assets.rbxm` (dans le vault)

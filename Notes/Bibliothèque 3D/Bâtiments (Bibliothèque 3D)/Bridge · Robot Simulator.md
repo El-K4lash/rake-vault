@@ -6,7 +6,7 @@ sous-catégorie: "Bâtiments"
 type: "Modèle en Parts"
 taille: "65 × 10 × 48"
 jeu: "Robot Simulator"
-source: "models/ByType/Buildings/RobotSim_Bridge.rbxm"
+source: "Assets/models/ByType/Buildings/RobotSim_Bridge.rbxm"
 image: "_img/Lp0090.webp"
 tags: [categorie/bibliotheque-3d, sous-categorie/batiments, type/lib-part, jeu/robot-simulator]
 ---
@@ -23,4 +23,4 @@ Modèle en Parts « Bridge » (Robot Simulator).
 - **Taille** : 65 × 10 × 48 studs
 - **Contenu** : 39 Parts
 - **Jeu d'origine** : Robot Simulator
-- **Fichier source** : `models/ByType/Buildings/RobotSim_Bridge.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Buildings/RobotSim_Bridge.rbxm` (dans le vault)

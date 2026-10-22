@@ -5,7 +5,7 @@ catégorie: "Interfaces"
 sous-catégorie: "Profil & stats"
 type: "Interface (ScreenGui)"
 jeu: "Rebirth Champions X"
-source: "ui/ByType/Profile_Stats/RebirthChampionsX_Profile.rbxm"
+source: "Assets/ui/ByType/Profile_Stats/RebirthChampionsX_Profile.rbxm"
 image: "_img/Lg0148.webp"
 tags: [categorie/interfaces, sous-categorie/profil-stats, type/lib-gui, jeu/rebirth-champions-x]
 ---
@@ -21,4 +21,4 @@ Interface « Profile » du jeu Rebirth Champions X. 38 éléments UI.
 - **Type** : Interface (ScreenGui)
 - **Contenu** : 38 éléments UI
 - **Jeu d'origine** : Rebirth Champions X
-- **Fichier source** : `ui/ByType/Profile_Stats/RebirthChampionsX_Profile.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/ui/ByType/Profile_Stats/RebirthChampionsX_Profile.rbxm` (dans le vault)

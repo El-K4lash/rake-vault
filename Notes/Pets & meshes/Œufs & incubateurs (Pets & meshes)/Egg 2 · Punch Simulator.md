@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Œufs & incubateurs"
 type: "Modèle en MeshParts"
 jeu: "Punch Simulator"
-source: "models/ByType/Eggs_Incubators/PunchSim_Egg_2.rbxm"
+source: "Assets/models/ByType/Eggs_Incubators/PunchSim_Egg_2.rbxm"
 image: "_img/Lm0480.webp"
 tags: [categorie/pets-meshes, sous-categorie/ufs-incubateurs, type/lib-mesh, jeu/punch-simulator]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « Egg 2 » (Punch Simulator). Aperçu rendu dans Roblox St
 - **Type** : Modèle en MeshParts
 - **Contenu** : 4 MeshParts
 - **Jeu d'origine** : Punch Simulator
-- **Fichier source** : `models/ByType/Eggs_Incubators/PunchSim_Egg_2.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Eggs_Incubators/PunchSim_Egg_2.rbxm` (dans le vault)

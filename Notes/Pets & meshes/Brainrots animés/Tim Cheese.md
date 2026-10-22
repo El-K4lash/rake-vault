@@ -4,7 +4,7 @@ id: "Lm2334"
 catégorie: "Pets & meshes"
 sous-catégorie: "Brainrots animés"
 type: "Modèle en MeshParts"
-source: "packs/Brainrots_Animated/Normal/Tim Cheese.rbxm"
+source: "Assets/packs/Brainrots_Animated/Normal/Tim Cheese.rbxm"
 image: "_img/Lm2334.webp"
 tags: [categorie/pets-meshes, sous-categorie/brainrots-animes, type/lib-mesh]
 ---
@@ -19,4 +19,4 @@ Modèle en MeshParts « Tim Cheese ». Aperçu rendu dans Roblox Studio avec ses
 - **Sous-catégorie** : [Brainrots animés](Brainrots%20anim%C3%A9s.md)
 - **Type** : Modèle en MeshParts
 - **Contenu** : 1 MeshPart
-- **Fichier source** : `packs/Brainrots_Animated/Normal/Tim Cheese.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/packs/Brainrots_Animated/Normal/Tim Cheese.rbxm` (dans le vault)

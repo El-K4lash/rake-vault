@@ -6,7 +6,7 @@ sous-catégorie: "Maps & îles"
 type: "Modèle en Parts"
 taille: "621 × 73 × 672"
 jeu: "Tweeting Simulator"
-source: "models/ByType/Maps_Islands_Worlds/TweetingSim_CandyLand_2.rbxm"
+source: "Assets/models/ByType/Maps_Islands_Worlds/TweetingSim_CandyLand_2.rbxm"
 image: "_img/Lp0906.webp"
 tags: [categorie/bibliotheque-3d, sous-categorie/maps-iles, type/lib-part, jeu/tweeting-simulator]
 ---
@@ -23,4 +23,4 @@ Modèle en Parts « Candy Land 2 » (Tweeting Simulator).
 - **Taille** : 621 × 73 × 672 studs
 - **Contenu** : 15 Parts · 113 MeshParts
 - **Jeu d'origine** : Tweeting Simulator
-- **Fichier source** : `models/ByType/Maps_Islands_Worlds/TweetingSim_CandyLand_2.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Maps_Islands_Worlds/TweetingSim_CandyLand_2.rbxm` (dans le vault)

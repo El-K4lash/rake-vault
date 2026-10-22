@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Assets de jeux"
 type: "Modèle en MeshParts"
 jeu: "Bakery Simulator"
-source: "models/FromGames/Bakery-Simulator/AlienInvasion.rbxm"
+source: "Assets/models/FromGames/Bakery-Simulator/AlienInvasion.rbxm"
 image: "_img/Lm1441.webp"
 tags: [categorie/pets-meshes, sous-categorie/assets-de-jeux, type/lib-mesh, jeu/bakery-simulator]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « Alien Invasion » (Bakery Simulator). Aperçu rendu dans
 - **Type** : Modèle en MeshParts
 - **Contenu** : 5 MeshParts
 - **Jeu d'origine** : Bakery Simulator
-- **Fichier source** : `models/FromGames/Bakery-Simulator/AlienInvasion.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/FromGames/Bakery-Simulator/AlienInvasion.rbxm` (dans le vault)

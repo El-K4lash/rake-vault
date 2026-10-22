@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Leaderboards & panneaux"
 type: "Modèle en MeshParts"
 jeu: "Mining Masters"
-source: "models/ByType/Leaderboards_Boards/MiningMasters_Rebirth.rbxm"
+source: "Assets/models/ByType/Leaderboards_Boards/MiningMasters_Rebirth.rbxm"
 image: "_img/Lm0680.webp"
 tags: [categorie/pets-meshes, sous-categorie/leaderboards-panneaux, type/lib-mesh, jeu/mining-masters]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « Rebirth » (Mining Masters). Aperçu rendu dans Roblox S
 - **Type** : Modèle en MeshParts
 - **Contenu** : 11 MeshParts
 - **Jeu d'origine** : Mining Masters
-- **Fichier source** : `models/ByType/Leaderboards_Boards/MiningMasters_Rebirth.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Leaderboards_Boards/MiningMasters_Rebirth.rbxm` (dans le vault)

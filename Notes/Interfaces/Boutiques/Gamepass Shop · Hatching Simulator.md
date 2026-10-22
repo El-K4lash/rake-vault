@@ -5,7 +5,7 @@ catégorie: "Interfaces"
 sous-catégorie: "Boutiques"
 type: "Interface (ScreenGui)"
 jeu: "Hatching Simulator"
-source: "ui/ByType/Shop_Store/HatchingSim_GamepassShop.rbxm"
+source: "Assets/ui/ByType/Shop_Store/HatchingSim_GamepassShop.rbxm"
 image: "_img/Lg0199.webp"
 tags: [categorie/interfaces, sous-categorie/boutiques, type/lib-gui, jeu/hatching-simulator]
 ---
@@ -21,4 +21,4 @@ Interface « Gamepass Shop » du jeu Hatching Simulator. 109 éléments UI.
 - **Type** : Interface (ScreenGui)
 - **Contenu** : 109 éléments UI
 - **Jeu d'origine** : Hatching Simulator
-- **Fichier source** : `ui/ByType/Shop_Store/HatchingSim_GamepassShop.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/ui/ByType/Shop_Store/HatchingSim_GamepassShop.rbxm` (dans le vault)

@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Bâtiments"
 type: "Modèle en MeshParts"
 jeu: "Punch Simulator"
-source: "models/ByType/Buildings/PunchSim_Sandcastle.rbxm"
+source: "Assets/models/ByType/Buildings/PunchSim_Sandcastle.rbxm"
 image: "_img/Lm0084.webp"
 tags: [categorie/pets-meshes, sous-categorie/batiments, type/lib-mesh, jeu/punch-simulator]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « Sandcastle » (Punch Simulator). Aperçu rendu dans Robl
 - **Type** : Modèle en MeshParts
 - **Contenu** : 1 MeshPart
 - **Jeu d'origine** : Punch Simulator
-- **Fichier source** : `models/ByType/Buildings/PunchSim_Sandcastle.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Buildings/PunchSim_Sandcastle.rbxm` (dans le vault)

@@ -5,7 +5,7 @@ catégorie: "Interfaces"
 sous-catégorie: "Interfaces de jeux"
 type: "Interface (ScreenGui)"
 jeu: "Tapping Lords"
-source: "ui/FromGames/Tapping-Lords-Simulator/EventText.rbxm"
+source: "Assets/ui/FromGames/Tapping-Lords-Simulator/EventText.rbxm"
 image: "_img/Lg0343.webp"
 tags: [categorie/interfaces, sous-categorie/interfaces-de-jeux, type/lib-gui, jeu/tapping-lords]
 ---
@@ -21,4 +21,4 @@ Interface « Event Text » du jeu Tapping Lords. 3 éléments UI.
 - **Type** : Interface (ScreenGui)
 - **Contenu** : 3 éléments UI
 - **Jeu d'origine** : Tapping Lords
-- **Fichier source** : `ui/FromGames/Tapping-Lords-Simulator/EventText.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/ui/FromGames/Tapping-Lords-Simulator/EventText.rbxm` (dans le vault)

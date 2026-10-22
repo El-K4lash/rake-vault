@@ -4,7 +4,7 @@ id: "Lj0008"
 catégorie: "Templates de jeux"
 sous-catégorie: "+1 Every Second"
 type: "Place complète (.rbxl)"
-source: "games/EverySecond/1JumpEverySecond.rbxl"
+source: "Assets/games/EverySecond/1JumpEverySecond.rbxl"
 image: "_img/Lj0008.webp"
 tags: [categorie/templates-de-jeux, sous-categorie/1-every-second, type/lib-game]
 ---
@@ -19,4 +19,4 @@ Place Roblox complète (.rbxl) : 438 scripts, 7217 instances.
 - **Sous-catégorie** : [+1 Every Second](+1%20Every%20Second.md)
 - **Type** : Place complète (.rbxl)
 - **Contenu** : 438 scripts · 7 217 instances
-- **Fichier source** : `games/EverySecond/1JumpEverySecond.rbxl` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/games/EverySecond/1JumpEverySecond.rbxl` (dans le vault)

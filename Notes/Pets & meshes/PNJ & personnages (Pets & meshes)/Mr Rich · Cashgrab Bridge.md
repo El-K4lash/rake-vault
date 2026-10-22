@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "PNJ & personnages"
 type: "Modèle en MeshParts"
 jeu: "Cashgrab Bridge"
-source: "models/ByType/NPC_Characters/CashgrabBridge_MrRich.rbxm"
+source: "Assets/models/ByType/NPC_Characters/CashgrabBridge_MrRich.rbxm"
 image: "_img/Lm0967.webp"
 tags: [categorie/pets-meshes, sous-categorie/pnj-personnages, type/lib-mesh, jeu/cashgrab-bridge]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « Mr Rich » (Cashgrab Bridge). Aperçu rendu dans Roblox 
 - **Type** : Modèle en MeshParts
 - **Contenu** : 6 Parts · 5 MeshParts
 - **Jeu d'origine** : Cashgrab Bridge
-- **Fichier source** : `models/ByType/NPC_Characters/CashgrabBridge_MrRich.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/NPC_Characters/CashgrabBridge_MrRich.rbxm` (dans le vault)

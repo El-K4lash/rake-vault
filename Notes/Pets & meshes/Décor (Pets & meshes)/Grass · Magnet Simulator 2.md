@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Décor"
 type: "Modèle en MeshParts"
 jeu: "Magnet Simulator 2"
-source: "models/ByType/Decor_Props/MagnetSim2_Grass.rbxm"
+source: "Assets/models/ByType/Decor_Props/MagnetSim2_Grass.rbxm"
 image: "_img/Lm0266.webp"
 tags: [categorie/pets-meshes, sous-categorie/decor, type/lib-mesh, jeu/magnet-simulator-2]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « Grass » (Magnet Simulator 2). Aperçu rendu dans Roblox
 - **Type** : Modèle en MeshParts
 - **Contenu** : 301 Parts · 62 MeshParts
 - **Jeu d'origine** : Magnet Simulator 2
-- **Fichier source** : `models/ByType/Decor_Props/MagnetSim2_Grass.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Decor_Props/MagnetSim2_Grass.rbxm` (dans le vault)

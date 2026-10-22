@@ -6,7 +6,7 @@ sous-catégorie: "Assets de jeux"
 type: "Modèle en Parts"
 taille: "17 × 1 × 17"
 jeu: "Tapping Lords"
-source: "models/FromGames/Tapping-Lords-Simulator/Workspace/DailyReward.rbxm"
+source: "Assets/models/FromGames/Tapping-Lords-Simulator/Workspace/DailyReward.rbxm"
 image: "_img/Lp1745.webp"
 tags: [categorie/bibliotheque-3d, sous-categorie/assets-de-jeux, type/lib-part, jeu/tapping-lords]
 ---
@@ -23,4 +23,4 @@ Modèle en Parts « Daily Reward » (Tapping Lords).
 - **Taille** : 17 × 1 × 17 studs
 - **Contenu** : 10 Parts
 - **Jeu d'origine** : Tapping Lords
-- **Fichier source** : `models/FromGames/Tapping-Lords-Simulator/Workspace/DailyReward.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/FromGames/Tapping-Lords-Simulator/Workspace/DailyReward.rbxm` (dans le vault)

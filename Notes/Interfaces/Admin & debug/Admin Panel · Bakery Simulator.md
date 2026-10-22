@@ -5,7 +5,7 @@ catégorie: "Interfaces"
 sous-catégorie: "Admin & debug"
 type: "Interface (ScreenGui)"
 jeu: "Bakery Simulator"
-source: "ui/ByType/Admin_Debug/BakerySim_AdminPanel.rbxm"
+source: "Assets/ui/ByType/Admin_Debug/BakerySim_AdminPanel.rbxm"
 image: "_img/Lg0000.webp"
 tags: [categorie/interfaces, sous-categorie/admin-debug, type/lib-gui, jeu/bakery-simulator]
 ---
@@ -21,4 +21,4 @@ Interface « Admin Panel » du jeu Bakery Simulator. 11 éléments UI.
 - **Type** : Interface (ScreenGui)
 - **Contenu** : 11 éléments UI
 - **Jeu d'origine** : Bakery Simulator
-- **Fichier source** : `ui/ByType/Admin_Debug/BakerySim_AdminPanel.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/ui/ByType/Admin_Debug/BakerySim_AdminPanel.rbxm` (dans le vault)

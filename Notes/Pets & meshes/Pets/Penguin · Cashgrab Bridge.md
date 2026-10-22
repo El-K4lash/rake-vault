@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Pets"
 type: "Modèle en MeshParts"
 jeu: "Cashgrab Bridge"
-source: "models/ByType/Pets/CashgrabBridge_Penguin.rbxm"
+source: "Assets/models/ByType/Pets/CashgrabBridge_Penguin.rbxm"
 image: "_img/Lm1085.webp"
 tags: [categorie/pets-meshes, sous-categorie/pets, type/lib-mesh, jeu/cashgrab-bridge]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « Penguin » (Cashgrab Bridge). Aperçu rendu dans Roblox 
 - **Type** : Modèle en MeshParts
 - **Contenu** : 1 MeshPart
 - **Jeu d'origine** : Cashgrab Bridge
-- **Fichier source** : `models/ByType/Pets/CashgrabBridge_Penguin.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Pets/CashgrabBridge_Penguin.rbxm` (dans le vault)

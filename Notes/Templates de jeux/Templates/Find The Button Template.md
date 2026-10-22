@@ -4,7 +4,7 @@ id: "Lj0036"
 catégorie: "Templates de jeux"
 sous-catégorie: "Templates"
 type: "Place complète (.rbxl)"
-source: "kits/Templates/Find The Button Template.rbxl"
+source: "Assets/kits/Templates/Find The Button Template.rbxl"
 image: "_img/Lj0036.webp"
 tags: [categorie/templates-de-jeux, sous-categorie/templates, type/lib-game]
 ---
@@ -19,4 +19,4 @@ Place Roblox complète (.rbxl) : 320 scripts, 40281 instances.
 - **Sous-catégorie** : [Templates](Templates.md)
 - **Type** : Place complète (.rbxl)
 - **Contenu** : 320 scripts · 40 281 instances
-- **Fichier source** : `kits/Templates/Find The Button Template.rbxl` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/kits/Templates/Find The Button Template.rbxl` (dans le vault)

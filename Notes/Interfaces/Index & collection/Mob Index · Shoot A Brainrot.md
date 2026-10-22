@@ -5,7 +5,7 @@ catégorie: "Interfaces"
 sous-catégorie: "Index & collection"
 type: "Interface (ScreenGui)"
 jeu: "Shoot A Brainrot"
-source: "ui/ByType/Index_Collection/ShootABrainrot_MobIndex.rbxm"
+source: "Assets/ui/ByType/Index_Collection/ShootABrainrot_MobIndex.rbxm"
 image: "_img/Lg0074.webp"
 tags: [categorie/interfaces, sous-categorie/index-collection, type/lib-gui, jeu/shoot-a-brainrot]
 ---
@@ -21,4 +21,4 @@ Interface « Mob Index » du jeu Shoot A Brainrot. 32 éléments UI.
 - **Type** : Interface (ScreenGui)
 - **Contenu** : 32 éléments UI
 - **Jeu d'origine** : Shoot A Brainrot
-- **Fichier source** : `ui/ByType/Index_Collection/ShootABrainrot_MobIndex.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/ui/ByType/Index_Collection/ShootABrainrot_MobIndex.rbxm` (dans le vault)

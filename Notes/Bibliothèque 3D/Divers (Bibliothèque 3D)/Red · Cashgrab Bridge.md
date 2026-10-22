@@ -6,7 +6,7 @@ sous-catégorie: "Divers"
 type: "Modèle en Parts"
 taille: "7 × 9 × 3"
 jeu: "Cashgrab Bridge"
-source: "models/ByType/Misc/CashgrabBridge_Red.rbxm"
+source: "Assets/models/ByType/Misc/CashgrabBridge_Red.rbxm"
 image: "_img/Lp0918.webp"
 tags: [categorie/bibliotheque-3d, sous-categorie/divers, type/lib-part, jeu/cashgrab-bridge]
 ---
@@ -23,4 +23,4 @@ Modèle en Parts « Red » (Cashgrab Bridge).
 - **Taille** : 7 × 9 × 3 studs
 - **Contenu** : 11 Parts
 - **Jeu d'origine** : Cashgrab Bridge
-- **Fichier source** : `models/ByType/Misc/CashgrabBridge_Red.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Misc/CashgrabBridge_Red.rbxm` (dans le vault)

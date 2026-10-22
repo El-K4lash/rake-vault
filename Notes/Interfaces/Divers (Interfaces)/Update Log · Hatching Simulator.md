@@ -5,7 +5,7 @@ catégorie: "Interfaces"
 sous-catégorie: "Divers"
 type: "Interface (ScreenGui)"
 jeu: "Hatching Simulator"
-source: "ui/ByType/Misc/HatchingSim_UpdateLog.rbxm"
+source: "Assets/ui/ByType/Misc/HatchingSim_UpdateLog.rbxm"
 image: "_img/Lg0097.webp"
 tags: [categorie/interfaces, sous-categorie/divers, type/lib-gui, jeu/hatching-simulator]
 ---
@@ -21,4 +21,4 @@ Interface « Update Log » du jeu Hatching Simulator. 13 éléments UI.
 - **Type** : Interface (ScreenGui)
 - **Contenu** : 13 éléments UI
 - **Jeu d'origine** : Hatching Simulator
-- **Fichier source** : `ui/ByType/Misc/HatchingSim_UpdateLog.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/ui/ByType/Misc/HatchingSim_UpdateLog.rbxm` (dans le vault)

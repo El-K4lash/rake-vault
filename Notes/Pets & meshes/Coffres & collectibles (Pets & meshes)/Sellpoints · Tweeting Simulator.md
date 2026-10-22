@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Coffres & collectibles"
 type: "Modèle en MeshParts"
 jeu: "Tweeting Simulator"
-source: "models/ByType/Collectibles_Chests/TweetingSim_Sellpoints.rbxm"
+source: "Assets/models/ByType/Collectibles_Chests/TweetingSim_Sellpoints.rbxm"
 image: "_img/Lm0149.webp"
 tags: [categorie/pets-meshes, sous-categorie/coffres-collectibles, type/lib-mesh, jeu/tweeting-simulator]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « Sellpoints » (Tweeting Simulator). Aperçu : forme du m
 - **Type** : Modèle en MeshParts
 - **Contenu** : 7 Parts · 7 MeshParts
 - **Jeu d'origine** : Tweeting Simulator
-- **Fichier source** : `models/ByType/Collectibles_Chests/TweetingSim_Sellpoints.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Collectibles_Chests/TweetingSim_Sellpoints.rbxm` (dans le vault)

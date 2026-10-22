@@ -5,7 +5,7 @@ catégorie: "Interfaces"
 sous-catégorie: "Roues"
 type: "Interface (ScreenGui)"
 jeu: "Lib perso"
-source: "ui/ByType/SpinWheel/Lib_SpinWheel_Full.rbxm"
+source: "Assets/ui/ByType/SpinWheel/Lib_SpinWheel_Full.rbxm"
 image: "_img/Lg0214.webp"
 tags: [categorie/interfaces, sous-categorie/roues, type/lib-gui, jeu/lib-perso]
 ---
@@ -21,4 +21,4 @@ Interface « Spin Wheel Full » du jeu Lib perso. 80 éléments UI.
 - **Type** : Interface (ScreenGui)
 - **Contenu** : 80 éléments UI
 - **Jeu d'origine** : Lib perso
-- **Fichier source** : `ui/ByType/SpinWheel/Lib_SpinWheel_Full.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/ui/ByType/SpinWheel/Lib_SpinWheel_Full.rbxm` (dans le vault)

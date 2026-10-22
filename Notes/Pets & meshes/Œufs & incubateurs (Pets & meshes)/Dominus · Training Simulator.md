@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Œufs & incubateurs"
 type: "Modèle en MeshParts"
 jeu: "Training Simulator"
-source: "models/ByType/Eggs_Incubators/TrainingSim_Dominus.rbxm"
+source: "Assets/models/ByType/Eggs_Incubators/TrainingSim_Dominus.rbxm"
 image: "_img/Lm0579.webp"
 tags: [categorie/pets-meshes, sous-categorie/ufs-incubateurs, type/lib-mesh, jeu/training-simulator]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « Dominus » (Training Simulator). Aperçu rendu dans Robl
 - **Type** : Modèle en MeshParts
 - **Contenu** : 6 MeshParts
 - **Jeu d'origine** : Training Simulator
-- **Fichier source** : `models/ByType/Eggs_Incubators/TrainingSim_Dominus.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Eggs_Incubators/TrainingSim_Dominus.rbxm` (dans le vault)

@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Coffres & collectibles"
 type: "Modèle en MeshParts"
 jeu: "Punch Simulator"
-source: "models/ByType/Collectibles_Chests/PunchSim_CaveChest.rbxm"
+source: "Assets/models/ByType/Collectibles_Chests/PunchSim_CaveChest.rbxm"
 image: "_img/Lm0129.webp"
 tags: [categorie/pets-meshes, sous-categorie/coffres-collectibles, type/lib-mesh, jeu/punch-simulator]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « Cave Chest » (Punch Simulator). Aperçu rendu dans Robl
 - **Type** : Modèle en MeshParts
 - **Contenu** : 11 MeshParts
 - **Jeu d'origine** : Punch Simulator
-- **Fichier source** : `models/ByType/Collectibles_Chests/PunchSim_CaveChest.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Collectibles_Chests/PunchSim_CaveChest.rbxm` (dans le vault)

@@ -5,7 +5,7 @@ catégorie: "Interfaces"
 sous-catégorie: "Robux & gamepass"
 type: "Interface (ScreenGui)"
 jeu: "Cashgrab Bridge"
-source: "ui/ByType/Robux_Gamepass/CashgrabBridge_Donation.rbxm"
+source: "Assets/ui/ByType/Robux_Gamepass/CashgrabBridge_Donation.rbxm"
 image: "_img/Lg0171.webp"
 tags: [categorie/interfaces, sous-categorie/robux-gamepass, type/lib-gui, jeu/cashgrab-bridge]
 ---
@@ -21,4 +21,4 @@ Interface « Donation » du jeu Cashgrab Bridge. 9 éléments UI.
 - **Type** : Interface (ScreenGui)
 - **Contenu** : 9 éléments UI
 - **Jeu d'origine** : Cashgrab Bridge
-- **Fichier source** : `ui/ByType/Robux_Gamepass/CashgrabBridge_Donation.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/ui/ByType/Robux_Gamepass/CashgrabBridge_Donation.rbxm` (dans le vault)

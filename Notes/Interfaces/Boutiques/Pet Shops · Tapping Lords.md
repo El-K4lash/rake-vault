@@ -5,7 +5,7 @@ catégorie: "Interfaces"
 sous-catégorie: "Boutiques"
 type: "Interface (ScreenGui)"
 jeu: "Tapping Lords"
-source: "ui/ByType/Shop_Store/TappingLords_PetShops.rbxm"
+source: "Assets/ui/ByType/Shop_Store/TappingLords_PetShops.rbxm"
 image: "_img/Lg0209.webp"
 tags: [categorie/interfaces, sous-categorie/boutiques, type/lib-gui, jeu/tapping-lords]
 ---
@@ -21,4 +21,4 @@ Interface « Pet Shops » du jeu Tapping Lords. 70 éléments UI.
 - **Type** : Interface (ScreenGui)
 - **Contenu** : 70 éléments UI
 - **Jeu d'origine** : Tapping Lords
-- **Fichier source** : `ui/ByType/Shop_Store/TappingLords_PetShops.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/ui/ByType/Shop_Store/TappingLords_PetShops.rbxm` (dans le vault)

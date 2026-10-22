@@ -6,7 +6,7 @@ sous-catégorie: "Décor"
 type: "Modèle en Parts"
 taille: "399 × 54 × 383"
 jeu: "Tweeting Simulator"
-source: "models/ByType/Decor_Props/TweetingSim_Hills.rbxm"
+source: "Assets/models/ByType/Decor_Props/TweetingSim_Hills.rbxm"
 image: "_img/Lp0408.webp"
 tags: [categorie/bibliotheque-3d, sous-categorie/decor, type/lib-part, jeu/tweeting-simulator]
 ---
@@ -23,4 +23,4 @@ Modèle en Parts « Hills » (Tweeting Simulator).
 - **Taille** : 399 × 54 × 383 studs
 - **Contenu** : 24 Parts
 - **Jeu d'origine** : Tweeting Simulator
-- **Fichier source** : `models/ByType/Decor_Props/TweetingSim_Hills.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Decor_Props/TweetingSim_Hills.rbxm` (dans le vault)

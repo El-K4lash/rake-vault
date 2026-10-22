@@ -4,7 +4,7 @@ id: "Liic_free_icon_pack_3_0_1"
 catégorie: "Interfaces"
 sous-catégorie: "Icônes & images"
 type: "Pack d'images"
-source: "ui/Icons/Free Icon Pack 3.0.1 (Basic).zip"
+source: "Assets/ui/Icons/Free Icon Pack 3.0.1 (Basic).zip"
 image: "_img/Liic_free_icon_pack_3_0_1.webp"
 tags: [categorie/interfaces, sous-categorie/icones-images, type/lib-img]
 ---
@@ -18,7 +18,7 @@ Pack « Free Icon Pack 3.0.1 » : 2044 images PNG (aperçu de 150). Télécharge
 - **Catégorie** : [Interfaces](../Interfaces.md)
 - **Sous-catégorie** : [Icônes & images](Ic%C3%B4nes%20&%20images.md)
 - **Type** : Pack d'images
-- **Fichier source** : `ui/Icons/Free Icon Pack 3.0.1 (Basic).zip` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/ui/Icons/Free Icon Pack 3.0.1 (Basic).zip` (dans le vault)
 
 ## Maquette
 

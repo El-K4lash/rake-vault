@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Machines"
 type: "Modèle en MeshParts"
 jeu: "Lib perso"
-source: "models/ByType/Machines_Upgraders/Lib_UpgradeMachine.rbxm"
+source: "Assets/models/ByType/Machines_Upgraders/Lib_UpgradeMachine.rbxm"
 image: "_img/Lm0831.webp"
 tags: [categorie/pets-meshes, sous-categorie/machines, type/lib-mesh, jeu/lib-perso]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « Upgrade Machine » (Lib perso). Aperçu rendu dans Roblo
 - **Type** : Modèle en MeshParts
 - **Contenu** : 5 Parts · 24 MeshParts
 - **Jeu d'origine** : Lib perso
-- **Fichier source** : `models/ByType/Machines_Upgraders/Lib_UpgradeMachine.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Machines_Upgraders/Lib_UpgradeMachine.rbxm` (dans le vault)

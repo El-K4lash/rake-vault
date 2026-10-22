@@ -5,7 +5,7 @@ catégorie: "Interfaces"
 sous-catégorie: "Profil & stats"
 type: "Interface (ScreenGui)"
 jeu: "Tapping Lords"
-source: "ui/ByType/Profile_Stats/TappingLords_Profile.rbxm"
+source: "Assets/ui/ByType/Profile_Stats/TappingLords_Profile.rbxm"
 image: "_img/Lg0149.webp"
 tags: [categorie/interfaces, sous-categorie/profil-stats, type/lib-gui, jeu/tapping-lords]
 ---
@@ -21,4 +21,4 @@ Interface « Profile » du jeu Tapping Lords. 47 éléments UI.
 - **Type** : Interface (ScreenGui)
 - **Contenu** : 47 éléments UI
 - **Jeu d'origine** : Tapping Lords
-- **Fichier source** : `ui/ByType/Profile_Stats/TappingLords_Profile.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/ui/ByType/Profile_Stats/TappingLords_Profile.rbxm` (dans le vault)

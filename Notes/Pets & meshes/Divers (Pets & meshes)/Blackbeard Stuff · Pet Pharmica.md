@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Divers"
 type: "Modèle en MeshParts"
 jeu: "Pet Pharmica"
-source: "models/ByType/Misc/PetPharmica_BlackbeardStuff.rbxm"
+source: "Assets/models/ByType/Misc/PetPharmica_BlackbeardStuff.rbxm"
 image: "_img/Lm0929.webp"
 tags: [categorie/pets-meshes, sous-categorie/divers, type/lib-mesh, jeu/pet-pharmica]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « Blackbeard Stuff » (Pet Pharmica). Aperçu rendu dans R
 - **Type** : Modèle en MeshParts
 - **Contenu** : 6 Parts · 18 MeshParts
 - **Jeu d'origine** : Pet Pharmica
-- **Fichier source** : `models/ByType/Misc/PetPharmica_BlackbeardStuff.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Misc/PetPharmica_BlackbeardStuff.rbxm` (dans le vault)

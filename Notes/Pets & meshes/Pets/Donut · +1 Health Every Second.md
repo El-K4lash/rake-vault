@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Pets"
 type: "Modèle en MeshParts"
 jeu: "+1 Health Every Second"
-source: "models/ByType/Pets/1HealthEverySecond_Donut.rbxm"
+source: "Assets/models/ByType/Pets/1HealthEverySecond_Donut.rbxm"
 image: "_img/Lm1026.webp"
 tags: [categorie/pets-meshes, sous-categorie/pets, type/lib-mesh, jeu/1-health-every-second]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « Donut » (+1 Health Every Second). Aperçu rendu dans Ro
 - **Type** : Modèle en MeshParts
 - **Contenu** : 1 MeshPart
 - **Jeu d'origine** : +1 Health Every Second
-- **Fichier source** : `models/ByType/Pets/1HealthEverySecond_Donut.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Pets/1HealthEverySecond_Donut.rbxm` (dans le vault)

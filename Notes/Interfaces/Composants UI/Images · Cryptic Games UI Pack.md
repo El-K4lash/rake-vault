@@ -5,7 +5,7 @@ catégorie: "Interfaces"
 sous-catégorie: "Composants UI"
 type: "Interface (ScreenGui)"
 jeu: "Cryptic Games UI Pack"
-source: "ui/ByType/Components_Kits/CrypticPack_Images.rbxm"
+source: "Assets/ui/ByType/Components_Kits/CrypticPack_Images.rbxm"
 image: "_img/Lg0011.webp"
 tags: [categorie/interfaces, sous-categorie/composants-ui, type/lib-gui, jeu/cryptic-games-ui-pack]
 ---
@@ -21,4 +21,4 @@ Interface « Images » du jeu Cryptic Games UI Pack. 121 éléments UI.
 - **Type** : Interface (ScreenGui)
 - **Contenu** : 121 éléments UI
 - **Jeu d'origine** : Cryptic Games UI Pack
-- **Fichier source** : `ui/ByType/Components_Kits/CrypticPack_Images.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/ui/ByType/Components_Kits/CrypticPack_Images.rbxm` (dans le vault)

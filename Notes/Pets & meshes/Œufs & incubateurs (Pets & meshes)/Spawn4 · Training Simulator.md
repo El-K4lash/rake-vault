@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Œufs & incubateurs"
 type: "Modèle en MeshParts"
 jeu: "Training Simulator"
-source: "models/ByType/Eggs_Incubators/TrainingSim_Spawn4.rbxm"
+source: "Assets/models/ByType/Eggs_Incubators/TrainingSim_Spawn4.rbxm"
 image: "_img/Lm0583.webp"
 tags: [categorie/pets-meshes, sous-categorie/ufs-incubateurs, type/lib-mesh, jeu/training-simulator]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « Spawn4 » (Training Simulator). Aperçu rendu dans Roblo
 - **Type** : Modèle en MeshParts
 - **Contenu** : 4 MeshParts
 - **Jeu d'origine** : Training Simulator
-- **Fichier source** : `models/ByType/Eggs_Incubators/TrainingSim_Spawn4.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Eggs_Incubators/TrainingSim_Spawn4.rbxm` (dans le vault)

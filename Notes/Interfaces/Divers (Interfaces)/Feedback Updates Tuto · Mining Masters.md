@@ -5,7 +5,7 @@ catégorie: "Interfaces"
 sous-catégorie: "Divers"
 type: "Interface (ScreenGui)"
 jeu: "Mining Masters"
-source: "ui/ByType/Misc/MiningMasters_FeedbackUpdatesTuto.rbxm"
+source: "Assets/ui/ByType/Misc/MiningMasters_FeedbackUpdatesTuto.rbxm"
 image: "_img/Lg0098.webp"
 tags: [categorie/interfaces, sous-categorie/divers, type/lib-gui, jeu/mining-masters]
 ---
@@ -21,4 +21,4 @@ Interface « Feedback Updates Tuto » du jeu Mining Masters. 8 éléments UI.
 - **Type** : Interface (ScreenGui)
 - **Contenu** : 8 éléments UI
 - **Jeu d'origine** : Mining Masters
-- **Fichier source** : `ui/ByType/Misc/MiningMasters_FeedbackUpdatesTuto.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/ui/ByType/Misc/MiningMasters_FeedbackUpdatesTuto.rbxm` (dans le vault)

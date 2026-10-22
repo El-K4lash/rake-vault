@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Divers"
 type: "Modèle en MeshParts"
 jeu: "First Donations"
-source: "models/ByType/Misc/FirstDonations_Panel.rbxm"
+source: "Assets/models/ByType/Misc/FirstDonations_Panel.rbxm"
 image: "_img/Lm0920.webp"
 tags: [categorie/pets-meshes, sous-categorie/divers, type/lib-mesh, jeu/first-donations]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « Panel » (First Donations). Aperçu rendu dans Roblox St
 - **Type** : Modèle en MeshParts
 - **Contenu** : 16 Parts · 31 MeshParts
 - **Jeu d'origine** : First Donations
-- **Fichier source** : `models/ByType/Misc/FirstDonations_Panel.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Misc/FirstDonations_Panel.rbxm` (dans le vault)

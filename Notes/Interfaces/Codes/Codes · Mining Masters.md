@@ -5,7 +5,7 @@ catégorie: "Interfaces"
 sous-catégorie: "Codes"
 type: "Interface (ScreenGui)"
 jeu: "Mining Masters"
-source: "ui/ByType/Codes/MiningMasters_Codes.rbxm"
+source: "Assets/ui/ByType/Codes/MiningMasters_Codes.rbxm"
 image: "_img/Lg0004.webp"
 tags: [categorie/interfaces, sous-categorie/codes, type/lib-gui, jeu/mining-masters]
 ---
@@ -21,4 +21,4 @@ Interface « Codes » du jeu Mining Masters. 10 éléments UI.
 - **Type** : Interface (ScreenGui)
 - **Contenu** : 10 éléments UI
 - **Jeu d'origine** : Mining Masters
-- **Fichier source** : `ui/ByType/Codes/MiningMasters_Codes.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/ui/ByType/Codes/MiningMasters_Codes.rbxm` (dans le vault)

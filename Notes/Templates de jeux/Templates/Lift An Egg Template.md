@@ -4,7 +4,7 @@ id: "Lj0039"
 catégorie: "Templates de jeux"
 sous-catégorie: "Templates"
 type: "Place complète (.rbxl)"
-source: "kits/Templates/Lift_An_Egg_Template.rbxl"
+source: "Assets/kits/Templates/Lift_An_Egg_Template.rbxl"
 image: "_img/Lj0039.webp"
 tags: [categorie/templates-de-jeux, sous-categorie/templates, type/lib-game]
 ---
@@ -19,4 +19,4 @@ Place Roblox complète (.rbxl) : 252 scripts, 802632 instances.
 - **Sous-catégorie** : [Templates](Templates.md)
 - **Type** : Place complète (.rbxl)
 - **Contenu** : 252 scripts · 802 632 instances
-- **Fichier source** : `kits/Templates/Lift_An_Egg_Template.rbxl` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/kits/Templates/Lift_An_Egg_Template.rbxl` (dans le vault)

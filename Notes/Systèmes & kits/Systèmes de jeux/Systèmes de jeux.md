@@ -2,13 +2,13 @@
 title: "Systèmes de jeux"
 type: "Sous-catégorie"
 catégorie: "Systèmes & kits"
-éléments: 18
+éléments: 26
 tags: [index, categorie/systemes-kits]
 ---
 
 # Systèmes de jeux
 
-Sous-catégorie de [Systèmes & kits](../Syst%C3%A8mes%20&%20kits.md) · **18 éléments**
+Sous-catégorie de [Systèmes & kits](../Syst%C3%A8mes%20&%20kits.md) · **26 éléments**
 
 | Aperçu | Élément | Infos |
 | --- | --- | --- |
@@ -30,3 +30,11 @@ Sous-catégorie de [Systèmes & kits](../Syst%C3%A8mes%20&%20kits.md) · **18 é
 | ![Aperçu\|120](../../_img/Ls0078.webp) | [Training Simulator EU](Training%20Simulator%20EU%20%C2%B7%20Syst%C3%A8mes%20de%20jeux.md) | Système de jeu · 53 scripts · 212 instances |
 | ![Aperçu\|120](../../_img/Ls0079.webp) | [Tweeting Simulator Uncopy Locked](Tweeting%20Simulator%20Uncopy%20Locked%20%C2%B7%20Syst%C3%A8mes%20de%20jeux.md) | Système de jeu · 42 scripts · 87 instances |
 | ![Aperçu\|120](../../_img/Ls0080.webp) | [UNCOPYLOCKED Magnet Simulator 2](UNCOPYLOCKED%20Magnet%20Simulator%202%20%C2%B7%20Syst%C3%A8mes%20de%20jeux.md) | Système de jeu · 22 scripts · 64 instances |
+| — | [Drill For LuckyBlocks – systèmes](Drill%20For%20LuckyBlocks%20%E2%80%93%20syst%C3%A8mes.md) | Système de jeu · 1 fichier · 2,1 Mo |
+| — | [Roll A Brainrot (ZEVR) – systèmes](Roll%20A%20Brainrot%20%28ZEVR%29%20%E2%80%93%20syst%C3%A8mes.md) | Système de jeu · 1 fichier · 0,6 Mo |
+| — | [MiniGame (combat à l’épée par manches) – systèmes](MiniGame%20%28combat%20%C3%A0%20l%E2%80%99%C3%A9p%C3%A9e%20par%20manches%29%20%E2%80%93%20syst%C3%A8mes.md) | Système de jeu · 1 fichier · 0,4 Mo |
+| — | [Mine a Planet BETA 9 (place 121125129560252) – systèmes](Mine%20a%20Planet%20BETA%209%20%28place%20121125129560252%29%20%E2%80%93%20syst%C3%A8mes.md) | Système de jeu · 1 fichier · 0,3 Mo |
+| — | [Unboxing Simulator – systèmes](Unboxing%20Simulator%20%E2%80%93%20syst%C3%A8mes.md) | Système de jeu · 1 fichier · 0,2 Mo |
+| — | [Steal An Egg (place 107778070777162) – systèmes](Steal%20An%20Egg%20%28place%20107778070777162%29%20%E2%80%93%20syst%C3%A8mes.md) | Système de jeu · 1 fichier · 2,5 Mo |
+| — | [Steal An Egg – Better Version (clstudioo) – systèmes](Steal%20An%20Egg%20%E2%80%93%20Better%20Version%20%28clstudioo%29%20%E2%80%93%20syst%C3%A8mes.md) | Système de jeu · 1 fichier · 5,0 Mo |
+| — | [Steal An Egg Sourced – systèmes](Steal%20An%20Egg%20Sourced%20%E2%80%93%20syst%C3%A8mes.md) | Système de jeu · 1 fichier · 11,4 Mo |

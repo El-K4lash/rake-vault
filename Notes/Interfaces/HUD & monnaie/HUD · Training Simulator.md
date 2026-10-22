@@ -5,7 +5,7 @@ catégorie: "Interfaces"
 sous-catégorie: "HUD & monnaie"
 type: "Interface (ScreenGui)"
 jeu: "Training Simulator"
-source: "ui/ByType/HUD_Currency/TrainingSim_HUD.rbxm"
+source: "Assets/ui/ByType/HUD_Currency/TrainingSim_HUD.rbxm"
 image: "_img/Lg0065.webp"
 tags: [categorie/interfaces, sous-categorie/hud-monnaie, type/lib-gui, jeu/training-simulator]
 ---
@@ -21,4 +21,4 @@ Interface « HUD » du jeu Training Simulator. 77 éléments UI.
 - **Type** : Interface (ScreenGui)
 - **Contenu** : 77 éléments UI
 - **Jeu d'origine** : Training Simulator
-- **Fichier source** : `ui/ByType/HUD_Currency/TrainingSim_HUD.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/ui/ByType/HUD_Currency/TrainingSim_HUD.rbxm` (dans le vault)

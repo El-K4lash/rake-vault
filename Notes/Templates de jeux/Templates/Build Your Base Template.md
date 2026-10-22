@@ -4,7 +4,7 @@ id: "Lj0033"
 catégorie: "Templates de jeux"
 sous-catégorie: "Templates"
 type: "Place complète (.rbxl)"
-source: "kits/Templates/Build Your Base Template.rbxl"
+source: "Assets/kits/Templates/Build Your Base Template.rbxl"
 image: "_img/Lj0033.webp"
 tags: [categorie/templates-de-jeux, sous-categorie/templates, type/lib-game]
 ---
@@ -19,4 +19,4 @@ Place Roblox complète (.rbxl) : 292 scripts, 6383 instances.
 - **Sous-catégorie** : [Templates](Templates.md)
 - **Type** : Place complète (.rbxl)
 - **Contenu** : 292 scripts · 6 383 instances
-- **Fichier source** : `kits/Templates/Build Your Base Template.rbxl` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/kits/Templates/Build Your Base Template.rbxl` (dans le vault)

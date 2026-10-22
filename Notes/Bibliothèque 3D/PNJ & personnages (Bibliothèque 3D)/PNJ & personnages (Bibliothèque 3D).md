@@ -2,13 +2,13 @@
 title: "PNJ & personnages"
 type: "Sous-catégorie"
 catégorie: "Bibliothèque 3D"
-éléments: 19
+éléments: 21
 tags: [index, categorie/bibliotheque-3d]
 ---
 
 # PNJ & personnages
 
-Sous-catégorie de [Bibliothèque 3D](../Biblioth%C3%A8que%203D.md) · **19 éléments**
+Sous-catégorie de [Bibliothèque 3D](../Biblioth%C3%A8que%203D.md) · **21 éléments**
 
 | Aperçu | Élément | Infos |
 | --- | --- | --- |
@@ -31,3 +31,5 @@ Sous-catégorie de [Bibliothèque 3D](../Biblioth%C3%A8que%203D.md) · **19 él�
 | ![Aperçu\|120](../../_img/Lp1011.webp) | [Tung Tung Sahur · Shoot A Brainrot](Tung%20Tung%20Sahur%20%C2%B7%20Shoot%20A%20Brainrot.md) | Modèle en Parts · 1 × 9 × 5 · 11 Parts · 6 MeshParts |
 | ![Aperçu\|120](../../_img/Lp0959.webp) | [Unnamed · Billionaire Tycoon](Unnamed%20%C2%B7%20Billionaire%20Tycoon.md) | Modèle en Parts · 3 × 5 × 4 · 8 Parts |
 | ![Aperçu\|120](../../_img/Lp1006.webp) | [White Shirt · Robot Simulator](White%20Shirt%20%C2%B7%20Robot%20Simulator.md) | Modèle en Parts · 5 × 4 × 1 · 10 Parts |
+| ![Aperçu\|120](../../_img/Lp1007.webp) | [PNJ & personnages — pack par type (18 modèles)](PNJ%20&%20personnages%20%E2%80%94%20pack%20par%20type%20%2818%20mod%C3%A8les%29.md) | Pack de fichiers · 18 fichiers · 0,4 Mo |
+| ![Aperçu\|120](../../_img/Ly0049.webp) | [Phantom Dealer & Crystal Dealer (PNJ marchands)](Phantom%20Dealer%20&%20Crystal%20Dealer%20%28PNJ%20marchands%29.md) | Modèle Roblox (.rbxm) · 1 fichier · 58 Ko |

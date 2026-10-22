@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Décor"
 type: "Modèle en MeshParts"
 jeu: "Cashgrab Bridge"
-source: "models/ByType/Decor_Props/CashgrabBridge_Wheel.rbxm"
+source: "Assets/models/ByType/Decor_Props/CashgrabBridge_Wheel.rbxm"
 image: "_img/Lm0190.webp"
 tags: [categorie/pets-meshes, sous-categorie/decor, type/lib-mesh, jeu/cashgrab-bridge]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « Wheel » (Cashgrab Bridge). Aperçu rendu dans Roblox St
 - **Type** : Modèle en MeshParts
 - **Contenu** : 4 MeshParts
 - **Jeu d'origine** : Cashgrab Bridge
-- **Fichier source** : `models/ByType/Decor_Props/CashgrabBridge_Wheel.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Decor_Props/CashgrabBridge_Wheel.rbxm` (dans le vault)

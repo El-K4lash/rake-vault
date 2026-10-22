@@ -4,7 +4,7 @@ id: "Lg0454"
 catégorie: "Interfaces"
 sous-catégorie: "Steal an Spooky Egg"
 type: "Interface (ScreenGui)"
-source: "ui/SpookyGame/Templates/CollectGUI.rbxm"
+source: "Assets/ui/SpookyGame/Templates/CollectGUI.rbxm"
 image: "_img/Lg0454.webp"
 tags: [categorie/interfaces, sous-categorie/steal-an-spooky-egg, type/lib-gui]
 ---
@@ -19,4 +19,4 @@ Interface « Collect GUI ». 4 éléments UI.
 - **Sous-catégorie** : [Steal an Spooky Egg](Steal%20an%20Spooky%20Egg%20%28Interfaces%29.md)
 - **Type** : Interface (ScreenGui)
 - **Contenu** : 4 éléments UI
-- **Fichier source** : `ui/SpookyGame/Templates/CollectGUI.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/ui/SpookyGame/Templates/CollectGUI.rbxm` (dans le vault)

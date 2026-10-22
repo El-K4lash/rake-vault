@@ -2,13 +2,13 @@
 title: "Divers"
 type: "Sous-catégorie"
 catégorie: "Interfaces"
-éléments: 24
+éléments: 25
 tags: [index, categorie/interfaces]
 ---
 
 # Divers
 
-Sous-catégorie de [Interfaces](../Interfaces.md) · **24 éléments**
+Sous-catégorie de [Interfaces](../Interfaces.md) · **25 éléments**
 
 | Aperçu | Élément | Infos |
 | --- | --- | --- |
@@ -36,3 +36,4 @@ Sous-catégorie de [Interfaces](../Interfaces.md) · **24 éléments**
 | ![Aperçu\|120](../../_img/Lg0097.webp) | [Update Log · Hatching Simulator](Update%20Log%20%C2%B7%20Hatching%20Simulator.md) | Interface (ScreenGui) · 13 éléments UI |
 | ![Aperçu\|120](../../_img/Lg0101.webp) | [Update Log · Pet Pharmica](Update%20Log%20%C2%B7%20Pet%20Pharmica.md) | Interface (ScreenGui) · 16 éléments UI |
 | ![Aperçu\|120](../../_img/Lg0108.webp) | [Update Log · Rebirth Champions X](Update%20Log%20%C2%B7%20Rebirth%20Champions%20X.md) | Interface (ScreenGui) · 11 éléments UI |
+| ![Aperçu\|120](../../_img/Lg0102.webp) | [Divers — interfaces en plus (5)](Divers%20%E2%80%94%20interfaces%20en%20plus%20%285%29.md) | Pack de fichiers · 5 fichiers · 50 Ko |

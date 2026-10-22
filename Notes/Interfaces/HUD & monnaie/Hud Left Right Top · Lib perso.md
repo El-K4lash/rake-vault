@@ -5,7 +5,7 @@ catégorie: "Interfaces"
 sous-catégorie: "HUD & monnaie"
 type: "Interface (ScreenGui)"
 jeu: "Lib perso"
-source: "ui/ByType/HUD_Currency/Lib_Hud_LeftRightTop.rbxm"
+source: "Assets/ui/ByType/HUD_Currency/Lib_Hud_LeftRightTop.rbxm"
 image: "_img/Lg0051.webp"
 tags: [categorie/interfaces, sous-categorie/hud-monnaie, type/lib-gui, jeu/lib-perso]
 ---
@@ -21,4 +21,4 @@ Interface « Hud Left Right Top » du jeu Lib perso. 95 éléments UI.
 - **Type** : Interface (ScreenGui)
 - **Contenu** : 95 éléments UI
 - **Jeu d'origine** : Lib perso
-- **Fichier source** : `ui/ByType/HUD_Currency/Lib_Hud_LeftRightTop.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/ui/ByType/HUD_Currency/Lib_Hud_LeftRightTop.rbxm` (dans le vault)

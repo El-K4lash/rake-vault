@@ -6,7 +6,7 @@ sous-catégorie: "Bâtiments"
 type: "Modèle en Parts"
 taille: "23 × 34 × 6"
 jeu: "Pet Pharmica"
-source: "models/ByType/Buildings/PetPharmica_OutDoor.rbxm"
+source: "Assets/models/ByType/Buildings/PetPharmica_OutDoor.rbxm"
 image: "_img/Lp0081.webp"
 tags: [categorie/bibliotheque-3d, sous-categorie/batiments, type/lib-part, jeu/pet-pharmica]
 ---
@@ -23,4 +23,4 @@ Modèle en Parts « Out Door » (Pet Pharmica).
 - **Taille** : 23 × 34 × 6 studs
 - **Contenu** : 11 Parts
 - **Jeu d'origine** : Pet Pharmica
-- **Fichier source** : `models/ByType/Buildings/PetPharmica_OutDoor.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Buildings/PetPharmica_OutDoor.rbxm` (dans le vault)

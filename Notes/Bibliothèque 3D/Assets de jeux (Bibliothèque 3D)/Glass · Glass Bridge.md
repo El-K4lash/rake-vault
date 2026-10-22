@@ -6,7 +6,7 @@ sous-catégorie: "Assets de jeux"
 type: "Modèle en Parts"
 taille: "326 × 1 × 19"
 jeu: "Glass Bridge"
-source: "models/FromGames/GlassBridge/Workspace/Glass.rbxm"
+source: "Assets/models/FromGames/GlassBridge/Workspace/Glass.rbxm"
 image: "_img/Lp1560.webp"
 tags: [categorie/bibliotheque-3d, sous-categorie/assets-de-jeux, type/lib-part, jeu/glass-bridge]
 ---
@@ -23,4 +23,4 @@ Modèle en Parts « Glass » (Glass Bridge).
 - **Taille** : 326 × 1 × 19 studs
 - **Contenu** : 36 Parts
 - **Jeu d'origine** : Glass Bridge
-- **Fichier source** : `models/FromGames/GlassBridge/Workspace/Glass.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/FromGames/GlassBridge/Workspace/Glass.rbxm` (dans le vault)

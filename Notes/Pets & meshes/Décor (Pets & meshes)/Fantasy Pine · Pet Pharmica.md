@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Décor"
 type: "Modèle en MeshParts"
 jeu: "Pet Pharmica"
-source: "models/ByType/Decor_Props/PetPharmica_FantasyPine.rbxm"
+source: "Assets/models/ByType/Decor_Props/PetPharmica_FantasyPine.rbxm"
 image: "_img/Lm0297.webp"
 tags: [categorie/pets-meshes, sous-categorie/decor, type/lib-mesh, jeu/pet-pharmica]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « Fantasy Pine » (Pet Pharmica). Aperçu rendu dans Roblo
 - **Type** : Modèle en MeshParts
 - **Contenu** : 6 MeshParts
 - **Jeu d'origine** : Pet Pharmica
-- **Fichier source** : `models/ByType/Decor_Props/PetPharmica_FantasyPine.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Decor_Props/PetPharmica_FantasyPine.rbxm` (dans le vault)

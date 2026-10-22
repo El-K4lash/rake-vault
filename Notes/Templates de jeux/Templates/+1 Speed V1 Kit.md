@@ -4,7 +4,7 @@ id: "Lj0031"
 catégorie: "Templates de jeux"
 sous-catégorie: "Templates"
 type: "Place complète (.rbxl)"
-source: "kits/Templates/+1_Speed_V1_Kit.rbxl"
+source: "Assets/kits/Templates/+1_Speed_V1_Kit.rbxl"
 image: "_img/Lj0031.webp"
 tags: [categorie/templates-de-jeux, sous-categorie/templates, type/lib-game]
 ---
@@ -19,4 +19,4 @@ Place Roblox complète (.rbxl) : 88 scripts, 67992 instances.
 - **Sous-catégorie** : [Templates](Templates.md)
 - **Type** : Place complète (.rbxl)
 - **Contenu** : 88 scripts · 67 992 instances
-- **Fichier source** : `kits/Templates/+1_Speed_V1_Kit.rbxl` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/kits/Templates/+1_Speed_V1_Kit.rbxl` (dans le vault)

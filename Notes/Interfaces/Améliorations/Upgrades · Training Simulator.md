@@ -5,7 +5,7 @@ catégorie: "Interfaces"
 sous-catégorie: "Améliorations"
 type: "Interface (ScreenGui)"
 jeu: "Training Simulator"
-source: "ui/ByType/Upgrades/TrainingSim_Upgrades.rbxm"
+source: "Assets/ui/ByType/Upgrades/TrainingSim_Upgrades.rbxm"
 image: "_img/Lg0238.webp"
 tags: [categorie/interfaces, sous-categorie/ameliorations, type/lib-gui, jeu/training-simulator]
 ---
@@ -21,4 +21,4 @@ Interface « Upgrades » du jeu Training Simulator. 46 éléments UI.
 - **Type** : Interface (ScreenGui)
 - **Contenu** : 46 éléments UI
 - **Jeu d'origine** : Training Simulator
-- **Fichier source** : `ui/ByType/Upgrades/TrainingSim_Upgrades.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/ui/ByType/Upgrades/TrainingSim_Upgrades.rbxm` (dans le vault)

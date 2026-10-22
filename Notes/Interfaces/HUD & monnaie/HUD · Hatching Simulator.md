@@ -5,7 +5,7 @@ catégorie: "Interfaces"
 sous-catégorie: "HUD & monnaie"
 type: "Interface (ScreenGui)"
 jeu: "Hatching Simulator"
-source: "ui/ByType/HUD_Currency/HatchingSim_HUD.rbxm"
+source: "Assets/ui/ByType/HUD_Currency/HatchingSim_HUD.rbxm"
 image: "_img/Lg0049.webp"
 tags: [categorie/interfaces, sous-categorie/hud-monnaie, type/lib-gui, jeu/hatching-simulator]
 ---
@@ -21,4 +21,4 @@ Interface « HUD » du jeu Hatching Simulator. 15 éléments UI.
 - **Type** : Interface (ScreenGui)
 - **Contenu** : 15 éléments UI
 - **Jeu d'origine** : Hatching Simulator
-- **Fichier source** : `ui/ByType/HUD_Currency/HatchingSim_HUD.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/ui/ByType/HUD_Currency/HatchingSim_HUD.rbxm` (dans le vault)

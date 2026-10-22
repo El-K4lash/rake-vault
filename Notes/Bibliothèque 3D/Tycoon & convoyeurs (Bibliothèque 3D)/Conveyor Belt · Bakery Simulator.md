@@ -6,7 +6,7 @@ sous-catégorie: "Tycoon & convoyeurs"
 type: "Modèle en Parts"
 taille: "91 × 1 × 22"
 jeu: "Bakery Simulator"
-source: "models/ByType/Conveyors_Tycoon/BakerySim_ConveyorBelt.rbxm"
+source: "Assets/models/ByType/Conveyors_Tycoon/BakerySim_ConveyorBelt.rbxm"
 image: "_img/Lp0150.webp"
 tags: [categorie/bibliotheque-3d, sous-categorie/tycoon-convoyeurs, type/lib-part, jeu/bakery-simulator]
 ---
@@ -23,4 +23,4 @@ Modèle en Parts « Conveyor Belt » (Bakery Simulator).
 - **Taille** : 91 × 1 × 22 studs
 - **Contenu** : 22 Parts · 2 MeshParts
 - **Jeu d'origine** : Bakery Simulator
-- **Fichier source** : `models/ByType/Conveyors_Tycoon/BakerySim_ConveyorBelt.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Conveyors_Tycoon/BakerySim_ConveyorBelt.rbxm` (dans le vault)

@@ -5,7 +5,7 @@ catégorie: "Interfaces"
 sous-catégorie: "Paramètres"
 type: "Interface (ScreenGui)"
 jeu: "Punch Simulator"
-source: "ui/ByType/Settings/PunchSim_Settings.rbxm"
+source: "Assets/ui/ByType/Settings/PunchSim_Settings.rbxm"
 image: "_img/Lg0188.webp"
 tags: [categorie/interfaces, sous-categorie/parametres, type/lib-gui, jeu/punch-simulator]
 ---
@@ -21,4 +21,4 @@ Interface « Settings » du jeu Punch Simulator. 31 éléments UI.
 - **Type** : Interface (ScreenGui)
 - **Contenu** : 31 éléments UI
 - **Jeu d'origine** : Punch Simulator
-- **Fichier source** : `ui/ByType/Settings/PunchSim_Settings.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/ui/ByType/Settings/PunchSim_Settings.rbxm` (dans le vault)

@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Bâtiments"
 type: "Modèle en MeshParts"
 jeu: "Rebirth Champions X"
-source: "models/ByType/Buildings/RebirthChampionsX_Fence1.rbxm"
+source: "Assets/models/ByType/Buildings/RebirthChampionsX_Fence1.rbxm"
 image: "_img/Lm0087.webp"
 tags: [categorie/pets-meshes, sous-categorie/batiments, type/lib-mesh, jeu/rebirth-champions-x]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « Fence1 » (Rebirth Champions X). Aperçu rendu dans Robl
 - **Type** : Modèle en MeshParts
 - **Contenu** : 6 MeshParts
 - **Jeu d'origine** : Rebirth Champions X
-- **Fichier source** : `models/ByType/Buildings/RebirthChampionsX_Fence1.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Buildings/RebirthChampionsX_Fence1.rbxm` (dans le vault)

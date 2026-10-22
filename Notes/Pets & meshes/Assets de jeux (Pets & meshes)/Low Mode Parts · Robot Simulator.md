@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Assets de jeux"
 type: "Modèle en MeshParts"
 jeu: "Robot Simulator"
-source: "models/FromGames/Robot Simulator/Workspace/LowModeParts.rbxm"
+source: "Assets/models/FromGames/Robot Simulator/Workspace/LowModeParts.rbxm"
 image: "_img/Lm1724.webp"
 tags: [categorie/pets-meshes, sous-categorie/assets-de-jeux, type/lib-mesh, jeu/robot-simulator]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « Low Mode Parts » (Robot Simulator). Aperçu : forme du 
 - **Type** : Modèle en MeshParts
 - **Contenu** : 61 Parts · 39 MeshParts
 - **Jeu d'origine** : Robot Simulator
-- **Fichier source** : `models/FromGames/Robot Simulator/Workspace/LowModeParts.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/FromGames/Robot Simulator/Workspace/LowModeParts.rbxm` (dans le vault)

@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Décor"
 type: "Modèle en MeshParts"
 jeu: "First Donations"
-source: "models/ByType/Decor_Props/FirstDonations_Arbol.rbxm"
+source: "Assets/models/ByType/Decor_Props/FirstDonations_Arbol.rbxm"
 image: "_img/Lm0191.webp"
 tags: [categorie/pets-meshes, sous-categorie/decor, type/lib-mesh, jeu/first-donations]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « Arbol » (First Donations). Aperçu rendu dans Roblox St
 - **Type** : Modèle en MeshParts
 - **Contenu** : 7 MeshParts
 - **Jeu d'origine** : First Donations
-- **Fichier source** : `models/ByType/Decor_Props/FirstDonations_Arbol.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Decor_Props/FirstDonations_Arbol.rbxm` (dans le vault)

@@ -2,13 +2,13 @@
 title: "Maps & îles"
 type: "Sous-catégorie"
 catégorie: "Bibliothèque 3D"
-éléments: 10
+éléments: 12
 tags: [index, categorie/bibliotheque-3d]
 ---
 
 # Maps & îles
 
-Sous-catégorie de [Bibliothèque 3D](../Biblioth%C3%A8que%203D.md) · **10 éléments**
+Sous-catégorie de [Bibliothèque 3D](../Biblioth%C3%A8que%203D.md) · **12 éléments**
 
 | Aperçu | Élément | Infos |
 | --- | --- | --- |
@@ -22,3 +22,5 @@ Sous-catégorie de [Bibliothèque 3D](../Biblioth%C3%A8que%203D.md) · **10 él�
 | ![Aperçu\|120](../../_img/Lp0897.webp) | [Others · Shoot A Brainrot](Others%20%C2%B7%20Shoot%20A%20Brainrot.md) | Modèle en Parts · 420 × 31 × 368 · 669 Parts |
 | ![Aperçu\|120](../../_img/Lp0898.webp) | [Plots · Shoot A Brainrot](Plots%20%C2%B7%20Shoot%20A%20Brainrot.md) | Modèle en Parts · 322 × 3 × 231 · 186 Parts |
 | ![Aperçu\|120](../../_img/Lp0902.webp) | [Template Island](Template%20Island.md) | Modèle en Parts · 393 × 29 × 359 · 992 Parts · 6 MeshParts |
+| ![Aperçu\|120](../../_img/Lp0858.webp) | [Maps, îles & mondes — pack par type (47 modèles)](Maps,%20%C3%AEles%20&%20mondes%20%E2%80%94%20pack%20par%20type%20%2847%20mod%C3%A8les%29.md) | Pack de fichiers · 47 fichiers · 10,3 Mo |
+| ![Aperçu\|120](../../_img/Ly0059.webp) | [Studio Market Pack (Hexagons Pack)](Studio%20Market%20Pack%20%28Hexagons%20Pack%29.md) | Pack de fichiers · 11 fichiers · 0,1 Mo |

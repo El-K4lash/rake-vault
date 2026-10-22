@@ -5,7 +5,7 @@ catégorie: "Interfaces"
 sous-catégorie: "Rebirth"
 type: "Interface (ScreenGui)"
 jeu: "+1 Health Every Second"
-source: "ui/ByType/Rebirth/1HealthEverySecond_Rebirth.rbxm"
+source: "Assets/ui/ByType/Rebirth/1HealthEverySecond_Rebirth.rbxm"
 image: "_img/Lg0160.webp"
 tags: [categorie/interfaces, sous-categorie/rebirth, type/lib-gui, jeu/1-health-every-second]
 ---
@@ -21,4 +21,4 @@ Interface « Rebirth » du jeu +1 Health Every Second. 11 éléments UI.
 - **Type** : Interface (ScreenGui)
 - **Contenu** : 11 éléments UI
 - **Jeu d'origine** : +1 Health Every Second
-- **Fichier source** : `ui/ByType/Rebirth/1HealthEverySecond_Rebirth.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/ui/ByType/Rebirth/1HealthEverySecond_Rebirth.rbxm` (dans le vault)

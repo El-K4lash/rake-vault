@@ -6,7 +6,7 @@ sous-catégorie: "Décor"
 type: "Modèle en Parts"
 taille: "1 × 1 × 1"
 jeu: "Shoot A Brainrot"
-source: "models/ByType/Decor_Props/ShootABrainrot_Log.rbxm"
+source: "Assets/models/ByType/Decor_Props/ShootABrainrot_Log.rbxm"
 image: "_img/Lp0383.webp"
 tags: [categorie/bibliotheque-3d, sous-categorie/decor, type/lib-part, jeu/shoot-a-brainrot]
 ---
@@ -23,4 +23,4 @@ Modèle en Parts « Log » (Shoot A Brainrot).
 - **Taille** : 1 × 1 × 1 studs
 - **Contenu** : 2 Parts
 - **Jeu d'origine** : Shoot A Brainrot
-- **Fichier source** : `models/ByType/Decor_Props/ShootABrainrot_Log.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Decor_Props/ShootABrainrot_Log.rbxm` (dans le vault)

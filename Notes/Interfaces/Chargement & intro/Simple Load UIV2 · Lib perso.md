@@ -5,7 +5,7 @@ catégorie: "Interfaces"
 sous-catégorie: "Chargement & intro"
 type: "Interface (ScreenGui)"
 jeu: "Lib perso"
-source: "ui/ByType/Loading_Intro/Lib_SimpleLoadUIV2.rbxm"
+source: "Assets/ui/ByType/Loading_Intro/Lib_SimpleLoadUIV2.rbxm"
 image: "_img/Lg0080.webp"
 tags: [categorie/interfaces, sous-categorie/chargement-intro, type/lib-gui, jeu/lib-perso]
 ---
@@ -21,4 +21,4 @@ Interface « Simple Load UIV2 » du jeu Lib perso. 5 éléments UI.
 - **Type** : Interface (ScreenGui)
 - **Contenu** : 5 éléments UI
 - **Jeu d'origine** : Lib perso
-- **Fichier source** : `ui/ByType/Loading_Intro/Lib_SimpleLoadUIV2.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/ui/ByType/Loading_Intro/Lib_SimpleLoadUIV2.rbxm` (dans le vault)

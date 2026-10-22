@@ -4,7 +4,7 @@ id: "Lm2284"
 catégorie: "Pets & meshes"
 sous-catégorie: "Brainrots animés"
 type: "Modèle en MeshParts"
-source: "packs/Brainrots_Animated/Normal/Chicleteira Bicicleteira.rbxm"
+source: "Assets/packs/Brainrots_Animated/Normal/Chicleteira Bicicleteira.rbxm"
 image: "_img/Lm2284.webp"
 tags: [categorie/pets-meshes, sous-categorie/brainrots-animes, type/lib-mesh]
 ---
@@ -19,4 +19,4 @@ Modèle en MeshParts « Chicleteira Bicicleteira ». Aperçu rendu dans Roblox S
 - **Sous-catégorie** : [Brainrots animés](Brainrots%20anim%C3%A9s.md)
 - **Type** : Modèle en MeshParts
 - **Contenu** : 1 MeshPart
-- **Fichier source** : `packs/Brainrots_Animated/Normal/Chicleteira Bicicleteira.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/packs/Brainrots_Animated/Normal/Chicleteira Bicicleteira.rbxm` (dans le vault)

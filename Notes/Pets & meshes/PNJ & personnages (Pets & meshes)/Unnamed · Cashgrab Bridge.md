@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "PNJ & personnages"
 type: "Modèle en MeshParts"
 jeu: "Cashgrab Bridge"
-source: "models/ByType/NPC_Characters/CashgrabBridge_Unnamed.rbxm"
+source: "Assets/models/ByType/NPC_Characters/CashgrabBridge_Unnamed.rbxm"
 image: "_img/Lm0970.webp"
 tags: [categorie/pets-meshes, sous-categorie/pnj-personnages, type/lib-mesh, jeu/cashgrab-bridge]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « Unnamed » (Cashgrab Bridge). Aperçu rendu dans Roblox 
 - **Type** : Modèle en MeshParts
 - **Contenu** : 18 MeshParts
 - **Jeu d'origine** : Cashgrab Bridge
-- **Fichier source** : `models/ByType/NPC_Characters/CashgrabBridge_Unnamed.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/NPC_Characters/CashgrabBridge_Unnamed.rbxm` (dans le vault)

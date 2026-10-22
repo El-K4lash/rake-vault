@@ -5,7 +5,7 @@ catégorie: "Interfaces"
 sous-catégorie: "Chargement & intro"
 type: "Interface (ScreenGui)"
 jeu: "Bakery Simulator"
-source: "ui/ByType/Loading_Intro/BakerySim_Load.rbxm"
+source: "Assets/ui/ByType/Loading_Intro/BakerySim_Load.rbxm"
 image: "_img/Lg0076.webp"
 tags: [categorie/interfaces, sous-categorie/chargement-intro, type/lib-gui, jeu/bakery-simulator]
 ---
@@ -21,4 +21,4 @@ Interface « Load » du jeu Bakery Simulator. 6 éléments UI.
 - **Type** : Interface (ScreenGui)
 - **Contenu** : 6 éléments UI
 - **Jeu d'origine** : Bakery Simulator
-- **Fichier source** : `ui/ByType/Loading_Intro/BakerySim_Load.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/ui/ByType/Loading_Intro/BakerySim_Load.rbxm` (dans le vault)

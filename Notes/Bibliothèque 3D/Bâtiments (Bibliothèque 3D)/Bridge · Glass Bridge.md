@@ -6,7 +6,7 @@ sous-catégorie: "Bâtiments"
 type: "Modèle en Parts"
 taille: "13 × 6 × 42"
 jeu: "Glass Bridge"
-source: "models/ByType/Buildings/GlassBridge_Bridge.rbxm"
+source: "Assets/models/ByType/Buildings/GlassBridge_Bridge.rbxm"
 image: "_img/Lp0067.webp"
 tags: [categorie/bibliotheque-3d, sous-categorie/batiments, type/lib-part, jeu/glass-bridge]
 ---
@@ -23,4 +23,4 @@ Modèle en Parts « Bridge » (Glass Bridge).
 - **Taille** : 13 × 6 × 42 studs
 - **Contenu** : 97 Parts
 - **Jeu d'origine** : Glass Bridge
-- **Fichier source** : `models/ByType/Buildings/GlassBridge_Bridge.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Buildings/GlassBridge_Bridge.rbxm` (dans le vault)

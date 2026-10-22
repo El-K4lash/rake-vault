@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Décor"
 type: "Modèle en MeshParts"
 jeu: "Hatching Simulator"
-source: "models/ByType/Decor_Props/HatchingSim_MarsRocket.rbxm"
+source: "Assets/models/ByType/Decor_Props/HatchingSim_MarsRocket.rbxm"
 image: "_img/Lm0244.webp"
 tags: [categorie/pets-meshes, sous-categorie/decor, type/lib-mesh, jeu/hatching-simulator]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « Mars Rocket » (Hatching Simulator). Aperçu rendu dans 
 - **Type** : Modèle en MeshParts
 - **Contenu** : 8 MeshParts
 - **Jeu d'origine** : Hatching Simulator
-- **Fichier source** : `models/ByType/Decor_Props/HatchingSim_MarsRocket.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Decor_Props/HatchingSim_MarsRocket.rbxm` (dans le vault)

@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Œufs & incubateurs"
 type: "Modèle en MeshParts"
 jeu: "Rebirth Champions X"
-source: "models/ByType/Eggs_Incubators/RebirthChampionsX_Desert.rbxm"
+source: "Assets/models/ByType/Eggs_Incubators/RebirthChampionsX_Desert.rbxm"
 image: "_img/Lm0501.webp"
 tags: [categorie/pets-meshes, sous-categorie/ufs-incubateurs, type/lib-mesh, jeu/rebirth-champions-x]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « Desert » (Rebirth Champions X). Aperçu rendu dans Robl
 - **Type** : Modèle en MeshParts
 - **Contenu** : 13 MeshParts
 - **Jeu d'origine** : Rebirth Champions X
-- **Fichier source** : `models/ByType/Eggs_Incubators/RebirthChampionsX_Desert.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Eggs_Incubators/RebirthChampionsX_Desert.rbxm` (dans le vault)

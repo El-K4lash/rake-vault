@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Décor"
 type: "Modèle en MeshParts"
 jeu: "Robot Simulator"
-source: "models/ByType/Decor_Props/RobotSim_SpawnItems.rbxm"
+source: "Assets/models/ByType/Decor_Props/RobotSim_SpawnItems.rbxm"
 image: "_img/Lm0376.webp"
 tags: [categorie/pets-meshes, sous-categorie/decor, type/lib-mesh, jeu/robot-simulator]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « Spawn Items » (Robot Simulator). Aperçu rendu dans Rob
 - **Type** : Modèle en MeshParts
 - **Contenu** : 21 MeshParts
 - **Jeu d'origine** : Robot Simulator
-- **Fichier source** : `models/ByType/Decor_Props/RobotSim_SpawnItems.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Decor_Props/RobotSim_SpawnItems.rbxm` (dans le vault)

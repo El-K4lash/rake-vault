@@ -4,7 +4,7 @@ id: "Ls0088"
 catégorie: "Systèmes & kits"
 sous-catégorie: "Systèmes"
 type: "Système de jeu"
-source: "systems/OwnerTag_Fares.rbxm"
+source: "Assets/systems/OwnerTag_Fares.rbxm"
 image: "_img/Ls0088.webp"
 tags: [categorie/systemes-kits, sous-categorie/systemes, type/lib-sys]
 ---
@@ -19,4 +19,4 @@ Système : 1 scripts.
 - **Sous-catégorie** : [Systèmes](Syst%C3%A8mes.md)
 - **Type** : Système de jeu
 - **Contenu** : 1 script · 2 instances
-- **Fichier source** : `systems/OwnerTag_Fares.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/systems/OwnerTag_Fares.rbxm` (dans le vault)

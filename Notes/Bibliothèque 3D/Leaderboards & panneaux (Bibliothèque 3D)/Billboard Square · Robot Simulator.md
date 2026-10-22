@@ -6,7 +6,7 @@ sous-catégorie: "Leaderboards & panneaux"
 type: "Modèle en Parts"
 taille: "17 × 31 × 16"
 jeu: "Robot Simulator"
-source: "models/ByType/Leaderboards_Boards/RobotSim_BillboardSquare.rbxm"
+source: "Assets/models/ByType/Leaderboards_Boards/RobotSim_BillboardSquare.rbxm"
 image: "_img/Lp0704.webp"
 tags: [categorie/bibliotheque-3d, sous-categorie/leaderboards-panneaux, type/lib-part, jeu/robot-simulator]
 ---
@@ -23,4 +23,4 @@ Modèle en Parts « Billboard Square » (Robot Simulator).
 - **Taille** : 17 × 31 × 16 studs
 - **Contenu** : 26 Parts
 - **Jeu d'origine** : Robot Simulator
-- **Fichier source** : `models/ByType/Leaderboards_Boards/RobotSim_BillboardSquare.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Leaderboards_Boards/RobotSim_BillboardSquare.rbxm` (dans le vault)

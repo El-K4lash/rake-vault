@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Maps & îles"
 type: "Modèle en MeshParts"
 jeu: "Pet Pharmica"
-source: "models/ByType/Maps_Islands_Worlds/PetPharmica_5Forest.rbxm"
+source: "Assets/models/ByType/Maps_Islands_Worlds/PetPharmica_5Forest.rbxm"
 image: "_img/Lm0863.webp"
 tags: [categorie/pets-meshes, sous-categorie/maps-iles, type/lib-mesh, jeu/pet-pharmica]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « 5Forest » (Pet Pharmica). Aperçu rendu dans Roblox Stu
 - **Type** : Modèle en MeshParts
 - **Contenu** : 301 Parts · 251 MeshParts
 - **Jeu d'origine** : Pet Pharmica
-- **Fichier source** : `models/ByType/Maps_Islands_Worlds/PetPharmica_5Forest.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Maps_Islands_Worlds/PetPharmica_5Forest.rbxm` (dans le vault)

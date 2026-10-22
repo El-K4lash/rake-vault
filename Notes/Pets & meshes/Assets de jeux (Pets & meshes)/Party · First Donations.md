@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Assets de jeux"
 type: "Modèle en MeshParts"
 jeu: "First Donations"
-source: "models/FromGames/First_Donations/Workspace/Party.rbxm"
+source: "Assets/models/FromGames/First_Donations/Workspace/Party.rbxm"
 image: "_img/Lm1543.webp"
 tags: [categorie/pets-meshes, sous-categorie/assets-de-jeux, type/lib-mesh, jeu/first-donations]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « Party » (First Donations). Aperçu rendu dans Roblox St
 - **Type** : Modèle en MeshParts
 - **Contenu** : 61 Parts · 115 MeshParts
 - **Jeu d'origine** : First Donations
-- **Fichier source** : `models/FromGames/First_Donations/Workspace/Party.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/FromGames/First_Donations/Workspace/Party.rbxm` (dans le vault)

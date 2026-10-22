@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "PNJ & personnages"
 type: "Modèle en MeshParts"
 jeu: "Tweeting Simulator"
-source: "models/ByType/NPC_Characters/TweetingSim_CannonGuy.rbxm"
+source: "Assets/models/ByType/NPC_Characters/TweetingSim_CannonGuy.rbxm"
 image: "_img/Lm1017.webp"
 tags: [categorie/pets-meshes, sous-categorie/pnj-personnages, type/lib-mesh, jeu/tweeting-simulator]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « Cannon Guy » (Tweeting Simulator). Aperçu rendu dans R
 - **Type** : Modèle en MeshParts
 - **Contenu** : 4 Parts · 18 MeshParts
 - **Jeu d'origine** : Tweeting Simulator
-- **Fichier source** : `models/ByType/NPC_Characters/TweetingSim_CannonGuy.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/NPC_Characters/TweetingSim_CannonGuy.rbxm` (dans le vault)

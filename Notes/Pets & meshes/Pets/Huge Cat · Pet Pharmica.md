@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Pets"
 type: "Modèle en MeshParts"
 jeu: "Pet Pharmica"
-source: "models/ByType/Pets/PetPharmica_HugeCat.rbxm"
+source: "Assets/models/ByType/Pets/PetPharmica_HugeCat.rbxm"
 image: "_img/Lm1321.webp"
 tags: [categorie/pets-meshes, sous-categorie/pets, type/lib-mesh, jeu/pet-pharmica]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « Huge Cat » (Pet Pharmica). Aperçu rendu dans Roblox St
 - **Type** : Modèle en MeshParts
 - **Contenu** : 1 MeshPart
 - **Jeu d'origine** : Pet Pharmica
-- **Fichier source** : `models/ByType/Pets/PetPharmica_HugeCat.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Pets/PetPharmica_HugeCat.rbxm` (dans le vault)

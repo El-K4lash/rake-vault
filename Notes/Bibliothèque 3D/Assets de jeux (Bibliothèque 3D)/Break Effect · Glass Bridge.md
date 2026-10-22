@@ -6,7 +6,7 @@ sous-catégorie: "Assets de jeux"
 type: "Modèle en Parts"
 taille: "15 × 1 × 14"
 jeu: "Glass Bridge"
-source: "models/FromGames/GlassBridge/BreakEffect.rbxm"
+source: "Assets/models/FromGames/GlassBridge/BreakEffect.rbxm"
 image: "_img/Lp1551.webp"
 tags: [categorie/bibliotheque-3d, sous-categorie/assets-de-jeux, type/lib-part, jeu/glass-bridge]
 ---
@@ -23,4 +23,4 @@ Modèle en Parts « Break Effect » (Glass Bridge).
 - **Taille** : 15 × 1 × 14 studs
 - **Contenu** : 28 Parts
 - **Jeu d'origine** : Glass Bridge
-- **Fichier source** : `models/FromGames/GlassBridge/BreakEffect.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/FromGames/GlassBridge/BreakEffect.rbxm` (dans le vault)

@@ -6,7 +6,7 @@ sous-catégorie: "Bâtiments"
 type: "Modèle en Parts"
 taille: "62 × 99 × 59"
 jeu: "Robot Simulator"
-source: "models/ByType/Buildings/RobotSim_FuturisticBuild.rbxm"
+source: "Assets/models/ByType/Buildings/RobotSim_FuturisticBuild.rbxm"
 image: "_img/Lp0098.webp"
 tags: [categorie/bibliotheque-3d, sous-categorie/batiments, type/lib-part, jeu/robot-simulator]
 ---
@@ -23,4 +23,4 @@ Modèle en Parts « Futuristic Build » (Robot Simulator).
 - **Taille** : 62 × 99 × 59 studs
 - **Contenu** : 87 Parts · 8 MeshParts
 - **Jeu d'origine** : Robot Simulator
-- **Fichier source** : `models/ByType/Buildings/RobotSim_FuturisticBuild.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Buildings/RobotSim_FuturisticBuild.rbxm` (dans le vault)

@@ -5,7 +5,7 @@ catégorie: "Interfaces"
 sous-catégorie: "Quêtes & saison"
 type: "Interface (ScreenGui)"
 jeu: "Training Simulator"
-source: "ui/ByType/Quests_Season/TrainingSim_PlaytimeAchievements.rbxm"
+source: "Assets/ui/ByType/Quests_Season/TrainingSim_PlaytimeAchievements.rbxm"
 image: "_img/Lg0159.webp"
 tags: [categorie/interfaces, sous-categorie/quetes-saison, type/lib-gui, jeu/training-simulator]
 ---
@@ -21,4 +21,4 @@ Interface « Playtime Achievements » du jeu Training Simulator. 229 éléments 
 - **Type** : Interface (ScreenGui)
 - **Contenu** : 229 éléments UI
 - **Jeu d'origine** : Training Simulator
-- **Fichier source** : `ui/ByType/Quests_Season/TrainingSim_PlaytimeAchievements.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/ui/ByType/Quests_Season/TrainingSim_PlaytimeAchievements.rbxm` (dans le vault)

@@ -4,7 +4,7 @@ id: "Lm2285"
 catégorie: "Pets & meshes"
 sous-catégorie: "Brainrots animés"
 type: "Modèle en MeshParts"
-source: "packs/Brainrots_Animated/Normal/Chicleteirina Bicicleteirina.rbxm"
+source: "Assets/packs/Brainrots_Animated/Normal/Chicleteirina Bicicleteirina.rbxm"
 image: "_img/Lm2285.webp"
 tags: [categorie/pets-meshes, sous-categorie/brainrots-animes, type/lib-mesh]
 ---
@@ -19,4 +19,4 @@ Modèle en MeshParts « Chicleteirina Bicicleteirina ». Aperçu rendu dans Robl
 - **Sous-catégorie** : [Brainrots animés](Brainrots%20anim%C3%A9s.md)
 - **Type** : Modèle en MeshParts
 - **Contenu** : 1 MeshPart
-- **Fichier source** : `packs/Brainrots_Animated/Normal/Chicleteirina Bicicleteirina.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/packs/Brainrots_Animated/Normal/Chicleteirina Bicicleteirina.rbxm` (dans le vault)

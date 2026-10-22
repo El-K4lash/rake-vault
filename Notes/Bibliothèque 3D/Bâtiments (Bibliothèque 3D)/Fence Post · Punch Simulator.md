@@ -6,7 +6,7 @@ sous-catégorie: "Bâtiments"
 type: "Modèle en Parts"
 taille: "5 × 2 × 1"
 jeu: "Punch Simulator"
-source: "models/ByType/Buildings/PunchSim_FencePost.rbxm"
+source: "Assets/models/ByType/Buildings/PunchSim_FencePost.rbxm"
 image: "_img/Lp0082.webp"
 tags: [categorie/bibliotheque-3d, sous-categorie/batiments, type/lib-part, jeu/punch-simulator]
 ---
@@ -23,4 +23,4 @@ Modèle en Parts « Fence Post » (Punch Simulator).
 - **Taille** : 5 × 2 × 1 studs
 - **Contenu** : 6 Parts
 - **Jeu d'origine** : Punch Simulator
-- **Fichier source** : `models/ByType/Buildings/PunchSim_FencePost.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Buildings/PunchSim_FencePost.rbxm` (dans le vault)

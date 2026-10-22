@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Assets de jeux"
 type: "Modèle en MeshParts"
 jeu: "Robot Simulator"
-source: "models/FromGames/Robot Simulator/Pets.rbxm"
+source: "Assets/models/FromGames/Robot Simulator/Pets.rbxm"
 image: "_img/Lm1691.webp"
 tags: [categorie/pets-meshes, sous-categorie/assets-de-jeux, type/lib-mesh, jeu/robot-simulator]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « Pets » (Robot Simulator). Aperçu : forme du mesh princ
 - **Type** : Modèle en MeshParts
 - **Contenu** : 59 Parts · 910 MeshParts
 - **Jeu d'origine** : Robot Simulator
-- **Fichier source** : `models/FromGames/Robot Simulator/Pets.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/FromGames/Robot Simulator/Pets.rbxm` (dans le vault)

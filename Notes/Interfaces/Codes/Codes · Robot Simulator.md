@@ -5,7 +5,7 @@ catégorie: "Interfaces"
 sous-catégorie: "Codes"
 type: "Interface (ScreenGui)"
 jeu: "Robot Simulator"
-source: "ui/ByType/Codes/RobotSim_Codes.rbxm"
+source: "Assets/ui/ByType/Codes/RobotSim_Codes.rbxm"
 image: "_img/Lg0006.webp"
 tags: [categorie/interfaces, sous-categorie/codes, type/lib-gui, jeu/robot-simulator]
 ---
@@ -21,4 +21,4 @@ Interface « Codes » du jeu Robot Simulator. 10 éléments UI.
 - **Type** : Interface (ScreenGui)
 - **Contenu** : 10 éléments UI
 - **Jeu d'origine** : Robot Simulator
-- **Fichier source** : `ui/ByType/Codes/RobotSim_Codes.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/ui/ByType/Codes/RobotSim_Codes.rbxm` (dans le vault)

@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Pets"
 type: "Modèle en MeshParts"
 jeu: "Pet Pharmica"
-source: "models/ByType/Pets/PetPharmica_Arcc.rbxm"
+source: "Assets/models/ByType/Pets/PetPharmica_Arcc.rbxm"
 image: "_img/Lm1291.webp"
 tags: [categorie/pets-meshes, sous-categorie/pets, type/lib-mesh, jeu/pet-pharmica]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « Arcc » (Pet Pharmica). Aperçu rendu dans Roblox Studio
 - **Type** : Modèle en MeshParts
 - **Contenu** : 16 Parts · 15 MeshParts
 - **Jeu d'origine** : Pet Pharmica
-- **Fichier source** : `models/ByType/Pets/PetPharmica_Arcc.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Pets/PetPharmica_Arcc.rbxm` (dans le vault)

@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Maps & îles"
 type: "Modèle en MeshParts"
 jeu: "Mining Masters"
-source: "models/ByType/Maps_Islands_Worlds/MiningMasters_HalloweenEvent.rbxm"
+source: "Assets/models/ByType/Maps_Islands_Worlds/MiningMasters_HalloweenEvent.rbxm"
 image: "_img/Lm0854.webp"
 tags: [categorie/pets-meshes, sous-categorie/maps-iles, type/lib-mesh, jeu/mining-masters]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « Halloween Event » (Mining Masters). Aperçu rendu dans 
 - **Type** : Modèle en MeshParts
 - **Contenu** : 19 Parts · 440 MeshParts
 - **Jeu d'origine** : Mining Masters
-- **Fichier source** : `models/ByType/Maps_Islands_Worlds/MiningMasters_HalloweenEvent.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Maps_Islands_Worlds/MiningMasters_HalloweenEvent.rbxm` (dans le vault)

@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Œufs & incubateurs"
 type: "Modèle en MeshParts"
 jeu: "Rebirth Champions X"
-source: "models/ByType/Eggs_Incubators/RebirthChampionsX_Atlantis.rbxm"
+source: "Assets/models/ByType/Eggs_Incubators/RebirthChampionsX_Atlantis.rbxm"
 image: "_img/Lm0484.webp"
 tags: [categorie/pets-meshes, sous-categorie/ufs-incubateurs, type/lib-mesh, jeu/rebirth-champions-x]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « Atlantis » (Rebirth Champions X). Aperçu rendu dans Ro
 - **Type** : Modèle en MeshParts
 - **Contenu** : 4 MeshParts
 - **Jeu d'origine** : Rebirth Champions X
-- **Fichier source** : `models/ByType/Eggs_Incubators/RebirthChampionsX_Atlantis.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Eggs_Incubators/RebirthChampionsX_Atlantis.rbxm` (dans le vault)

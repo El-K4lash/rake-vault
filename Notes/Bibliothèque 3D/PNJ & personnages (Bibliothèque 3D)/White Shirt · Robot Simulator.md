@@ -6,7 +6,7 @@ sous-catégorie: "PNJ & personnages"
 type: "Modèle en Parts"
 taille: "5 × 4 × 1"
 jeu: "Robot Simulator"
-source: "models/ByType/NPC_Characters/RobotSim_WhiteShirt.rbxm"
+source: "Assets/models/ByType/NPC_Characters/RobotSim_WhiteShirt.rbxm"
 image: "_img/Lp1006.webp"
 tags: [categorie/bibliotheque-3d, sous-categorie/pnj-personnages, type/lib-part, jeu/robot-simulator]
 ---
@@ -23,4 +23,4 @@ Modèle en Parts « White Shirt » (Robot Simulator).
 - **Taille** : 5 × 4 × 1 studs
 - **Contenu** : 10 Parts
 - **Jeu d'origine** : Robot Simulator
-- **Fichier source** : `models/ByType/NPC_Characters/RobotSim_WhiteShirt.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/NPC_Characters/RobotSim_WhiteShirt.rbxm` (dans le vault)

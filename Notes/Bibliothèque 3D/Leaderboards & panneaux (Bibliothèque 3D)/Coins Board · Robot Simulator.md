@@ -6,7 +6,7 @@ sous-catégorie: "Leaderboards & panneaux"
 type: "Modèle en Parts"
 taille: "9 × 16 × 9"
 jeu: "Robot Simulator"
-source: "models/ByType/Leaderboards_Boards/RobotSim_CoinsBoard.rbxm"
+source: "Assets/models/ByType/Leaderboards_Boards/RobotSim_CoinsBoard.rbxm"
 image: "_img/Lp0711.webp"
 tags: [categorie/bibliotheque-3d, sous-categorie/leaderboards-panneaux, type/lib-part, jeu/robot-simulator]
 ---
@@ -23,4 +23,4 @@ Modèle en Parts « Coins Board » (Robot Simulator).
 - **Taille** : 9 × 16 × 9 studs
 - **Contenu** : 20 Parts · 5 MeshParts
 - **Jeu d'origine** : Robot Simulator
-- **Fichier source** : `models/ByType/Leaderboards_Boards/RobotSim_CoinsBoard.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Leaderboards_Boards/RobotSim_CoinsBoard.rbxm` (dans le vault)

@@ -5,7 +5,7 @@ catégorie: "Interfaces"
 sous-catégorie: "Robux & gamepass"
 type: "Interface (ScreenGui)"
 jeu: "Hatching Simulator"
-source: "ui/ByType/Robux_Gamepass/HatchingSim_RobuxBoosts.rbxm"
+source: "Assets/ui/ByType/Robux_Gamepass/HatchingSim_RobuxBoosts.rbxm"
 image: "_img/Lg0177.webp"
 tags: [categorie/interfaces, sous-categorie/robux-gamepass, type/lib-gui, jeu/hatching-simulator]
 ---
@@ -21,4 +21,4 @@ Interface « Robux Boosts » du jeu Hatching Simulator. 40 éléments UI.
 - **Type** : Interface (ScreenGui)
 - **Contenu** : 40 éléments UI
 - **Jeu d'origine** : Hatching Simulator
-- **Fichier source** : `ui/ByType/Robux_Gamepass/HatchingSim_RobuxBoosts.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/ui/ByType/Robux_Gamepass/HatchingSim_RobuxBoosts.rbxm` (dans le vault)

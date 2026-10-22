@@ -6,7 +6,7 @@ sous-catégorie: "Assets de jeux"
 type: "Modèle en Parts"
 taille: "10 × 1 × 10"
 jeu: "Tapping Lords"
-source: "models/FromGames/Tapping-Lords-Simulator/Workspace/StarUpgrades.rbxm"
+source: "Assets/models/FromGames/Tapping-Lords-Simulator/Workspace/StarUpgrades.rbxm"
 image: "_img/Lp1766.webp"
 tags: [categorie/bibliotheque-3d, sous-categorie/assets-de-jeux, type/lib-part, jeu/tapping-lords]
 ---
@@ -23,4 +23,4 @@ Modèle en Parts « Star Upgrades » (Tapping Lords).
 - **Taille** : 10 × 1 × 10 studs
 - **Contenu** : 10 Parts
 - **Jeu d'origine** : Tapping Lords
-- **Fichier source** : `models/FromGames/Tapping-Lords-Simulator/Workspace/StarUpgrades.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/FromGames/Tapping-Lords-Simulator/Workspace/StarUpgrades.rbxm` (dans le vault)

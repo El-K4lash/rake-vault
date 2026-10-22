@@ -1,0 +1,219 @@
+---
+title: "Pets — pack par type (194 modèles)"
+id: "Lx0022"
+catégorie: "Pets & meshes"
+sous-catégorie: "Pets"
+type: "Pack de fichiers"
+source: "Assets/models/ByType/Pets"
+image: "_img/Lm1280.webp"
+tags: [categorie/pets-meshes, sous-categorie/pets, type/lib-pack]
+---
+
+# Pets — pack par type (194 modèles)
+
+![Aperçu|480](../../_img/Lm1280.webp)
+
+Pack de 194 modèles « Pets » rangés par type dans ta lib (dossier `models/ByType/Pets`), extraits de 7 jeux : Pet Pharmica, Mining Masters, Hatching Simulator, Punch Simulator, +1 Jump Every Second, Magnet Simulator 2….
+
+- **Catégorie** : [Pets & meshes](../Pets%20&%20meshes.md)
+- **Sous-catégorie** : [Pets](Pets.md)
+- **Type** : Pack de fichiers
+- **Contenu** : 194 fichiers · 5,1 Mo
+- **Fichier source** : `Assets/models/ByType/Pets` (dans le vault)
+
+## Fichiers (194)
+
+- `1JumpEverySecond_ChristmasDominus.rbxm`
+- `1JumpEverySecond_CupcakeBunny.rbxm`
+- `1JumpEverySecond_DeadlyDarkDominus.rbxm`
+- `1JumpEverySecond_IceCreamGnome.rbxm`
+- `1JumpEverySecond_JellyBeanBear.rbxm`
+- `CashgrabBridge_White.rbxm`
+- `HatchingSim_Dino.rbxm`
+- `HatchingSim_FallenBunny.rbxm`
+- `HatchingSim_FallenDino.rbxm`
+- `HatchingSim_FlameDragon.rbxm`
+- `HatchingSim_FrostDoggy.rbxm`
+- `HatchingSim_FrostGolem.rbxm`
+- `HatchingSim_GalacticDino.rbxm`
+- `HatchingSim_GalacticDragon.rbxm`
+- `HatchingSim_GalacticGolem.rbxm`
+- `HatchingSim_GalacticSerpent.rbxm`
+- `HatchingSim_GalacticSpikey.rbxm`
+- `HatchingSim_GalacticUnicorn.rbxm`
+- `HatchingSim_IceSpikey.rbxm`
+- `HatchingSim_Kitty.rbxm`
+- `HatchingSim_Owl.rbxm`
+- `HatchingSim_ReleaseGolem.rbxm`
+- `HatchingSim_ReleaseStack.rbxm`
+- `HatchingSim_RockBoi.rbxm`
+- `HatchingSim_SnowOwl.rbxm`
+- `HatchingSim_Spikey.rbxm`
+- `HatchingSim_TheOverlord.rbxm`
+- `HatchingSim_VoidBoi.rbxm`
+- `HatchingSim_VoidBunny.rbxm`
+- `HatchingSim_VoidKitty.rbxm`
+- `HatchingSim_VoidMarshmallow.rbxm`
+- `HatchingSim_VoidOwl.rbxm`
+- `HatchingSim_VoidSphere.rbxm`
+- `HatchingSim_VoidStack.rbxm`
+- `MagnetSim2_HappyFudgicle.rbxm`
+- `MagnetSim2_MagmaFiend.rbxm`
+- `MagnetSim2_SadFudgicle.rbxm`
+- `MagnetSim2_Stud.rbxm`
+- `MiningMasters_Cat.rbxm`
+- `MiningMasters_Cat_2.rbxm`
+- `MiningMasters_Dog.rbxm`
+- `MiningMasters_Dog_2.rbxm`
+- `MiningMasters_Dragon.rbxm`
+- `MiningMasters_FennecFox.rbxm`
+- `MiningMasters_FireCat.rbxm`
+- `MiningMasters_FireDog.rbxm`
+- `MiningMasters_Fox.rbxm`
+- `MiningMasters_GoldenArticCat.rbxm`
+- `MiningMasters_GoldenArticFox.rbxm`
+- `MiningMasters_GoldenBat.rbxm`
+- `MiningMasters_GoldenBear.rbxm`
+- `MiningMasters_GoldenBlueFish.rbxm`
+- `MiningMasters_GoldenBunny.rbxm`
+- `MiningMasters_GoldenCamel.rbxm`
+- `MiningMasters_GoldenCat.rbxm`
+- `MiningMasters_GoldenCheetah.rbxm`
+- `MiningMasters_GoldenCookieCat.rbxm`
+- `MiningMasters_GoldenDog.rbxm`
+- `MiningMasters_GoldenDragon.rbxm`
+- `MiningMasters_GoldenFennecFox.rbxm`
+- `MiningMasters_GoldenFireCat.rbxm`
+- `MiningMasters_GoldenFireDog.rbxm`
+- `MiningMasters_GoldenFirePegasus.rbxm`
+- `MiningMasters_GoldenFireSlime.rbxm`
+- `MiningMasters_GoldenFish.rbxm`
+- `MiningMasters_GoldenFox.rbxm`
+- `MiningMasters_GoldenGingerbreadDog.rbxm`
+- `MiningMasters_GoldenHugeFirePegasus.rbxm`
+- `MiningMasters_GoldenHugeGriffin.rbxm`
+- `MiningMasters_GoldenMegaRobot.rbxm`
+- `MiningMasters_GoldenPanther.rbxm`
+- `MiningMasters_GoldenSandCat.rbxm`
+- `MiningMasters_GoldenScienceBunny.rbxm`
+- `MiningMasters_GoldenScienceCat.rbxm`
+- `MiningMasters_GoldenScienceDog.rbxm`
+- `MiningMasters_GreenGecko.rbxm`
+- `MiningMasters_Griffin.rbxm`
+- `MiningMasters_GroupPets.rbxm`
+- `MiningMasters_HugeCat.rbxm`
+- `MiningMasters_HugeCrab.rbxm`
+- `MiningMasters_HugeDog.rbxm`
+- `MiningMasters_HugeDonut.rbxm`
+- `MiningMasters_HugeDragon.rbxm`
+- `MiningMasters_HugeFirePegasus.rbxm`
+- `MiningMasters_HugeGriffin.rbxm`
+- `MiningMasters_HugeKillerDog.rbxm`
+- `MiningMasters_HugeLion.rbxm`
+- `MiningMasters_HugeMegaRobot.rbxm`
+- `MiningMasters_HugeMonkey.rbxm`
+- `MiningMasters_HugeReindeer.rbxm`
+- `MiningMasters_Lollipop.rbxm`
+- `MiningMasters_MarshMallow.rbxm`
+- `MiningMasters_MegaRobot.rbxm`
+- `MiningMasters_Octopus.rbxm`
+- `MiningMasters_Panther.rbxm`
+- `MiningMasters_Penguin.rbxm`
+- `MiningMasters_PurpleGecko.rbxm`
+- `MiningMasters_RobuxDoggy.rbxm`
+- `MiningMasters_SandCat.rbxm`
+- `MiningMasters_ScienceBunny.rbxm`
+- `MiningMasters_ScienceCat.rbxm`
+- `MiningMasters_ScienceDog.rbxm`
+- `MiningMasters_Seahorse.rbxm`
+- `MiningMasters_Shark.rbxm`
+- `MiningMasters_Snake.rbxm`
+- `MiningMasters_SnowMan.rbxm`
+- `MiningMasters_StarFish.rbxm`
+- `PetPharmica_1kBunny.rbxm`
+- `PetPharmica_1kButterfly.rbxm`
+- `PetPharmica_1kDeer.rbxm`
+- `PetPharmica_1kGuest.rbxm`
+- `PetPharmica_1kHugeCat.rbxm`
+- `PetPharmica_1kHugeDog.rbxm`
+- `PetPharmica_1kLord.rbxm`
+- `PetPharmica_1kTurtle.rbxm`
+- `PetPharmica_Axolotl.rbxm`
+- `PetPharmica_Bear.rbxm`
+- `PetPharmica_BlueFroggy.rbxm`
+- `PetPharmica_Bull.rbxm`
+- `PetPharmica_Bunny.rbxm`
+- `PetPharmica_Butterfly.rbxm`
+- `PetPharmica_CactusDog.rbxm`
+- `PetPharmica_Cat.rbxm`
+- `PetPharmica_Deer.rbxm`
+- `PetPharmica_DominusClump.rbxm`
+- `PetPharmica_DominusCrystal.rbxm`
+- `PetPharmica_DominusEvil.rbxm`
+- `PetPharmica_DominusSky.rbxm`
+- `PetPharmica_Dragon.rbxm`
+- `PetPharmica_Fishe.rbxm`
+- `PetPharmica_ForestQuin.rbxm`
+- `PetPharmica_Fox.rbxm`
+- `PetPharmica_Froggy.rbxm`
+- `PetPharmica_FroggyTwins.rbxm`
+- `PetPharmica_Golden.rbxm`
+- `PetPharmica_Guest.rbxm`
+- `PetPharmica_Head.rbxm`
+- `PetPharmica_HellFox.rbxm`
+- `PetPharmica_HellStar.rbxm`
+- `PetPharmica_HugeAlbino.rbxm`
+- `PetPharmica_HugeCactus.rbxm`
+- `PetPharmica_HugeDog.rbxm`
+- `PetPharmica_HugeDominus.rbxm`
+- `PetPharmica_HugeDragon.rbxm`
+- `PetPharmica_HugeGuest.rbxm`
+- `PetPharmica_HugeIcecube.rbxm`
+- `PetPharmica_IceCat.rbxm`
+- `PetPharmica_IceCube.rbxm`
+- `PetPharmica_IceDeer.rbxm`
+- `PetPharmica_IceDog.rbxm`
+- `PetPharmica_IceLord.rbxm`
+- `PetPharmica_KrakenCouplet.rbxm`
+- `PetPharmica_Lizard.rbxm`
+- `PetPharmica_MagmaBunny.rbxm`
+- `PetPharmica_MagmaCat.rbxm`
+- `PetPharmica_MagmaDog.rbxm`
+- `PetPharmica_MassivePearl.rbxm`
+- `PetPharmica_Normal.rbxm`
+- `PetPharmica_NyanCat.rbxm`
+- `PetPharmica_Panther.rbxm`
+- `PetPharmica_PinkBunny.rbxm`
+- `PetPharmica_Pirate.rbxm`
+- `PetPharmica_PirateDeer.rbxm`
+- `PetPharmica_PirateDog.rbxm`
+- `PetPharmica_PirateMonkey.rbxm`
+- `PetPharmica_Poseidon.rbxm`
+- `PetPharmica_PurpleFroggy.rbxm`
+- `PetPharmica_quicksilver8o6.rbxm`
+- `PetPharmica_RedFroggy.rbxm`
+- `PetPharmica_RobuxBeast.rbxm`
+- `PetPharmica_SandCat.rbxm`
+- `PetPharmica_SandImmortal.rbxm`
+- `PetPharmica_Shark.rbxm`
+- `PetPharmica_Sinister.rbxm`
+- `PetPharmica_Snake.rbxm`
+- `PetPharmica_SnowMaster.rbxm`
+- `PetPharmica_Spider.rbxm`
+- `PetPharmica_Stack.rbxm`
+- `PetPharmica_SurferCat.rbxm`
+- `PetPharmica_SurferDog.rbxm`
+- `PetPharmica_SwimmingFox.rbxm`
+- `PetPharmica_TitanicDog.rbxm`
+- `PetPharmica_Toxic.rbxm`
+- `PetPharmica_Turtle.rbxm`
+- `PetPharmica_WanderingShip.rbxm`
+- `PunchSim_ElectroSpirit.rbxm`
+- `PunchSim_EmeraldMonkey.rbxm`
+- `PunchSim_EvilSpirit.rbxm`
+- `PunchSim_ForestWyvern.rbxm`
+- `PunchSim_GalaxyBeast.rbxm`
+- `PunchSim_LavaDragon.rbxm`
+- `PunchSim_MegaKraken.rbxm`
+- `PunchSim_MidnightSpirit.rbxm`
+- `PunchSim_MoltenAlien.rbxm`

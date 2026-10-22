@@ -5,7 +5,7 @@ catégorie: "Interfaces"
 sous-catégorie: "Échanges"
 type: "Interface (ScreenGui)"
 jeu: "Mining Masters"
-source: "ui/ByType/Trade/MiningMasters_Trade.rbxm"
+source: "Assets/ui/ByType/Trade/MiningMasters_Trade.rbxm"
 image: "_img/Lg0224.webp"
 tags: [categorie/interfaces, sous-categorie/echanges, type/lib-gui, jeu/mining-masters]
 ---
@@ -21,4 +21,4 @@ Interface « Trade » du jeu Mining Masters. 17 éléments UI.
 - **Type** : Interface (ScreenGui)
 - **Contenu** : 17 éléments UI
 - **Jeu d'origine** : Mining Masters
-- **Fichier source** : `ui/ByType/Trade/MiningMasters_Trade.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/ui/ByType/Trade/MiningMasters_Trade.rbxm` (dans le vault)

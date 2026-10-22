@@ -5,7 +5,7 @@ catégorie: "Interfaces"
 sous-catégorie: "HUD & monnaie"
 type: "Interface (ScreenGui)"
 jeu: "Lib perso"
-source: "ui/ByType/HUD_Currency/Lib_HUD_ButtonsMoney.rbxm"
+source: "Assets/ui/ByType/HUD_Currency/Lib_HUD_ButtonsMoney.rbxm"
 image: "_img/Lg0050.webp"
 tags: [categorie/interfaces, sous-categorie/hud-monnaie, type/lib-gui, jeu/lib-perso]
 ---
@@ -21,4 +21,4 @@ Interface « HUD Buttons Money » du jeu Lib perso. 52 éléments UI.
 - **Type** : Interface (ScreenGui)
 - **Contenu** : 52 éléments UI
 - **Jeu d'origine** : Lib perso
-- **Fichier source** : `ui/ByType/HUD_Currency/Lib_HUD_ButtonsMoney.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/ui/ByType/HUD_Currency/Lib_HUD_ButtonsMoney.rbxm` (dans le vault)

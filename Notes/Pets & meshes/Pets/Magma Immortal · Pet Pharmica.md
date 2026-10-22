@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Pets"
 type: "Modèle en MeshParts"
 jeu: "Pet Pharmica"
-source: "models/ByType/Pets/PetPharmica_MagmaImmortal.rbxm"
+source: "Assets/models/ByType/Pets/PetPharmica_MagmaImmortal.rbxm"
 image: "_img/Lm1341.webp"
 tags: [categorie/pets-meshes, sous-categorie/pets, type/lib-mesh, jeu/pet-pharmica]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « Magma Immortal » (Pet Pharmica). Aperçu rendu dans Rob
 - **Type** : Modèle en MeshParts
 - **Contenu** : 9 MeshParts
 - **Jeu d'origine** : Pet Pharmica
-- **Fichier source** : `models/ByType/Pets/PetPharmica_MagmaImmortal.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Pets/PetPharmica_MagmaImmortal.rbxm` (dans le vault)

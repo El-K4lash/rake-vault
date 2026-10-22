@@ -6,7 +6,7 @@ sous-catégorie: "Chapeaux & accessoires"
 type: "Modèle en Parts"
 taille: "16 × 9 × 5"
 jeu: "Robot Simulator"
-source: "models/ByType/Accessories_Hats/RobotSim_DebugGlider.rbxm"
+source: "Assets/models/ByType/Accessories_Hats/RobotSim_DebugGlider.rbxm"
 image: "_img/Lp0048.webp"
 tags: [categorie/bibliotheque-3d, sous-categorie/chapeaux-accessoires, type/lib-part, jeu/robot-simulator]
 ---
@@ -23,4 +23,4 @@ Modèle en Parts « Debug Glider » (Robot Simulator).
 - **Taille** : 16 × 9 × 5 studs
 - **Contenu** : 36 Parts
 - **Jeu d'origine** : Robot Simulator
-- **Fichier source** : `models/ByType/Accessories_Hats/RobotSim_DebugGlider.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Accessories_Hats/RobotSim_DebugGlider.rbxm` (dans le vault)

@@ -5,7 +5,7 @@ catégorie: "Bibliothèque 3D"
 sous-catégorie: "Steal an Spooky Egg"
 type: "Modèle en Parts"
 taille: "33 × 34 × 49"
-source: "models/SpookyGame/Plot_Template.rbxm"
+source: "Assets/models/SpookyGame/Plot_Template.rbxm"
 image: "_img/Lp1803.webp"
 tags: [categorie/bibliotheque-3d, sous-categorie/steal-an-spooky-egg, type/lib-part]
 ---
@@ -21,4 +21,4 @@ Modèle en Parts « Plot Template ».
 - **Type** : Modèle en Parts
 - **Taille** : 33 × 34 × 49 studs
 - **Contenu** : 111 Parts
-- **Fichier source** : `models/SpookyGame/Plot_Template.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/SpookyGame/Plot_Template.rbxm` (dans le vault)

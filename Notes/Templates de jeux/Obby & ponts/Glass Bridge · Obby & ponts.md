@@ -4,7 +4,7 @@ id: "Lj0013"
 catégorie: "Templates de jeux"
 sous-catégorie: "Obby & ponts"
 type: "Place complète (.rbxl)"
-source: "games/Obby_Bridge/GlassBridge.rbxl"
+source: "Assets/games/Obby_Bridge/GlassBridge.rbxl"
 image: "_img/Lj0013.webp"
 tags: [categorie/templates-de-jeux, sous-categorie/obby-ponts, type/lib-game]
 ---
@@ -19,4 +19,4 @@ Place Roblox complète (.rbxl) : 273 scripts, 6950 instances.
 - **Sous-catégorie** : [Obby & ponts](Obby%20&%20ponts.md)
 - **Type** : Place complète (.rbxl)
 - **Contenu** : 273 scripts · 6 950 instances
-- **Fichier source** : `games/Obby_Bridge/GlassBridge.rbxl` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/games/Obby_Bridge/GlassBridge.rbxl` (dans le vault)

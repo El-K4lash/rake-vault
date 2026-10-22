@@ -4,7 +4,7 @@ id: "LfFstud_frame_templates"
 catégorie: "Interfaces"
 sous-catégorie: "Maquettes Figma"
 type: "Maquette Figma"
-source: "ui/Figma/stud frame templates.fig"
+source: "Assets/ui/Figma/stud frame templates.fig"
 image: "_img/LfFstud_frame_templates.webp"
 tags: [categorie/interfaces, sous-categorie/maquettes-figma, type/lib-fig]
 ---
@@ -18,7 +18,7 @@ Maquette Figma « Stud frame templates » : 2 frames. Le .fig s’ouvre dans Fig
 - **Catégorie** : [Interfaces](../Interfaces.md)
 - **Sous-catégorie** : [Maquettes Figma](Maquettes%20Figma.md)
 - **Type** : Maquette Figma
-- **Fichier source** : `ui/Figma/stud frame templates.fig` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/ui/Figma/stud frame templates.fig` (dans le vault)
 
 ## Maquette
 

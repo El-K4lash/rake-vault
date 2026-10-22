@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Assets de jeux"
 type: "Modèle en MeshParts"
 jeu: "Mining Masters"
-source: "models/FromGames/Mining-Masters/Workspace/HugeDragon.rbxm"
+source: "Assets/models/FromGames/Mining-Masters/Workspace/HugeDragon.rbxm"
 image: "_img/Lm1601.webp"
 tags: [categorie/pets-meshes, sous-categorie/assets-de-jeux, type/lib-mesh, jeu/mining-masters]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « Huge Dragon » (Mining Masters). Aperçu rendu dans Robl
 - **Type** : Modèle en MeshParts
 - **Contenu** : 12 MeshParts
 - **Jeu d'origine** : Mining Masters
-- **Fichier source** : `models/FromGames/Mining-Masters/Workspace/HugeDragon.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/FromGames/Mining-Masters/Workspace/HugeDragon.rbxm` (dans le vault)

@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Décor"
 type: "Modèle en MeshParts"
 jeu: "Billionaire Tycoon"
-source: "models/ByType/Decor_Props/BillionaireTycoon_BeachSet.rbxm"
+source: "Assets/models/ByType/Decor_Props/BillionaireTycoon_BeachSet.rbxm"
 image: "_img/Lm0185.webp"
 tags: [categorie/pets-meshes, sous-categorie/decor, type/lib-mesh, jeu/billionaire-tycoon]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « Beach Set » (Billionaire Tycoon). Aperçu rendu dans Ro
 - **Type** : Modèle en MeshParts
 - **Contenu** : 1 Part · 3 MeshParts
 - **Jeu d'origine** : Billionaire Tycoon
-- **Fichier source** : `models/ByType/Decor_Props/BillionaireTycoon_BeachSet.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Decor_Props/BillionaireTycoon_BeachSet.rbxm` (dans le vault)

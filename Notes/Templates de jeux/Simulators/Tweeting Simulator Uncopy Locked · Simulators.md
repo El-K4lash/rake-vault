@@ -4,7 +4,7 @@ id: "Lj0023"
 catégorie: "Templates de jeux"
 sous-catégorie: "Simulators"
 type: "Place complète (.rbxl)"
-source: "games/Simulators/Tweeting-Simulator-UncopyLocked.rbxl"
+source: "Assets/games/Simulators/Tweeting-Simulator-UncopyLocked.rbxl"
 image: "_img/Lj0023.webp"
 tags: [categorie/templates-de-jeux, sous-categorie/simulators, type/lib-game]
 ---
@@ -19,4 +19,4 @@ Place Roblox complète (.rbxl) : 185 scripts, 7743 instances.
 - **Sous-catégorie** : [Simulators](Simulators.md)
 - **Type** : Place complète (.rbxl)
 - **Contenu** : 185 scripts · 7 743 instances
-- **Fichier source** : `games/Simulators/Tweeting-Simulator-UncopyLocked.rbxl` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/games/Simulators/Tweeting-Simulator-UncopyLocked.rbxl` (dans le vault)

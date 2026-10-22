@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Bâtiments"
 type: "Modèle en MeshParts"
 jeu: "Pet Pharmica"
-source: "models/ByType/Buildings/PetPharmica_Door.rbxm"
+source: "Assets/models/ByType/Buildings/PetPharmica_Door.rbxm"
 image: "_img/Lm0077.webp"
 tags: [categorie/pets-meshes, sous-categorie/batiments, type/lib-mesh, jeu/pet-pharmica]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « Door » (Pet Pharmica). Aperçu rendu dans Roblox Studio
 - **Type** : Modèle en MeshParts
 - **Contenu** : 1 Part · 8 MeshParts
 - **Jeu d'origine** : Pet Pharmica
-- **Fichier source** : `models/ByType/Buildings/PetPharmica_Door.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Buildings/PetPharmica_Door.rbxm` (dans le vault)

@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Bâtiments"
 type: "Modèle en MeshParts"
 jeu: "Rebirth Champions X"
-source: "models/ByType/Buildings/RebirthChampionsX_Bridge.rbxm"
+source: "Assets/models/ByType/Buildings/RebirthChampionsX_Bridge.rbxm"
 image: "_img/Lm0086.webp"
 tags: [categorie/pets-meshes, sous-categorie/batiments, type/lib-mesh, jeu/rebirth-champions-x]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « Bridge » (Rebirth Champions X). Aperçu rendu dans Robl
 - **Type** : Modèle en MeshParts
 - **Contenu** : 5 MeshParts
 - **Jeu d'origine** : Rebirth Champions X
-- **Fichier source** : `models/ByType/Buildings/RebirthChampionsX_Bridge.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Buildings/RebirthChampionsX_Bridge.rbxm` (dans le vault)

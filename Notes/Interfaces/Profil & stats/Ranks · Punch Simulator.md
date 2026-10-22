@@ -5,7 +5,7 @@ catégorie: "Interfaces"
 sous-catégorie: "Profil & stats"
 type: "Interface (ScreenGui)"
 jeu: "Punch Simulator"
-source: "ui/ByType/Profile_Stats/PunchSim_Ranks.rbxm"
+source: "Assets/ui/ByType/Profile_Stats/PunchSim_Ranks.rbxm"
 image: "_img/Lg0147.webp"
 tags: [categorie/interfaces, sous-categorie/profil-stats, type/lib-gui, jeu/punch-simulator]
 ---
@@ -21,4 +21,4 @@ Interface « Ranks » du jeu Punch Simulator. 34 éléments UI.
 - **Type** : Interface (ScreenGui)
 - **Contenu** : 34 éléments UI
 - **Jeu d'origine** : Punch Simulator
-- **Fichier source** : `ui/ByType/Profile_Stats/PunchSim_Ranks.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/ui/ByType/Profile_Stats/PunchSim_Ranks.rbxm` (dans le vault)

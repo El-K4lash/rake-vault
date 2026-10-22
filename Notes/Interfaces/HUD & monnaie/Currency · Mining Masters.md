@@ -5,7 +5,7 @@ catégorie: "Interfaces"
 sous-catégorie: "HUD & monnaie"
 type: "Interface (ScreenGui)"
 jeu: "Mining Masters"
-source: "ui/ByType/HUD_Currency/MiningMasters_Currency.rbxm"
+source: "Assets/ui/ByType/HUD_Currency/MiningMasters_Currency.rbxm"
 image: "_img/Lg0052.webp"
 tags: [categorie/interfaces, sous-categorie/hud-monnaie, type/lib-gui, jeu/mining-masters]
 ---
@@ -21,4 +21,4 @@ Interface « Currency » du jeu Mining Masters. 14 éléments UI.
 - **Type** : Interface (ScreenGui)
 - **Contenu** : 14 éléments UI
 - **Jeu d'origine** : Mining Masters
-- **Fichier source** : `ui/ByType/HUD_Currency/MiningMasters_Currency.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/ui/ByType/HUD_Currency/MiningMasters_Currency.rbxm` (dans le vault)

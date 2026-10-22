@@ -5,7 +5,7 @@ catégorie: "Interfaces"
 sous-catégorie: "Chargement & intro"
 type: "Interface (ScreenGui)"
 jeu: "Rebirth Champions X"
-source: "ui/ByType/Loading_Intro/RebirthChampionsX_Loading.rbxm"
+source: "Assets/ui/ByType/Loading_Intro/RebirthChampionsX_Loading.rbxm"
 image: "_img/Lg0082.webp"
 tags: [categorie/interfaces, sous-categorie/chargement-intro, type/lib-gui, jeu/rebirth-champions-x]
 ---
@@ -21,4 +21,4 @@ Interface « Loading » du jeu Rebirth Champions X. 12 éléments UI.
 - **Type** : Interface (ScreenGui)
 - **Contenu** : 12 éléments UI
 - **Jeu d'origine** : Rebirth Champions X
-- **Fichier source** : `ui/ByType/Loading_Intro/RebirthChampionsX_Loading.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/ui/ByType/Loading_Intro/RebirthChampionsX_Loading.rbxm` (dans le vault)

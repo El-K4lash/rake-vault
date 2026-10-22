@@ -6,7 +6,7 @@ sous-catégorie: "Leaderboards & panneaux"
 type: "Modèle en Parts"
 taille: "38 × 20 × 38"
 jeu: "Robot Simulator"
-source: "models/ByType/Leaderboards_Boards/RobotSim_TycoonSign.rbxm"
+source: "Assets/models/ByType/Leaderboards_Boards/RobotSim_TycoonSign.rbxm"
 image: "_img/Lp0727.webp"
 tags: [categorie/bibliotheque-3d, sous-categorie/leaderboards-panneaux, type/lib-part, jeu/robot-simulator]
 ---
@@ -23,4 +23,4 @@ Modèle en Parts « Tycoon Sign » (Robot Simulator).
 - **Taille** : 38 × 20 × 38 studs
 - **Contenu** : 13 Parts · 7 MeshParts
 - **Jeu d'origine** : Robot Simulator
-- **Fichier source** : `models/ByType/Leaderboards_Boards/RobotSim_TycoonSign.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Leaderboards_Boards/RobotSim_TycoonSign.rbxm` (dans le vault)

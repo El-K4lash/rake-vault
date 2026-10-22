@@ -5,7 +5,7 @@ catégorie: "Interfaces"
 sous-catégorie: "Paramètres"
 type: "Interface (ScreenGui)"
 jeu: "Pet Pharmica"
-source: "ui/ByType/Settings/PetPharmica_Settings.rbxm"
+source: "Assets/ui/ByType/Settings/PetPharmica_Settings.rbxm"
 image: "_img/Lg0187.webp"
 tags: [categorie/interfaces, sous-categorie/parametres, type/lib-gui, jeu/pet-pharmica]
 ---
@@ -21,4 +21,4 @@ Interface « Settings » du jeu Pet Pharmica. 23 éléments UI.
 - **Type** : Interface (ScreenGui)
 - **Contenu** : 23 éléments UI
 - **Jeu d'origine** : Pet Pharmica
-- **Fichier source** : `ui/ByType/Settings/PetPharmica_Settings.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/ui/ByType/Settings/PetPharmica_Settings.rbxm` (dans le vault)

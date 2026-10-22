@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Assets de jeux"
 type: "Modèle en MeshParts"
 jeu: "First Donations"
-source: "models/FromGames/First_Donations/Workspace/Spotlight.rbxm"
+source: "Assets/models/FromGames/First_Donations/Workspace/Spotlight.rbxm"
 image: "_img/Lm1546.webp"
 tags: [categorie/pets-meshes, sous-categorie/assets-de-jeux, type/lib-mesh, jeu/first-donations]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « Spotlight » (First Donations). Aperçu rendu dans Roblo
 - **Type** : Modèle en MeshParts
 - **Contenu** : 8 MeshParts
 - **Jeu d'origine** : First Donations
-- **Fichier source** : `models/FromGames/First_Donations/Workspace/Spotlight.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/FromGames/First_Donations/Workspace/Spotlight.rbxm` (dans le vault)

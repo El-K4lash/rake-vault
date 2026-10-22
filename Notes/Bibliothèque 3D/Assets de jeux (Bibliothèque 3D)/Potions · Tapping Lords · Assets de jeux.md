@@ -6,7 +6,7 @@ sous-catégorie: "Assets de jeux"
 type: "Modèle en Parts"
 taille: "25 × 1 × 25"
 jeu: "Tapping Lords"
-source: "models/FromGames/Tapping-Lords-Simulator/Workspace/Potions.rbxm"
+source: "Assets/models/FromGames/Tapping-Lords-Simulator/Workspace/Potions.rbxm"
 image: "_img/Lp1761.webp"
 tags: [categorie/bibliotheque-3d, sous-categorie/assets-de-jeux, type/lib-part, jeu/tapping-lords]
 ---
@@ -23,4 +23,4 @@ Modèle en Parts « Potions » (Tapping Lords).
 - **Taille** : 25 × 1 × 25 studs
 - **Contenu** : 10 Parts
 - **Jeu d'origine** : Tapping Lords
-- **Fichier source** : `models/FromGames/Tapping-Lords-Simulator/Workspace/Potions.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/FromGames/Tapping-Lords-Simulator/Workspace/Potions.rbxm` (dans le vault)

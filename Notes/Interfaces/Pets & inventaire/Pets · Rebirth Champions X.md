@@ -5,7 +5,7 @@ catégorie: "Interfaces"
 sous-catégorie: "Pets & inventaire"
 type: "Interface (ScreenGui)"
 jeu: "Rebirth Champions X"
-source: "ui/ByType/Pets_Inventory/RebirthChampionsX_Pets.rbxm"
+source: "Assets/ui/ByType/Pets_Inventory/RebirthChampionsX_Pets.rbxm"
 image: "_img/Lg0140.webp"
 tags: [categorie/interfaces, sous-categorie/pets-inventaire, type/lib-gui, jeu/rebirth-champions-x]
 ---
@@ -21,4 +21,4 @@ Interface « Pets » du jeu Rebirth Champions X. 43 éléments UI.
 - **Type** : Interface (ScreenGui)
 - **Contenu** : 43 éléments UI
 - **Jeu d'origine** : Rebirth Champions X
-- **Fichier source** : `ui/ByType/Pets_Inventory/RebirthChampionsX_Pets.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/ui/ByType/Pets_Inventory/RebirthChampionsX_Pets.rbxm` (dans le vault)

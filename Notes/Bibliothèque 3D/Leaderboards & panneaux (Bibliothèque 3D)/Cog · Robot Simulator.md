@@ -6,7 +6,7 @@ sous-catégorie: "Leaderboards & panneaux"
 type: "Modèle en Parts"
 taille: "7 × 10 × 7"
 jeu: "Robot Simulator"
-source: "models/ByType/Leaderboards_Boards/RobotSim_Cog.rbxm"
+source: "Assets/models/ByType/Leaderboards_Boards/RobotSim_Cog.rbxm"
 image: "_img/Lp0709.webp"
 tags: [categorie/bibliotheque-3d, sous-categorie/leaderboards-panneaux, type/lib-part, jeu/robot-simulator]
 ---
@@ -23,4 +23,4 @@ Modèle en Parts « Cog » (Robot Simulator).
 - **Taille** : 7 × 10 × 7 studs
 - **Contenu** : 9 Parts · 9 MeshParts
 - **Jeu d'origine** : Robot Simulator
-- **Fichier source** : `models/ByType/Leaderboards_Boards/RobotSim_Cog.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Leaderboards_Boards/RobotSim_Cog.rbxm` (dans le vault)

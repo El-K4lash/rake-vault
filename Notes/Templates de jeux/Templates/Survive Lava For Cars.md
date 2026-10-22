@@ -4,7 +4,7 @@ id: "Lj0053"
 catégorie: "Templates de jeux"
 sous-catégorie: "Templates"
 type: "Place complète (.rbxl)"
-source: "kits/Templates/Survive Lava For Cars.rbxl"
+source: "Assets/kits/Templates/Survive Lava For Cars.rbxl"
 image: "_img/Lj0053.webp"
 tags: [categorie/templates-de-jeux, sous-categorie/templates, type/lib-game]
 ---
@@ -19,4 +19,4 @@ Place Roblox complète (.rbxl) : 113 scripts, 8168 instances.
 - **Sous-catégorie** : [Templates](Templates.md)
 - **Type** : Place complète (.rbxl)
 - **Contenu** : 113 scripts · 8 168 instances
-- **Fichier source** : `kits/Templates/Survive Lava For Cars.rbxl` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/kits/Templates/Survive Lava For Cars.rbxl` (dans le vault)

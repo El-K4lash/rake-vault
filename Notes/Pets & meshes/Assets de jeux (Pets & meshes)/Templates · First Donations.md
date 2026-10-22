@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Assets de jeux"
 type: "Modèle en MeshParts"
 jeu: "First Donations"
-source: "models/FromGames/First_Donations/Templates.rbxm"
+source: "Assets/models/FromGames/First_Donations/Templates.rbxm"
 image: "_img/Lm1531.webp"
 tags: [categorie/pets-meshes, sous-categorie/assets-de-jeux, type/lib-mesh, jeu/first-donations]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « Templates » (First Donations). Aperçu : forme du mesh 
 - **Type** : Modèle en MeshParts
 - **Contenu** : 7 MeshParts
 - **Jeu d'origine** : First Donations
-- **Fichier source** : `models/FromGames/First_Donations/Templates.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/FromGames/First_Donations/Templates.rbxm` (dans le vault)

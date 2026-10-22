@@ -6,7 +6,7 @@ sous-catégorie: "PNJ & personnages"
 type: "Modèle en Parts"
 taille: "2 × 3 × 3"
 jeu: "Pet Pharmica"
-source: "models/ByType/NPC_Characters/PetPharmica_Pharmox.rbxm"
+source: "Assets/models/ByType/NPC_Characters/PetPharmica_Pharmox.rbxm"
 image: "_img/Lp0983.webp"
 tags: [categorie/bibliotheque-3d, sous-categorie/pnj-personnages, type/lib-part, jeu/pet-pharmica]
 ---
@@ -23,4 +23,4 @@ Modèle en Parts « Pharmox » (Pet Pharmica).
 - **Taille** : 2 × 3 × 3 studs
 - **Contenu** : 6 Parts · 1 MeshPart
 - **Jeu d'origine** : Pet Pharmica
-- **Fichier source** : `models/ByType/NPC_Characters/PetPharmica_Pharmox.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/NPC_Characters/PetPharmica_Pharmox.rbxm` (dans le vault)

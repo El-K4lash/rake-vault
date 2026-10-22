@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Assets de jeux"
 type: "Modèle en MeshParts"
 jeu: "Glass Bridge"
-source: "models/FromGames/GlassBridge/Workspace/BackPortal.rbxm"
+source: "Assets/models/FromGames/GlassBridge/Workspace/BackPortal.rbxm"
 image: "_img/Lm1556.webp"
 tags: [categorie/pets-meshes, sous-categorie/assets-de-jeux, type/lib-mesh, jeu/glass-bridge]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « Back Portal » (Glass Bridge). Aperçu rendu dans Roblox
 - **Type** : Modèle en MeshParts
 - **Contenu** : 1 Part · 15 MeshParts
 - **Jeu d'origine** : Glass Bridge
-- **Fichier source** : `models/FromGames/GlassBridge/Workspace/BackPortal.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/FromGames/GlassBridge/Workspace/BackPortal.rbxm` (dans le vault)

@@ -5,7 +5,7 @@ catégorie: "Bibliothèque 3D"
 sous-catégorie: "Halloween"
 type: "Modèle en Parts"
 taille: "3 × 8 × 4"
-source: "packs/Halloween/BatSkins_Tools/_Backup.rbxm"
+source: "Assets/packs/Halloween/BatSkins_Tools/_Backup.rbxm"
 image: "_img/Lp2605.webp"
 tags: [categorie/bibliotheque-3d, sous-categorie/halloween, type/lib-part]
 ---
@@ -21,4 +21,4 @@ Modèle en Parts « Backup ».
 - **Type** : Modèle en Parts
 - **Taille** : 3 × 8 × 4 studs
 - **Contenu** : 68 Parts
-- **Fichier source** : `packs/Halloween/BatSkins_Tools/_Backup.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/packs/Halloween/BatSkins_Tools/_Backup.rbxm` (dans le vault)

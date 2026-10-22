@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Décor"
 type: "Modèle en MeshParts"
 jeu: "Punch Simulator"
-source: "models/ByType/Decor_Props/PunchSim_Arrow.rbxm"
+source: "Assets/models/ByType/Decor_Props/PunchSim_Arrow.rbxm"
 image: "_img/Lm0305.webp"
 tags: [categorie/pets-meshes, sous-categorie/decor, type/lib-mesh, jeu/punch-simulator]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « Arrow » (Punch Simulator). Aperçu rendu dans Roblox St
 - **Type** : Modèle en MeshParts
 - **Contenu** : 1 MeshPart
 - **Jeu d'origine** : Punch Simulator
-- **Fichier source** : `models/ByType/Decor_Props/PunchSim_Arrow.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Decor_Props/PunchSim_Arrow.rbxm` (dans le vault)

@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Décor"
 type: "Modèle en MeshParts"
 jeu: "+1 Health Every Second"
-source: "models/ByType/Decor_Props/1HealthEverySecond_DeadTree.rbxm"
+source: "Assets/models/ByType/Decor_Props/1HealthEverySecond_DeadTree.rbxm"
 image: "_img/Lm0154.webp"
 tags: [categorie/pets-meshes, sous-categorie/decor, type/lib-mesh, jeu/1-health-every-second]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « Dead Tree » (+1 Health Every Second). Aperçu rendu dan
 - **Type** : Modèle en MeshParts
 - **Contenu** : 1 MeshPart
 - **Jeu d'origine** : +1 Health Every Second
-- **Fichier source** : `models/ByType/Decor_Props/1HealthEverySecond_DeadTree.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Decor_Props/1HealthEverySecond_DeadTree.rbxm` (dans le vault)

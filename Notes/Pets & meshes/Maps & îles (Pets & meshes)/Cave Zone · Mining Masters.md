@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Maps & îles"
 type: "Modèle en MeshParts"
 jeu: "Mining Masters"
-source: "models/ByType/Maps_Islands_Worlds/MiningMasters_CaveZone.rbxm"
+source: "Assets/models/ByType/Maps_Islands_Worlds/MiningMasters_CaveZone.rbxm"
 image: "_img/Lm0852.webp"
 tags: [categorie/pets-meshes, sous-categorie/maps-iles, type/lib-mesh, jeu/mining-masters]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « Cave Zone » (Mining Masters). Aperçu : forme du mesh p
 - **Type** : Modèle en MeshParts
 - **Contenu** : 169 MeshParts
 - **Jeu d'origine** : Mining Masters
-- **Fichier source** : `models/ByType/Maps_Islands_Worlds/MiningMasters_CaveZone.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Maps_Islands_Worlds/MiningMasters_CaveZone.rbxm` (dans le vault)

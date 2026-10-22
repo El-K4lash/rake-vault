@@ -5,7 +5,7 @@ catégorie: "Interfaces"
 sous-catégorie: "Quêtes & saison"
 type: "Interface (ScreenGui)"
 jeu: "Tapping Lords"
-source: "ui/ByType/Quests_Season/TappingLords_Achievements.rbxm"
+source: "Assets/ui/ByType/Quests_Season/TappingLords_Achievements.rbxm"
 image: "_img/Lg0158.webp"
 tags: [categorie/interfaces, sous-categorie/quetes-saison, type/lib-gui, jeu/tapping-lords]
 ---
@@ -21,4 +21,4 @@ Interface « Achievements » du jeu Tapping Lords. 41 éléments UI.
 - **Type** : Interface (ScreenGui)
 - **Contenu** : 41 éléments UI
 - **Jeu d'origine** : Tapping Lords
-- **Fichier source** : `ui/ByType/Quests_Season/TappingLords_Achievements.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/ui/ByType/Quests_Season/TappingLords_Achievements.rbxm` (dans le vault)

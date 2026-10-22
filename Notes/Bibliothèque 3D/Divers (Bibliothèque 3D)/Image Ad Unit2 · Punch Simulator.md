@@ -6,7 +6,7 @@ sous-catégorie: "Divers"
 type: "Modèle en Parts"
 taille: "21 × 10 × 1"
 jeu: "Punch Simulator"
-source: "models/ByType/Misc/PunchSim_ImageAdUnit2.rbxm"
+source: "Assets/models/ByType/Misc/PunchSim_ImageAdUnit2.rbxm"
 image: "_img/Lp0932.webp"
 tags: [categorie/bibliotheque-3d, sous-categorie/divers, type/lib-part, jeu/punch-simulator]
 ---
@@ -23,4 +23,4 @@ Modèle en Parts « Image Ad Unit2 » (Punch Simulator).
 - **Taille** : 21 × 10 × 1 studs
 - **Contenu** : 10 Parts · 4 MeshParts
 - **Jeu d'origine** : Punch Simulator
-- **Fichier source** : `models/ByType/Misc/PunchSim_ImageAdUnit2.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Misc/PunchSim_ImageAdUnit2.rbxm` (dans le vault)

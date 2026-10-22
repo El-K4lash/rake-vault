@@ -6,7 +6,7 @@ sous-catégorie: "Assets de jeux"
 type: "Modèle en Parts"
 taille: "145 × 14 × 90"
 jeu: "First Donations"
-source: "models/FromGames/First_Donations/Workspace/OfflineDonation.rbxm"
+source: "Assets/models/FromGames/First_Donations/Workspace/OfflineDonation.rbxm"
 image: "_img/Lp1541.webp"
 tags: [categorie/bibliotheque-3d, sous-categorie/assets-de-jeux, type/lib-part, jeu/first-donations]
 ---
@@ -23,4 +23,4 @@ Modèle en Parts « Offline Donation » (First Donations).
 - **Taille** : 145 × 14 × 90 studs
 - **Contenu** : 15 Parts · 105 MeshParts
 - **Jeu d'origine** : First Donations
-- **Fichier source** : `models/FromGames/First_Donations/Workspace/OfflineDonation.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/FromGames/First_Donations/Workspace/OfflineDonation.rbxm` (dans le vault)

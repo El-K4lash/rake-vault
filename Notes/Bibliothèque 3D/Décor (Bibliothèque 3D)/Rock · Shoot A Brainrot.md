@@ -6,7 +6,7 @@ sous-catégorie: "Décor"
 type: "Modèle en Parts"
 taille: "4 × 1 × 5"
 jeu: "Shoot A Brainrot"
-source: "models/ByType/Decor_Props/ShootABrainrot_Rock.rbxm"
+source: "Assets/models/ByType/Decor_Props/ShootABrainrot_Rock.rbxm"
 image: "_img/Lp0384.webp"
 tags: [categorie/bibliotheque-3d, sous-categorie/decor, type/lib-part, jeu/shoot-a-brainrot]
 ---
@@ -23,4 +23,4 @@ Modèle en Parts « Rock » (Shoot A Brainrot).
 - **Taille** : 4 × 1 × 5 studs
 - **Contenu** : 9 Parts
 - **Jeu d'origine** : Shoot A Brainrot
-- **Fichier source** : `models/ByType/Decor_Props/ShootABrainrot_Rock.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Decor_Props/ShootABrainrot_Rock.rbxm` (dans le vault)

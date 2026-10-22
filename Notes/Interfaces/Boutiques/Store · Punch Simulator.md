@@ -5,7 +5,7 @@ catégorie: "Interfaces"
 sous-catégorie: "Boutiques"
 type: "Interface (ScreenGui)"
 jeu: "Punch Simulator"
-source: "ui/ByType/Shop_Store/PunchSim_Store.rbxm"
+source: "Assets/ui/ByType/Shop_Store/PunchSim_Store.rbxm"
 image: "_img/Lg0202.webp"
 tags: [categorie/interfaces, sous-categorie/boutiques, type/lib-gui, jeu/punch-simulator]
 ---
@@ -21,4 +21,4 @@ Interface « Store » du jeu Punch Simulator. 351 éléments UI.
 - **Type** : Interface (ScreenGui)
 - **Contenu** : 351 éléments UI
 - **Jeu d'origine** : Punch Simulator
-- **Fichier source** : `ui/ByType/Shop_Store/PunchSim_Store.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/ui/ByType/Shop_Store/PunchSim_Store.rbxm` (dans le vault)

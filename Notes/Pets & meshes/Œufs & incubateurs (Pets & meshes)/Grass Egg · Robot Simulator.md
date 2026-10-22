@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Œufs & incubateurs"
 type: "Modèle en MeshParts"
 jeu: "Robot Simulator"
-source: "models/ByType/Eggs_Incubators/RobotSim_GrassEgg.rbxm"
+source: "Assets/models/ByType/Eggs_Incubators/RobotSim_GrassEgg.rbxm"
 image: "_img/Lm0558.webp"
 tags: [categorie/pets-meshes, sous-categorie/ufs-incubateurs, type/lib-mesh, jeu/robot-simulator]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « Grass Egg » (Robot Simulator). Aperçu rendu dans Roblo
 - **Type** : Modèle en MeshParts
 - **Contenu** : 5 MeshParts
 - **Jeu d'origine** : Robot Simulator
-- **Fichier source** : `models/ByType/Eggs_Incubators/RobotSim_GrassEgg.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Eggs_Incubators/RobotSim_GrassEgg.rbxm` (dans le vault)

@@ -4,7 +4,7 @@ id: "Lj0019"
 catégorie: "Templates de jeux"
 sous-catégorie: "Simulators"
 type: "Place complète (.rbxl)"
-source: "games/Simulators/Rebirth Champions X.rbxl"
+source: "Assets/games/Simulators/Rebirth Champions X.rbxl"
 image: "_img/Lj0019.webp"
 tags: [categorie/templates-de-jeux, sous-categorie/simulators, type/lib-game]
 ---
@@ -19,4 +19,4 @@ Place Roblox complète (.rbxl) : 100 scripts, 50317 instances.
 - **Sous-catégorie** : [Simulators](Simulators.md)
 - **Type** : Place complète (.rbxl)
 - **Contenu** : 100 scripts · 50 317 instances
-- **Fichier source** : `games/Simulators/Rebirth Champions X.rbxl` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/games/Simulators/Rebirth Champions X.rbxl` (dans le vault)

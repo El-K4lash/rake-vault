@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Décor"
 type: "Modèle en MeshParts"
 jeu: "Rebirth Champions X"
-source: "models/ByType/Decor_Props/RebirthChampionsX_EasterPass.rbxm"
+source: "Assets/models/ByType/Decor_Props/RebirthChampionsX_EasterPass.rbxm"
 image: "_img/Lm0329.webp"
 tags: [categorie/pets-meshes, sous-categorie/decor, type/lib-mesh, jeu/rebirth-champions-x]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « Easter Pass » (Rebirth Champions X). Aperçu rendu dans
 - **Type** : Modèle en MeshParts
 - **Contenu** : 2 MeshParts
 - **Jeu d'origine** : Rebirth Champions X
-- **Fichier source** : `models/ByType/Decor_Props/RebirthChampionsX_EasterPass.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Decor_Props/RebirthChampionsX_EasterPass.rbxm` (dans le vault)

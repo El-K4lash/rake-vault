@@ -6,7 +6,7 @@ sous-catégorie: "Œufs & incubateurs"
 type: "Modèle en Parts"
 taille: "2 × 6 × 2"
 jeu: "Tapping Lords"
-source: "models/ByType/Eggs_Incubators/TappingLords_Lava.rbxm"
+source: "Assets/models/ByType/Eggs_Incubators/TappingLords_Lava.rbxm"
 image: "_img/Lp0575.webp"
 tags: [categorie/bibliotheque-3d, sous-categorie/ufs-incubateurs, type/lib-part, jeu/tapping-lords]
 ---
@@ -23,4 +23,4 @@ Modèle en Parts « Lava » (Tapping Lords).
 - **Taille** : 2 × 6 × 2 studs
 - **Contenu** : 5 Parts · 1 MeshPart
 - **Jeu d'origine** : Tapping Lords
-- **Fichier source** : `models/ByType/Eggs_Incubators/TappingLords_Lava.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Eggs_Incubators/TappingLords_Lava.rbxm` (dans le vault)

@@ -5,7 +5,7 @@ catégorie: "Bibliothèque 3D"
 sous-catégorie: "Maps Spooky"
 type: "Modèle en Parts"
 taille: "190 × 50 × 288"
-source: "maps/SpookyBiomes/B6_DemonGate.rbxm"
+source: "Assets/maps/SpookyBiomes/B6_DemonGate.rbxm"
 image: "_img/Lp0015.webp"
 tags: [categorie/bibliotheque-3d, sous-categorie/maps-spooky, type/lib-part]
 ---
@@ -21,4 +21,4 @@ Modèle en Parts « B6 Demon Gate ».
 - **Type** : Modèle en Parts
 - **Taille** : 190 × 50 × 288 studs
 - **Contenu** : 1 394 Parts
-- **Fichier source** : `maps/SpookyBiomes/B6_DemonGate.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/maps/SpookyBiomes/B6_DemonGate.rbxm` (dans le vault)

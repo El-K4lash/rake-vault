@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Divers"
 type: "Modèle en MeshParts"
 jeu: "Punch Simulator"
-source: "models/ByType/Misc/PunchSim_Protection.rbxm"
+source: "Assets/models/ByType/Misc/PunchSim_Protection.rbxm"
 image: "_img/Lm0933.webp"
 tags: [categorie/pets-meshes, sous-categorie/divers, type/lib-mesh, jeu/punch-simulator]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « Protection » (Punch Simulator). Aperçu rendu dans Robl
 - **Type** : Modèle en MeshParts
 - **Contenu** : 1 MeshPart
 - **Jeu d'origine** : Punch Simulator
-- **Fichier source** : `models/ByType/Misc/PunchSim_Protection.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Misc/PunchSim_Protection.rbxm` (dans le vault)

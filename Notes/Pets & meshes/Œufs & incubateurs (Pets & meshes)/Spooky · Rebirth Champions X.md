@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Œufs & incubateurs"
 type: "Modèle en MeshParts"
 jeu: "Rebirth Champions X"
-source: "models/ByType/Eggs_Incubators/RebirthChampionsX_Spooky.rbxm"
+source: "Assets/models/ByType/Eggs_Incubators/RebirthChampionsX_Spooky.rbxm"
 image: "_img/Lm0533.webp"
 tags: [categorie/pets-meshes, sous-categorie/ufs-incubateurs, type/lib-mesh, jeu/rebirth-champions-x]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « Spooky » (Rebirth Champions X). Aperçu rendu dans Robl
 - **Type** : Modèle en MeshParts
 - **Contenu** : 2 Parts · 2 MeshParts
 - **Jeu d'origine** : Rebirth Champions X
-- **Fichier source** : `models/ByType/Eggs_Incubators/RebirthChampionsX_Spooky.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Eggs_Incubators/RebirthChampionsX_Spooky.rbxm` (dans le vault)

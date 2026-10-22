@@ -2,13 +2,13 @@
 title: "Halloween"
 type: "Sous-catégorie"
 catégorie: "Bibliothèque 3D"
-éléments: 11
+éléments: 13
 tags: [index, categorie/bibliotheque-3d]
 ---
 
 # Halloween
 
-Sous-catégorie de [Bibliothèque 3D](../Biblioth%C3%A8que%203D.md) · **11 éléments**
+Sous-catégorie de [Bibliothèque 3D](../Biblioth%C3%A8que%203D.md) · **13 éléments**
 
 | Aperçu | Élément | Infos |
 | --- | --- | --- |
@@ -23,3 +23,5 @@ Sous-catégorie de [Bibliothèque 3D](../Biblioth%C3%A8que%203D.md) · **11 él�
 | ![Aperçu\|120](../../_img/Lp2603.webp) | [VIP Bat](VIP%20Bat.md) | Modèle en Parts · 1 × 5 × 1 · 23 Parts |
 | ![Aperçu\|120](../../_img/Lp2610.webp) | [Vampire](Vampire.md) | Modèle en Parts · 5 × 9 × 3 · 40 Parts |
 | ![Aperçu\|120](../../_img/Lp2611.webp) | [Witch](Witch.md) | Modèle en Parts · 4 × 13 × 3 · 55 Parts |
+| ![Aperçu\|120](../../_img/Lx0057.webp) | [Halloween — anciennes versions (3)](Halloween%20%E2%80%94%20anciennes%20versions%20%283%29.md) | Pack de fichiers · 3 fichiers · 70 Ko |
+| ![Aperçu\|120](../../_img/Ly0058.webp) | [Scary Pack (by Milo)](Scary%20Pack%20%28by%20Milo%29.md) | Pack de fichiers · 4 fichiers · 0,6 Mo |

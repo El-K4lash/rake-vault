@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Pets"
 type: "Modèle en MeshParts"
 jeu: "Glass Bridge"
-source: "models/ByType/Pets/GlassBridge_DragonPlushie.rbxm"
+source: "Assets/models/ByType/Pets/GlassBridge_DragonPlushie.rbxm"
 image: "_img/Lm1095.webp"
 tags: [categorie/pets-meshes, sous-categorie/pets, type/lib-mesh, jeu/glass-bridge]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « Dragon Plushie » (Glass Bridge). Aperçu rendu dans Rob
 - **Type** : Modèle en MeshParts
 - **Contenu** : 12 MeshParts
 - **Jeu d'origine** : Glass Bridge
-- **Fichier source** : `models/ByType/Pets/GlassBridge_DragonPlushie.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Pets/GlassBridge_DragonPlushie.rbxm` (dans le vault)

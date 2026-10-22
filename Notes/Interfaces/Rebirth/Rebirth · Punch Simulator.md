@@ -5,7 +5,7 @@ catégorie: "Interfaces"
 sous-catégorie: "Rebirth"
 type: "Interface (ScreenGui)"
 jeu: "Punch Simulator"
-source: "ui/ByType/Rebirth/PunchSim_Rebirth.rbxm"
+source: "Assets/ui/ByType/Rebirth/PunchSim_Rebirth.rbxm"
 image: "_img/Lg0162.webp"
 tags: [categorie/interfaces, sous-categorie/rebirth, type/lib-gui, jeu/punch-simulator]
 ---
@@ -21,4 +21,4 @@ Interface « Rebirth » du jeu Punch Simulator. 35 éléments UI.
 - **Type** : Interface (ScreenGui)
 - **Contenu** : 35 éléments UI
 - **Jeu d'origine** : Punch Simulator
-- **Fichier source** : `ui/ByType/Rebirth/PunchSim_Rebirth.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/ui/ByType/Rebirth/PunchSim_Rebirth.rbxm` (dans le vault)

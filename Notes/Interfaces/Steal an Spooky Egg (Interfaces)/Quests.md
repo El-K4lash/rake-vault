@@ -4,7 +4,7 @@ id: "Lg0439"
 catégorie: "Interfaces"
 sous-catégorie: "Steal an Spooky Egg"
 type: "Interface (ScreenGui)"
-source: "ui/SpookyGame/Menus/Frames/Quests.rbxm"
+source: "Assets/ui/SpookyGame/Menus/Frames/Quests.rbxm"
 image: "_img/Lg0439.webp"
 tags: [categorie/interfaces, sous-categorie/steal-an-spooky-egg, type/lib-gui]
 ---
@@ -19,4 +19,4 @@ Interface « Quests ». 83 éléments UI.
 - **Sous-catégorie** : [Steal an Spooky Egg](Steal%20an%20Spooky%20Egg%20%28Interfaces%29.md)
 - **Type** : Interface (ScreenGui)
 - **Contenu** : 83 éléments UI
-- **Fichier source** : `ui/SpookyGame/Menus/Frames/Quests.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/ui/SpookyGame/Menus/Frames/Quests.rbxm` (dans le vault)

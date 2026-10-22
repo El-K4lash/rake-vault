@@ -4,7 +4,7 @@ id: "Ls0060"
 catégorie: "Systèmes & kits"
 sous-catégorie: "Systèmes"
 type: "Système de jeu"
-source: "systems/AnnounceGlobal_V1.2.rbxm"
+source: "Assets/systems/AnnounceGlobal_V1.2.rbxm"
 image: "_img/Ls0060.webp"
 tags: [categorie/systemes-kits, sous-categorie/systemes, type/lib-sys]
 ---
@@ -19,4 +19,4 @@ Système : 2 scripts.
 - **Sous-catégorie** : [Systèmes](Syst%C3%A8mes.md)
 - **Type** : Système de jeu
 - **Contenu** : 2 scripts · 7 instances
-- **Fichier source** : `systems/AnnounceGlobal_V1.2.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/systems/AnnounceGlobal_V1.2.rbxm` (dans le vault)

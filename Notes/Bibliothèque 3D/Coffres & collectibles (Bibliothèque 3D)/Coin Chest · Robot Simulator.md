@@ -6,7 +6,7 @@ sous-catégorie: "Coffres & collectibles"
 type: "Modèle en Parts"
 taille: "29 × 2 × 29"
 jeu: "Robot Simulator"
-source: "models/ByType/Collectibles_Chests/RobotSim_CoinChest.rbxm"
+source: "Assets/models/ByType/Collectibles_Chests/RobotSim_CoinChest.rbxm"
 image: "_img/Lp0137.webp"
 tags: [categorie/bibliotheque-3d, sous-categorie/coffres-collectibles, type/lib-part, jeu/robot-simulator]
 ---
@@ -23,4 +23,4 @@ Modèle en Parts « Coin Chest » (Robot Simulator).
 - **Taille** : 29 × 2 × 29 studs
 - **Contenu** : 29 Parts · 3 MeshParts
 - **Jeu d'origine** : Robot Simulator
-- **Fichier source** : `models/ByType/Collectibles_Chests/RobotSim_CoinChest.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Collectibles_Chests/RobotSim_CoinChest.rbxm` (dans le vault)

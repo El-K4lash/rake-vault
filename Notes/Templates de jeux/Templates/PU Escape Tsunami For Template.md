@@ -4,7 +4,7 @@ id: "Lj0046"
 catégorie: "Templates de jeux"
 sous-catégorie: "Templates"
 type: "Place complète (.rbxl)"
-source: "kits/Templates/PU - Escape Tsunami For Template.rbxl"
+source: "Assets/kits/Templates/PU - Escape Tsunami For Template.rbxl"
 image: "_img/Lj0046.webp"
 tags: [categorie/templates-de-jeux, sous-categorie/templates, type/lib-game]
 ---
@@ -19,4 +19,4 @@ Place Roblox complète (.rbxl) : 86 scripts, 7078 instances.
 - **Sous-catégorie** : [Templates](Templates.md)
 - **Type** : Place complète (.rbxl)
 - **Contenu** : 86 scripts · 7 078 instances
-- **Fichier source** : `kits/Templates/PU - Escape Tsunami For Template.rbxl` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/kits/Templates/PU - Escape Tsunami For Template.rbxl` (dans le vault)

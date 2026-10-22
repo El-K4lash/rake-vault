@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Divers"
 type: "Modèle en MeshParts"
 jeu: "Cashgrab Bridge"
-source: "models/ByType/Misc/CashgrabBridge_Violet.rbxm"
+source: "Assets/models/ByType/Misc/CashgrabBridge_Violet.rbxm"
 image: "_img/Lm0919.webp"
 tags: [categorie/pets-meshes, sous-categorie/divers, type/lib-mesh, jeu/cashgrab-bridge]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « Violet » (Cashgrab Bridge). Aperçu rendu dans Roblox S
 - **Type** : Modèle en MeshParts
 - **Contenu** : 2 Parts · 8 MeshParts
 - **Jeu d'origine** : Cashgrab Bridge
-- **Fichier source** : `models/ByType/Misc/CashgrabBridge_Violet.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Misc/CashgrabBridge_Violet.rbxm` (dans le vault)

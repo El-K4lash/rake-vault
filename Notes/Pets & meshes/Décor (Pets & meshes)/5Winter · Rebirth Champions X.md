@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Décor"
 type: "Modèle en MeshParts"
 jeu: "Rebirth Champions X"
-source: "models/ByType/Decor_Props/RebirthChampionsX_5Winter.rbxm"
+source: "Assets/models/ByType/Decor_Props/RebirthChampionsX_5Winter.rbxm"
 image: "_img/Lm0321.webp"
 tags: [categorie/pets-meshes, sous-categorie/decor, type/lib-mesh, jeu/rebirth-champions-x]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « 5Winter » (Rebirth Champions X). Aperçu rendu dans Rob
 - **Type** : Modèle en MeshParts
 - **Contenu** : 10 MeshParts
 - **Jeu d'origine** : Rebirth Champions X
-- **Fichier source** : `models/ByType/Decor_Props/RebirthChampionsX_5Winter.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Decor_Props/RebirthChampionsX_5Winter.rbxm` (dans le vault)

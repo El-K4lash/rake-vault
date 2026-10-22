@@ -5,7 +5,7 @@ catégorie: "Interfaces"
 sous-catégorie: "Robux & gamepass"
 type: "Interface (ScreenGui)"
 jeu: "Cashgrab Bridge"
-source: "ui/ByType/Robux_Gamepass/CashgrabBridge_KillAll.rbxm"
+source: "Assets/ui/ByType/Robux_Gamepass/CashgrabBridge_KillAll.rbxm"
 image: "_img/Lg0173.webp"
 tags: [categorie/interfaces, sous-categorie/robux-gamepass, type/lib-gui, jeu/cashgrab-bridge]
 ---
@@ -21,4 +21,4 @@ Interface « Kill All » du jeu Cashgrab Bridge. 3 éléments UI.
 - **Type** : Interface (ScreenGui)
 - **Contenu** : 3 éléments UI
 - **Jeu d'origine** : Cashgrab Bridge
-- **Fichier source** : `ui/ByType/Robux_Gamepass/CashgrabBridge_KillAll.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/ui/ByType/Robux_Gamepass/CashgrabBridge_KillAll.rbxm` (dans le vault)

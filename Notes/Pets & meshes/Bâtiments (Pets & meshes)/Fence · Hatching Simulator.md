@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Bâtiments"
 type: "Modèle en MeshParts"
 jeu: "Hatching Simulator"
-source: "models/ByType/Buildings/HatchingSim_Fence.rbxm"
+source: "Assets/models/ByType/Buildings/HatchingSim_Fence.rbxm"
 image: "_img/Lm0068.webp"
 tags: [categorie/pets-meshes, sous-categorie/batiments, type/lib-mesh, jeu/hatching-simulator]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « Fence » (Hatching Simulator). Aperçu rendu dans Roblox
 - **Type** : Modèle en MeshParts
 - **Contenu** : 3 MeshParts
 - **Jeu d'origine** : Hatching Simulator
-- **Fichier source** : `models/ByType/Buildings/HatchingSim_Fence.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Buildings/HatchingSim_Fence.rbxm` (dans le vault)

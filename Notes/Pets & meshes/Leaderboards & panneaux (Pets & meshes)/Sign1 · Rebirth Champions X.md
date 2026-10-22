@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Leaderboards & panneaux"
 type: "Modèle en MeshParts"
 jeu: "Rebirth Champions X"
-source: "models/ByType/Leaderboards_Boards/RebirthChampionsX_Sign1.rbxm"
+source: "Assets/models/ByType/Leaderboards_Boards/RebirthChampionsX_Sign1.rbxm"
 image: "_img/Lm0696.webp"
 tags: [categorie/pets-meshes, sous-categorie/leaderboards-panneaux, type/lib-mesh, jeu/rebirth-champions-x]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « Sign1 » (Rebirth Champions X). Aperçu rendu dans Roblo
 - **Type** : Modèle en MeshParts
 - **Contenu** : 3 MeshParts
 - **Jeu d'origine** : Rebirth Champions X
-- **Fichier source** : `models/ByType/Leaderboards_Boards/RebirthChampionsX_Sign1.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Leaderboards_Boards/RebirthChampionsX_Sign1.rbxm` (dans le vault)

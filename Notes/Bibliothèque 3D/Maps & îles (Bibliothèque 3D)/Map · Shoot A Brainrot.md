@@ -6,7 +6,7 @@ sous-catégorie: "Maps & îles"
 type: "Modèle en Parts"
 taille: "420 × 75 × 430"
 jeu: "Shoot A Brainrot"
-source: "models/ByType/Maps_Islands_Worlds/ShootABrainrot_Map.rbxm"
+source: "Assets/models/ByType/Maps_Islands_Worlds/ShootABrainrot_Map.rbxm"
 image: "_img/Lp0896.webp"
 tags: [categorie/bibliotheque-3d, sous-categorie/maps-iles, type/lib-part, jeu/shoot-a-brainrot]
 ---
@@ -23,4 +23,4 @@ Modèle en Parts « Map » (Shoot A Brainrot).
 - **Taille** : 420 × 75 × 430 studs
 - **Contenu** : 3 720 Parts · 100 MeshParts
 - **Jeu d'origine** : Shoot A Brainrot
-- **Fichier source** : `models/ByType/Maps_Islands_Worlds/ShootABrainrot_Map.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Maps_Islands_Worlds/ShootABrainrot_Map.rbxm` (dans le vault)

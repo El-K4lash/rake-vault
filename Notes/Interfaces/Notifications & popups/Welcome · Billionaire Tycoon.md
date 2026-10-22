@@ -5,7 +5,7 @@ catégorie: "Interfaces"
 sous-catégorie: "Notifications & popups"
 type: "Interface (ScreenGui)"
 jeu: "Billionaire Tycoon"
-source: "ui/ByType/Notifications_Popups/BillionaireTycoon_Welcome.rbxm"
+source: "Assets/ui/ByType/Notifications_Popups/BillionaireTycoon_Welcome.rbxm"
 image: "_img/Lg0116.webp"
 tags: [categorie/interfaces, sous-categorie/notifications-popups, type/lib-gui, jeu/billionaire-tycoon]
 ---
@@ -21,4 +21,4 @@ Interface « Welcome » du jeu Billionaire Tycoon. 28 éléments UI.
 - **Type** : Interface (ScreenGui)
 - **Contenu** : 28 éléments UI
 - **Jeu d'origine** : Billionaire Tycoon
-- **Fichier source** : `ui/ByType/Notifications_Popups/BillionaireTycoon_Welcome.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/ui/ByType/Notifications_Popups/BillionaireTycoon_Welcome.rbxm` (dans le vault)

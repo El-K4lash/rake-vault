@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Coffres & collectibles"
 type: "Modèle en MeshParts"
 jeu: "Mining Masters"
-source: "models/ByType/Collectibles_Chests/MiningMasters_Ore40.rbxm"
+source: "Assets/models/ByType/Collectibles_Chests/MiningMasters_Ore40.rbxm"
 image: "_img/Lm0122.webp"
 tags: [categorie/pets-meshes, sous-categorie/coffres-collectibles, type/lib-mesh, jeu/mining-masters]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « Ore40 » (Mining Masters). Aperçu rendu dans Roblox Stu
 - **Type** : Modèle en MeshParts
 - **Contenu** : 1 MeshPart
 - **Jeu d'origine** : Mining Masters
-- **Fichier source** : `models/ByType/Collectibles_Chests/MiningMasters_Ore40.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Collectibles_Chests/MiningMasters_Ore40.rbxm` (dans le vault)

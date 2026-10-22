@@ -5,7 +5,7 @@ catégorie: "Interfaces"
 sous-catégorie: "HUD & monnaie"
 type: "Interface (ScreenGui)"
 jeu: "Tapping Lords"
-source: "ui/ByType/HUD_Currency/TappingLords_PotionTimers.rbxm"
+source: "Assets/ui/ByType/HUD_Currency/TappingLords_PotionTimers.rbxm"
 image: "_img/Lg0064.webp"
 tags: [categorie/interfaces, sous-categorie/hud-monnaie, type/lib-gui, jeu/tapping-lords]
 ---
@@ -21,4 +21,4 @@ Interface « Potion Timers » du jeu Tapping Lords. 5 éléments UI.
 - **Type** : Interface (ScreenGui)
 - **Contenu** : 5 éléments UI
 - **Jeu d'origine** : Tapping Lords
-- **Fichier source** : `ui/ByType/HUD_Currency/TappingLords_PotionTimers.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/ui/ByType/HUD_Currency/TappingLords_PotionTimers.rbxm` (dans le vault)

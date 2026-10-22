@@ -4,7 +4,7 @@ id: "LfFwtever"
 catégorie: "Interfaces"
 sous-catégorie: "Maquettes Figma"
 type: "Maquette Figma"
-source: "ui/Figma/wtever.fig"
+source: "Assets/ui/Figma/wtever.fig"
 image: "_img/LfFwtever.webp"
 tags: [categorie/interfaces, sous-categorie/maquettes-figma, type/lib-fig]
 ---
@@ -18,7 +18,7 @@ Maquette Figma « Wtever » : 1 frame. Le .fig s’ouvre dans Figma (glisser le 
 - **Catégorie** : [Interfaces](../Interfaces.md)
 - **Sous-catégorie** : [Maquettes Figma](Maquettes%20Figma.md)
 - **Type** : Maquette Figma
-- **Fichier source** : `ui/Figma/wtever.fig` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/ui/Figma/wtever.fig` (dans le vault)
 
 ## Maquette
 

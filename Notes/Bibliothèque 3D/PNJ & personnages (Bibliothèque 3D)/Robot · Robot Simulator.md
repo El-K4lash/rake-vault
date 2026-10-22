@@ -6,7 +6,7 @@ sous-catégorie: "PNJ & personnages"
 type: "Modèle en Parts"
 taille: "1 × 11 × 17"
 jeu: "Robot Simulator"
-source: "models/ByType/NPC_Characters/RobotSim_Robot.rbxm"
+source: "Assets/models/ByType/NPC_Characters/RobotSim_Robot.rbxm"
 image: "_img/Lp0997.webp"
 tags: [categorie/bibliotheque-3d, sous-categorie/pnj-personnages, type/lib-part, jeu/robot-simulator]
 ---
@@ -23,4 +23,4 @@ Modèle en Parts « Robot » (Robot Simulator).
 - **Taille** : 1 × 11 × 17 studs
 - **Contenu** : 5 Parts · 1 MeshPart
 - **Jeu d'origine** : Robot Simulator
-- **Fichier source** : `models/ByType/NPC_Characters/RobotSim_Robot.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/NPC_Characters/RobotSim_Robot.rbxm` (dans le vault)

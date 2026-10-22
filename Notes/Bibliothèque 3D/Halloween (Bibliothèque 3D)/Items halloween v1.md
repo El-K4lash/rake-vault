@@ -5,7 +5,7 @@ catégorie: "Bibliothèque 3D"
 sous-catégorie: "Halloween"
 type: "Modèle en Parts"
 taille: "6 × 11 × 8"
-source: "packs/Halloween/_Archive/Items_halloween_v1.rbxm"
+source: "Assets/packs/Halloween/_Archive/Items_halloween_v1.rbxm"
 image: "_img/Lp2617.webp"
 tags: [categorie/bibliotheque-3d, sous-categorie/halloween, type/lib-part]
 ---
@@ -21,4 +21,4 @@ Modèle en Parts « Items halloween v1 ».
 - **Type** : Modèle en Parts
 - **Taille** : 6 × 11 × 8 studs
 - **Contenu** : 570 Parts
-- **Fichier source** : `packs/Halloween/_Archive/Items_halloween_v1.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/packs/Halloween/_Archive/Items_halloween_v1.rbxm` (dans le vault)

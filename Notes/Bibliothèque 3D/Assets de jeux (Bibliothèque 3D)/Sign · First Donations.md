@@ -6,7 +6,7 @@ sous-catégorie: "Assets de jeux"
 type: "Modèle en Parts"
 taille: "1 × 3 × 1"
 jeu: "First Donations"
-source: "models/FromGames/First_Donations/Sign.rbxm"
+source: "Assets/models/FromGames/First_Donations/Sign.rbxm"
 image: "_img/Lp1528.webp"
 tags: [categorie/bibliotheque-3d, sous-categorie/assets-de-jeux, type/lib-part, jeu/first-donations]
 ---
@@ -23,4 +23,4 @@ Modèle en Parts « Sign » (First Donations).
 - **Taille** : 1 × 3 × 1 studs
 - **Contenu** : 3 Parts · 2 MeshParts
 - **Jeu d'origine** : First Donations
-- **Fichier source** : `models/FromGames/First_Donations/Sign.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/FromGames/First_Donations/Sign.rbxm` (dans le vault)

@@ -2,13 +2,13 @@
 title: "Icônes & images"
 type: "Sous-catégorie"
 catégorie: "Interfaces"
-éléments: 6
+éléments: 7
 tags: [index, categorie/interfaces]
 ---
 
 # Icônes & images
 
-Sous-catégorie de [Interfaces](../Interfaces.md) · **6 éléments**
+Sous-catégorie de [Interfaces](../Interfaces.md) · **7 éléments**
 
 | Aperçu | Élément | Infos |
 | --- | --- | --- |
@@ -18,3 +18,4 @@ Sous-catégorie de [Interfaces](../Interfaces.md) · **6 éléments**
 | ![Aperçu\|120](../../_img/Liic_icones_k4lsh.webp) | [Icônes k4lsh](Ic%C3%B4nes%20k4lsh.md) | Pack d'images |
 | ![Aperçu\|120](../../_img/Liic_social_icons_pack_eu.webp) | [Social Icons Pack EU](Social%20Icons%20Pack%20EU.md) | Pack d'images |
 | ![Aperçu\|120](../../_img/Liic_ui_mega_pack_png.webp) | [UI Mega Pack — PNG](UI%20Mega%20Pack%20%E2%80%94%20PNG.md) | Pack d'images |
+| — | [Icons gtasixseven](Icons%20gtasixseven.md) | Pack de fichiers · 1 fichier · 1,1 Mo |

@@ -2,13 +2,13 @@
 title: "Simulators"
 type: "Sous-catégorie"
 catégorie: "Templates de jeux"
-éléments: 11
+éléments: 13
 tags: [index, categorie/templates-de-jeux]
 ---
 
 # Simulators
 
-Sous-catégorie de [Templates de jeux](../Templates%20de%20jeux.md) · **11 éléments**
+Sous-catégorie de [Templates de jeux](../Templates%20de%20jeux.md) · **13 éléments**
 
 | Aperçu | Élément | Infos |
 | --- | --- | --- |
@@ -23,3 +23,5 @@ Sous-catégorie de [Templates de jeux](../Templates%20de%20jeux.md) · **11 él�
 | ![Aperçu\|120](../../_img/Lj0022.webp) | [Training Simulator EU](Training%20Simulator%20EU%20%C2%B7%20Simulators.md) | Place complète (.rbxl) · 126 scripts · 7 415 instances |
 | ![Aperçu\|120](../../_img/Lj0023.webp) | [Tweeting Simulator Uncopy Locked](Tweeting%20Simulator%20Uncopy%20Locked%20%C2%B7%20Simulators.md) | Place complète (.rbxl) · 185 scripts · 7 743 instances |
 | ![Aperçu\|120](../../_img/Lj0024.webp) | [UNCOPYLOCKED Magnet Simulator 2](UNCOPYLOCKED%20Magnet%20Simulator%202%20%C2%B7%20Simulators.md) | Place complète (.rbxl) · 80 scripts · 7 564 instances |
+| ![Aperçu\|120](../../_img/Ly0013.webp) | [Mine a Planet BETA 9 (place 121125129560252)](Mine%20a%20Planet%20BETA%209%20%28place%20121125129560252%29.md) | Place complète (.rbxl) · 675 scripts · 44 498 instances · 39,3 Mo |
+| ![Aperçu\|120](../../_img/Ly0016.webp) | [Unboxing Simulator](Unboxing%20Simulator.md) | Place complète (.rbxl) · 138 scripts · 15 442 instances · 0,7 Mo |

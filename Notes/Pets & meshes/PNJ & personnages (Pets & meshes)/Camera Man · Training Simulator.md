@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "PNJ & personnages"
 type: "Modèle en MeshParts"
 jeu: "Training Simulator"
-source: "models/ByType/NPC_Characters/TrainingSim_CameraMan.rbxm"
+source: "Assets/models/ByType/NPC_Characters/TrainingSim_CameraMan.rbxm"
 image: "_img/Lm1014.webp"
 tags: [categorie/pets-meshes, sous-categorie/pnj-personnages, type/lib-mesh, jeu/training-simulator]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « Camera Man » (Training Simulator). Aperçu rendu dans R
 - **Type** : Modèle en MeshParts
 - **Contenu** : 15 MeshParts
 - **Jeu d'origine** : Training Simulator
-- **Fichier source** : `models/ByType/NPC_Characters/TrainingSim_CameraMan.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/NPC_Characters/TrainingSim_CameraMan.rbxm` (dans le vault)

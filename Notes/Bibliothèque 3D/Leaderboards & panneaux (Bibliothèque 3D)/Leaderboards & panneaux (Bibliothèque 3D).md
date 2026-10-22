@@ -2,13 +2,13 @@
 title: "Leaderboards & panneaux"
 type: "Sous-catégorie"
 catégorie: "Bibliothèque 3D"
-éléments: 28
+éléments: 31
 tags: [index, categorie/bibliotheque-3d]
 ---
 
 # Leaderboards & panneaux
 
-Sous-catégorie de [Bibliothèque 3D](../Biblioth%C3%A8que%203D.md) · **28 éléments**
+Sous-catégorie de [Bibliothèque 3D](../Biblioth%C3%A8que%203D.md) · **31 éléments**
 
 | Aperçu | Élément | Infos |
 | --- | --- | --- |
@@ -40,3 +40,6 @@ Sous-catégorie de [Bibliothèque 3D](../Biblioth%C3%A8que%203D.md) · **28 él�
 | ![Aperçu\|120](../../_img/Lp0743.webp) | [Total Tweets · Tweeting Simulator](Total%20Tweets%20%C2%B7%20Tweeting%20Simulator.md) | Modèle en Parts · 2 × 11 × 9 · 6 Parts |
 | ![Aperçu\|120](../../_img/Lp0727.webp) | [Tycoon Sign · Robot Simulator](Tycoon%20Sign%20%C2%B7%20Robot%20Simulator.md) | Modèle en Parts · 38 × 20 × 38 · 13 Parts · 7 MeshParts |
 | ![Aperçu\|120](../../_img/Lp0744.webp) | [Verified Sign · Tweeting Simulator](Verified%20Sign%20%C2%B7%20Tweeting%20Simulator.md) | Modèle en Parts · 1 × 1 × 1 · 2 Parts · 3 MeshParts |
+| ![Aperçu\|120](../../_img/Lp0704.webp) | [Leaderboards & panneaux — pack par type (28 modèles)](Leaderboards%20&%20panneaux%20%E2%80%94%20pack%20par%20type%20%2828%20mod%C3%A8les%29.md) | Pack de fichiers · 28 fichiers · 1,3 Mo |
+| ![Aperçu\|120](../../_img/Ly0035.webp) | [Leaderboards](Leaderboards.md) | Modèle Roblox (.rbxm) · 1 fichier · 18 Ko |
+| ![Aperçu\|120](../../_img/Ly0036.webp) | [Panneau « Next Update »](Panneau%20%C2%AB%20Next%20Update%20%C2%BB.md) | Modèle Roblox (.rbxm) · 1 fichier · 18 Ko |

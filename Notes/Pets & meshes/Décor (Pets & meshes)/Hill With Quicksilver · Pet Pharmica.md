@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Décor"
 type: "Modèle en MeshParts"
 jeu: "Pet Pharmica"
-source: "models/ByType/Decor_Props/PetPharmica_HillWithQuicksilver.rbxm"
+source: "Assets/models/ByType/Decor_Props/PetPharmica_HillWithQuicksilver.rbxm"
 image: "_img/Lm0299.webp"
 tags: [categorie/pets-meshes, sous-categorie/decor, type/lib-mesh, jeu/pet-pharmica]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « Hill With Quicksilver » (Pet Pharmica). Aperçu rendu d
 - **Type** : Modèle en MeshParts
 - **Contenu** : 10 Parts · 9 MeshParts
 - **Jeu d'origine** : Pet Pharmica
-- **Fichier source** : `models/ByType/Decor_Props/PetPharmica_HillWithQuicksilver.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Decor_Props/PetPharmica_HillWithQuicksilver.rbxm` (dans le vault)

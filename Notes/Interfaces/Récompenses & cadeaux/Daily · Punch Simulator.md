@@ -5,7 +5,7 @@ catégorie: "Interfaces"
 sous-catégorie: "Récompenses & cadeaux"
 type: "Interface (ScreenGui)"
 jeu: "Punch Simulator"
-source: "ui/ByType/DailyRewards_Gifts/PunchSim_Daily.rbxm"
+source: "Assets/ui/ByType/DailyRewards_Gifts/PunchSim_Daily.rbxm"
 image: "_img/Lg0022.webp"
 tags: [categorie/interfaces, sous-categorie/recompenses-cadeaux, type/lib-gui, jeu/punch-simulator]
 ---
@@ -21,4 +21,4 @@ Interface « Daily » du jeu Punch Simulator. 56 éléments UI.
 - **Type** : Interface (ScreenGui)
 - **Contenu** : 56 éléments UI
 - **Jeu d'origine** : Punch Simulator
-- **Fichier source** : `ui/ByType/DailyRewards_Gifts/PunchSim_Daily.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/ui/ByType/DailyRewards_Gifts/PunchSim_Daily.rbxm` (dans le vault)

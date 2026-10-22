@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Décor"
 type: "Modèle en MeshParts"
 jeu: "Tapping Lords"
-source: "models/ByType/Decor_Props/TappingLords_WaterAssets.rbxm"
+source: "Assets/models/ByType/Decor_Props/TappingLords_WaterAssets.rbxm"
 image: "_img/Lm0393.webp"
 tags: [categorie/pets-meshes, sous-categorie/decor, type/lib-mesh, jeu/tapping-lords]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « Water Assets » (Tapping Lords). Aperçu rendu dans Robl
 - **Type** : Modèle en MeshParts
 - **Contenu** : 17 MeshParts
 - **Jeu d'origine** : Tapping Lords
-- **Fichier source** : `models/ByType/Decor_Props/TappingLords_WaterAssets.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Decor_Props/TappingLords_WaterAssets.rbxm` (dans le vault)

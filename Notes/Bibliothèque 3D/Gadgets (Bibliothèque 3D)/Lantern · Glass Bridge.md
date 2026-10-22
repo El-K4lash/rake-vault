@@ -6,7 +6,7 @@ sous-catégorie: "Gadgets"
 type: "Modèle en Parts"
 taille: "1 × 2 × 1"
 jeu: "Glass Bridge"
-source: "models/ByType/Gear_Gadgets/GlassBridge_Lantern.rbxm"
+source: "Assets/models/ByType/Gear_Gadgets/GlassBridge_Lantern.rbxm"
 image: "_img/Lp0620.webp"
 tags: [categorie/bibliotheque-3d, sous-categorie/gadgets, type/lib-part, jeu/glass-bridge]
 ---
@@ -23,4 +23,4 @@ Modèle en Parts « Lantern » (Glass Bridge).
 - **Taille** : 1 × 2 × 1 studs
 - **Contenu** : 11 Parts · 2 MeshParts
 - **Jeu d'origine** : Glass Bridge
-- **Fichier source** : `models/ByType/Gear_Gadgets/GlassBridge_Lantern.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Gear_Gadgets/GlassBridge_Lantern.rbxm` (dans le vault)

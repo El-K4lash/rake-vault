@@ -5,7 +5,7 @@ catégorie: "Interfaces"
 sous-catégorie: "HUD & monnaie"
 type: "Interface (ScreenGui)"
 jeu: "Shoot A Brainrot"
-source: "ui/ByType/HUD_Currency/ShootABrainrot_HUD.rbxm"
+source: "Assets/ui/ByType/HUD_Currency/ShootABrainrot_HUD.rbxm"
 image: "_img/Lg0061.webp"
 tags: [categorie/interfaces, sous-categorie/hud-monnaie, type/lib-gui, jeu/shoot-a-brainrot]
 ---
@@ -21,4 +21,4 @@ Interface « HUD » du jeu Shoot A Brainrot. 46 éléments UI.
 - **Type** : Interface (ScreenGui)
 - **Contenu** : 46 éléments UI
 - **Jeu d'origine** : Shoot A Brainrot
-- **Fichier source** : `ui/ByType/HUD_Currency/ShootABrainrot_HUD.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/ui/ByType/HUD_Currency/ShootABrainrot_HUD.rbxm` (dans le vault)

@@ -5,7 +5,7 @@ catégorie: "Interfaces"
 sous-catégorie: "Boutiques"
 type: "Interface (ScreenGui)"
 jeu: "Pet Pharmica"
-source: "ui/ByType/Shop_Store/PetPharmica_Shop.rbxm"
+source: "Assets/ui/ByType/Shop_Store/PetPharmica_Shop.rbxm"
 image: "_img/Lg0201.webp"
 tags: [categorie/interfaces, sous-categorie/boutiques, type/lib-gui, jeu/pet-pharmica]
 ---
@@ -21,4 +21,4 @@ Interface « Shop » du jeu Pet Pharmica. 201 éléments UI.
 - **Type** : Interface (ScreenGui)
 - **Contenu** : 201 éléments UI
 - **Jeu d'origine** : Pet Pharmica
-- **Fichier source** : `ui/ByType/Shop_Store/PetPharmica_Shop.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/ui/ByType/Shop_Store/PetPharmica_Shop.rbxm` (dans le vault)

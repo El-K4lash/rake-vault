@@ -4,7 +4,7 @@ id: "Lj0048"
 catégorie: "Templates de jeux"
 sous-catégorie: "Templates"
 type: "Place complète (.rbxl)"
-source: "kits/Templates/PU - Plants Vs Template.rbxl"
+source: "Assets/kits/Templates/PU - Plants Vs Template.rbxl"
 image: "_img/Lj0048.webp"
 tags: [categorie/templates-de-jeux, sous-categorie/templates, type/lib-game]
 ---
@@ -19,4 +19,4 @@ Place Roblox complète (.rbxl) : 543 scripts, 29999 instances.
 - **Sous-catégorie** : [Templates](Templates.md)
 - **Type** : Place complète (.rbxl)
 - **Contenu** : 543 scripts · 29 999 instances
-- **Fichier source** : `kits/Templates/PU - Plants Vs Template.rbxl` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/kits/Templates/PU - Plants Vs Template.rbxl` (dans le vault)

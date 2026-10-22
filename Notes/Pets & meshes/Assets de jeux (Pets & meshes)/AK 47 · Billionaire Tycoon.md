@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Assets de jeux"
 type: "Modèle en MeshParts"
 jeu: "Billionaire Tycoon"
-source: "models/FromGames/Billionaire_Tycoon/AK-47.rbxm"
+source: "Assets/models/FromGames/Billionaire_Tycoon/AK-47.rbxm"
 image: "_img/Lm1465.webp"
 tags: [categorie/pets-meshes, sous-categorie/assets-de-jeux, type/lib-mesh, jeu/billionaire-tycoon]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « AK 47 » (Billionaire Tycoon). Aperçu rendu dans Roblox
 - **Type** : Modèle en MeshParts
 - **Contenu** : 6 Parts · 10 MeshParts
 - **Jeu d'origine** : Billionaire Tycoon
-- **Fichier source** : `models/FromGames/Billionaire_Tycoon/AK-47.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/FromGames/Billionaire_Tycoon/AK-47.rbxm` (dans le vault)

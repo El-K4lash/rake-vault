@@ -6,7 +6,7 @@ sous-catégorie: "Tycoon & convoyeurs"
 type: "Modèle en Parts"
 taille: "443 × 36 × 371"
 jeu: "Billionaire Tycoon"
-source: "models/ByType/Conveyors_Tycoon/BillionaireTycoon_ZednovsTycoonKit.rbxm"
+source: "Assets/models/ByType/Conveyors_Tycoon/BillionaireTycoon_ZednovsTycoonKit.rbxm"
 image: "_img/Lp0151.webp"
 tags: [categorie/bibliotheque-3d, sous-categorie/tycoon-convoyeurs, type/lib-part, jeu/billionaire-tycoon]
 ---
@@ -23,4 +23,4 @@ Modèle en Parts « Zednovs Tycoon Kit » (Billionaire Tycoon).
 - **Taille** : 443 × 36 × 371 studs
 - **Contenu** : 10 220 Parts · 5 848 MeshParts
 - **Jeu d'origine** : Billionaire Tycoon
-- **Fichier source** : `models/ByType/Conveyors_Tycoon/BillionaireTycoon_ZednovsTycoonKit.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Conveyors_Tycoon/BillionaireTycoon_ZednovsTycoonKit.rbxm` (dans le vault)

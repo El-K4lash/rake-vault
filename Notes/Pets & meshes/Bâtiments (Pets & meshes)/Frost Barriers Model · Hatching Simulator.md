@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Bâtiments"
 type: "Modèle en MeshParts"
 jeu: "Hatching Simulator"
-source: "models/ByType/Buildings/HatchingSim_FrostBarriers_Model.rbxm"
+source: "Assets/models/ByType/Buildings/HatchingSim_FrostBarriers_Model.rbxm"
 image: "_img/Lm0069.webp"
 tags: [categorie/pets-meshes, sous-categorie/batiments, type/lib-mesh, jeu/hatching-simulator]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « Frost Barriers Model » (Hatching Simulator). Aperçu re
 - **Type** : Modèle en MeshParts
 - **Contenu** : 71 MeshParts
 - **Jeu d'origine** : Hatching Simulator
-- **Fichier source** : `models/ByType/Buildings/HatchingSim_FrostBarriers_Model.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Buildings/HatchingSim_FrostBarriers_Model.rbxm` (dans le vault)

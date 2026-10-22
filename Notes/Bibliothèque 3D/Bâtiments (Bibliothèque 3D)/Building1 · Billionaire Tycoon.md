@@ -6,7 +6,7 @@ sous-catégorie: "Bâtiments"
 type: "Modèle en Parts"
 taille: "46 × 14 × 1"
 jeu: "Billionaire Tycoon"
-source: "models/ByType/Buildings/BillionaireTycoon_Building1.rbxm"
+source: "Assets/models/ByType/Buildings/BillionaireTycoon_Building1.rbxm"
 image: "_img/Lp0054.webp"
 tags: [categorie/bibliotheque-3d, sous-categorie/batiments, type/lib-part, jeu/billionaire-tycoon]
 ---
@@ -23,4 +23,4 @@ Modèle en Parts « Building1 » (Billionaire Tycoon).
 - **Taille** : 46 × 14 × 1 studs
 - **Contenu** : 9 Parts
 - **Jeu d'origine** : Billionaire Tycoon
-- **Fichier source** : `models/ByType/Buildings/BillionaireTycoon_Building1.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Buildings/BillionaireTycoon_Building1.rbxm` (dans le vault)

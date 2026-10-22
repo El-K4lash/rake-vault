@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "PNJ & personnages"
 type: "Modèle en MeshParts"
 jeu: "Pet Pharmica"
-source: "models/ByType/NPC_Characters/PetPharmica_NPC.rbxm"
+source: "Assets/models/ByType/NPC_Characters/PetPharmica_NPC.rbxm"
 image: "_img/Lm0982.webp"
 tags: [categorie/pets-meshes, sous-categorie/pnj-personnages, type/lib-mesh, jeu/pet-pharmica]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « NPC » (Pet Pharmica). Aperçu rendu dans Roblox Studio 
 - **Type** : Modèle en MeshParts
 - **Contenu** : 1 Part · 15 MeshParts
 - **Jeu d'origine** : Pet Pharmica
-- **Fichier source** : `models/ByType/NPC_Characters/PetPharmica_NPC.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/NPC_Characters/PetPharmica_NPC.rbxm` (dans le vault)

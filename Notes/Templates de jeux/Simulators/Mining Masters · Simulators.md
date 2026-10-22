@@ -4,7 +4,7 @@ id: "Lj0016"
 catégorie: "Templates de jeux"
 sous-catégorie: "Simulators"
 type: "Place complète (.rbxl)"
-source: "games/Simulators/Mining-Masters.rbxl"
+source: "Assets/games/Simulators/Mining-Masters.rbxl"
 image: "_img/Lj0016.webp"
 tags: [categorie/templates-de-jeux, sous-categorie/simulators, type/lib-game]
 ---
@@ -19,4 +19,4 @@ Place Roblox complète (.rbxl) : 186 scripts, 21840 instances.
 - **Sous-catégorie** : [Simulators](Simulators.md)
 - **Type** : Place complète (.rbxl)
 - **Contenu** : 186 scripts · 21 840 instances
-- **Fichier source** : `games/Simulators/Mining-Masters.rbxl` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/games/Simulators/Mining-Masters.rbxl` (dans le vault)

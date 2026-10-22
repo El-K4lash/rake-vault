@@ -6,7 +6,7 @@ sous-catégorie: "PNJ & personnages"
 type: "Modèle en Parts"
 taille: "20 × 44 × 40"
 jeu: "Robot Simulator"
-source: "models/ByType/NPC_Characters/RobotSim_RobotbyOnscurezynkez.rbxm"
+source: "Assets/models/ByType/NPC_Characters/RobotSim_RobotbyOnscurezynkez.rbxm"
 image: "_img/Lp0999.webp"
 tags: [categorie/bibliotheque-3d, sous-categorie/pnj-personnages, type/lib-part, jeu/robot-simulator]
 ---
@@ -23,4 +23,4 @@ Modèle en Parts « Robotby Onscurezynkez » (Robot Simulator).
 - **Taille** : 20 × 44 × 40 studs
 - **Contenu** : 122 Parts · 2 MeshParts
 - **Jeu d'origine** : Robot Simulator
-- **Fichier source** : `models/ByType/NPC_Characters/RobotSim_RobotbyOnscurezynkez.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/NPC_Characters/RobotSim_RobotbyOnscurezynkez.rbxm` (dans le vault)

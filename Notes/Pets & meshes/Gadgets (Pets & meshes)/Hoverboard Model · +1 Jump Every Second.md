@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Gadgets"
 type: "Modèle en MeshParts"
 jeu: "+1 Jump Every Second"
-source: "models/ByType/Gear_Gadgets/1JumpEverySecond_HoverboardModel.rbxm"
+source: "Assets/models/ByType/Gear_Gadgets/1JumpEverySecond_HoverboardModel.rbxm"
 image: "_img/Lm0602.webp"
 tags: [categorie/pets-meshes, sous-categorie/gadgets, type/lib-mesh, jeu/1-jump-every-second]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « Hoverboard Model » (+1 Jump Every Second). Aperçu rend
 - **Type** : Modèle en MeshParts
 - **Contenu** : 5 MeshParts
 - **Jeu d'origine** : +1 Jump Every Second
-- **Fichier source** : `models/ByType/Gear_Gadgets/1JumpEverySecond_HoverboardModel.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Gear_Gadgets/1JumpEverySecond_HoverboardModel.rbxm` (dans le vault)

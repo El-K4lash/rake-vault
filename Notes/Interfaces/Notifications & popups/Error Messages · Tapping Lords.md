@@ -5,7 +5,7 @@ catégorie: "Interfaces"
 sous-catégorie: "Notifications & popups"
 type: "Interface (ScreenGui)"
 jeu: "Tapping Lords"
-source: "ui/ByType/Notifications_Popups/TappingLords_ErrorMessages.rbxm"
+source: "Assets/ui/ByType/Notifications_Popups/TappingLords_ErrorMessages.rbxm"
 image: "_img/Lg0128.webp"
 tags: [categorie/interfaces, sous-categorie/notifications-popups, type/lib-gui, jeu/tapping-lords]
 ---
@@ -21,4 +21,4 @@ Interface « Error Messages » du jeu Tapping Lords. 1 éléments UI.
 - **Type** : Interface (ScreenGui)
 - **Contenu** : 1 élément UI
 - **Jeu d'origine** : Tapping Lords
-- **Fichier source** : `ui/ByType/Notifications_Popups/TappingLords_ErrorMessages.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/ui/ByType/Notifications_Popups/TappingLords_ErrorMessages.rbxm` (dans le vault)

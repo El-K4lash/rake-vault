@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Leaderboards & panneaux"
 type: "Modèle en MeshParts"
 jeu: "Hatching Simulator"
-source: "models/ByType/Leaderboards_Boards/HatchingSim_TopClicks.rbxm"
+source: "Assets/models/ByType/Leaderboards_Boards/HatchingSim_TopClicks.rbxm"
 image: "_img/Lm0678.webp"
 tags: [categorie/pets-meshes, sous-categorie/leaderboards-panneaux, type/lib-mesh, jeu/hatching-simulator]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « Top Clicks » (Hatching Simulator). Aperçu rendu dans R
 - **Type** : Modèle en MeshParts
 - **Contenu** : 1 Part · 20 MeshParts
 - **Jeu d'origine** : Hatching Simulator
-- **Fichier source** : `models/ByType/Leaderboards_Boards/HatchingSim_TopClicks.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Leaderboards_Boards/HatchingSim_TopClicks.rbxm` (dans le vault)

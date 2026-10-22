@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Coffres & collectibles"
 type: "Modèle en MeshParts"
 jeu: "Lib perso"
-source: "models/ByType/Collectibles_Chests/Lib_coin.rbxm"
+source: "Assets/models/ByType/Collectibles_Chests/Lib_coin.rbxm"
 image: "_img/Lm0115.webp"
 tags: [categorie/pets-meshes, sous-categorie/coffres-collectibles, type/lib-mesh, jeu/lib-perso]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « Coin » (Lib perso). Aperçu rendu dans Roblox Studio av
 - **Type** : Modèle en MeshParts
 - **Contenu** : 1 MeshPart
 - **Jeu d'origine** : Lib perso
-- **Fichier source** : `models/ByType/Collectibles_Chests/Lib_coin.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Collectibles_Chests/Lib_coin.rbxm` (dans le vault)

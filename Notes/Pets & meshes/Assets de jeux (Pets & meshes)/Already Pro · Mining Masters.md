@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Assets de jeux"
 type: "Modèle en MeshParts"
 jeu: "Mining Masters"
-source: "models/FromGames/Mining-Masters/Workspace/AlreadyPro.rbxm"
+source: "Assets/models/FromGames/Mining-Masters/Workspace/AlreadyPro.rbxm"
 image: "_img/Lm1591.webp"
 tags: [categorie/pets-meshes, sous-categorie/assets-de-jeux, type/lib-mesh, jeu/mining-masters]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « Already Pro » (Mining Masters). Aperçu rendu dans Robl
 - **Type** : Modèle en MeshParts
 - **Contenu** : 6 Parts · 3 MeshParts
 - **Jeu d'origine** : Mining Masters
-- **Fichier source** : `models/FromGames/Mining-Masters/Workspace/AlreadyPro.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/FromGames/Mining-Masters/Workspace/AlreadyPro.rbxm` (dans le vault)

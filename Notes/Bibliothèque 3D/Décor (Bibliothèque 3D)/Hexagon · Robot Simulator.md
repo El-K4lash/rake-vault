@@ -6,7 +6,7 @@ sous-catégorie: "Décor"
 type: "Modèle en Parts"
 taille: "22 × 1 × 19"
 jeu: "Robot Simulator"
-source: "models/ByType/Decor_Props/RobotSim_Hexagon.rbxm"
+source: "Assets/models/ByType/Decor_Props/RobotSim_Hexagon.rbxm"
 image: "_img/Lp0362.webp"
 tags: [categorie/bibliotheque-3d, sous-categorie/decor, type/lib-part, jeu/robot-simulator]
 ---
@@ -23,4 +23,4 @@ Modèle en Parts « Hexagon » (Robot Simulator).
 - **Taille** : 22 × 1 × 19 studs
 - **Contenu** : 6 Parts
 - **Jeu d'origine** : Robot Simulator
-- **Fichier source** : `models/ByType/Decor_Props/RobotSim_Hexagon.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Decor_Props/RobotSim_Hexagon.rbxm` (dans le vault)

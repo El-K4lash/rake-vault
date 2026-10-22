@@ -4,7 +4,7 @@ id: "Lm2298"
 catégorie: "Pets & meshes"
 sous-catégorie: "Brainrots animés"
 type: "Modèle en MeshParts"
-source: "packs/Brainrots_Animated/Normal/Glorbo Fruttodrillo.rbxm"
+source: "Assets/packs/Brainrots_Animated/Normal/Glorbo Fruttodrillo.rbxm"
 image: "_img/Lm2298.webp"
 tags: [categorie/pets-meshes, sous-categorie/brainrots-animes, type/lib-mesh]
 ---
@@ -19,4 +19,4 @@ Modèle en MeshParts « Glorbo Fruttodrillo ». Aperçu rendu dans Roblox Studio
 - **Sous-catégorie** : [Brainrots animés](Brainrots%20anim%C3%A9s.md)
 - **Type** : Modèle en MeshParts
 - **Contenu** : 1 MeshPart
-- **Fichier source** : `packs/Brainrots_Animated/Normal/Glorbo Fruttodrillo.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/packs/Brainrots_Animated/Normal/Glorbo Fruttodrillo.rbxm` (dans le vault)

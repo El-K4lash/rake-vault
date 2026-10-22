@@ -5,7 +5,7 @@ catégorie: "Interfaces"
 sous-catégorie: "Pets & inventaire"
 type: "Interface (ScreenGui)"
 jeu: "Punch Simulator"
-source: "ui/ByType/Pets_Inventory/PunchSim_Pets.rbxm"
+source: "Assets/ui/ByType/Pets_Inventory/PunchSim_Pets.rbxm"
 image: "_img/Lg0139.webp"
 tags: [categorie/interfaces, sous-categorie/pets-inventaire, type/lib-gui, jeu/punch-simulator]
 ---
@@ -21,4 +21,4 @@ Interface « Pets » du jeu Punch Simulator. 40 éléments UI.
 - **Type** : Interface (ScreenGui)
 - **Contenu** : 40 éléments UI
 - **Jeu d'origine** : Punch Simulator
-- **Fichier source** : `ui/ByType/Pets_Inventory/PunchSim_Pets.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/ui/ByType/Pets_Inventory/PunchSim_Pets.rbxm` (dans le vault)

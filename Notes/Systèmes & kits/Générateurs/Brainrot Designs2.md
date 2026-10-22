@@ -4,7 +4,7 @@ id: "Ls0083"
 catégorie: "Systèmes & kits"
 sous-catégorie: "Générateurs"
 type: "Système de jeu"
-source: "systems/Generators/BrainrotDesigns2.rbxm"
+source: "Assets/systems/Generators/BrainrotDesigns2.rbxm"
 image: "_img/Ls0083.webp"
 tags: [categorie/systemes-kits, sous-categorie/generateurs, type/lib-sys]
 ---
@@ -19,4 +19,4 @@ Générateur : 1 scripts.
 - **Sous-catégorie** : [Générateurs](G%C3%A9n%C3%A9rateurs.md)
 - **Type** : Système de jeu
 - **Contenu** : 1 script · 1 instance
-- **Fichier source** : `systems/Generators/BrainrotDesigns2.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/systems/Generators/BrainrotDesigns2.rbxm` (dans le vault)

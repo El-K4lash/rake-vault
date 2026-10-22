@@ -6,7 +6,7 @@ sous-catégorie: "Assets de jeux"
 type: "Modèle en Parts"
 taille: "9 × 4 × 1"
 jeu: "Punch Simulator"
-source: "models/FromGames/Punch Simulator/Workspace/gift for brennan.rbxm"
+source: "Assets/models/FromGames/Punch Simulator/Workspace/gift for brennan.rbxm"
 image: "_img/Lp1663.webp"
 tags: [categorie/bibliotheque-3d, sous-categorie/assets-de-jeux, type/lib-part, jeu/punch-simulator]
 ---
@@ -23,4 +23,4 @@ Modèle en Parts « Gift for brennan » (Punch Simulator).
 - **Taille** : 9 × 4 × 1 studs
 - **Contenu** : 14 Parts
 - **Jeu d'origine** : Punch Simulator
-- **Fichier source** : `models/FromGames/Punch Simulator/Workspace/gift for brennan.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/FromGames/Punch Simulator/Workspace/gift for brennan.rbxm` (dans le vault)

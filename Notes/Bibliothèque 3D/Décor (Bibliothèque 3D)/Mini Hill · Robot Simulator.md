@@ -6,7 +6,7 @@ sous-catégorie: "Décor"
 type: "Modèle en Parts"
 taille: "27 × 15 × 92"
 jeu: "Robot Simulator"
-source: "models/ByType/Decor_Props/RobotSim_MiniHill.rbxm"
+source: "Assets/models/ByType/Decor_Props/RobotSim_MiniHill.rbxm"
 image: "_img/Lp0368.webp"
 tags: [categorie/bibliotheque-3d, sous-categorie/decor, type/lib-part, jeu/robot-simulator]
 ---
@@ -23,4 +23,4 @@ Modèle en Parts « Mini Hill » (Robot Simulator).
 - **Taille** : 27 × 15 × 92 studs
 - **Contenu** : 20 Parts · 6 MeshParts
 - **Jeu d'origine** : Robot Simulator
-- **Fichier source** : `models/ByType/Decor_Props/RobotSim_MiniHill.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Decor_Props/RobotSim_MiniHill.rbxm` (dans le vault)

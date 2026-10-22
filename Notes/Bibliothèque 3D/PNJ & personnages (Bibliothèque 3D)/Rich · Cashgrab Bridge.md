@@ -6,7 +6,7 @@ sous-catégorie: "PNJ & personnages"
 type: "Modèle en Parts"
 taille: "4 × 4 × 3"
 jeu: "Cashgrab Bridge"
-source: "models/ByType/NPC_Characters/CashgrabBridge_Rich.rbxm"
+source: "Assets/models/ByType/NPC_Characters/CashgrabBridge_Rich.rbxm"
 image: "_img/Lp0969.webp"
 tags: [categorie/bibliotheque-3d, sous-categorie/pnj-personnages, type/lib-part, jeu/cashgrab-bridge]
 ---
@@ -23,4 +23,4 @@ Modèle en Parts « Rich » (Cashgrab Bridge).
 - **Taille** : 4 × 4 × 3 studs
 - **Contenu** : 8 Parts · 5 MeshParts
 - **Jeu d'origine** : Cashgrab Bridge
-- **Fichier source** : `models/ByType/NPC_Characters/CashgrabBridge_Rich.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/NPC_Characters/CashgrabBridge_Rich.rbxm` (dans le vault)

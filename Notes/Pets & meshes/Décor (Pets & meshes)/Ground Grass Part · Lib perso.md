@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Décor"
 type: "Modèle en MeshParts"
 jeu: "Lib perso"
-source: "models/ByType/Decor_Props/Lib_GroundGrassPart.rbxm"
+source: "Assets/models/ByType/Decor_Props/Lib_GroundGrassPart.rbxm"
 image: "_img/Lm0259.webp"
 tags: [categorie/pets-meshes, sous-categorie/decor, type/lib-mesh, jeu/lib-perso]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « Ground Grass Part » (Lib perso). Aperçu rendu dans Rob
 - **Type** : Modèle en MeshParts
 - **Contenu** : 1 MeshPart
 - **Jeu d'origine** : Lib perso
-- **Fichier source** : `models/ByType/Decor_Props/Lib_GroundGrassPart.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Decor_Props/Lib_GroundGrassPart.rbxm` (dans le vault)

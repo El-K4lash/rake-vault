@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Gadgets"
 type: "Modèle en MeshParts"
 jeu: "+1 Health Every Second"
-source: "models/ByType/Gear_Gadgets/1HealthEverySecond_Pizza.rbxm"
+source: "Assets/models/ByType/Gear_Gadgets/1HealthEverySecond_Pizza.rbxm"
 image: "_img/Lm0594.webp"
 tags: [categorie/pets-meshes, sous-categorie/gadgets, type/lib-mesh, jeu/1-health-every-second]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « Pizza » (+1 Health Every Second). Aperçu rendu dans Ro
 - **Type** : Modèle en MeshParts
 - **Contenu** : 1 MeshPart
 - **Jeu d'origine** : +1 Health Every Second
-- **Fichier source** : `models/ByType/Gear_Gadgets/1HealthEverySecond_Pizza.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Gear_Gadgets/1HealthEverySecond_Pizza.rbxm` (dans le vault)

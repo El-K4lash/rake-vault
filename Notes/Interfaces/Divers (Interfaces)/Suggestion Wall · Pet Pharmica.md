@@ -5,7 +5,7 @@ catégorie: "Interfaces"
 sous-catégorie: "Divers"
 type: "Interface (ScreenGui)"
 jeu: "Pet Pharmica"
-source: "ui/ByType/Misc/PetPharmica_SuggestionWall.rbxm"
+source: "Assets/ui/ByType/Misc/PetPharmica_SuggestionWall.rbxm"
 image: "_img/Lg0100.webp"
 tags: [categorie/interfaces, sous-categorie/divers, type/lib-gui, jeu/pet-pharmica]
 ---
@@ -21,4 +21,4 @@ Interface « Suggestion Wall » du jeu Pet Pharmica. 5 éléments UI.
 - **Type** : Interface (ScreenGui)
 - **Contenu** : 5 éléments UI
 - **Jeu d'origine** : Pet Pharmica
-- **Fichier source** : `ui/ByType/Misc/PetPharmica_SuggestionWall.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/ui/ByType/Misc/PetPharmica_SuggestionWall.rbxm` (dans le vault)

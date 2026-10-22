@@ -6,7 +6,7 @@ sous-catégorie: "Leaderboards & panneaux"
 type: "Modèle en Parts"
 taille: "2 × 11 × 9"
 jeu: "Tweeting Simulator"
-source: "models/ByType/Leaderboards_Boards/TweetingSim_TotalTweets.rbxm"
+source: "Assets/models/ByType/Leaderboards_Boards/TweetingSim_TotalTweets.rbxm"
 image: "_img/Lp0743.webp"
 tags: [categorie/bibliotheque-3d, sous-categorie/leaderboards-panneaux, type/lib-part, jeu/tweeting-simulator]
 ---
@@ -23,4 +23,4 @@ Modèle en Parts « Total Tweets » (Tweeting Simulator).
 - **Taille** : 2 × 11 × 9 studs
 - **Contenu** : 6 Parts
 - **Jeu d'origine** : Tweeting Simulator
-- **Fichier source** : `models/ByType/Leaderboards_Boards/TweetingSim_TotalTweets.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Leaderboards_Boards/TweetingSim_TotalTweets.rbxm` (dans le vault)

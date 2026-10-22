@@ -2,13 +2,13 @@
 title: "Bâtiments"
 type: "Sous-catégorie"
 catégorie: "Bibliothèque 3D"
-éléments: 22
+éléments: 25
 tags: [index, categorie/bibliotheque-3d]
 ---
 
 # Bâtiments
 
-Sous-catégorie de [Bibliothèque 3D](../Biblioth%C3%A8que%203D.md) · **22 éléments**
+Sous-catégorie de [Bibliothèque 3D](../Biblioth%C3%A8que%203D.md) · **25 éléments**
 
 | Aperçu | Élément | Infos |
 | --- | --- | --- |
@@ -34,3 +34,6 @@ Sous-catégorie de [Bibliothèque 3D](../Biblioth%C3%A8que%203D.md) · **22 él�
 | ![Aperçu\|120](../../_img/Lp0111.webp) | [Sun Building · Tweeting Simulator](Sun%20Building%20%C2%B7%20Tweeting%20Simulator.md) | Modèle en Parts · 48 × 42 × 94 · 17 Parts |
 | ![Aperçu\|120](../../_img/Lp0112.webp) | [Sun Building 2 · Tweeting Simulator](Sun%20Building%202%20%C2%B7%20Tweeting%20Simulator.md) | Modèle en Parts · 132 × 105 × 148 · 24 Parts |
 | ![Aperçu\|120](../../_img/Lp0113.webp) | [Verified Building · Tweeting Simulator](Verified%20Building%20%C2%B7%20Tweeting%20Simulator.md) | Modèle en Parts · 65 × 38 × 53 · 43 Parts · 2 MeshParts |
+| ![Aperçu\|120](../../_img/Lp0094.webp) | [Bâtiments — pack par type (29 modèles)](B%C3%A2timents%20%E2%80%94%20pack%20par%20type%20%2829%20mod%C3%A8les%29.md) | Pack de fichiers · 29 fichiers · 0,3 Mo |
+| ![Aperçu\|120](../../_img/Ly0053.webp) | [Bee Base (by \[DEV\] Barcola)](Bee%20Base%20%28by%20DEV%20Barcola%29.md) | Pack de fichiers · 1 fichier · 72 Ko |
+| ![Aperçu\|120](../../_img/Ly0057.webp) | [SAB Bases Pack (bases Steal a Brainrot)](SAB%20Bases%20Pack%20%28bases%20Steal%20a%20Brainrot%29.md) | Pack de fichiers · 6 fichiers · 0,5 Mo |

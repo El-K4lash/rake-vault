@@ -5,7 +5,7 @@ catégorie: "Interfaces"
 sous-catégorie: "Quêtes & saison"
 type: "Interface (ScreenGui)"
 jeu: "Hatching Simulator"
-source: "ui/ByType/Quests_Season/HatchingSim_HatchPass.rbxm"
+source: "Assets/ui/ByType/Quests_Season/HatchingSim_HatchPass.rbxm"
 image: "_img/Lg0151.webp"
 tags: [categorie/interfaces, sous-categorie/quetes-saison, type/lib-gui, jeu/hatching-simulator]
 ---
@@ -21,4 +21,4 @@ Interface « Hatch Pass » du jeu Hatching Simulator. 66 éléments UI.
 - **Type** : Interface (ScreenGui)
 - **Contenu** : 66 éléments UI
 - **Jeu d'origine** : Hatching Simulator
-- **Fichier source** : `ui/ByType/Quests_Season/HatchingSim_HatchPass.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/ui/ByType/Quests_Season/HatchingSim_HatchPass.rbxm` (dans le vault)

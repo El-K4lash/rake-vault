@@ -5,7 +5,7 @@ catégorie: "Pets & meshes"
 sous-catégorie: "Bâtiments"
 type: "Modèle en MeshParts"
 jeu: "Robot Simulator"
-source: "models/ByType/Buildings/RobotSim_Pillars.rbxm"
+source: "Assets/models/ByType/Buildings/RobotSim_Pillars.rbxm"
 image: "_img/Lm0102.webp"
 tags: [categorie/pets-meshes, sous-categorie/batiments, type/lib-mesh, jeu/robot-simulator]
 ---
@@ -21,4 +21,4 @@ Modèle en MeshParts « Pillars » (Robot Simulator). Aperçu rendu dans Roblox 
 - **Type** : Modèle en MeshParts
 - **Contenu** : 4 MeshParts
 - **Jeu d'origine** : Robot Simulator
-- **Fichier source** : `models/ByType/Buildings/RobotSim_Pillars.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/models/ByType/Buildings/RobotSim_Pillars.rbxm` (dans le vault)

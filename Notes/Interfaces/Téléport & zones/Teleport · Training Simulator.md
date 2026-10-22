@@ -5,7 +5,7 @@ catégorie: "Interfaces"
 sous-catégorie: "Téléport & zones"
 type: "Interface (ScreenGui)"
 jeu: "Training Simulator"
-source: "ui/ByType/Teleport_Zones/TrainingSim_Teleport.rbxm"
+source: "Assets/ui/ByType/Teleport_Zones/TrainingSim_Teleport.rbxm"
 image: "_img/Lg0221.webp"
 tags: [categorie/interfaces, sous-categorie/teleport-zones, type/lib-gui, jeu/training-simulator]
 ---
@@ -21,4 +21,4 @@ Interface « Teleport » du jeu Training Simulator. 22 éléments UI.
 - **Type** : Interface (ScreenGui)
 - **Contenu** : 22 éléments UI
 - **Jeu d'origine** : Training Simulator
-- **Fichier source** : `ui/ByType/Teleport_Zones/TrainingSim_Teleport.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/ui/ByType/Teleport_Zones/TrainingSim_Teleport.rbxm` (dans le vault)

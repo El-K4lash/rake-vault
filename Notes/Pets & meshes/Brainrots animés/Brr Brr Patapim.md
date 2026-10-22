@@ -4,7 +4,7 @@ id: "Lm2276"
 catégorie: "Pets & meshes"
 sous-catégorie: "Brainrots animés"
 type: "Modèle en MeshParts"
-source: "packs/Brainrots_Animated/Normal/Brr Brr Patapim.rbxm"
+source: "Assets/packs/Brainrots_Animated/Normal/Brr Brr Patapim.rbxm"
 image: "_img/Lm2276.webp"
 tags: [categorie/pets-meshes, sous-categorie/brainrots-animes, type/lib-mesh]
 ---
@@ -19,4 +19,4 @@ Modèle en MeshParts « Brr Brr Patapim ». Aperçu rendu dans Roblox Studio ave
 - **Sous-catégorie** : [Brainrots animés](Brainrots%20anim%C3%A9s.md)
 - **Type** : Modèle en MeshParts
 - **Contenu** : 1 MeshPart
-- **Fichier source** : `packs/Brainrots_Animated/Normal/Brr Brr Patapim.rbxm` (dans ta bibliothèque `rblx\lib`)
+- **Fichier source** : `Assets/packs/Brainrots_Animated/Normal/Brr Brr Patapim.rbxm` (dans le vault)
