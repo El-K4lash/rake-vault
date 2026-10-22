@@ -1,13 +1,13 @@
 ---
 title: "Interfaces"
 type: "Catégorie"
-éléments: 312
+éléments: 313
 tags: [index]
 ---
 
 # Interfaces
 
-**312 éléments** répartis dans 27 sous-catégories
+**313 éléments** répartis dans 27 sous-catégories
 
 | Aperçu | Sous-catégorie | Éléments |
 | --- | --- | --- |
@@ -33,7 +33,7 @@ tags: [index]
 | ![Aperçu\|120](../_img/Lg0160.webp) | [Rebirth](Rebirth/Rebirth.md) | 6 |
 | ![Aperçu\|120](../_img/Lg0148.webp) | [Profil & stats](Profil%20%26%20stats/Profil%20%26%20stats.md) | 5 |
 | ![Aperçu\|120](../_img/Lg0367.webp) | [Packs UI](Packs%20UI/Packs%20UI.md) | 5 |
-| ![Aperçu\|120](../_img/Liic_free_icon_pack_2_0.webp) | [Icônes & images](Ic%C3%B4nes%20%26%20images/Ic%C3%B4nes%20%26%20images.md) | 5 |
+| ![Aperçu\|120](../_img/Liic_free_icon_pack_2_0.webp) | [Icônes & images](Ic%C3%B4nes%20%26%20images/Ic%C3%B4nes%20%26%20images.md) | 6 |
 | ![Aperçu\|120](../_img/Lg0003.webp) | [Codes](Codes/Codes.md) | 4 |
 | ![Aperçu\|120](../_img/Lg0009.webp) | [Composants UI](Composants%20UI/Composants%20UI.md) | 4 |
 | ![Aperçu\|120](../_img/Lg0000.webp) | [Admin & debug](Admin%20%26%20debug/Admin%20%26%20debug.md) | 3 |

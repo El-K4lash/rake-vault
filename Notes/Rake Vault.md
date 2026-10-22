@@ -8,7 +8,7 @@ tags: [index]
 
 Le deuxième cerveau de tes jeux Roblox, version Obsidian : chaque modèle, interface, système et template de ton vault 3D a sa note, avec sa miniature et ses infos.
 
-**1 843 éléments** · 11 catégories · 96 sous-catégories · 20 jeux d'origine
+**2 424 éléments** · 11 catégories · 104 sous-catégories · 20 jeux d'origine
 
 | Catégorie | Éléments |
 | --- | --- |
@@ -18,9 +18,9 @@ Le deuxième cerveau de tes jeux Roblox, version Obsidian : chaque modèle, inte
 | [Brainrots](Brainrots/Brainrots.md) | 48 |
 | [Outils](Outils/Outils.md) | 37 |
 | [Biomes](Biomes/Biomes.md) | 320 |
-| [Interfaces](Interfaces/Interfaces.md) | 312 |
+| [Interfaces](Interfaces/Interfaces.md) | 313 |
 | [Bibliothèque 3D](Biblioth%C3%A8que%203D/Biblioth%C3%A8que%203D.md) | 207 |
-| [Pets & meshes](Pets%20%26%20meshes/Pets%20%26%20meshes.md) | 670 |
+| [Pets & meshes](Pets%20%26%20meshes/Pets%20%26%20meshes.md) | 1250 |
 | [Systèmes & kits](Syst%C3%A8mes%20%26%20kits/Syst%C3%A8mes%20%26%20kits.md) | 39 |
 | [Templates de jeux](Templates%20de%20jeux/Templates%20de%20jeux.md) | 52 |
 
@@ -31,4 +31,4 @@ Le deuxième cerveau de tes jeux Roblox, version Obsidian : chaque modèle, inte
 - **Recherche** (`Ctrl + Shift + F`) : par nom, ou par tag, ex. `tag:#jeu/bakery-simulator`, `tag:#type/lib-gui`.
 - **Propriétés** : catégorie, sous-catégorie, type, taille, jeu d'origine et fichier source en haut de chaque note.
 
-_Généré depuis `index.html` du Rake Vault le 21/10/2026._
+_Généré depuis `index.html` du Rake Vault le 21/10/2026, mis à jour le 22/10/2026 (+580 : 99 Eggs et pack Nature 480)._
