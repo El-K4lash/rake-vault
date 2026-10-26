@@ -201,3 +201,15 @@ Console : aucune erreur. DataStore actif (API access OK : données persistantes)
 - Bouton PREMIUM (Winter Pass) refait : plus de "✓" texte. Enfant `Owned` (icône coche + PREMIUM + ACTIVE), bouton doré quand acheté. Coche = vault `Assets/ui/Icons/Checkmark/Checkmark 2nd Outline 256px.png` (Free Icon Pack 2.0) → image groupe 119460915184899.
 - Paliers réclamés : icône `Claimed` (même coche) + texte CLAIMED au lieu de "✓".
 - État non acheté refait pareil : enfant `Locked` (ticket doré + PREMIUM + robux blanc 399), bouton vert. Robux blanc contouré = vault `Assets/ui/Icons/Robux/` → image groupe 125284136845502. Anciens `Text`/`PriceRow` cachés.
+
+## Session du 26/10 (soir)
+- Barre « Next storm » / MoneyBar (image 103553873357333) : 9-slice aussi (copie groupe 97830305955669).
+- Filtres Base (ALL / PLACED / STORED) : icônes même taille visuelle, centrées.
+- Store refait : cartes du kit (couleurs par pass : Hatch bleu, Money vert, Luck orange, VIP or, Triple rose, Winter Pass violet), icône dans une case, titre/texte alignés à gauche ; cartes Money vertes ; cartes Eggs à la couleur de chaque œuf ; icône Robux blanche partout.
+- Œufs 2D (style vault Free Icon Pack, recoloré + motif par zone) : `Assets/ui/Icons/Egg/ShovelForEggs/` (+ gen_eggs.py). Ids image : Snow 101801156195317, Pine 137241775257980, Frozen 103858761831995, Crystal 78930058580337, Glacier 99723055528491, Aurora 138871801294716, NorthPole 120972647115170, Golden 128385392356810. Les ViewportFrame 3D du Store sont supprimées.
+- Icône Pet Fusion (portail violet + patte dorée) : `Assets/ui/Icons/Fusion/Icone_PetFusion.png` → image 85687425256546 ; ancienne machine 3D gardée dans ServerStorage._OldGui.
+- Tempête dorée : luck x3 + 40 % d'avoir l'œuf de la zone du dessus ; œufs dorés seulement au Pôle Nord (StormService.EggFor).
+- Admin > Server : RESTART SERVER et RESTART ALL (soft restart : serveur réservé d'attente puis nouveau serveur public ; MessagingService pour tous les serveurs ; propriétaires seulement).
+- Coffre du groupe : favori validé même si Roblox renvoie « Failed » (seul « Non » refuse) + secours au bout de 12 s.
+- Boutons : le survol grossit depuis le centre et de 6 px max ; un mot seul ne se coupe plus pendant l'animation (UITextSizeConstraint temporaire).
+- Page du jeu : icône + 6 bannières (page détails) + 6 miniatures page d'accueil (API thumbnail-personalization, il faut interroger /uploads/status pour finaliser).
