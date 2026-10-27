@@ -213,3 +213,10 @@ Console : aucune erreur. DataStore actif (API access OK : données persistantes)
 - Coffre du groupe : favori validé même si Roblox renvoie « Failed » (seul « Non » refuse) + secours au bout de 12 s.
 - Boutons : le survol grossit depuis le centre et de 6 px max ; un mot seul ne se coupe plus pendant l'animation (UITextSizeConstraint temporaire).
 - Page du jeu : icône + 6 bannières (page détails) + 6 miniatures page d'accueil (API thumbnail-personalization, il faut interroger /uploads/status pour finaliser).
+
+## Session du 27/10 (patch mobile)
+- Fenêtre Upgrade : bouton UPGRADE remis à sa place (UI.Button ne change plus AnchorPoint ; Claim du coffre centré dans Studio).
+- Quêtes : badge DoneBadge (bouton vert + coche du vault + DONE) au lieu de « ✓ DONE » ; bonus « Daily bonus claimed! » + badge ; titres moins larges (0.52) pour ne plus toucher la récompense.
+- Mobile : cartes Upgrades du Shop à proportion fixe (UIAspectRatioConstraint 4) ; grilles Index / Base / Fusion / Fences / Admin : cellules à proportion fixe (CellRatio sous UIGridLayout) ; lignes du leaderboard (RowRatio 6.9) ; paliers du Pass à 0.88 ; bouton REBIRTH en majuscules.
+- HUD : boutons Codes et Ranks (Leaderboard) cachés ; section CODES (saisie + REDEEM) ajoutée en bas du Store Robux (ShopController.hookCodes).
+- Icônes des 19 dev products refaites (Free Icon Pack du vault + œufs 2D, fond kit à studs, Montserrat Black) : `Produits/` + make_icons.py ; envoyées sur Creator Hub (en modération). Cartes Money du Store : StoreCash_1..5 (sans fond).
