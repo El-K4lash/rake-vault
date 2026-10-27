@@ -221,3 +221,7 @@ Console : aucune erreur. DataStore actif (API access OK : données persistantes)
 - HUD : boutons Codes et Ranks (Leaderboard) cachés ; section CODES (saisie + REDEEM) ajoutée en bas du Store Robux (ShopController.hookCodes).
 - Icônes des 19 dev products refaites (Free Icon Pack du vault + œufs 2D, fond kit à studs, Montserrat Black) : `Produits/` + make_icons.py ; envoyées sur Creator Hub (en modération). Cartes Money du Store : StoreCash_1..5 (sans fond).
 - Section CODES du Store refaite comme les cartes de pass : carte violette du kit, clé dorée du vault (`Assets/ui/Icons/Codes/`, image 75852084553605), titre REDEEM A CODE, barre de saisie sombre, bouton REDEEM.
+- HUD gauche (Shop, Index, Base, Rebirth) en une colonne comme à droite (Left : taille 0.055 x 0.42, ancre 0,0.5, cellules 1 x 0.235) ; bouton Admin remonté au-dessus.
+- Mobile sans casser PC : cartes Shop / cellules des grilles / lignes leaderboard en hauteur 10000 px + UIAspectRatioConstraint (FitWithinMaxSize) → la taille suit la largeur sur PC comme sur tel.
+- Index refait : fond de carte du kit teinté par rareté (Bg 71327065275858 en 9-slice), rayons (123171646849062) derrière les pets découverts, cartes non découvertes sombres teintées, onglet actif blanc + contour « Sel », étiquette de rareté plus large (0.9 x 0.13) pour que MYTHIC/LEGENDARY ne se coupent plus.
+- Codes : le message de validation affiche les gains (ex. « Code redeemed! You got $25K + 3x Golden Egg », « x2 Luck 15 min »).
