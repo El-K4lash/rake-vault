@@ -220,3 +220,4 @@ Console : aucune erreur. DataStore actif (API access OK : données persistantes)
 - Mobile : cartes Upgrades du Shop à proportion fixe (UIAspectRatioConstraint 4) ; grilles Index / Base / Fusion / Fences / Admin : cellules à proportion fixe (CellRatio sous UIGridLayout) ; lignes du leaderboard (RowRatio 6.9) ; paliers du Pass à 0.88 ; bouton REBIRTH en majuscules.
 - HUD : boutons Codes et Ranks (Leaderboard) cachés ; section CODES (saisie + REDEEM) ajoutée en bas du Store Robux (ShopController.hookCodes).
 - Icônes des 19 dev products refaites (Free Icon Pack du vault + œufs 2D, fond kit à studs, Montserrat Black) : `Produits/` + make_icons.py ; envoyées sur Creator Hub (en modération). Cartes Money du Store : StoreCash_1..5 (sans fond).
+- Section CODES du Store refaite comme les cartes de pass : carte violette du kit, clé dorée du vault (`Assets/ui/Icons/Codes/`, image 75852084553605), titre REDEEM A CODE, barre de saisie sombre, bouton REDEEM.
