@@ -1,16 +1,17 @@
 ---
 title: "Interfaces"
 type: "Catégorie"
-éléments: 352
+éléments: 385
 tags: [index]
 ---
 
 # Interfaces
 
-**352 éléments** répartis dans 27 sous-catégories
+**385 éléments** répartis dans 28 sous-catégories
 
 | Aperçu | Sous-catégorie | Éléments |
 | --- | --- | --- |
+| ![Aperçu\|120](../_img/SFE_UI_M_Shop.webp) | [Shovel for Eggs](Shovel%20for%20Eggs%20%28Interfaces%29/Shovel%20for%20Eggs%20%28Interfaces%29.md) | 33 |
 | ![Aperçu\|120](../_img/Lg0398.webp) | [UI Mega Pack](UI%20Mega%20Pack/UI%20Mega%20Pack.md) | 48 |
 | ![Aperçu\|120](../_img/Lg0421.webp) | [Steal an Spooky Egg](Steal%20an%20Spooky%20Egg%20%28Interfaces%29/Steal%20an%20Spooky%20Egg%20%28Interfaces%29.md) | 34 |
 | ![Aperçu\|120](../_img/Lg0047.webp) | [HUD & monnaie](HUD%20&%20monnaie/HUD%20&%20monnaie.md) | 27 |

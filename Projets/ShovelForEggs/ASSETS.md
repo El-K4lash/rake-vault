@@ -60,3 +60,13 @@ Icônes reprises du vault : pack SimulatorIcons (Assets/ui/Icons), Training Sim 
 | Décor du Pôle Nord | …/ShovelForEggs_NorthPole_Decor.rbxm | …/Décor du Pôle Nord (Shovel for Eggs).md |
 | Interfaces d'hiver | …/ShovelForEggs_GUI_WinterFeatures.rbxm | …/Interfaces d'hiver (Shovel for Eggs).md |
 | Brainrots Festive (retirés du jeu ensuite) | …/ShovelForEggs_Pets_Festive.rbxm | …/Brainrots Festive (Shovel for Eggs).md |
+
+## Ajoutés au vault (29/10) — dernière version du jeu (GUI corrigées + nouvelles)
+| Élément | Fichier | Note |
+|---|---|---|
+| Toutes les GUI (11 ScreenGui/SurfaceGui + templates + pack complet) | Assets/ui/ShovelForEggs/*.rbxm | Notes/Interfaces/Shovel for Eggs (Interfaces)/ |
+| 21 menus isolés (Shop, Store, Index, Base, Rebirth, Fusion, Advent, Quests, Pass, Starter, Offline, EggSkip, GiftSkip, Upgrade, GroupChest, Codes, Leaderboard, Popup, Banner, Notifications, HUD) | Assets/ui/ShovelForEggs/Menus/*.rbxm | idem |
+| Œufs, pelles, modèles de pelles, luges, objets, pets, sons, musiques (v3) | Assets/models/ShovelForEggs/v29oct/ | Notes/Bibliothèque 3D/Hiver - Shovel for Eggs (Bibliothèque 3D)/*v3* |
+| Map découpée (Hub, Zones, Mountains, Island, Extras, Terraces, Horizon, Plots, Walls) + Lighting | Assets/maps/ShovelForEggs/ | …/Map * (Shovel for Eggs).md |
+| Tous les scripts (73, ~13 100 lignes) | Assets/systems/ShovelForEggs/ShovelForEggs_Scripts.rbxm + Projets/ShovelForEggs/src/ | Notes/Systèmes & kits/Systèmes de jeux/Scripts Shovel for Eggs.md |
+| Place complète | Projets/ShovelForEggs/ShovelForEggs_29oct.rbxl | — |
